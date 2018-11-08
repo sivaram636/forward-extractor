@@ -1,0 +1,22 @@
+568c843b16f9c792cd92a89fce9aa858547dec43 282
+6024088e062a4260f1d9004aedfeba5bf7ad1865 c PROD-1748-unforward-fix
+e61d353b90f05f4a24904fbac2e9352e97cd73bc c PROD-1902-bugs
+a2379d32cf719845dd3668a3ed088ed0942e549e c PROD-1902-email-bugs
+5119b126d9aa2a5c2e10bea32b97f0d525d22170 c PROD-1902-unforward-bugs
+30106dbfc04e80288852cf82898ce325738f35b3 c PROD-2769-unforward-iphone-freemail-com
+06757f7c2c9c5126e8581cdca4cb45060ef1658c c PROD-2842-deal-with-outlook16
+fb7ead135b6a466589e6ee391e88c2468d32a2db c PROD-3100-Store-sender-name-expose-on-email-list
+23b0f1716958a0fd20cd58c7f0b4d855217bc06d c PROD-3145-fix-html-senderName-extraction
+a3a0eac221a71c2b4fb8cdce695f979d9f4fdfcb c PROD-3160-fix-invalid-sender-email
+ba3fc3c8d534200b427c4dbeb0e4af37eb513eea c PROD-3222-handle-outlook-ios-emails
+80178224436ec4e865c6af3f259a88857f21e400 c PROD-3255-fix-unforward-issues-related-to-dates
+cfc3a2440a7d0ccf318acc7d2738724e06c07416 c PROD-3280-Unforward-updates
+bf3b37c73a75b25ae1479359cbea718b1fb55cb7 c PROD-3284-Fix-date-regex
+06712c292640188146511a17e69c384667ffbde9 c PROD-3330-prevent-unforward-assign-wrong-email
+4397f4678f463cc3d624419a6c0bbbea1a91bfda c PROD-3348-added-one-more-date-format
+1e4ceb7e2ab0ca5a0ea346ad47898100d1bc5164 c PROD-3502-fixed-the-body-for-yahoo-android
+19d8d05572f26435dfd8fe63fa477df7cb743742 c PROD-3805-icloud-email-unforwarding
+568c843b16f9c792cd92a89fce9aa858547dec43 c PROD-4072-Handle-Multiple-Matches
+cb24d7675d98f811b3d22ba97f2d11bc3532c76d c PROD-4072-iPhone-Unforward-Bug
+0424d658457990d5d242529e39b06c5392bb5377 o default
+6a0a44c7a6dfb5164e1d6882d7982b0494143400 c fix-broken-project-url

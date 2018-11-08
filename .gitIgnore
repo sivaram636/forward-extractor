@@ -1,0 +1,7 @@
+pyc$
+~$
+npm-debug.log
+node_modules/*
+.idea/*
+data/local_examples/*
+.DS_Store
