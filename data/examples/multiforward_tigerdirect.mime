@@ -1,0 +1,639 @@
+Authentication-Results: apiserver;
+Received: from mail-lb0-f174.google.com ([10.183.253.48])
+	by apiserver (Haraka/2.5.0) with ESMTP id 2E38D1C1-B72C-42DD-B575-7CBCA5AC3417.1
+	envelope-from <jamie@moonrider.com>;
+	Thu, 10 Jul 2014 22:47:10 +0000
+Received: by mail-lb0-f174.google.com with SMTP id u10so217179lbd.33
+        for <jpa@billpass.ca>; Thu, 10 Jul 2014 15:47:23 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:from:to:content-type;
+        bh=lEdqCaK0gWyftbO6x+XC80BySTAXsj5GK5zXtsPyIlo=;
+        b=FQnC7j7PdVAmMqGbC8sNtqxN4kjjnd9AynoprovTwdplAFRvAxLJLgw+NuLIzC0dve
+         aVexqt6aLTC2cuI14Y0x3xq2WN+Wc01iI4aM5d6u5I1uW43Kl3ueosrZ3KkQIWHpsvmH
+         F6CE2wH9bTuVZTHpMssEjII2H3E3mAhCwO8UaPYlkAqJszqtPGeTrWioHd9DK0uPobbm
+         q9mPL8bMoyN0OiUFzrpTuI7Y+3hBrgfwvVn2nx3HU8ZdvNRGECW5HUTDvg9AyS5W62jf
+         kWbt6SXu1vfS5J4I4HbHmLNHVsxJfzGuoAS2wCIpNqYu0rHRYZMMDjJ64v/oCxc5/ajU
+         yoRQ==
+X-Gm-Message-State: ALoCoQm57oKw4MNRozXBhfcFGV7jbWkQ94zGvJZbCMtOXWl/PGsE4/cBXMJ7hvAG6AvfWfjCDTnN
+MIME-Version: 1.0
+X-Received: by 10.112.209.73 with SMTP id mk9mr506178lbc.64.1405032443369;
+ Thu, 10 Jul 2014 15:47:23 -0700 (PDT)
+Received: by 10.114.201.101 with HTTP; Thu, 10 Jul 2014 15:47:23 -0700 (PDT)
+In-Reply-To: <MIAWEBSRLY1mJWEsBk3002bb206@MIAWEBSRLY1.WEBSERVERS.com>
+References: <MIAWEBSRLY1mJWEsBk3002bb206@MIAWEBSRLY1.WEBSERVERS.com>
+Date: Thu, 10 Jul 2014 18:47:23 -0400
+Message-ID: <CADO8s6JMdEh-70u+V=S6O4suMkYFKdneGooXi180r3bGMuMPSw@mail.gmail.com>
+Subject: Fwd: Your TigerDirect.ca Order Confirmation
+From: Jamie Alexander <jamie@moonrider.com>
+To: jpa@billpass.ca
+Content-Type: multipart/alternative; boundary=001a11c33536af758e04fdde9b73
+
+--001a11c33536af758e04fdde9b73
+Content-Type: text/plain; charset=UTF-8
+
+Jamie Alexander
+Founder & CTO | Moonrider <http://www.moonrider.com/>
+M: 416-201-2407
+
+
+
+
+---------- Forwarded message ----------
+From: TigerDirect.ca Order Confirmation <noreply@tigerdirect.ca>
+Date: Fri, Jan 20, 2012 at 12:32 PM
+Subject: Your TigerDirect.ca Order Confirmation
+To: Jamie Alexander <jamie.alexander@rogers.com>
+
+
+
+<http://www.tigerdirect.ca/indexca.asp?CMP=EMC-TIGEREMAIL&SRCCODE=CANLET>
+
+<https://www.tigerdirect.ca/secure/orderlogin.asp?PG=1&CMP=EMC-TIGEREMAIL&SRCCODE=CANLET>
+<http://www.tigerdirect.ca/sectors/Rebates/index.asp?CMP=EMC-TIGEREMAIL&SRCCODE=CANLET>
+<http://www.tigerdirect.ca/applications/openbox/openbox_tlc.asp?afsrc=1&CMP=ILC-OVSTA&CMP=EMC-TIGEREMAIL&SRCCODE=CANLET>
+<http://www.tigerdirect.ca/applications/overstock/overstock_tlc.asp?CMP=EMC-TIGEREMAIL&SRCCODE=CANLET>
+<http://www.tigerdirect.ca/sectors/help/index.asp?CMP=EMC-TIGEREMAIL&SRCCODE=CANLET>
+<http://www.tigerdirect.ca/indexus.asp?CMP=EMC-TIGEREMAIL&SRCCODE=CANLET>
+      *Order
+Placed: *01/20/2012
+*Order #: *D1212099
+*Order Total: *$165.44
+Order Confirmation
+
+Dear Jamie Alexander,
+
+
+If you are reading this email, your order has been successfully received
+and we imagine that you're very happy. Not only does this email contain
+your order information, it also contains some of the hottest product
+recommendations. You're sure to find a must-have item you're going to love.
+
+Every order is thoroughly reviewed by our processing department to ensure
+that the order is accurate, the payment method is valid, and the user is
+authorized to use this payment method. Once the order has passed the
+rigorous review by our processing department, it is sent to our warehouse
+for shipment. Most orders are processed within minutes however depending on
+when an order is placed and the accuracy of the information supplied when
+the order is placed, processing can take longer. Further, for security
+reasons, in some circumstances voice confirmation may be required before we
+can process your order.
+
+<https://www.tigerdirect.ca/cgisec/orderTrack.asp?cm_mmc=Email-_-WebletMain-_-CANLET-_-03order&SRCCODE=CANLET>
+
+If you're keen to see what stage your order is at, you can track your
+package right to your doorstep by clicking the Track Your Order button on
+the right or by clicking https://www.tigerdirect.ca/cgisec/orderTrack.asp
+<https://www.tigerdirect.ca/cgisec/orderTrack.asp?cm_mmc=Email-_-WebletMain-_-CANLET-_-03order&SRCCODE=CANLET>
+
+Keep checking your inbox because shortly, you'll receive an email upon the
+shipment of your item(s) from us. *(Note: Certain special order items,
+priority mail, and international shipments will not include a tracking
+number.*
+
+Regards,
+
+ TigerDirect.ca
+   *Shipment Information* *Billing Information*    Jamie Alexander
+
+175 Robina Ave
+
+Toronto, ON M6C3Y8
+4166510394
+ Jamie Alexander
+
+175 Robina Ave
+
+Toronto, ON M6C3Y8
+4166510394
+4166510394     *Items Ordered *     *Seagate ST95005620AS Momentus XT 500GB
+Solid State Hybrid Drive - 500GB, 7200 RPM, SATA 3Gb/s *
+<http://www.tigerdirect.ca/applications/searchtools/item-details.asp?EdpNo=6280178&cm_mmc=Email-_-WebletMain-_-CANLET-_-03order&SRCCODE=CANLET>
+(TMD-500AS4)
+MPN: ST95005620AS 1 $139.99 $139.99
+     *PC PERIPHERAL-HARD DRIVES DISPOSAL SURCHARGE*
+<http://www.tigerdirect.ca/applications/searchtools/item-details.asp?EdpNo=1505770&cm_mmc=Email-_-WebletMain-_-CANLET-_-03order&SRCCODE=CANLET>
+(CA ONT 017 CA)
+MPN: 1 $0.05 $0.05
+      ------------------------------
+
+Total for all Items:
+ $140.04  Shipping & Handling: $6.37  Sales Tax: $19.03     *Grand Total:*
+*$165.44*
+
+ *Payment Method:*[image: PP]
+*Shipping Method: *UPS WorldShip CA
+   [image: Click Here]
+<https://ad.doubleclick.net/jump/N3446.Tiger_Direct/B2857668;sz=300x130;ord=%5Btimestamp%5D?>
+     *Search over 100,000 Products in Stock...
+<http://www.tigerdirect.ca/indexus.asp?cm_mmc=Email-_-WebletMain-_-CANLET-_-03order&SRCCODE=CANLET>*
+  *Refer-A-Friend
+<http://www.tigerdirect.ca/email/retro/refer.asp?cm_mmc=Email-_-WebletMain-_-CANLET-_-03order&SRCCODE=CANLET>*
+*Deal Alerts via
+<http://www.tigerdirect.ca/rss/index.asp?cm_mmc=Email-_-WebletMain-_-CANLET-_-03order&SRCCODE=CANLET>*
+ [image: Sign up for RSS]
+<http://www.tigerdirect.ca/rss/index.asp?cm_mmc=Email-_-WebletMain-_-CANLET-_-03order&SRCCODE=CANLET>
+
+TigerDirect.ca is not responsible for typographical errors or omissions.
+This email was sent to jamie.alexander@rogers.com in response to Order #
+D1212099.
+
+
+Note that TigerDirect.ca never sells, rents, or shares your email address.
+For more information, please review the TigerDirect.ca Privacy Policy at:
+http://www.TigerDirect.ca/sectors/aboutus/privacy.asp
+<http://www.TigerDirect.ca/sectors/aboutus/privacy.asp?CMP=EMC-TIGEREMAIL&SRCCODE=CANLET>
+
+TigerDirect.ca is headquartered at:
+55 East Beaver Creek Rd. Unit G, Richmond Hill, ON Canada, L4B 1E5
+LEGAL NOTICES
+<http://www.TigerDirect.ca/sectors/aboutus/legal.asp?CMP=EMC-TIGEREMAIL&SRCCODE=CANLET>|
+PRIVACY POLICY
+<http://www.TigerDirect.ca/sectors/aboutus/privacy.asp?CMP=EMC-TIGEREMAIL&SRCCODE=CANLET>
+
+--001a11c33536af758e04fdde9b73
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><br clear=3D"all"><div><div style=3D"float:left;text-align=
+:center">
+	<p style=3D"text-align:left"><br>
+		</p><p style=3D"text-align:left"><span style=3D"font-family:arial,sans-se=
+rif;font-size:small"><br></span></p><p style=3D"text-align:left"><span styl=
+e=3D"font-family:arial,sans-serif;font-size:small"><br></span></p><p style=
+=3D"text-align:left">
+<span style=3D"font-family:arial,sans-serif;font-size:small"><br></span></p=
+><p style=3D"text-align:left"><span style=3D"font-family:arial,sans-serif;f=
+ont-size:small"><br></span></p></div><font face=3D"tahoma, sans-serif" styl=
+e=3D"font-size:13px"><span style=3D"font-family:arial"><span style=3D"font-=
+family:arial,sans-serif;border-collapse:collapse">Jamie Alexander<br>
+Founder &amp; CTO |=C2=A0<a href=3D"http://www.moonrider.com/" target=3D"_b=
+lank">Moonrider</a></span></span></font><br><span style=3D"font-family:aria=
+l,sans-serif">M: 416-201-2407</span><div><span style=3D"font-family:arial,s=
+ans-serif"><br>
+</span></div><div><span style=3D"font-family:arial,sans-serif"><br></span><=
+/div></div>
+<br><br><div class=3D"gmail_quote">---------- Forwarded message ----------<=
+br>From: <b class=3D"gmail_sendername">TigerDirect.ca Order Confirmation</b=
+> <span dir=3D"ltr">&lt;<a href=3D"mailto:noreply@tigerdirect.ca">noreply@t=
+igerdirect.ca</a>&gt;</span><br>
+Date: Fri, Jan 20, 2012 at 12:32 PM<br>Subject: Your TigerDirect.ca Order C=
+onfirmation<br>To: Jamie Alexander &lt;<a href=3D"mailto:jamie.alexander@ro=
+gers.com">jamie.alexander@rogers.com</a>&gt;<br><br><br>
+
+<div marginwidth=3D"0" marginheight=3D"0" bgcolor=3D"#FFFFFF">
+<div align=3D"center">=20
+  <table width=3D"720" cellpadding=3D"8" cellspacing=3D"0" style=3D"border:=
+1px solid #cccccc">
+    <tbody><tr>=20
+      <td align=3D"center" valign=3D"top" bgcolor=3D"#FFFFFF"> <table width=
+=3D"600" cellpadding=3D"0" cellspacing=3D"0">
+          <tbody><tr>=20
+            <td align=3D"left" valign=3D"middle" style=3D"background-color:=
+#ffffff;border-top:0px solid #333333;border-bottom:10px solid #ffffff"><cen=
+ter>
+                <table width=3D"100%" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0">
+                <tbody><tr>=20
+                  <td><a href=3D"http://www.tigerdirect.ca/indexca.asp?CMP=
+=3DEMC-TIGEREMAIL&amp;SRCCODE=3DCANLET" target=3D"_blank"><img src=3D"http:=
+//images.tigerdirect.com/email/crate/canada_header_01.jpg" width=3D"650" he=
+ight=3D"54" border=3D"0"></a><br>
+
+                    <a href=3D"https://www.tigerdirect.ca/secure/orderlogin=
+..asp?PG=3D1&amp;CMP=3DEMC-TIGEREMAIL&amp;SRCCODE=3DCANLET" target=3D"_blank=
+"><img src=3D"http://images.tigerdirect.com/email/crate/canada_header_02.jp=
+g" width=3D"87" height=3D"30" border=3D"0"></a><a href=3D"http://www.tigerd=
+irect.ca/sectors/Rebates/index.asp?CMP=3DEMC-TIGEREMAIL&amp;SRCCODE=3DCANLE=
+T" target=3D"_blank"><img src=3D"http://images.tigerdirect.com/email/crate/=
+canada_header_03.jpg" width=3D"102" height=3D"30" border=3D"0"></a><a href=
+=3D"http://www.tigerdirect.ca/applications/openbox/openbox_tlc.asp?afsrc=3D=
+1&amp;CMP=3DILC-OVSTA&amp;CMP=3DEMC-TIGEREMAIL&amp;SRCCODE=3DCANLET" target=
+=3D"_blank"><img src=3D"http://images.tigerdirect.com/email/crate/canada_he=
+ader_04.jpg" width=3D"77" height=3D"30" border=3D"0"></a><a href=3D"http://=
+www.tigerdirect.ca/applications/overstock/overstock_tlc.asp?CMP=3DEMC-TIGER=
+EMAIL&amp;SRCCODE=3DCANLET" target=3D"_blank"><img src=3D"http://images.tig=
+erdirect.com/email/crate/canada_header_05.jpg" width=3D"75" height=3D"30" b=
+order=3D"0"></a><a href=3D"http://www.tigerdirect.ca/sectors/help/index.asp=
+?CMP=3DEMC-TIGEREMAIL&amp;SRCCODE=3DCANLET" target=3D"_blank"><img src=3D"h=
+ttp://images.tigerdirect.com/email/crate/canada_header_06.jpg" width=3D"46"=
+ height=3D"30" border=3D"0"></a><a href=3D"http://www.tigerdirect.ca/indexu=
+s.asp?CMP=3DEMC-TIGEREMAIL&amp;SRCCODE=3DCANLET" target=3D"_blank"><img src=
+=3D"http://images.tigerdirect.com/email/crate/canada_header_07.jpg" width=
+=3D"263" height=3D"30" border=3D"0"></a></td>
+
+                </tr>
+              </tbody></table> <font face=3D"Verdana, Arial, Helvetica, san=
+s-serif">=20
+                </font>
+</center></td>
+          </tr>
+        </tbody></table>
+        <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" bgcolor=
+=3D"#FFFFFF">
+          <tbody><tr>=20
+            <td width=3D"650" valign=3D"top" bgcolor=3D"#CCCCCC" style=3D"b=
+ackground-color:#ffffff;text-align:left">=20
+              <table width=3D"271" style=3D"border:1 solid #cccccc" cellspa=
+cing=3D"0" cellpadding=3D"9" height=3D"87" align=3D"right">
+                <tbody><tr>=20
+                  <td width=3D"241" height=3D"86"><font face=3D"Verdana, Ar=
+ial, Helvetica, sans-serif"><b>Order=20
+                    Placed: </b>01/20/2012</font><font face=3D"Verdana, Ari=
+al, Helvetica, sans-serif"><br>
+                    <font><b>Order #: </b>D1212099</font><br>
+                  <font><b>Order Total: </b></font></font><font face=3D"Ver=
+dana, Arial, Helvetica, sans-serif">$165.44</font></td>
+                </tr>
+              </tbody></table>
+              <div align=3D"left"><font face=3D"Verdana, Arial, Helvetica, =
+sans-serif"><span style=3D"font-size:12px;font-weight:normal;color:#999999;=
+font-family:arial"><span style=3D"font-size:25px;font-weight:bold;color:#00=
+0000;font-family:arial">Order=20
+                Confirmation<br>
+                </span><br>
+                <font color=3D"#000000">Dear Jamie Alexander,<br>
+                <br>
+                <br>
+                </font></span></font><span style=3D"font-size:12px;font-wei=
+ght:normal;color:#999999;font-family:arial"><font color=3D"#000000"><span>I=
+f you are reading this email, your order has been successfully=20
+                    received and we imagine that you&#39;re very happy. Not=
+ only does=20
+                    this email contain your order information, it also cont=
+ains some=20
+                    of the hottest product recommendations. You&#39;re sure=
+ to find a=20
+                    must-have item you&#39;re going to love.</span></font><=
+/span><span><br>
+                    <br>
+                    Every order is thoroughly reviewed by our processing de=
+partment to ensure that   the order is accurate, the payment method is vali=
+d, and the user is authorized   to use this payment method. Once the order =
+has passed the rigorous review by our   processing department, it is sent t=
+o our warehouse for shipment. Most orders are   processed within minutes ho=
+wever depending on when an order is placed and the   accuracy of the inform=
+ation supplied when the order is placed, processing can   take longer. Furt=
+her, for security reasons, in some circumstances voice   confirmation may b=
+e required before we can process your order. </span>
+              </div>
+              <div align=3D"left">
+                <table width=3D"150" style=3D"border:1 solid #cccccc" cells=
+pacing=3D"0" cellpadding=3D"9" height=3D"20" align=3D"right">
+                  <tbody><tr>=20
+                    <td width=3D"210" height=3D"80"> <div align=3D"center">=
+<a href=3D"https://www.tigerdirect.ca/cgisec/orderTrack.asp?cm_mmc=3DEmail-=
+_-WebletMain-_-CANLET-_-03order&amp;SRCCODE=3DCANLET" target=3D"_blank"><im=
+g src=3D"http://images.highspeedbackbone.net/eMail/deals/order_status.jpg" =
+width=3D"241" height=3D"50" border=3D"0"></a>=20
+                      </div></td>
+                  </tr>
+                </tbody></table>
+              </div>
+              <p align=3D"left"><span><span style=3D"font-weight:normal;col=
+or:#999999"><font color=3D"#000000">=20
+                If you&#39;re keen to see what stage your order is at, you =
+can track=20
+                your package right to your doorstep by clicking the Track Y=
+our=20
+                Order button on the right or by clicking <a href=3D"https:/=
+/www.tigerdirect.ca/cgisec/orderTrack.asp?cm_mmc=3DEmail-_-WebletMain-_-CAN=
+LET-_-03order&amp;SRCCODE=3DCANLET" target=3D"_blank">https://www.tigerdire=
+ct.ca/cgisec/orderTrack.asp</a><br>
+
+                <br>
+                Keep checking your inbox because shortly, you&#39;ll receiv=
+e an email=20
+                upon the shipment of your item(s) from us. <i>(Note: Certai=
+n special=20
+                order items, priority mail, and international shipments wil=
+l not=20
+                include a tracking number.</i><br>
+                <br>
+                Regards,<br>
+                </font><br>
+                <font color=3D"#000000"> TigerDirect.ca</font></span></span=
+></p>
+              <table width=3D"100%" height=3D"15" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0">
+                <tbody><tr>=20
+                  <td> <table width=3D"100%" border=3D"0" bgcolor=3D"#1C406=
+4">
+                      <tbody><tr>=20
+                        <td width=3D"50%"><font color=3D"#FFFFFF" size=3D"3=
+" face=3D"Verdana, Arial, Helvetica, sans-serif"><b>Shipment=20
+                        Information</b></font></td>
+                        <td width=3D"50%"><font color=3D"#FFFFFF" size=3D"3=
+" face=3D"Verdana, Arial, Helvetica, sans-serif"><b>Billing=20
+                          Information</b></font></td>
+                      </tr>
+                    </tbody></table></td>
+                </tr>
+                <tr>=20
+                  <td bgcolor=3D"#DCE6FB"> <table width=3D"100%" border=3D"=
+0" cellpadding=3D"4" cellspacing=3D"4">
+                      <tbody><tr>=20
+                        <td width=3D"50%" bgcolor=3D"#F1F5FD"><font face=3D=
+"Verdana, Arial, Helvetica, sans-serif">Jamie=20
+                          Alexander<br>
+                          <br>
+                          175 Robina Ave<br>
+                          <br>
+                          Toronto, ON M6C3Y8 <br>
+                          <a href=3D"tel:4166510394" value=3D"+14166510394"=
+ target=3D"_blank">4166510394</a> <br>
+                          </font></td>
+                        <td width=3D"50%" bgcolor=3D"#F1F5FD"><font face=3D=
+"Verdana, Arial, Helvetica, sans-serif">Jamie=20
+                            Alexander<br>
+                          <br>
+                          175 Robina Ave<br>
+                          <br>
+                          Toronto, ON M6C3Y8 <br>
+                          <a href=3D"tel:4166510394" value=3D"+14166510394"=
+ target=3D"_blank">4166510394</a> <br>
+                          <a href=3D"tel:4166510394" value=3D"+14166510394"=
+ target=3D"_blank">4166510394</a> </font> </td>
+                      </tr>
+                    </tbody></table>
+                    <table width=3D"100%" border=3D"0" cellpadding=3D"4" ce=
+llspacing=3D"4">
+                      <tbody><tr>=20
+                        <td width=3D"68%" bgcolor=3D"#F1F5FD"> <table width=
+=3D"100%" border=3D"0">
+                            <tbody><tr>=20
+                              <td bgcolor=3D"#1C4064"><font color=3D"#FFFFF=
+F" size=3D"3" face=3D"Verdana, Arial, Helvetica, sans-serif"><b>Items=20
+                              Ordered </b></font></td>
+                            </tr>
+                            <tr>=20
+                              <td> <table width=3D"100%" bgcolor=3D"#F1F5FD=
+">
+                                  <colgroup><col width=3D"64" span=3D"3" st=
+yle=3D"width:48pt">
+                                  </colgroup><tbody><tr><td height=3D"21" w=
+idth=3D"239"><font face=3D"Verdana, Arial, Helvetica, sans-serif">=20
+                                    </font>=20
+                                  </td></tr><tr height=3D"17" style=3D"heig=
+ht:12.75pt" bgcolor=3D"#FFFFFF">=20
+                                    <td height=3D"18" style=3D"border:1 sol=
+id #cccccc" width=3D"239"><font face=3D"Verdana, Arial, Helvetica, sans-ser=
+if" color=3D"#333333"><font color=3D"#000099"><a href=3D"http://www.tigerdi=
+rect.ca/applications/searchtools/item-details.asp?EdpNo=3D6280178&amp;cm_mm=
+c=3DEmail-_-WebletMain-_-CANLET-_-03order&amp;SRCCODE=3DCANLET" target=3D"_=
+blank"><strong>Seagate ST95005620AS Momentus XT 500GB Solid State Hybrid Dr=
+ive - 500GB, 7200 RPM, SATA 3Gb/s </strong></a></font>=20
+                                      (TMD-500AS4)<br>
+                                      MPN: ST95005620AS</font></td>
+                                    <td height=3D"18" style=3D"border:1 sol=
+id #cccccc" align=3D"CENTER" width=3D"80"><font face=3D"Verdana, Arial, Hel=
+vetica, sans-serif" color=3D"#333333">1</font></td>
+                                    <td width=3D"88" align=3D"right" height=
+=3D"18" style=3D"border:1 solid #cccccc"><font face=3D"Verdana, Arial, Helv=
+etica, sans-serif" color=3D"#333333">$139.99</font></td>
+                                    <td width=3D"103" align=3D"right" heigh=
+t=3D"18" style=3D"border:1 solid #cccccc"><font face=3D"Verdana, Arial, Hel=
+vetica, sans-serif" color=3D"#333333">$139.99</font></td>
+                                  </tr>
+                                  <tr height=3D"17" style=3D"height:12.75pt=
+" bgcolor=3D"#FFFFFF">
+                                    <td height=3D"18" style=3D"border:1 sol=
+id #cccccc"><div align=3D"left"><span></span></div></td>
+                                    <td height=3D"18" colspan=3D"3" align=
+=3D"CENTER" style=3D"border:1 solid #cccccc"><div align=3D"left"><span></sp=
+an></div></td>
+                                  </tr>
+                                  <tr height=3D"17" style=3D"height:12.75pt=
+" bgcolor=3D"#FFFFFF">
+                                    <td height=3D"18" style=3D"border:1 sol=
+id #cccccc"><div align=3D"left"></div></td>
+                                    <td height=3D"18" colspan=3D"3" align=
+=3D"CENTER" style=3D"border:1 solid #cccccc"><div align=3D"left"><span></sp=
+an></div></td>
+                                  </tr>
+                                  <tr><td height=3D"21" width=3D"239"><font=
+ face=3D"Verdana, Arial, Helvetica, sans-serif">=20
+                                    </font>=20
+                                  </td></tr><tr height=3D"17" style=3D"heig=
+ht:12.75pt" bgcolor=3D"#FFFFFF">=20
+                                    <td height=3D"18" style=3D"border:1 sol=
+id #cccccc" width=3D"239"><font face=3D"Verdana, Arial, Helvetica, sans-ser=
+if" color=3D"#333333"><font color=3D"#000099"><a href=3D"http://www.tigerdi=
+rect.ca/applications/searchtools/item-details.asp?EdpNo=3D1505770&amp;cm_mm=
+c=3DEmail-_-WebletMain-_-CANLET-_-03order&amp;SRCCODE=3DCANLET" target=3D"_=
+blank"><strong>PC PERIPHERAL-HARD DRIVES DISPOSAL SURCHARGE</strong></a></f=
+ont>=20
+                                      (CA ONT 017 CA)<br>
+                                      MPN: </font></td>
+                                    <td height=3D"18" style=3D"border:1 sol=
+id #cccccc" align=3D"CENTER" width=3D"80"><font face=3D"Verdana, Arial, Hel=
+vetica, sans-serif" color=3D"#333333">1</font></td>
+                                    <td width=3D"88" align=3D"right" height=
+=3D"18" style=3D"border:1 solid #cccccc"><font face=3D"Verdana, Arial, Helv=
+etica, sans-serif" color=3D"#333333">$0.05</font></td>
+                                    <td width=3D"103" align=3D"right" heigh=
+t=3D"18" style=3D"border:1 solid #cccccc"><font face=3D"Verdana, Arial, Hel=
+vetica, sans-serif" color=3D"#333333">$0.05</font></td>
+                                  </tr>
+                                  <tr height=3D"17" style=3D"height:12.75pt=
+" bgcolor=3D"#FFFFFF">
+                                    <td height=3D"18" style=3D"border:1 sol=
+id #cccccc"><div align=3D"left"><span></span></div></td>
+                                    <td height=3D"18" colspan=3D"3" align=
+=3D"CENTER" style=3D"border:1 solid #cccccc"><div align=3D"left"><span></sp=
+an></div></td>
+                                  </tr>
+                                  <tr height=3D"17" style=3D"height:12.75pt=
+" bgcolor=3D"#FFFFFF">
+                                    <td height=3D"18" style=3D"border:1 sol=
+id #cccccc"><div align=3D"left"></div></td>
+                                    <td height=3D"18" colspan=3D"3" align=
+=3D"CENTER" style=3D"border:1 solid #cccccc"><div align=3D"left"><span></sp=
+an></div></td>
+                                  </tr>
+                                  <tr><td height=3D"21" width=3D"239"><font=
+ face=3D"Verdana, Arial, Helvetica, sans-serif">=20
+                                    </font> </td></tr></tbody></table></td>
+                            </tr>
+                            <tr>=20
+                              <td> <hr noshade> </td>
+                            </tr>
+                            <tr>=20
+                              <td> <table width=3D"100%" border=3D"0" cells=
+pacing=3D"0" cellpadding=3D"3" bgcolor=3D"#FFFFFF">
+                                  <tbody><tr>=20
+                                    <td height=3D"18" align=3D"RIGHT"> <p a=
+lign=3D"right"><font face=3D"Verdana, Arial, Helvetica, sans-serif">Total=
+=20
+                                        for all Items:</font> </p></td>
+                                    <td width=3D"5"></td>
+                                    <td width=3D"175" align=3D"RIGHT"><font=
+ face=3D"Verdana, Arial, Helvetica, sans-serif">$140.04</font></td>
+                                  </tr>
+                                  <tr>=20
+                                    <td align=3D"RIGHT"><font face=3D"Verda=
+na, Arial, Helvetica, sans-serif">Shipping=20
+                                      &amp; Handling:</font></td>
+                                    <td width=3D"5"></td>
+                                    <td width=3D"175" align=3D"RIGHT"><font=
+ face=3D"Verdana, Arial, Helvetica, sans-serif">$6.37</font></td>
+                                  </tr>
+                                  <tr>=20
+                                    <td align=3D"RIGHT"><font face=3D"Verda=
+na, Arial, Helvetica, sans-serif">Sales=20
+                                      Tax:</font></td>
+                                    <td width=3D"5"></td>
+                                    <td width=3D"175" align=3D"RIGHT"><font=
+ face=3D"Verdana, Arial, Helvetica, sans-serif">$19.03</font></td>
+                                  </tr>
+                                  <tr>=20
+                                    <td align=3D"RIGHT"><span></span></td>
+                                    <td width=3D"5"><font face=3D"Verdana, =
+Arial, Helvetica, sans-serif">       =20
+                                      </font></td>
+                                    <td width=3D"175" align=3D"RIGHT"><font=
+ face=3D"Verdana, Arial, Helvetica, sans-serif"></font></td>
+                                  </tr>
+                                  <tr>=20
+                                    <td align=3D"RIGHT"><font face=3D"Verda=
+na, Arial, Helvetica, sans-serif" color=3D"#333333"><b>Grand=20
+                                      Total:</b></font></td>
+                                    <td width=3D"5"></td>
+                                    <td width=3D"175" align=3D"RIGHT"><font=
+ face=3D"Verdana, Arial, Helvetica, sans-serif" color=3D"#333333"><b>$165.4=
+4</b></font></td>
+                                  </tr>
+                                </tbody></table></td>
+                            </tr>
+                          </tbody></table></td>
+                      </tr>
+                    </tbody></table></td>
+                </tr>
+                <tr>=20
+                  <td><font face=3D"Verdana, Arial, Helvetica, sans-serif">=
+       </font>                  </td>
+                </tr>
+                <tr>=20
+                  <td bgcolor=3D"#DCE6FB"> <table width=3D"100%" border=3D"=
+0" cellpadding=3D"4" cellspacing=3D"4">
+                      <tbody><tr>=20
+                        <td width=3D"68%" bgcolor=3D"#F1F5FD"> <table width=
+=3D"100%" border=3D"0">
+                            <tbody><tr>=20
+                              <td width=3D"51%"> </td>
+                              <td width=3D"49%"></td>
+                            </tr>
+                            <tr>=20
+                              <td> <div align=3D"left"><font face=3D"Verdan=
+a, Arial, Helvetica, sans-serif"><br>
+                                  </font></div></td>
+                              <td><div align=3D"right"><font face=3D"Verdan=
+a, Arial, Helvetica, sans-serif"><b>Payment=20
+                                  Method:</b><img src=3D"http://images.high=
+speedbackbone.net/PayMethods/PP_99.gif" alt=3D"PP"><br>
+                                  <b>Shipping Method: </b>UPS WorldShip CA<=
+/font></div></td>
+                            </tr>
+                        </tbody></table></td>
+                      </tr>
+                    </tbody></table></td>
+                </tr>
+              </tbody></table>
+              <div align=3D"right"><font face=3D"Verdana, Arial, Helvetica,=
+ sans-serif"><a href=3D"https://ad.doubleclick.net/jump/N3446.Tiger_Direct/=
+B2857668;sz=3D300x130;ord=3D%5Btimestamp%5D?" target=3D"_blank"><img src=3D=
+"https://ad.doubleclick.net/ad/N3446.Tiger_Direct/B2857668;sz=3D300x130;ord=
+=3D%5Btimestamp%5D?" border=3D"0" width=3D"300" height=3D"130" alt=3D"Click=
+ Here"></a></font></div>
+
+            </td>
+          </tr>
+          <tr>=20
+            <td style=3D"background-color:#ffffcc;border-top:10px solid #ff=
+ffff" valign=3D"top">=20
+              <table width=3D"100%" border=3D"0" cellpadding=3D"0">
+                <tbody><tr>=20
+                  <td><table width=3D"100%" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0">
+                      <tbody><tr>=20
+                        <td align=3D"right" width=3D"257"> <div align=3D"le=
+ft"><font face=3D"Verdana, Arial, Helvetica, sans-serif" color=3D"#000000" =
+size=3D"-2"><strong><a href=3D"http://www.tigerdirect.ca/indexus.asp?cm_mmc=
+=3DEmail-_-WebletMain-_-CANLET-_-03order&amp;SRCCODE=3DCANLET" target=3D"_b=
+lank">Search=20
+                            over 100,000 Products in Stock...</a></strong><=
+/font></div></td>
+                        <td width=3D"11" valign=3D"top" style=3D"border-rig=
+ht:1px dotted #cccccc"> </td>
+                        <td width=3D"11" valign=3D"top"> </td>
+                        <td width=3D"155" align=3D"center"><font size=3D"-2=
+" face=3D"Verdana, Arial, Helvetica, sans-serif" color=3D"#000000"><strong>=
+<a href=3D"http://www.tigerdirect.ca/email/retro/refer.asp?cm_mmc=3DEmail-_=
+-WebletMain-_-CANLET-_-03order&amp;SRCCODE=3DCANLET" target=3D"_blank">Refe=
+r-A-Friend</a></strong></font></td>
+
+                        <td valign=3D"top" style=3D"border-right:1px dotted=
+ #cccccc"> </td>
+                        <td width=3D"11" valign=3D"top"> </td>
+                        <td width=3D"104"> <div align=3D"right"><font size=
+=3D"-2" face=3D"Verdana, Arial, Helvetica, sans-serif" color=3D"#000000"><s=
+trong><a href=3D"http://www.tigerdirect.ca/rss/index.asp?cm_mmc=3DEmail-_-W=
+ebletMain-_-CANLET-_-03order&amp;SRCCODE=3DCANLET" target=3D"_blank">Deal=
+=20
+                            Alerts via </a></strong></font></div></td>
+                        <td width=3D"56"> <font color=3D"#000000" size=3D"-=
+2" face=3D"Verdana, Arial, Helvetica, sans-serif"><a href=3D"http://www.tig=
+erdirect.ca/rss/index.asp?cm_mmc=3DEmail-_-WebletMain-_-CANLET-_-03order&am=
+p;SRCCODE=3DCANLET" target=3D"_blank"><img src=3D"http://images.highspeedba=
+ckbone.net/email/wem1053/icon_rss.gif" alt=3D"Sign up for RSS" width=3D"36"=
+ height=3D"14" hspace=3D"3" border=3D"0"></a></font></td>
+
+                      </tr>
+                    </tbody></table></td>
+                </tr>
+              </tbody></table>
+              <p><font face=3D"Verdana, Arial, Helvetica, sans-serif" size=
+=3D"1" color=3D"#000000">TigerDirect.ca=20
+                is not responsible for typographical errors or omissions. T=
+his=20
+                email was sent to <a href=3D"mailto:jamie.alexander@rogers.=
+com" target=3D"_blank">jamie.alexander@rogers.com</a> in response to Order =
+# D1212099.=20
+                <br>
+                <br>
+              </font></p><div align=3D"left"><font face=3D"Verdana, Arial, =
+Helvetica, sans-serif" size=3D"1" color=3D"#000000"><font face=3D"Verdana, =
+Arial, Helvetica, sans-serif" size=3D"1" color=3D"#999999">=20
+  <font color=3D"#000000"><br>
+  Note that TigerDirect.ca never sells, rents, or shares your email address=
+.. For=20
+  more information, please review the TigerDirect.ca Privacy Policy at: <a =
+href=3D"http://www.TigerDirect.ca/sectors/aboutus/privacy.asp?CMP=3DEMC-TIG=
+EREMAIL&amp;SRCCODE=3DCANLET" target=3D"_blank">http://www.TigerDirect.ca/s=
+ectors/aboutus/privacy.asp</a><br>
+
+  <br>
+  TigerDirect.ca is headquartered at:<br>
+  55 East Beaver Creek Rd. Unit G, Richmond Hill, ON
+Canada, L4B 1E5</font></font><font face=3D"Verdana, Arial, Helvetica, sans-=
+serif" size=3D"1" color=3D"#000000">=C2=A0<br>
+  <a href=3D"http://www.TigerDirect.ca/sectors/aboutus/legal.asp?CMP=3DEMC-=
+TIGEREMAIL&amp;SRCCODE=3DCANLET" target=3D"_blank">LEGAL=20
+  NOTICES</a>| <a href=3D"http://www.TigerDirect.ca/sectors/aboutus/privacy=
+..asp?CMP=3DEMC-TIGEREMAIL&amp;SRCCODE=3DCANLET" target=3D"_blank">PRIVACY=
+=20
+  POLICY</a></font></font></div><font face=3D"Verdana, Arial, Helvetica, sa=
+ns-serif" size=3D"1" color=3D"#000000"> </font><p></p>
+            </td>
+          </tr>
+      </tbody></table></td>
+     =20
+    </tr>
+  </tbody></table>
+</div>
+</div>
+
+</div><br></div>
+
+--001a11c33536af758e04fdde9b73--

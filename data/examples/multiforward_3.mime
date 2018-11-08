@@ -1,0 +1,1041 @@
+Authentication-Results: apiserver;
+Received: from mail-ig0-f170.google.com (mail-ig0-f170.google.com [209.85.213.170])
+	by apiserver (Haraka/2.4.0) with ESMTP id 57320480-8832-466F-8F90-B9508A062726.1
+	envelope-from <johnny@getsensibill.com>;
+	Thu, 07 Aug 2014 22:01:11 +0000
+Received: by mail-ig0-f170.google.com with SMTP id h3so1648838igd.5
+        for <jp@billpass.net>; Thu, 07 Aug 2014 15:01:08 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:from:to:content-type;
+        bh=bNCF5bqaIMSlTns6mHvn8EBrVAgigzWlCikzuCYVmig=;
+        b=kUhW9zj8QxnZv+VXonMq2XOZYQHQKc4V9L7hO3qavAmx9XRdEiAQ3zikPSYH+nDcuP
+         aJyNN4XNIhhLZkJCOvfkW47Vl2DE9MFSPcvxYScDGN/7F8GtcjjmEgpvHd/X4Y36029S
+         jMWi0tr0EveDPulMh857ZZ2YDz+oIvWUGC1h+h4izrt7k+bOf+BFYaKPF39mnYudzy3/
+         a15epRHfhFWQk+zxvQQSquS5P0b34FC5zToaD7SukhLCP3Zbq0DCBIE09sOfnKGH52hs
+         kQaP1/t6IIHhtJOWK9L1YewH7JJVN1fKm8xRRGMzOEHI+ElAWvHtfuQRTs8Kp+X5DPcD
+         opJQ==
+X-Gm-Message-State: ALoCoQnvw71EG+9AGUTE6wNAfDMWNcfAlhZOsmLHPz43bMWmarMDeSEwncRUjBXgM124IlgEydy1
+MIME-Version: 1.0
+X-Received: by 10.43.63.15 with SMTP id xc15mr7783787icb.66.1407448868125;
+ Thu, 07 Aug 2014 15:01:08 -0700 (PDT)
+Received: by 10.64.21.105 with HTTP; Thu, 7 Aug 2014 15:01:08 -0700 (PDT)
+In-Reply-To: <958A112A-FC04-4EBB-BE97-10EA3D314AB9@getsensibill.com>
+References: <fb61f4571ce24.538debed@ryerson.ca>
+	<958A112A-FC04-4EBB-BE97-10EA3D314AB9@getsensibill.com>
+Date: Thu, 7 Aug 2014 18:01:08 -0400
+Message-ID: <CAMzEB+37PQTrCrBnS_5KmZZ4ttgB3qvWqTysUfYpHjUp3uT2bg@mail.gmail.com>
+Subject: Fwd: Your receipt from Sephora
+From: Johnny Patterson <johnny@getsensibill.com>
+To: jp@billpass.net
+Content-Type: multipart/alternative; boundary=bcaec51d2a34d314460500113902
+
+--bcaec51d2a34d314460500113902
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Regards,
+
+Johnny
+
+
+JOHNNY PATTERSON / SENIOR TECHNICAL LEAD
+E. johnny@getsensibill.com / C. 416.436.9104
+ 10 Dundas St. E., 6th Floor / Toronto, ON, M5B 2G9
+
+_______________________________________________________________________
+
+This email may be privileged and/or confidential, and the sender does not
+waive any related rights and obligations. Any distribution, use or copying
+of this email or the information it contains by other than an intended
+recipient is unauthorized. If you received this email in error, please
+advise the sender (by return email or otherwise) immediately. You have
+consented to receive the attached electronically at the above-noted email
+address; please retain a copy of this confirmation for future reference.
+
+Ce courriel est confidentiel et prot=C3=A9g=C3=A9. L'exp=C3=A9diteur ne ren=
+once pas aux
+droits et obligations qui s'y rapportent. Toute diffusion, utilisation ou
+copie de ce courriel ou des renseignements qu'il contient par une personne
+autre que le (les) destinataire(s) d=C3=A9sign=C3=A9(s) est interdite. Si v=
+ous
+recevez ce courriel par erreur, veuillez en aviser l'exp=C3=A9diteur
+imm=C3=A9diatement, par retour de courriel ou par un autre moyen. Vous avez
+accept=C3=A9 de recevoir le(s) document(s) ci-joint(s) par voie =C3=A9lectr=
+onique =C3=A0
+l'adresse courriel indiqu=C3=A9e ci-dessus; veuillez conserver une copie de
+cette confirmation pour les fins de reference future.
+
+
+---------- Forwarded message ----------
+From: Corey Gross <corey@getsensibill.com>
+Date: Wed, Jul 16, 2014 at 12:37 PM
+Subject: Fwd: Your receipt from Sephora
+To: Johnny Patterson <johnny@getsensibill.com>
+
+
+
+______________
+
+COREY GROSS / CHIEF EXECUTIVE OFFICER
+E. corey@getsensibill.com / C. 416.892.8310
+ 10 Dundas St. E., 6th Floor / Toronto, ON, M5B 2G9
+This email may contain privileged and confidential material and its
+transmission is not a waiver of that privilege. It is intended for the use
+of the individual or entity to which it is addressed. If the reader is not
+the intended recipient or the employee or agent responsible for the
+delivery of the message to the intended recipient, you are hereby notified
+that any dissemination, distribution or copying of the communication is
+strictly prohibited. if you have received this communication in error,
+please notify us immediately.
+
+Begin forwarded message:
+
+*From: *Shahad Mahdi <shahad.mahdi@ryerson.ca>
+*Subject: **Fwd: Your receipt from Sephora*
+*Date: *June 3, 2014 at 3:38:21 PM EDT
+*To: *corey@getsensibill.com
+
+
+*From: *"CustomerService@cs.sephora.com" <CustomerService@cs.sephora.com>
+*Subject: **Your receipt from Sephora*
+*Date: *June 3, 2014 at 3:04:16 PM EDT
+*To: *shahad.mahdi@ryerson.ca
+*Reply-To: *CustomerService@cs.sephora.com
+
+
+Thanks for shopping Sephora. Your e-receipt is enclosed.
+You're not a Beauty Insider, *Join Now
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.1Cu7%2aK.QC7mmI..N.30kZw.2EQS.bW=
+89MSZrPW51bGwmbXAyMDQ0Nj0%5fDbFKHCO0>*
+ and start earning points.[image: SEPHORA][image: SEPHORA]
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.1Cu7%2aK.QC7mmI..N.30hNm.2EQS.bW=
+89MSZyc0NVU1RPTV9UUkFDS0lORz1jYW4rbmV3czErZXJlY2VpcHRzK2NhbnJlZ2lvbiZtcDIwN=
+DQ2PQ%5f%5fMDELbI00>[image:
+MAKEUP]
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.1Cu7%2aK.QC7mmI..N.30hNo.2EQS.bW=
+89MSZyc0NVU1RPTV9UUkFDS0lORz1jYW4rbmV3czErZXJlY2VpcHRzK2NhbnJlZ2lvbiZtcDIwN=
+DQ2PQ%5f%5fMTILbK00>[image:
+SKINCARE]
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.1Cu7%2aK.QC7mmI..N.30hNq.2EQS.bW=
+89MSZyc0NVU1RPTV9UUkFDS0lORz1jYW4rbmV3czErZXJlY2VpcHRzK2NhbnJlZ2lvbiZtcDIwN=
+DQ2PQ%5f%5fNDMLbM00>[image:
+SHOP]
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.1Cu7%2aK.QC7mmI..N.30hNs.2EQS.bW=
+89MSZyc0NVU1RPTV9UUkFDS0lORz1jYW4rbmV3czErZXJlY2VpcHRzK2NhbnJlZ2lvbiZtcDIwN=
+DQ2PQ%5f%5fNTQLbO00>[image:
+FRAGRANCE]
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.1Cu7%2aK.QC7mmI..N.30hNu.2EQS.bW=
+89MSZyc0NVU1RPTV9UUkFDS0lORz1jYW4rbmV3czErZXJlY2VpcHRzK2NhbnJlZ2lvbiZtcDIwN=
+DQ2PQ%5f%5fODULbQ00>[image:
+WEEKLY SPECIALS]
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.1Cu7%2aK.QC7mmI..N.30hNw.2EQS.bW=
+89MSZyc0NVU1RPTV9UUkFDS0lORz1jYW4rbmV3czErZXJlY2VpcHRzK2NhbnJlZ2lvbiZtcDIwN=
+DQ2PQ%5f%5fOTYLbS00>[image:
+BRANDS]
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.1Cu7%2aK.QC7mmI..N.30hNy.2EQS.bW=
+89MSZyc0NVU1RPTV9UUkFDS0lORz1jYW4rbmV3czErZXJlY2VpcHRzK2NhbnJlZ2lvbiZtcDIwN=
+DQ2PQ%5f%5fPDcLbU00>[image:
+STORES]
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.1Cu7%2aK.QC7mmI..N.30hN%5f.2EQS.=
+bW89MSZyc0NVU1RPTV9UUkFDS0lORz1jYW4rbmV3czErZXJlY2VpcHRzK2NhbnJlZ2lvbiZtcDI=
+wNDQ2PQ%5f%5fISILaa00>[image:
+WHAT'S NEW]
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.1Cu7%2aK.QC7mmI..N.30hO0.2EQS.bW=
+89MSZyc0NVU1RPTV9UUkFDS0lORz1jYW4rbmV3czErZXJlY2VpcHRzK2NhbnJlZ2lvbiZtcDIwN=
+DQ2PQ%5f%5fDceQLZM0>[image:
+BEAUTY SERVICES]
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.1Cu7%2aK.QC7mmI..N.30hO2.2EQS.bW=
+89MSZyc0NVU1RPTV9UUkFDS0lORz1jYW4rbmV3czErZXJlY2VpcHRzK2NhbnJlZ2lvbiZtcDIwN=
+DQ2PQ%5f%5fDdOULZO0>
+*HI,*
+Your receipt is below.
+300 Borough Dr Unit #42 & 42A, Scarborough, ON M1P 4P5
+(416) 290-6822
+
+
+Your purchases are now available in your BEAUTY BAG
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.1Cu7%2aK.QC7mmI..N.2SI%2as.2EQS.=
+bW89MSZyc0NVU1RPTV9UUkFDS0lORz1jYW4rbmV3czErZXJlY2VpcHRzK2NhbnJlZ2lvbiZtcDI=
+wNDQ2PQ%5f%5fFJULaN00>=E2=80=94a
+new way to collect and organize your favourite beauty products.
+
+*ITEM #**DESCRIPTION**PRICE*1070887SC NANO E/L 9 PEARL BEIG8.00-TT1492636SC
+PINK DUAL SHARPENER3.00-TT1492651SC GREEN DUAL SHARPENER3.00-TTSubtotal
+$14.00-HST Tax 13.00%$1.82-*Store Total**$15.82-**RETURN DETAILS*CASH
+CAD$15.80-ROUNDED AMOUNT$0.02*RECEIPT #**TRANSACTION # 86525**STORE #
+0506*[image:
+Enter To Win A C$250 Gift Card | Tell us about your Sephora experience and
+you'll be entered to win a C$250 Sephora Gift Card. There's a new winner
+each week!**| Take Our Survey]
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.1Cu7%2aK.QC7mmI..N.2%2axX4.2EQS.=
+bW89MSZrPW51bGwmbXAyMDQ0Nj0%5fDSGAHAP0>[image:
+Enter To Win A C$250 Gift Card | Tell us about your Sephora experience and
+you'll be entered to win a C$250 Sephora Gift Card. There's a new winner
+each week!**| Take Our Survey]
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.1Cu7%2aK.QC7mmI..N.2%2axX4.2EQS.=
+bW89MSZrPW51bGwmbXAyMDQ0Nj0%5fDSGAHAP0>[image:
+BEAUTY INSIDER]
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.1Cu7%2aK.QC7mmI..N.2%2axX2.2EQS.=
+bW89MSZrPW51bGwmbXAyMDQ0Nj0%5fDRccHAN0>[image:
+BEAUTY INSIDER]
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.1Cu7%2aK.QC7mmI..N.2%2axX2.2EQS.=
+bW89MSZrPW51bGwmbXAyMDQ0Nj0%5fDRccHAN0>Becoming
+an Insider is your fast track to a never-ending supply of beauty rewards.
+Get a complimentary birthday gift and exclusive offers, plus earn points
+toward free samples and events.
+
+[image: Reward yourself]
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.1Cu7%2aK.QC7mmI..N.2%2axX2.2EQS.=
+bW89MSZrPW51bGwmbXAyMDQ0Nj0%5fDRccHAN0>[image:
+Forgot something? Shop Sephora.ca anytime, anywhere.]
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.1Cu7%2aK.QC7mmI..N.3%2aNtq.2EQS.=
+bW89MSZyc0NVU1RPTV9UUkFDS0lORz1jYW4rbmV3czErZXJlY2VpcHRzK2NhbnJlZ2lvbiZtcDI=
+wNDQ2PQ%5f%5fORYLbS00>Live
+in the USA?
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.1Cu7%2aK.QC7mmI..N.3%2aNts.2EQS.=
+bW89MSZyc0NVU1RPTV9UUkFDS0lORz1jYW4rbmV3czErZXJlY2VpcHRzK2NhbnJlZ2lvbiZtcDI=
+wNDQ2PSZpPXNoYWhhZC5tYWhkaUByeWVyc29uLmNhBNNaOWe0>
+ | Beauty Insider
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.1Cu7%2aK.QC7mmI..N.3%2aNtu.2EQS.=
+bW89MSZyc0NVU1RPTV9UUkFDS0lORz1jYW4rbmV3czErZXJlY2VpcHRzK2NhbnJlZ2lvbiZtcDI=
+wNDQ2PQ%5f%5fPSALbW00>
+ | Contact Us
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.1Cu7%2aK.QC7mmI..N.3%2aNtw.2EQS.=
+bW89MSZyc0NVU1RPTV9UUkFDS0lORz1jYW4rbmV3czErZXJlY2VpcHRzK2NhbnJlZ2lvbiZtcDI=
+wNDQ2PQ%5f%5fQCELbY00>
+ | Privacy Policy
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.1Cu7%2aK.QC7mmI..N.3%2aNty.2EQS.=
+bW89MSZyc0NVU1RPTV9UUkFDS0lORz1jYW4rbmV3czErZXJlY2VpcHRzK2NhbnJlZ2lvbiZtcDI=
+wNDQ2PQ%5f%5fQSILba00>
+ | Store Locator
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.1Cu7%2aK.QC7mmI..N.3%2aNt%5f.2EQ=
+S.bW89MSZyc0NVU1RPTV9UUkFDS0lORz1jYW4rbmV3czErZXJlY2VpcHRzK2NhbnJlZ2lvbiZtc=
+DIwNDQ2PQ%5f%5fKAULbA00>
+ | Beauty Deals
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.1Cu7%2aK.QC7mmI..N.3%2aNu0.2EQS.=
+bW89MSZyc0NVU1RPTV9UUkFDS0lORz1jYW4rbmV3czErZXJlY2VpcHRzK2NhbnJlZ2lvbiZtcDI=
+wNDQ2PQ%5f%5fDeMcLZS0>
+
+You are receiving this one-time transactional email at
+shahad.mahdi@ryerson.ca because you requested a digital receipt at a
+Sephora retail location. Add customerservice@cs.sephora.com to your address
+book to be sure you receive future digital receipts.
+
+If you believe you are receiving this email in error, please call
+1-877-SEPHORA (1-877-737-4672).
+Please note that the information contained in the above email is only
+relevant for Sephora stores in Canada.
+We do not share your information with anyone.
+
+=C2=A92014 Sephora USA, Inc., 525 Market Street, Suite 350, San Francisco, =
+CA
+94105. All rights reserved.
+** No purchase or survey necessary. Must be at least 16 years old to enter.
+Odds depend on number of entries. See website for official rules. Ends
+12/31/14.Please retain a copy of your receipt and we will gladly return or
+exchange your purchase at any Sephora location.
+
+--bcaec51d2a34d314460500113902
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><br clear=3D"all"><div><div dir=3D"ltr"><div><div><div dir=
+=3D"ltr"><div dir=3D"ltr"><div style=3D"color:rgb(82,82,82);font-size:11px"=
+><div style=3D"font-family:Times"><div style=3D"font-family:arial;color:rgb=
+(34,34,34);font-size:small">
+Regards,</div></div><div style=3D"font-family:arial;color:rgb(34,34,34);fon=
+t-size:small"><br></div><div style=3D"font-family:arial;color:rgb(34,34,34)=
+;font-size:small">Johnny</div><div style=3D"font-family:Times"><span style=
+=3D"color:rgb(10,10,10);font-weight:bold"><br>
+</span></div><div style=3D"font-family:Times"><span style=3D"color:rgb(10,1=
+0,10);font-weight:bold"><br></span></div><div><font face=3D"tahoma, sans-se=
+rif"><span style=3D"color:rgb(10,10,10)">JOHNNY PATTERSON</span>=C2=A0/=C2=
+=A0SENIOR TECHNICAL LEAD</font></div>
+<div style=3D"margin-top:5px"><font face=3D"tahoma, sans-serif"><span style=
+=3D"color:rgb(40,190,193);font-size:10px">E.=C2=A0</span><a href=3D"mailto:=
+johnny@getsensibill.com" style=3D"color:rgb(17,85,204)" target=3D"_blank">j=
+ohnny@getsensibill.com</a>=C2=A0/=C2=A0<span style=3D"color:rgb(40,190,193)=
+;font-size:10px">C.=C2=A0</span><a value=3D"+14162012407" style=3D"color:rg=
+b(17,85,204)">416.436.9104</a></font></div>
+<div style=3D"margin-top:15px"><font face=3D"tahoma, sans-serif"><img src=
+=3D"https://www.filepicker.io/api/file/uzPXhpSpeRsg8fZD07tg/convert?w=3D150=
+&amp;h=3D55&amp;fit=3Dclip" style=3D"width:100px;vertical-align:middle">=C2=
+=A010 Dundas St. E., 6th Floor / Toronto, ON, M5B 2G9</font></div>
+</div></div></div></div></div><p><font style=3D"font-size:9px">____________=
+___________________________________________________________</font></p><p><f=
+ont style=3D"font-size:9px">This email may be privileged and/or confidentia=
+l, and the sender does not waive any related rights and obligations. Any di=
+stribution, use or copying of this email or the information it contains by =
+other than an intended recipient is unauthorized. If you received this emai=
+l in error, please advise the sender (by return email or otherwise) immedia=
+tely. You have consented to receive the attached electronically at the abov=
+e-noted email address; please retain a copy of this confirmation for future=
+ reference.</font></p>
+<p><font style=3D"font-size:9px">Ce courriel est confidentiel et prot=C3=A9=
+g=C3=A9. L&#39;exp=C3=A9diteur ne renonce pas aux droits et obligations qui=
+ s&#39;y rapportent. Toute diffusion, utilisation ou copie de ce courriel o=
+u des renseignements qu&#39;il contient par une personne autre que le (les)=
+ destinataire(s) d=C3=A9sign=C3=A9(s) est interdite. Si vous recevez ce cou=
+rriel par erreur, veuillez en aviser l&#39;exp=C3=A9diteur imm=C3=A9diateme=
+nt, par retour de courriel ou par un autre moyen. Vous avez accept=C3=A9 de=
+ recevoir le(s) document(s) ci-joint(s) par voie =C3=A9lectronique =C3=A0 l=
+&#39;adresse courriel indiqu=C3=A9e ci-dessus; veuillez conserver une copie=
+ de cette confirmation pour les fins de reference future.</font></p>
+</div></div>
+<br><br><div class=3D"gmail_quote">---------- Forwarded message ----------<=
+br>From: <b class=3D"gmail_sendername">Corey Gross</b> <span dir=3D"ltr">&l=
+t;<a href=3D"mailto:corey@getsensibill.com">corey@getsensibill.com</a>&gt;<=
+/span><br>
+Date: Wed, Jul 16, 2014 at 12:37 PM<br>Subject: Fwd: Your receipt from Seph=
+ora<br>To: Johnny Patterson &lt;<a href=3D"mailto:johnny@getsensibill.com">=
+johnny@getsensibill.com</a>&gt;<br><br><br><div style=3D"word-wrap:break-wo=
+rd">
+<div class=3D""><br><div>
+<span style=3D"color:rgb(10,10,10);font-family:Gotham-Light;font-size:11px"=
+>______________</span><br><div style=3D"color:rgb(82,82,82);font-size:11px"=
+><div style=3D"font-family:&#39;Gotham Book&#39;,Times"><div><span style=3D=
+"font-weight:bold;color:rgb(10,10,10)"><br>
+</span></div><div style=3D"font-family:Helvetica;font-size:12px"><span styl=
+e=3D"color:rgb(10,10,10);font-size:11px"><font face=3D"Gotham">COREY GROSS<=
+/font></span><font face=3D"Gotham-Light"><span style=3D"font-size:11px">=C2=
+=A0/=C2=A0CHIEF EXECUTIVE OFFICER</span></font></div>
+<div style=3D"font-family:Helvetica;margin-top:5px"><font face=3D"Gotham-Li=
+ght"><span style=3D"font-size:10.5px;color:rgb(40,190,193)">E.=C2=A0</span>=
+<a href=3D"mailto:corey@getsensibill.com" style=3D"text-decoration:none;col=
+or:inherit" target=3D"_blank">corey@getsensibill.com</a>=C2=A0/=C2=A0<span =
+style=3D"font-size:10.5px;color:rgb(40,190,193)">C.=C2=A0</span><a href=3D"=
+tel:416.892.8310" value=3D"+14168928310" target=3D"_blank">416.892.8310</a>=
+</font></div>
+<div style=3D"font-family:Helvetica;margin-top:15px"><font face=3D"Gotham-L=
+ight"><span style=3D"width:100px;vertical-align:middle;margin-bottom:3px;pa=
+dding-right:5px"><img src=3D"http://sensibill.jit.su/images/sensibill-logo-=
+teal.png" style=3D"width:100px;vertical-align:middle;margin-bottom:3px;padd=
+ing-right:5px"></span>=C2=A010 Dundas St. E., 6th Floor / Toronto, ON, M5B =
+2G9</font></div>
+<div style=3D"font-family:Helvetica;margin-top:15px"><span style=3D"color:r=
+gb(0,0,0);font-size:8px"><font face=3D"Gotham-Light">This email may contain=
+=C2=A0</font></span><font face=3D"Gotham-Light" style=3D"font-size:12px;col=
+or:rgb(0,0,0)"><span style=3D"font-size:9px">privileged and confidential ma=
+terial and its transmission is not a waiver of that privilege. It is intend=
+ed for the use of the individual or entity to which it is addressed. If the=
+ reader is not the intended recipient or the employee or agent responsible =
+for the delivery of the message to the intended recipient, you are hereby n=
+otified that any dissemination, distribution or copying of the communicatio=
+n is strictly prohibited. if you have received this communication in error,=
+ please notify us immediately.</span></font></div>
+</div></div>
+</div>
+</div><div><br><div>Begin forwarded message:</div><br><blockquote type=3D"c=
+ite"><div class=3D""><div style=3D"margin-top:0px;margin-right:0px;margin-b=
+ottom:0px;margin-left:0px"><span style=3D"font-family:&#39;Helvetica&#39;;c=
+olor:rgba(0,0,0,1.0)"><b>From: </b></span><span style=3D"font-family:&#39;H=
+elvetica&#39;">Shahad Mahdi &lt;<a href=3D"mailto:shahad.mahdi@ryerson.ca" =
+target=3D"_blank">shahad.mahdi@ryerson.ca</a>&gt;<br>
+</span></div><div style=3D"margin-top:0px;margin-right:0px;margin-bottom:0p=
+x;margin-left:0px"><span style=3D"font-family:&#39;Helvetica&#39;;color:rgb=
+a(0,0,0,1.0)"><b>Subject: </b></span><span style=3D"font-family:&#39;Helvet=
+ica&#39;"><b>Fwd: Your receipt from Sephora</b><br>
+</span></div></div><div style=3D"margin-top:0px;margin-right:0px;margin-bot=
+tom:0px;margin-left:0px"><span style=3D"font-family:&#39;Helvetica&#39;;col=
+or:rgba(0,0,0,1.0)"><b>Date: </b></span><span style=3D"font-family:&#39;Hel=
+vetica&#39;">June 3, 2014 at 3:38:21 PM EDT<br>
+</span></div><div style=3D"margin-top:0px;margin-right:0px;margin-bottom:0p=
+x;margin-left:0px"><span style=3D"font-family:&#39;Helvetica&#39;;color:rgb=
+a(0,0,0,1.0)"><b>To: </b></span><span style=3D"font-family:&#39;Helvetica&#=
+39;"><a href=3D"mailto:corey@getsensibill.com" target=3D"_blank">corey@gets=
+ensibill.com</a><br>
+</span></div><br><div><div class=3D""><div style=3D"font-family:Helvetica;f=
+ont-size:12px;font-style:normal;font-variant:normal;font-weight:normal;lett=
+er-spacing:normal;line-height:normal;text-align:start;text-indent:0px;text-=
+transform:none;white-space:normal;word-spacing:0px;margin:0px">
+<span style=3D"font-family:Helvetica;color:rgb(127,127,127)"><b><br>From:<s=
+pan>=C2=A0</span></b></span><span style=3D"font-family:Helvetica">&quot;<a =
+href=3D"mailto:CustomerService@cs.sephora.com" target=3D"_blank">CustomerSe=
+rvice@cs.sephora.com</a>&quot; &lt;<a href=3D"mailto:CustomerService@cs.sep=
+hora.com" target=3D"_blank">CustomerService@cs.sephora.com</a>&gt;<br>
+</span></div><div style=3D"font-family:Helvetica;font-size:12px;font-style:=
+normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-he=
+ight:normal;text-align:start;text-indent:0px;text-transform:none;white-spac=
+e:normal;word-spacing:0px;margin:0px">
+<span style=3D"font-family:Helvetica;color:rgb(127,127,127)"><b>Subject:<sp=
+an>=C2=A0</span></b></span><span style=3D"font-family:Helvetica"><b>Your re=
+ceipt from Sephora</b><br></span></div></div><div style=3D"font-family:Helv=
+etica;font-size:12px;font-style:normal;font-variant:normal;font-weight:norm=
+al;letter-spacing:normal;line-height:normal;text-align:start;text-indent:0p=
+x;text-transform:none;white-space:normal;word-spacing:0px;margin:0px">
+<span style=3D"font-family:Helvetica;color:rgb(127,127,127)"><b>Date:<span>=
+=C2=A0</span></b></span><span style=3D"font-family:Helvetica">June 3, 2014 =
+at 3:04:16 PM EDT<br></span></div><div style=3D"font-family:Helvetica;font-=
+size:12px;font-style:normal;font-variant:normal;font-weight:normal;letter-s=
+pacing:normal;line-height:normal;text-align:start;text-indent:0px;text-tran=
+sform:none;white-space:normal;word-spacing:0px;margin:0px">
+<span style=3D"font-family:Helvetica;color:rgb(127,127,127)"><b>To:<span>=
+=C2=A0</span></b></span><span style=3D"font-family:Helvetica"><a href=3D"ma=
+ilto:shahad.mahdi@ryerson.ca" target=3D"_blank">shahad.mahdi@ryerson.ca</a>=
+<br></span></div>
+<div style=3D"font-family:Helvetica;font-size:12px;font-style:normal;font-v=
+ariant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;t=
+ext-align:start;text-indent:0px;text-transform:none;white-space:normal;word=
+-spacing:0px;margin:0px">
+<span style=3D"font-family:Helvetica;color:rgb(127,127,127)"><b>Reply-To:<s=
+pan>=C2=A0</span></b></span><span style=3D"font-family:Helvetica"><a href=
+=3D"mailto:CustomerService@cs.sephora.com" target=3D"_blank">CustomerServic=
+e@cs.sephora.com</a><br>
+</span></div><br style=3D"font-family:Helvetica;font-size:12px;font-style:n=
+ormal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-hei=
+ght:normal;text-align:start;text-indent:0px;text-transform:none;white-space=
+:normal;word-spacing:0px">
+<br style=3D"font-family:Helvetica;font-size:12px;font-style:normal;font-va=
+riant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;te=
+xt-align:start;text-indent:0px;text-transform:none;white-space:normal;word-=
+spacing:0px">
+<table bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ width=3D"100%" style=3D"font-family:Helvetica;letter-spacing:normal;text-i=
+ndent:0px;text-transform:none;word-spacing:0px"><tbody><tr><td><div class=
+=3D""><table align=3D"center" bgcolor=3D"#ffffff" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"680">
+<tbody><tr><td width=3D"10"><img alt=3D"" border=3D"0" height=3D"25" src=3D=
+"http://img.delivery.net/cm50content/18628/67947/spacer.gif" width=3D"10" s=
+tyle=3D"display:block"></td><td align=3D"left" valign=3D"middle"><font styl=
+e=3D"font-size:10px;line-height:12px;font-family:Arial,Helvetica,sans-serif=
+;color:rgb(51,51,51)">Thanks for shopping Sephora. Your e-receipt is enclos=
+ed.</font></td>
+<td align=3D"right" valign=3D"middle"><font style=3D"font-size:10px;line-he=
+ight:12px;font-family:Arial,Helvetica,sans-serif;color:rgb(51,51,51)">=C2=
+=A0</font></td><td align=3D"left" valign=3D"middle" width=3D"10"><img alt=
+=3D"" border=3D"0" height=3D"25" src=3D"http://img.delivery.net/cm50content=
+/18628/67947/spacer.gif" width=3D"10" style=3D"display:block"></td>
+</tr></tbody></table></div><table align=3D"center" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"680"><tbody><tr><td><table align=3D"cente=
+r" bgcolor=3D"black" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"680"><tbody><tr>
+<td width=3D"10"><img alt=3D"" border=3D"0" height=3D"30" src=3D"http://img=
+..delivery.net/cm50content/18628/61330/spacer.gif" width=3D"10" style=3D"dis=
+play:block"></td><td align=3D"left" valign=3D"middle"><table border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" width=3D"660">
+<tbody><tr><td><font style=3D"font-size:11px;line-height:13px;font-family:A=
+rial,Helvetica,sans-serif;color:rgb(255,255,255)">You&#39;re not a Beauty I=
+nsider,<span>=C2=A0</span><b><a href=3D"http://shop.sephora.com/r/c/r?2.1.3=
+JG.2VF.1Cu7%2aK.QC7mmI..N.30kZw.2EQS.bW89MSZrPW51bGwmbXAyMDQ0Nj0%5fDbFKHCO0=
+" style=3D"color:rgb(255,255,255)" target=3D"_blank">Join Now</a></b><span>=
+=C2=A0</span>and start earning points.</font></td>
+<td width=3D"83" style=3D"font-size:0px;line-height:0px"><img alt=3D"SEPHOR=
+A" border=3D"0" height=3D"20" src=3D"http://img.delivery.net/cm50content/18=
+628/61330/10192013_eReceipts_CAD_ENG_03.gif" width=3D"83" style=3D"display:=
+block"></td>
+<td width=3D"30" style=3D"font-size:0px;line-height:0px"><img border=3D"0" =
+height=3D"20" src=3D"http://img.delivery.net/cm50content/18628/61330/101920=
+13_eReceipts_CAD_ENG_04.gif" width=3D"30" style=3D"display:block"></td></tr=
+></tbody></table>
+</td></tr></tbody></table></td></tr><tr><td><table align=3D"center" bgcolor=
+=3D"#ffffff" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"680"=
+><tbody><tr><td align=3D"center" valign=3D"middle"><table border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" width=3D"680">
+<tbody><tr><td width=3D"240"></td><td align=3D"center" width=3D"200"><a hre=
+f=3D"http://shop.sephora.com/r/c/r?2.1.3JG.2VF.1Cu7%2aK.QC7mmI..N.30hNm.2EQ=
+S.bW89MSZyc0NVU1RPTV9UUkFDS0lORz1jYW4rbmV3czErZXJlY2VpcHRzK2NhbnJlZ2lvbiZtc=
+DIwNDQ2PQ%5f%5fMDELbI00" target=3D"_blank"><img alt=3D"SEPHORA" border=3D"0=
+" height=3D"93" src=3D"http://img.delivery.net/cm50content/18628/61326/nav_=
+sephora_ca.gif" width=3D"184" style=3D"display:block"></a></td>
+<td align=3D"right" valign=3D"top" width=3D"240"></td></tr></tbody></table>=
+</td></tr><tr><td align=3D"center" valign=3D"middle"><table border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" width=3D"680"><tbody><tr height=3D"16"><t=
+d align=3D"center" height=3D"16" valign=3D"top">
+<img alt=3D"" border=3D"0" height=3D"4" src=3D"http://img.delivery.net/cm50=
+content/18628/61326/spacer.gif" width=3D"25" style=3D"display:block"></td><=
+td align=3D"center" height=3D"16" valign=3D"top"><a href=3D"http://shop.sep=
+hora.com/r/c/r?2.1.3JG.2VF.1Cu7%2aK.QC7mmI..N.30hNo.2EQS.bW89MSZyc0NVU1RPTV=
+9UUkFDS0lORz1jYW4rbmV3czErZXJlY2VpcHRzK2NhbnJlZ2lvbiZtcDIwNDQ2PQ%5f%5fMTILb=
+K00" target=3D"_blank"><img alt=3D"MAKEUP" border=3D"0" height=3D"15" src=
+=3D"http://img.delivery.net/cm50content/18628/61326/nav_makeup.gif" width=
+=3D"76" style=3D"display:block"></a></td>
+<td align=3D"center" height=3D"16" valign=3D"top"><a href=3D"http://shop.se=
+phora.com/r/c/r?2.1.3JG.2VF.1Cu7%2aK.QC7mmI..N.30hNq.2EQS.bW89MSZyc0NVU1RPT=
+V9UUkFDS0lORz1jYW4rbmV3czErZXJlY2VpcHRzK2NhbnJlZ2lvbiZtcDIwNDQ2PQ%5f%5fNDML=
+bM00" target=3D"_blank"><img alt=3D"SKINCARE" border=3D"0" height=3D"15" sr=
+c=3D"http://img.delivery.net/cm50content/18628/61326/nav_skincare.gif" widt=
+h=3D"90" style=3D"display:block"></a><a href=3D"http://shop.sephora.com/r/c=
+/r?2.1.3JG.2VF.1Cu7%2aK.QC7mmI..N.30hNs.2EQS.bW89MSZyc0NVU1RPTV9UUkFDS0lORz=
+1jYW4rbmV3czErZXJlY2VpcHRzK2NhbnJlZ2lvbiZtcDIwNDQ2PQ%5f%5fNTQLbO00" target=
+=3D"_blank"><img alt=3D"SHOP" border=3D"0" height=3D"1" src=3D"http://img.d=
+elivery.net/cm50content/18628/61326/nav_shop.gif" width=3D"1" style=3D"disp=
+lay:block"></a></td>
+<td align=3D"center" height=3D"16" valign=3D"top"><a href=3D"http://shop.se=
+phora.com/r/c/r?2.1.3JG.2VF.1Cu7%2aK.QC7mmI..N.30hNu.2EQS.bW89MSZyc0NVU1RPT=
+V9UUkFDS0lORz1jYW4rbmV3czErZXJlY2VpcHRzK2NhbnJlZ2lvbiZtcDIwNDQ2PQ%5f%5fODUL=
+bQ00" target=3D"_blank"><img alt=3D"FRAGRANCE" border=3D"0" height=3D"15" s=
+rc=3D"http://img.delivery.net/cm50content/18628/61326/nav_fragrance.gif" wi=
+dth=3D"102" style=3D"display:block"></a><a href=3D"http://shop.sephora.com/=
+r/c/r?2.1.3JG.2VF.1Cu7%2aK.QC7mmI..N.30hNw.2EQS.bW89MSZyc0NVU1RPTV9UUkFDS0l=
+ORz1jYW4rbmV3czErZXJlY2VpcHRzK2NhbnJlZ2lvbiZtcDIwNDQ2PQ%5f%5fOTYLbS00" targ=
+et=3D"_blank"><img alt=3D"WEEKLY SPECIALS" border=3D"0" height=3D"1" src=3D=
+"http://img.delivery.net/cm50content/18628/61326/nav_weeklyspecials.gif" wi=
+dth=3D"1" style=3D"display:block"></a></td>
+<td align=3D"center" height=3D"16" valign=3D"top"><a href=3D"http://shop.se=
+phora.com/r/c/r?2.1.3JG.2VF.1Cu7%2aK.QC7mmI..N.30hNy.2EQS.bW89MSZyc0NVU1RPT=
+V9UUkFDS0lORz1jYW4rbmV3czErZXJlY2VpcHRzK2NhbnJlZ2lvbiZtcDIwNDQ2PQ%5f%5fPDcL=
+bU00" target=3D"_blank"><img alt=3D"BRANDS" border=3D"0" height=3D"15" src=
+=3D"http://img.delivery.net/cm50content/18628/61326/nav_brands.gif" width=
+=3D"82" style=3D"display:block"></a><a href=3D"http://shop.sephora.com/r/c/=
+r?2.1.3JG.2VF.1Cu7%2aK.QC7mmI..N.30hN%5f.2EQS.bW89MSZyc0NVU1RPTV9UUkFDS0lOR=
+z1jYW4rbmV3czErZXJlY2VpcHRzK2NhbnJlZ2lvbiZtcDIwNDQ2PQ%5f%5fISILaa00" target=
+=3D"_blank"><img alt=3D"STORES" border=3D"0" height=3D"1" src=3D"http://img=
+..delivery.net/cm50content/18628/61326/nav_stores.gif" width=3D"1" style=3D"=
+display:block"></a></td>
+<td align=3D"center" height=3D"16" valign=3D"top"><a href=3D"http://shop.se=
+phora.com/r/c/r?2.1.3JG.2VF.1Cu7%2aK.QC7mmI..N.30hO0.2EQS.bW89MSZyc0NVU1RPT=
+V9UUkFDS0lORz1jYW4rbmV3czErZXJlY2VpcHRzK2NhbnJlZ2lvbiZtcDIwNDQ2PQ%5f%5fDceQ=
+LZM0" target=3D"_blank"><img alt=3D"WHAT&#39;S NEW" border=3D"0" height=3D"=
+15" src=3D"http://img.delivery.net/cm50content/18628/61326/nav_whatsnew.gif=
+" width=3D"86" style=3D"display:block"></a></td>
+<td align=3D"center" height=3D"16" valign=3D"top"><a href=3D"http://shop.se=
+phora.com/r/c/r?2.1.3JG.2VF.1Cu7%2aK.QC7mmI..N.30hO2.2EQS.bW89MSZyc0NVU1RPT=
+V9UUkFDS0lORz1jYW4rbmV3czErZXJlY2VpcHRzK2NhbnJlZ2lvbiZtcDIwNDQ2PQ%5f%5fDdOU=
+LZO0" target=3D"_blank"><img alt=3D"BEAUTY SERVICES" border=3D"0" height=3D=
+"15" src=3D"http://img.delivery.net/cm50content/18628/61326/nav_beautyservi=
+ces.gif" width=3D"127" style=3D"display:block"></a></td>
+<td align=3D"center" height=3D"16" valign=3D"top"><img alt=3D"" border=3D"0=
+" height=3D"4" src=3D"http://img.delivery.net/cm50content/18628/61326/space=
+r.gif" width=3D"25" style=3D"display:block"></td></tr><tr><td bgcolor=3D"#0=
+00000" style=3D"font-size:0px;line-height:0px">
+<img alt=3D"" border=3D"0" height=3D"4" src=3D"http://img.delivery.net/cm50=
+content/18628/61326/spacer.gif" width=3D"1" style=3D"display:block"></td><t=
+d bgcolor=3D"#000000" style=3D"font-size:0px;line-height:0px"><img alt=3D""=
+ border=3D"0" height=3D"4" src=3D"http://img.delivery.net/cm50content/18628=
+/61326/spacer.gif" width=3D"1" style=3D"display:block"></td>
+<td bgcolor=3D"#000000" style=3D"font-size:0px;line-height:0px"><img alt=3D=
+"" border=3D"0" height=3D"1" src=3D"http://img.delivery.net/cm50content/186=
+28/61326/spacer.gif" width=3D"1" style=3D"display:block"></td><td bgcolor=
+=3D"#000000" style=3D"font-size:0px;line-height:0px">
+<img alt=3D"" border=3D"0" height=3D"1" src=3D"http://img.delivery.net/cm50=
+content/18628/61326/spacer.gif" width=3D"1" style=3D"display:block"></td><t=
+d bgcolor=3D"#000000" style=3D"font-size:0px;line-height:0px"><img alt=3D""=
+ border=3D"0" height=3D"1" src=3D"http://img.delivery.net/cm50content/18628=
+/61326/spacer.gif" width=3D"1" style=3D"display:block"></td>
+<td bgcolor=3D"#000000" style=3D"font-size:0px;line-height:0px"><img alt=3D=
+"" border=3D"0" height=3D"1" src=3D"http://img.delivery.net/cm50content/186=
+28/61326/spacer.gif" width=3D"1" style=3D"display:block"></td><td bgcolor=
+=3D"#000000" style=3D"font-size:0px;line-height:0px">
+<img alt=3D"" border=3D"0" height=3D"1" src=3D"http://img.delivery.net/cm50=
+content/18628/61326/spacer.gif" width=3D"1" style=3D"display:block"></td><t=
+d bgcolor=3D"#000000" style=3D"font-size:0px;line-height:0px"><img alt=3D""=
+ border=3D"0" height=3D"4" src=3D"http://img.delivery.net/cm50content/18628=
+/61326/spacer.gif" width=3D"1" style=3D"display:block"></td>
+</tr></tbody></table></td></tr></tbody></table></td></tr><tr><td><table ali=
+gn=3D"center" bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" width=3D"680"><tbody><tr><td align=3D"left" valign=3D"middle"><img =
+alt=3D"" border=3D"0" height=3D"38" src=3D"http://img.delivery.net/cm50cont=
+ent/18628/55103/spacer.gif" width=3D"1" style=3D"display:block"></td>
+</tr><tr><td align=3D"center" valign=3D"top"><font style=3D"font-size:16px;=
+line-height:24px;font-family:Helvetica,Arial,sans-serif"><b>HI,</b><br></fo=
+nt><font style=3D"font-size:14px;line-height:16px;font-family:Helvetica,Ari=
+al,sans-serif">Your receipt is below.<br>
+</font><div class=3D""><font style=3D"font-size:11px;line-height:14px;font-=
+family:Arial,Helvetica,sans-serif">300 Borough Dr Unit #42 &amp; 42A, Scarb=
+orough, ON M1P 4P5<br><a href=3D"tel:%28416%29%20290-6822" value=3D"+141629=
+06822" target=3D"_blank">(416) 290-6822</a><br>
+</font><img alt=3D"" border=3D"0" height=3D"26" src=3D"http://img.delivery.=
+net/cm50content/18628/55103/addy.gif" width=3D"25" style=3D"display:block">=
+<br><img alt=3D"" border=3D"0" height=3D"20" src=3D"http://img.delivery.net=
+/cm50content/18628/55103/spacer.gif" width=3D"1" style=3D"display:block"><b=
+r>
+<font style=3D"font-size:11px;line-height:14px;font-family:Arial,Helvetica,=
+sans-serif">Your purchases are now available in your<span>=C2=A0</span><a h=
+ref=3D"http://shop.sephora.com/r/c/r?2.1.3JG.2VF.1Cu7%2aK.QC7mmI..N.2SI%2as=
+..2EQS.bW89MSZyc0NVU1RPTV9UUkFDS0lORz1jYW4rbmV3czErZXJlY2VpcHRzK2NhbnJlZ2lvb=
+iZtcDIwNDQ2PQ%5f%5fFJULaN00" style=3D"color:rgb(194,16,0)" target=3D"_blank=
+">BEAUTY BAG</a>=E2=80=94a new way to collect and organize your favourite b=
+eauty products.<br>
+<br></font></div></td></tr><tr><td align=3D"center" valign=3D"top"><table b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"680"><tbody><tr><t=
+d align=3D"left" bgcolor=3D"#a8a8a8" colspan=3D"7" valign=3D"top" width=3D"=
+680" style=3D"line-height:0px;font-size:0px">
+<img alt=3D"" border=3D"0" height=3D"1" src=3D"http://img.delivery.net/cm50=
+content/18628/54200/spacer.gif" width=3D"1" style=3D"display:block"></td></=
+tr><tr><td align=3D"left" valign=3D"top" width=3D"20"><img alt=3D"" border=
+=3D"0" height=3D"38" src=3D"http://img.delivery.net/cm50content/18628/54200=
+/spacer.gif" width=3D"20" style=3D"display:block"></td>
+<td width=3D"120"><font style=3D"font-size:11px;line-height:14px;font-famil=
+y:Arial,Helvetica,sans-serif"><b>ITEM #</b></font></td><td width=3D"10"></t=
+d><td width=3D"350"><font style=3D"font-size:11px;line-height:14px;font-fam=
+ily:Arial,Helvetica,sans-serif"><b>DESCRIPTION</b></font></td>
+<td width=3D"10"></td><td width=3D"120" align=3D"right"><font style=3D"font=
+-size:11px;line-height:14px;font-family:Arial,Helvetica,sans-serif"><b>PRIC=
+E</b></font></td><td align=3D"right" valign=3D"top" width=3D"50"><img alt=
+=3D"" border=3D"0" height=3D"15" src=3D"http://img.delivery.net/cm50content=
+/18628/55092/spacer.gif" width=3D"50" style=3D"display:block"></td>
+</tr><tr><td align=3D"left" bgcolor=3D"#a8a8a8" colspan=3D"7" valign=3D"top=
+" width=3D"680" style=3D"line-height:0px;font-size:0px"><img alt=3D"" borde=
+r=3D"0" height=3D"1" src=3D"http://img.delivery.net/cm50content/18628/54200=
+/spacer.gif" width=3D"1" style=3D"display:block"></td>
+</tr><tr><td align=3D"left" valign=3D"top" width=3D"20"><img src=3D"http://=
+img.delivery.net/cm50content/18628/54200/spacer.gif" width=3D"20" height=3D=
+"15" border=3D"0" alt=3D"" style=3D"display:block"></td><td width=3D"120"><=
+img src=3D"http://img.delivery.net/cm50content/18628/54200/spacer.gif" widt=
+h=3D"120" height=3D"15" border=3D"0" alt=3D"" style=3D"display:block"></td>
+<td width=3D"10"></td><td width=3D"350"></td><td width=3D"10"></td><td widt=
+h=3D"120"></td><td align=3D"right" valign=3D"top" width=3D"50"><img alt=3D"=
+" border=3D"0" height=3D"15" src=3D"http://img.delivery.net/cm50content/186=
+28/55092/spacer.gif" width=3D"50" style=3D"display:block"></td>
+</tr><tr><td align=3D"left" valign=3D"top" width=3D"20"><img src=3D"http://=
+img.delivery.net/cm50content/18628/54200/spacer.gif" width=3D"20" height=3D=
+"20" border=3D"0" alt=3D"" style=3D"display:block"></td><td align=3D"left" =
+valign=3D"top" width=3D"120">
+<font style=3D"font-size:11px;line-height:14px;font-family:Arial,Helvetica,=
+sans-serif">1070887</font></td><td align=3D"left" valign=3D"top" width=3D"1=
+0"><img src=3D"http://img.delivery.net/cm50content/18628/54200/spacer.gif" =
+width=3D"10" height=3D"20" border=3D"0" alt=3D"" style=3D"display:block"></=
+td>
+<td align=3D"left" valign=3D"top" width=3D"350"><font style=3D"font-size:11=
+px;line-height:14px;font-family:Arial,Helvetica,sans-serif"><span>SC NANO E=
+/L 9 PEARL BEIG</span><span></span></font></td><td align=3D"left" valign=3D=
+"top" width=3D"10">
+<img src=3D"http://img.delivery.net/cm50content/18628/54200/spacer.gif" wid=
+th=3D"10" height=3D"20" border=3D"0" alt=3D"" style=3D"display:block"></td>=
+<td align=3D"right" valign=3D"top" width=3D"120"><font style=3D"font-size:1=
+1px;line-height:14px;font-family:Arial,Helvetica,sans-serif">8.00-TT</font>=
+</td>
+<td align=3D"right" valign=3D"top" width=3D"50"><img alt=3D"" border=3D"0" =
+height=3D"15" src=3D"http://img.delivery.net/cm50content/18628/55092/spacer=
+..gif" width=3D"50" style=3D"display:block"></td></tr><tr><td align=3D"left"=
+ valign=3D"top" width=3D"20">
+<img src=3D"http://img.delivery.net/cm50content/18628/54200/spacer.gif" wid=
+th=3D"20" height=3D"15" border=3D"0" alt=3D"" style=3D"display:block"></td>=
+<td width=3D"120"><img src=3D"http://img.delivery.net/cm50content/18628/542=
+00/spacer.gif" width=3D"120" height=3D"15" border=3D"0" alt=3D"" style=3D"d=
+isplay:block"></td>
+<td width=3D"10"></td><td width=3D"350"></td><td width=3D"10"></td><td widt=
+h=3D"120"></td><td align=3D"right" valign=3D"top" width=3D"50"><img alt=3D"=
+" border=3D"0" height=3D"15" src=3D"http://img.delivery.net/cm50content/186=
+28/55092/spacer.gif" width=3D"50" style=3D"display:block"></td>
+</tr><tr><td align=3D"left" valign=3D"top" width=3D"20"><img src=3D"http://=
+img.delivery.net/cm50content/18628/54200/spacer.gif" width=3D"20" height=3D=
+"20" border=3D"0" alt=3D"" style=3D"display:block"></td><td align=3D"left" =
+valign=3D"top" width=3D"120">
+<font style=3D"font-size:11px;line-height:14px;font-family:Arial,Helvetica,=
+sans-serif">1492636</font></td><td align=3D"left" valign=3D"top" width=3D"1=
+0"><img src=3D"http://img.delivery.net/cm50content/18628/54200/spacer.gif" =
+width=3D"10" height=3D"20" border=3D"0" alt=3D"" style=3D"display:block"></=
+td>
+<td align=3D"left" valign=3D"top" width=3D"350"><font style=3D"font-size:11=
+px;line-height:14px;font-family:Arial,Helvetica,sans-serif"><span>SC PINK D=
+UAL SHARPENER</span><span></span></font></td><td align=3D"left" valign=3D"t=
+op" width=3D"10">
+<img src=3D"http://img.delivery.net/cm50content/18628/54200/spacer.gif" wid=
+th=3D"10" height=3D"20" border=3D"0" alt=3D"" style=3D"display:block"></td>=
+<td align=3D"right" valign=3D"top" width=3D"120"><font style=3D"font-size:1=
+1px;line-height:14px;font-family:Arial,Helvetica,sans-serif">3.00-TT</font>=
+</td>
+<td align=3D"right" valign=3D"top" width=3D"50"><img alt=3D"" border=3D"0" =
+height=3D"15" src=3D"http://img.delivery.net/cm50content/18628/55092/spacer=
+..gif" width=3D"50" style=3D"display:block"></td></tr><tr><td align=3D"left"=
+ valign=3D"top" width=3D"20">
+<img src=3D"http://img.delivery.net/cm50content/18628/54200/spacer.gif" wid=
+th=3D"20" height=3D"15" border=3D"0" alt=3D"" style=3D"display:block"></td>=
+<td width=3D"120"><img src=3D"http://img.delivery.net/cm50content/18628/542=
+00/spacer.gif" width=3D"120" height=3D"15" border=3D"0" alt=3D"" style=3D"d=
+isplay:block"></td>
+<td width=3D"10"></td><td width=3D"350"></td><td width=3D"10"></td><td widt=
+h=3D"120"></td><td align=3D"right" valign=3D"top" width=3D"50"><img alt=3D"=
+" border=3D"0" height=3D"15" src=3D"http://img.delivery.net/cm50content/186=
+28/55092/spacer.gif" width=3D"50" style=3D"display:block"></td>
+</tr><tr><td align=3D"left" valign=3D"top" width=3D"20"><img src=3D"http://=
+img.delivery.net/cm50content/18628/54200/spacer.gif" width=3D"20" height=3D=
+"20" border=3D"0" alt=3D"" style=3D"display:block"></td><td align=3D"left" =
+valign=3D"top" width=3D"120">
+<font style=3D"font-size:11px;line-height:14px;font-family:Arial,Helvetica,=
+sans-serif">1492651</font></td><td align=3D"left" valign=3D"top" width=3D"1=
+0"><img src=3D"http://img.delivery.net/cm50content/18628/54200/spacer.gif" =
+width=3D"10" height=3D"20" border=3D"0" alt=3D"" style=3D"display:block"></=
+td>
+<td align=3D"left" valign=3D"top" width=3D"350"><font style=3D"font-size:11=
+px;line-height:14px;font-family:Arial,Helvetica,sans-serif"><span>SC GREEN =
+DUAL SHARPENER</span><span></span></font></td><td align=3D"left" valign=3D"=
+top" width=3D"10">
+<img src=3D"http://img.delivery.net/cm50content/18628/54200/spacer.gif" wid=
+th=3D"10" height=3D"20" border=3D"0" alt=3D"" style=3D"display:block"></td>=
+<td align=3D"right" valign=3D"top" width=3D"120"><font style=3D"font-size:1=
+1px;line-height:14px;font-family:Arial,Helvetica,sans-serif">3.00-TT</font>=
+</td>
+<td align=3D"right" valign=3D"top" width=3D"50"><img alt=3D"" border=3D"0" =
+height=3D"15" src=3D"http://img.delivery.net/cm50content/18628/55092/spacer=
+..gif" width=3D"50" style=3D"display:block"></td></tr></tbody></table></td><=
+/tr><tr><td align=3D"center" valign=3D"top">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td alig=
+n=3D"right" valign=3D"top" width=3D"540"></td><td align=3D"right" valign=3D=
+"top" width=3D"90"><img alt=3D"" border=3D"0" height=3D"15" src=3D"http://i=
+mg.delivery.net/cm50content/18628/55103/spacer.gif" width=3D"10" style=3D"d=
+isplay:block"></td>
+<td align=3D"right" valign=3D"top" width=3D"50"><img alt=3D"" border=3D"0" =
+height=3D"15" src=3D"http://img.delivery.net/cm50content/18628/55103/spacer=
+..gif" width=3D"50" style=3D"display:block"></td></tr><tr><td align=3D"right=
+" valign=3D"top" width=3D"540">
+<font style=3D"font-size:11px;line-height:14px;font-family:Arial,Helvetica,=
+sans-serif">Subtotal</font></td><td align=3D"right" valign=3D"top" width=3D=
+"90"><font style=3D"font-size:11px;line-height:14px;font-family:Arial,Helve=
+tica,sans-serif">$14.00-</font></td>
+<td align=3D"right" valign=3D"top" width=3D"50"></td></tr><tr><td align=3D"=
+right" valign=3D"top" width=3D"540"></td><td align=3D"right" valign=3D"top"=
+ width=3D"90"><img alt=3D"" border=3D"0" height=3D"15" src=3D"http://img.de=
+livery.net/cm50content/18628/55103/spacer.gif" width=3D"10" style=3D"displa=
+y:block"></td>
+<td align=3D"right" valign=3D"top" width=3D"50"><img alt=3D"" border=3D"0" =
+height=3D"15" src=3D"http://img.delivery.net/cm50content/18628/55103/spacer=
+..gif" width=3D"50" style=3D"display:block"></td></tr></tbody></table><table=
+ border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+<tbody><tr><td align=3D"right" valign=3D"top" width=3D"540"><font style=3D"=
+font-size:11px;line-height:14px;font-family:Arial,Helvetica,sans-serif">HST=
+ Tax 13.00%</font></td><td align=3D"right" valign=3D"top" width=3D"90"><fon=
+t style=3D"font-size:11px;line-height:14px;font-family:Arial,Helvetica,sans=
+-serif">$1.82-</font></td>
+<td align=3D"right" valign=3D"top" width=3D"50"></td></tr><tr><td align=3D"=
+right" valign=3D"top" width=3D"540"></td><td align=3D"right" valign=3D"top"=
+ width=3D"90"><img alt=3D"" border=3D"0" height=3D"15" src=3D"http://img.de=
+livery.net/cm50content/18628/55092/spacer.gif" width=3D"10" style=3D"displa=
+y:block"></td>
+<td align=3D"right" valign=3D"top" width=3D"50"><img alt=3D"" border=3D"0" =
+height=3D"15" src=3D"http://img.delivery.net/cm50content/18628/55092/spacer=
+..gif" width=3D"50" style=3D"display:block"></td></tr></tbody></table><table=
+ align=3D"center" bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" width=3D"680">
+<tbody><tr><td align=3D"right" valign=3D"top" width=3D"540"><font style=3D"=
+font-size:11px;line-height:14px;font-family:Arial,Helvetica,sans-serif"><b>=
+Store Total</b></font></td><td align=3D"right" valign=3D"top" width=3D"90">=
+<font style=3D"font-size:11px;line-height:14px;font-family:Arial,Helvetica,=
+sans-serif"><b>$15.82-</b></font></td>
+<td align=3D"right" valign=3D"top" width=3D"50"></td></tr><tr><td align=3D"=
+right" valign=3D"top" width=3D"540"></td><td align=3D"right" valign=3D"top"=
+ width=3D"90"></td><td align=3D"right" valign=3D"top" width=3D"50"><img alt=
+=3D"" border=3D"0" height=3D"15" src=3D"http://img.delivery.net/cm50content=
+/18628/55103/spacer.gif" width=3D"50" style=3D"display:block"></td>
+</tr></tbody></table></td></tr><tr><td align=3D"center" valign=3D"top"><tab=
+le border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"680"><tbody><t=
+r><td align=3D"left" bgcolor=3D"#a8a8a8" colspan=3D"2" valign=3D"top" width=
+=3D"680" style=3D"line-height:0px;font-size:0px">
+<img alt=3D"" border=3D"0" height=3D"1" src=3D"http://img.delivery.net/cm50=
+content/18628/54200/spacer.gif" width=3D"1" style=3D"display:block"></td></=
+tr><tr><td align=3D"left" valign=3D"top" width=3D"20"><img alt=3D"" border=
+=3D"0" height=3D"38" src=3D"http://img.delivery.net/cm50content/18628/54200=
+/spacer.gif" width=3D"20" style=3D"display:block"></td>
+<td width=3D"660"><font style=3D"font-size:11px;line-height:14px;font-famil=
+y:Arial,Helvetica,sans-serif"><b>RETURN DETAILS</b></font></td></tr><tr><td=
+ align=3D"left" bgcolor=3D"#a8a8a8" colspan=3D"2" valign=3D"top" width=3D"6=
+80" style=3D"line-height:0px;font-size:0px">
+<img alt=3D"" border=3D"0" height=3D"1" src=3D"http://img.delivery.net/cm50=
+content/18628/54200/spacer.gif" width=3D"1" style=3D"display:block"></td></=
+tr></tbody></table><table bgcolor=3D"#f5f5f5" border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0" width=3D"680">
+<tbody><tr><td width=3D"20" align=3D"left" valign=3D"top"><img alt=3D"" bor=
+der=3D"0" height=3D"38" src=3D"http://img.delivery.net/cm50content/18628/54=
+200/spacer.gif" width=3D"20" style=3D"display:block"></td><td align=3D"left=
+" valign=3D"top"><table border=3D"0" align=3D"left" cellpadding=3D"0" cells=
+pacing=3D"0">
+<tbody><tr><td align=3D"left" valign=3D"middle" style=3D"line-height:0px;fo=
+nt-size:0px"><img alt=3D"" border=3D"0" height=3D"15" src=3D"http://img.del=
+ivery.net/cm50content/18628/54200/spacer.gif" width=3D"70" style=3D"display=
+:block"></td></tr>
+<tr><td align=3D"left" valign=3D"middle"><img alt=3D"" border=3D"0" height=
+=3D"15" src=3D"http://img.delivery.net/cm50content/18628/54200/spacer.gif" =
+width=3D"70" style=3D"display:block"></td><td align=3D"right" valign=3D"mid=
+dle" width=3D"60"><img alt=3D"" border=3D"0" height=3D"15" src=3D"http://im=
+g.delivery.net/cm50content/18628/54200/spacer.gif" width=3D"60" style=3D"di=
+splay:block"></td>
+<td align=3D"right" valign=3D"middle"></td></tr><tr><td align=3D"left" vali=
+gn=3D"middle"><font style=3D"font-size:11px;line-height:14px;font-family:Ar=
+ial,Helvetica,sans-serif">CASH</font></td><td align=3D"right" valign=3D"mid=
+dle" width=3D"60">
+<img alt=3D"" border=3D"0" height=3D"15" src=3D"http://img.delivery.net/cm5=
+0content/18628/54200/spacer.gif" width=3D"60" style=3D"display:block"></td>=
+<td align=3D"right" valign=3D"middle"><font style=3D"font-size:11px;line-he=
+ight:14px;font-family:Arial,Helvetica,sans-serif">CAD$15.80-</font></td>
+</tr><tr><td align=3D"left" valign=3D"middle"><img alt=3D"" border=3D"0" he=
+ight=3D"15" src=3D"http://img.delivery.net/cm50content/18628/54200/spacer.g=
+if" width=3D"70" style=3D"display:block"></td><td align=3D"right" valign=3D=
+"middle" width=3D"60">
+<img alt=3D"" border=3D"0" height=3D"15" src=3D"http://img.delivery.net/cm5=
+0content/18628/54200/spacer.gif" width=3D"60" style=3D"display:block"></td>=
+<td align=3D"right" valign=3D"middle"></td></tr><tr><td align=3D"left" vali=
+gn=3D"middle"><img alt=3D"" border=3D"0" height=3D"15" src=3D"http://img.de=
+livery.net/cm50content/18628/54200/spacer.gif" width=3D"70" style=3D"displa=
+y:block"></td>
+<td align=3D"right" valign=3D"middle" width=3D"60"><img alt=3D"" border=3D"=
+0" height=3D"15" src=3D"http://img.delivery.net/cm50content/18628/54200/spa=
+cer.gif" width=3D"60" style=3D"display:block"></td><td align=3D"right" vali=
+gn=3D"middle"></td>
+</tr><tr><td align=3D"left" valign=3D"middle"><font style=3D"font-size:11px=
+;line-height:14px;font-family:Arial,Helvetica,sans-serif">ROUNDED AMOUNT</f=
+ont></td><td align=3D"right" valign=3D"middle" width=3D"60"><img alt=3D"" b=
+order=3D"0" height=3D"15" src=3D"http://img.delivery.net/cm50content/18628/=
+54200/spacer.gif" width=3D"60" style=3D"display:block"></td>
+<td align=3D"right" valign=3D"middle"><font style=3D"font-size:11px;line-he=
+ight:14px;font-family:Arial,Helvetica,sans-serif">$0.02</font></td></tr><tr=
+><td align=3D"left" valign=3D"middle"><img alt=3D"" border=3D"0" height=3D"=
+15" src=3D"http://img.delivery.net/cm50content/18628/54200/spacer.gif" widt=
+h=3D"70" style=3D"display:block"></td>
+<td align=3D"right" valign=3D"middle" width=3D"60"><img alt=3D"" border=3D"=
+0" height=3D"15" src=3D"http://img.delivery.net/cm50content/18628/54200/spa=
+cer.gif" width=3D"60" style=3D"display:block"></td><td align=3D"right" vali=
+gn=3D"middle"></td>
+</tr><tr><td align=3D"left" valign=3D"middle"><img alt=3D"" border=3D"0" he=
+ight=3D"15" src=3D"http://img.delivery.net/cm50content/18628/54200/spacer.g=
+if" width=3D"70" style=3D"display:block"></td></tr></tbody></table></td><td=
+ width=3D"360">
+<img alt=3D"" border=3D"0" height=3D"15" src=3D"http://img.delivery.net/cm5=
+0content/18628/54200/spacer.gif" width=3D"20" style=3D"display:block"></td>=
+</tr></tbody></table></td></tr></tbody></table></td></tr><tr><td><table ali=
+gn=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"680=
+">
+<tbody><tr><td width=3D"240"></td><td align=3D"center" width=3D"200"><img a=
+lt=3D"" border=3D"0" height=3D"20" src=3D"http://img.delivery.net/cm50conte=
+nt/18628/67752/spacer.gif" width=3D"1"></td><td width=3D"240"></td></tr><tr=
+><td width=3D"240">
+</td><td align=3D"center" width=3D"200"><font style=3D"font-size:11px;line-=
+height:14px;font-family:Arial,Helvetica,sans-serif"><b>RECEIPT #</b></font>=
+</td><td width=3D"240"></td></tr><tr><td width=3D"240"></td><td align=3D"ce=
+nter" width=3D"200">
+<img alt=3D"" border=3D"0" height=3D"6" src=3D"http://img.delivery.net/cm50=
+content/18628/67752/spacer.gif" width=3D"1"></td><td width=3D"240"></td></t=
+r><tr><td width=3D"240"></td><td align=3D"center" width=3D"200"></td><td wi=
+dth=3D"240"></td>
+</tr><tr><td width=3D"240"></td><td align=3D"center" width=3D"200"><font st=
+yle=3D"font-size:11px;line-height:14px;font-family:Arial,Helvetica,sans-ser=
+if"></font></td><td width=3D"240"></td></tr><tr><td width=3D"240"></td><td =
+align=3D"center" width=3D"200">
+<img alt=3D"" border=3D"0" height=3D"6" src=3D"http://img.delivery.net/cm50=
+content/18628/67752/spacer.gif" width=3D"1"></td><td width=3D"240"></td></t=
+r><tr><td width=3D"240"></td><td align=3D"center" width=3D"200"><font style=
+=3D"font-size:11px;line-height:14px;font-family:Arial,Helvetica,sans-serif"=
+><b>TRANSACTION # 86525</b></font></td>
+<td width=3D"240"></td></tr><tr><td width=3D"240"></td><td align=3D"center"=
+ width=3D"200"><img alt=3D"" border=3D"0" height=3D"6" src=3D"http://img.de=
+livery.net/cm50content/18628/67752/spacer.gif" width=3D"1"></td><td width=
+=3D"240"></td></tr>
+<tr><td width=3D"240"></td><td align=3D"center" width=3D"200"><font style=
+=3D"font-size:11px;line-height:14px;font-family:Arial,Helvetica,sans-serif"=
+><b>STORE # 0506</b></font></td><td width=3D"240"></td></tr></tbody></table=
+></td></tr>
+<tr><td><img alt=3D"" border=3D"0" height=3D"35" src=3D"http://img.delivery=
+..net/cm50content/18628/67947/spacer.gif" width=3D"1" style=3D"display:block=
+"></td></tr><tr><td bgcolor=3D"black" style=3D"font-size:10px;line-height:0=
+px"><img alt=3D"" border=3D"0" height=3D"4" src=3D"http://img.delivery.net/=
+cm50content/18628/67947/spacer.gif" width=3D"10" style=3D"display:block"></=
+td>
+</tr><tr><td><img alt=3D"" border=3D"0" height=3D"35" src=3D"http://img.del=
+ivery.net/cm50content/18628/67947/spacer.gif" width=3D"1" style=3D"display:=
+block"></td></tr><tr><td><table align=3D"center" bgcolor=3D"black" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"680">
+<tbody><tr height=3D"8"><td colspan=3D"3" height=3D"8" style=3D"line-height=
+:0px;font-size:0px"><img alt=3D"" border=3D"0" height=3D"8" src=3D"http://i=
+mg.delivery.net/cm50content/18628/61278/spacer.gif" width=3D"8" style=3D"di=
+splay:block"></td>
+</tr><tr><td width=3D"10" style=3D"line-height:0px;font-size:0px"><img alt=
+=3D"" border=3D"0" height=3D"8" src=3D"http://img.delivery.net/cm50content/=
+18628/61278/spacer.gif" width=3D"8" style=3D"display:block"></td><td align=
+=3D"center" bgcolor=3D"white" valign=3D"middle">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td styl=
+e=3D"line-height:0px;font-size:0px"><a href=3D"http://shop.sephora.com/r/c/=
+r?2.1.3JG.2VF.1Cu7%2aK.QC7mmI..N.2%2axX4.2EQS.bW89MSZrPW51bGwmbXAyMDQ0Nj0%5=
+fDSGAHAP0" target=3D"_blank"><img alt=3D"Enter To Win A C$250 Gift Card | T=
+ell us about your Sephora experience and you&#39;ll be entered to win a C$2=
+50 Sephora Gift Card. There&#39;s a new winner each week!**| Take Our Surve=
+y" border=3D"0" height=3D"162" src=3D"http://img.delivery.net/cm50content/1=
+8628/61278/10192013_eReceipts_CAD_ENG_03.gif" width=3D"664" style=3D"displa=
+y:block"></a><a href=3D"http://shop.sephora.com/r/c/r?2.1.3JG.2VF.1Cu7%2aK.=
+QC7mmI..N.2%2axX4.2EQS.bW89MSZrPW51bGwmbXAyMDQ0Nj0%5fDSGAHAP0" target=3D"_b=
+lank"><img alt=3D"Enter To Win A C$250 Gift Card | Tell us about your Sepho=
+ra experience and you&#39;ll be entered to win a C$250 Sephora Gift Card. T=
+here&#39;s a new winner each week!**| Take Our Survey" border=3D"0" height=
+=3D"1" src=3D"http://img.delivery.net/cm50content/18628/61278/1019_CAD_Mobi=
+le_Ereceipts-Recovered_03.gif" width=3D"1" style=3D"display:block"></a></td=
+>
+</tr></tbody></table></td><td align=3D"left" valign=3D"middle" width=3D"8" =
+style=3D"line-height:0px;font-size:0px"><img alt=3D"" border=3D"0" height=
+=3D"8" src=3D"http://img.delivery.net/cm50content/18628/61278/spacer.gif" w=
+idth=3D"8" style=3D"display:block"></td>
+</tr><tr><td colspan=3D"3" style=3D"line-height:0px;font-size:0px"><img alt=
+=3D"" border=3D"0" height=3D"8" src=3D"http://img.delivery.net/cm50content/=
+18628/61278/spacer.gif" width=3D"8" style=3D"display:block"></td></tr></tbo=
+dy></table></td>
+</tr><tr><td><img alt=3D"" border=3D"0" height=3D"23" src=3D"http://img.del=
+ivery.net/cm50content/18628/67947/spacer.gif" width=3D"1" style=3D"display:=
+block"></td></tr><tr><td><table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"700">
+<tbody><tr><td width=3D"85"><img alt=3D"" border=3D"0" height=3D"8" src=3D"=
+http://img.delivery.net/cm50content/18628/61280/spacer.gif" width=3D"85" st=
+yle=3D"display:block"></td><td><table bgcolor=3D"#f3f3f3" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0">
+<tbody><tr><td colspan=3D"3"><a href=3D"http://shop.sephora.com/r/c/r?2.1.3=
+JG.2VF.1Cu7%2aK.QC7mmI..N.2%2axX2.2EQS.bW89MSZrPW51bGwmbXAyMDQ0Nj0%5fDRccHA=
+N0" target=3D"_blank"><img alt=3D"BEAUTY INSIDER" border=3D"0" height=3D"60=
+" src=3D"http://img.delivery.net/cm50content/18628/61280/BI_banner_des_05.g=
+if" width=3D"529"></a></td>
+</tr><tr><td colspan=3D"3" style=3D"line-height:0px;font-size:0px"><a href=
+=3D"http://shop.sephora.com/r/c/r?2.1.3JG.2VF.1Cu7%2aK.QC7mmI..N.2%2axX2.2E=
+QS.bW89MSZrPW51bGwmbXAyMDQ0Nj0%5fDRccHAN0" target=3D"_blank"><img alt=3D"BE=
+AUTY INSIDER" border=3D"0" height=3D"1" src=3D"http://img.delivery.net/cm50=
+content/18628/61280/BI_banner_res_04.gif" width=3D"1"></a></td>
+</tr><tr><td><img alt=3D"" border=3D"0" height=3D"8" src=3D"http://img.deli=
+very.net/cm50content/18628/61280/spacer.gif" width=3D"70" style=3D"display:=
+block"></td><td align=3D"center"><font style=3D"font-size:12px;line-height:=
+15px;font-family:Arial,Helvetica,sans-serif">Becoming an Insider is your fa=
+st track to a never-ending supply of beauty rewards. Get a complimentary bi=
+rthday gift and exclusive offers, plus earn points toward free samples and =
+events.<br>
+<br></font><a href=3D"http://shop.sephora.com/r/c/r?2.1.3JG.2VF.1Cu7%2aK.QC=
+7mmI..N.2%2axX2.2EQS.bW89MSZrPW51bGwmbXAyMDQ0Nj0%5fDRccHAN0" target=3D"_bla=
+nk"><img alt=3D"Reward yourself" border=3D"0" height=3D"21" src=3D"http://i=
+mg.delivery.net/cm50content/18628/61280/reward_yourself_cta_07.gif" width=
+=3D"189"></a></td>
+<td><img alt=3D"" border=3D"0" height=3D"8" src=3D"http://img.delivery.net/=
+cm50content/18628/61280/spacer.gif" width=3D"70" style=3D"display:block"></=
+td></tr><tr><td></td><td align=3D"center"><img alt=3D"" border=3D"0" height=
+=3D"30" src=3D"http://img.delivery.net/cm50content/18628/61280/spacer.gif" =
+width=3D"1" style=3D"display:block"></td>
+<td></td></tr></tbody></table></td><td width=3D"86"><img alt=3D"" border=3D=
+"0" height=3D"8" src=3D"http://img.delivery.net/cm50content/18628/61280/spa=
+cer.gif" width=3D"86" style=3D"display:block"></td></tr></tbody></table></t=
+d></tr><tr>
+<td align=3D"center"><a href=3D"http://shop.sephora.com/r/c/r?2.1.3JG.2VF.1=
+Cu7%2aK.QC7mmI..N.3%2aNtq.2EQS.bW89MSZyc0NVU1RPTV9UUkFDS0lORz1jYW4rbmV3czEr=
+ZXJlY2VpcHRzK2NhbnJlZ2lvbiZtcDIwNDQ2PQ%5f%5fORYLbS00" target=3D"_blank"><im=
+g alt=3D"Forgot something? Shop Sephora.ca anytime, anywhere." border=3D"0"=
+ height=3D"124" src=3D"http://img.delivery.net/cm50content/18628/67947/forg=
+otsomething.gif" width=3D"320" style=3D"display:block"></a></td>
+</tr><tr><td bgcolor=3D"black" style=3D"font-size:10px;line-height:0px"><im=
+g alt=3D"" border=3D"0" height=3D"4" src=3D"http://img.delivery.net/cm50con=
+tent/18628/67947/spacer.gif" width=3D"10" style=3D"display:block"></td></tr=
+><tr><td><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"6=
+80">
+<tbody><tr><td colspan=3D"3"></td></tr><tr><td><img alt=3D"" border=3D"0" h=
+eight=3D"35" src=3D"http://img.delivery.net/cm50content/18628/67947/spacer.=
+gif" width=3D"1" style=3D"display:block"></td><td></td><td></td></tr><tr><t=
+d><img alt=3D"" border=3D"0" height=3D"25" src=3D"http://img.delivery.net/c=
+m50content/18628/67947/spacer.gif" width=3D"20" style=3D"display:block"></t=
+d>
+<td align=3D"center"><font face=3D"Arial,sans-serif" size=3D"1" style=3D"fo=
+nt-family:Arial,sans-serif;font-size:10px"><span><a href=3D"http://shop.sep=
+hora.com/r/c/r?2.1.3JG.2VF.1Cu7%2aK.QC7mmI..N.3%2aNts.2EQS.bW89MSZyc0NVU1RP=
+TV9UUkFDS0lORz1jYW4rbmV3czErZXJlY2VpcHRzK2NhbnJlZ2lvbiZtcDIwNDQ2PSZpPXNoYWh=
+hZC5tYWhkaUByeWVyc29uLmNhBNNaOWe0" style=3D"text-decoration:none" target=3D=
+"_blank"><font face=3D"Arial,sans-serif" size=3D"1" style=3D"font-family:Ar=
+ial,sans-serif;font-size:10px;text-decoration:none">Live in the USA?</font>=
+</a><span>=C2=A0</span>|<span>=C2=A0</span><a href=3D"http://shop.sephora.c=
+om/r/c/r?2.1.3JG.2VF.1Cu7%2aK.QC7mmI..N.3%2aNtu.2EQS.bW89MSZyc0NVU1RPTV9UUk=
+FDS0lORz1jYW4rbmV3czErZXJlY2VpcHRzK2NhbnJlZ2lvbiZtcDIwNDQ2PQ%5f%5fPSALbW00"=
+ style=3D"text-decoration:none" target=3D"_blank"><font face=3D"Arial,sans-=
+serif" size=3D"1" style=3D"font-family:Arial,sans-serif;font-size:10px;text=
+-decoration:none">Beauty Insider</font></a><span>=C2=A0</span>|<span>=C2=A0=
+</span></span><a href=3D"http://shop.sephora.com/r/c/r?2.1.3JG.2VF.1Cu7%2aK=
+..QC7mmI..N.3%2aNtw.2EQS.bW89MSZyc0NVU1RPTV9UUkFDS0lORz1jYW4rbmV3czErZXJlY2V=
+pcHRzK2NhbnJlZ2lvbiZtcDIwNDQ2PQ%5f%5fQCELbY00" style=3D"text-decoration:non=
+e" target=3D"_blank"><font face=3D"Arial,sans-serif" size=3D"1" style=3D"fo=
+nt-family:Arial,sans-serif;font-size:10px;text-decoration:none">Contact Us<=
+/font></a><span>=C2=A0</span>|<span>=C2=A0</span><a href=3D"http://shop.sep=
+hora.com/r/c/r?2.1.3JG.2VF.1Cu7%2aK.QC7mmI..N.3%2aNty.2EQS.bW89MSZyc0NVU1RP=
+TV9UUkFDS0lORz1jYW4rbmV3czErZXJlY2VpcHRzK2NhbnJlZ2lvbiZtcDIwNDQ2PQ%5f%5fQSI=
+Lba00" style=3D"text-decoration:none" target=3D"_blank"><font face=3D"Arial=
+,sans-serif" size=3D"1" style=3D"font-family:Arial,sans-serif;font-size:10p=
+x;text-decoration:none">Privacy Policy</font></a><span>=C2=A0</span><span>|=
+<span>=C2=A0</span><a href=3D"http://shop.sephora.com/r/c/r?2.1.3JG.2VF.1Cu=
+7%2aK.QC7mmI..N.3%2aNt%5f.2EQS.bW89MSZyc0NVU1RPTV9UUkFDS0lORz1jYW4rbmV3czEr=
+ZXJlY2VpcHRzK2NhbnJlZ2lvbiZtcDIwNDQ2PQ%5f%5fKAULbA00" style=3D"text-decorat=
+ion:none" target=3D"_blank"><font face=3D"Arial,sans-serif" size=3D"1" styl=
+e=3D"font-family:Arial,sans-serif;font-size:10px;text-decoration:none">Stor=
+e Locator</font></a><span>=C2=A0</span>|<span>=C2=A0</span><a href=3D"http:=
+//shop.sephora.com/r/c/r?2.1.3JG.2VF.1Cu7%2aK.QC7mmI..N.3%2aNu0.2EQS.bW89MS=
+Zyc0NVU1RPTV9UUkFDS0lORz1jYW4rbmV3czErZXJlY2VpcHRzK2NhbnJlZ2lvbiZtcDIwNDQ2P=
+Q%5f%5fDeMcLZS0" style=3D"text-decoration:none" target=3D"_blank"><font fac=
+e=3D"Arial,sans-serif" size=3D"1" style=3D"font-family:Arial,sans-serif;fon=
+t-size:10px;text-decoration:none">Beauty Deals</font></a></span><br>
+<br>You are receiving this one-time transactional email at<span>=C2=A0</spa=
+n><a href=3D"mailto:shahad.mahdi@ryerson.ca" target=3D"_blank">shahad.mahdi=
+@ryerson.ca</a><span>=C2=A0</span>because you requested a digital receipt a=
+t a Sephora retail location. Add<span>=C2=A0</span><a href=3D"mailto:custom=
+erservice@cs.sephora.com" target=3D"_blank">customerservice@cs.sephora.com<=
+/a><span>=C2=A0</span>to your address book to be sure you receive future di=
+gital receipts.<span>=C2=A0</span><br>
+<br>If you believe you are receiving this email in error, please call 1-877=
+-SEPHORA <a href=3D"tel:%281-877-737-4672" value=3D"+18777374672" target=3D=
+"_blank">(1-877-737-4672</a>).<br>Please note that the information containe=
+d in the above email is only relevant for Sephora stores in Canada.<br>
+We do not share your information with anyone.<br><br>=C2=A92014 Sephora USA=
+, Inc., 525 Market Street, Suite 350, San Francisco, CA 94105. All rights r=
+eserved.<br></font></td><td><img alt=3D"" border=3D"0" height=3D"25" src=3D=
+"http://img.delivery.net/cm50content/18628/67947/spacer.gif" width=3D"20" s=
+tyle=3D"display:block"></td>
+</tr></tbody></table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" width=3D"680"><tbody><tr><td><img alt=3D"" border=3D"0" height=3D"25" src=
+=3D"http://img.delivery.net/cm50content/18628/67947/spacer.gif" width=3D"1"=
+ style=3D"display:block"></td>
+<td></td><td></td></tr><tr><td colspan=3D"3" valign=3D"top"><img alt=3D"" b=
+order=3D"0" height=3D"1" src=3D"http://img.delivery.net/cm50content/18628/6=
+7947/dotsH700-100.gif" width=3D"700" style=3D"display:block"></td></tr><tr>=
+<td><img alt=3D"" border=3D"0" height=3D"25" src=3D"http://img.delivery.net=
+/cm50content/18628/67947/spacer.gif" width=3D"1" style=3D"display:block"></=
+td>
+<td></td><td></td></tr></tbody></table><table border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0" width=3D"680"><tbody><tr><td><img alt=3D"" border=3D"0"=
+ height=3D"25" src=3D"http://img.delivery.net/cm50content/18628/67947/space=
+r.gif" width=3D"80" style=3D"display:block"></td>
+<td align=3D"center"><font style=3D"font-size:11px;line-height:12px;font-fa=
+mily:Arial,Helvetica,sans-serif;color:rgb(51,51,51)">** No purchase or surv=
+ey necessary. Must be at least 16 years old to enter. Odds depend on number=
+ of entries. See website for official rules. Ends 12/31/14.</font></td>
+<td><img alt=3D"" border=3D"0" height=3D"25" src=3D"http://img.delivery.net=
+/cm50content/18628/67947/spacer.gif" width=3D"80" style=3D"display:block"><=
+/td></tr></tbody></table><table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"680">
+<tbody><tr><td><img alt=3D"" border=3D"0" height=3D"25" src=3D"http://img.d=
+elivery.net/cm50content/18628/67947/spacer.gif" width=3D"1" style=3D"displa=
+y:block"></td><td></td><td></td></tr><tr><td colspan=3D"3" valign=3D"top"><=
+img alt=3D"" border=3D"0" height=3D"1" src=3D"http://img.delivery.net/cm50c=
+ontent/18628/67947/dotsH700-100.gif" width=3D"700" style=3D"display:block">=
+</td>
+</tr><tr><td><img alt=3D"" border=3D"0" height=3D"30" src=3D"http://img.del=
+ivery.net/cm50content/18628/67947/spacer.gif" width=3D"1" style=3D"display:=
+block"></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr>=
+<td><img alt=3D"" border=3D"0" height=3D"25" src=3D"http://img.delivery.net=
+/cm50content/18628/67947/spacer.gif" width=3D"20" style=3D"display:block"><=
+/td>
+<td align=3D"center"><font style=3D"font-size:11px;line-height:12px;font-fa=
+mily:Arial,Helvetica,sans-serif;color:rgb(51,51,51)">Please retain a copy o=
+f your receipt and we will gladly return or exchange your purchase at any S=
+ephora location.</font></td>
+<td><img alt=3D"" border=3D"0" height=3D"25" src=3D"http://img.delivery.net=
+/cm50content/18628/67947/spacer.gif" width=3D"20" style=3D"display:block"><=
+/td></tr></tbody></table><table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"680">
+<tbody><tr><td><img alt=3D"" border=3D"0" height=3D"30" src=3D"http://img.d=
+elivery.net/cm50content/18628/67947/spacer.gif" width=3D"1" style=3D"displa=
+y:block"></td><td></td><td></td></tr></tbody></table></td></tr></tbody></ta=
+ble></td>
+</tr></tbody></table><br style=3D"font-family:Helvetica;font-size:12px;font=
+-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;=
+line-height:normal;text-align:start;text-indent:0px;text-transform:none;whi=
+te-space:normal;word-spacing:0px">
+<br style=3D"font-family:Helvetica;font-size:12px;font-style:normal;font-va=
+riant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;te=
+xt-align:start;text-indent:0px;text-transform:none;white-space:normal;word-=
+spacing:0px">
+<br style=3D"font-family:Helvetica;font-size:12px;font-style:normal;font-va=
+riant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;te=
+xt-align:start;text-indent:0px;text-transform:none;white-space:normal;word-=
+spacing:0px">
+<font color=3D"#666666" face=3D"Verdana,Helvetica" size=3D"1" style=3D"font=
+-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;=
+line-height:normal;text-align:start;text-indent:0px;text-transform:none;whi=
+te-space:normal;word-spacing:0px"></font><br style=3D"font-family:Helvetica=
+;font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;le=
+tter-spacing:normal;line-height:normal;text-align:start;text-indent:0px;tex=
+t-transform:none;white-space:normal;word-spacing:0px">
+<img width=3D"1" height=3D"1" src=3D"http://open.delivery.net/o?2.2.3JG.2VF=
+..1Cu7%2aK.QC7mmI..N..2EQS.ZD0wJm1vPTE%5fCSLQFMe0" alt=3D" " style=3D"font-f=
+amily:Helvetica;font-size:12px;font-style:normal;font-variant:normal;font-w=
+eight:normal;letter-spacing:normal;line-height:normal;text-align:start;text=
+-indent:0px;text-transform:none;white-space:normal;word-spacing:0px"></div>
+</blockquote></div><br></div></div><br></div>
+
+--bcaec51d2a34d314460500113902--
+.

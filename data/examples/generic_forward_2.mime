@@ -1,0 +1,701 @@
+X-Mailgun-Dkim-Check-Result: Pass
+X-Mailgun-Spf: Neutral
+X-Mailgun-Sscore: 0.0
+X-Mailgun-Sflag: No
+X-Mailgun-Incoming: Yes
+X-Envelope-From: <jamie@moonrider.com>
+Received: from mail-lb0-f171.google.com (mail-lb0-f171.google.com [209.85.217.171])
+ by mxa.mailgun.org with ESMTP id 5676b299.64337b0-in2;
+ Sun, 20 Dec 2015 13:52:25 -0000 (UTC)
+Received: by mail-lb0-f171.google.com with SMTP id kw15so85413423lbb.0
+        for <jpa@billpass.ca>; Sun, 20 Dec 2015 05:52:24 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=moonrider-com.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        bh=mSM0ksKIxQlIX4PGTzDMJFBbPbnVPYtuSBpESUSMW3Y=;
+        b=KRK6s2vB4MXxxfSJIc/z3nnjvMVUdlwPiz9chVjSixnnH6r894TRQN0yNnPhVsWlAR
+         cFZCF0Np+zBTMDaCH4Rd5EjW4ODDuyLWwlTRmhF05/nimMegYpBGDxHXxkLrS7AsGvvd
+         KHQJAdPsh04KIM70RRo/zHoDDu1cHvv61St8XdUXCwfabDn0rntlltJcX6drZyiha298
+         PG705Ve4hqW3W12T2AwIrU7CC3KkEj+CNYLdakUAbaThJ2zletqFF8zcbYexgiPWiEHF
+         wS7eU8/weUDecjo1VCsbfPxUoroEvxB9SdqQ4j34Vmma5Os07Bc9Ja9T3ly3L1OLeOzL
+         gHSA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:from:to:content-type;
+        bh=mSM0ksKIxQlIX4PGTzDMJFBbPbnVPYtuSBpESUSMW3Y=;
+        b=HFhosgn/Kf1/YWvPqQS8oRywWonwec5kiqBmjhM5PipVDr9e2hY5P8O04IO5MC8xsL
+         bJEB2BKBqWjXDkcv+ESQYQyeU9UlfzMQdd4LEmjENjYgjic3ef7QLNCs8cpgVMsaxlNH
+         U8cXypoTTiEI2x7Oh4k1wZAO+vz2Apkv+wnRNfXU97TWOQZVSWTu72SEdESy4tBLB6E6
+         2EaKU5qaegJm5BOQumzj+0UcDi5c+4ynl6O8/grZK2aEjhd7XLFOtki/V2H/5doJcVvU
+         hpxBLAU+ZdBSymRrZ8Cri9t9HQb9TvhgAhsW+dgBKL2Atmuu42V/kKZ7Dmy6wCPAmUzt
+         xfig==
+X-Gm-Message-State: ALoCoQkK1eCXVwhn1sKswHdZQq7cuuQgOj34wNCKFFVYeeQ9fHy6bW0f3gnUz76XiLGszgFny/Y4eKVRBuKlvZl9LBZen423Gg==
+MIME-Version: 1.0
+X-Received: by 10.112.202.195 with SMTP id kk3mr3849105lbc.59.1450619543411;
+ Sun, 20 Dec 2015 05:52:23 -0800 (PST)
+Received: by 10.114.79.71 with HTTP; Sun, 20 Dec 2015 05:52:23 -0800 (PST)
+In-Reply-To: <00000151be1bd442-3971f62e-d601-47dd-a332-a3236d478f04-000000@email.amazonses.com>
+References: <00000151be1bd442-3971f62e-d601-47dd-a332-a3236d478f04-000000@email.amazonses.com>
+Date: Sun, 20 Dec 2015 08:52:23 -0500
+Message-ID: <CADO8s6JUb4XCdi4hM9qRZpfcKi5omH=GwnFf-Du6v4_wx3oMMg@mail.gmail.com>
+Subject: Fwd: Amazon.com order of Signs Preceding the End of the World.
+From: Jamie Alexander <jamie@moonrider.com>
+To: "jpa@billpass.ca" <jpa@billpass.ca>
+Content-Type: multipart/alternative; boundary=001a11c36b0496f383052754ae5f
+
+--001a11c36b0496f383052754ae5f
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+---------- Forwarded message ----------
+From: *Amazon.com* <digital-no-reply@amazon.com>
+Date: Sunday, 20 December 2015
+Subject: Amazon.com order of Signs Preceding the End of the World.
+To: James P Alexander <jamie.alexander@rogers.com>
+
+
+[image: Amazon]
+<https://www.amazon.com/gp/r.html?C=3DO5ID2HJ90BI3&K=3DA2B7P1C7349GM4&R=3D1=
+NVXMXX5WHMFI&T=3DC&U=3Dhttps%3A%2F%2Fwww.amazon.com%2Fref%3Dpe_385040_11805=
+8080_TE_M1T1&A=3DFK3CHLOSTCQIQ6Q7L79GZAEKXKIA&H=3DQ2WHWSUVUAVYANICT0VFQXY75=
+OOA&ref_=3Dpe_385040_118058080_TE_M1T1>
+Kindle
+eBooks
+<https://www.amazon.com/gp/r.html?C=3DO5ID2HJ90BI3&K=3DA2B7P1C7349GM4&R=3D1=
+NVXMXX5WHMFI&T=3DC&U=3Dhttp%3A%2F%2Fwww.amazon.com%2Fref%3Dpe_385040_118058=
+080_pe_245070_24466410_M1T1_SWM_ebook%2Fb%3Fie%3DUTF8%26node%3D1286228011&A=
+=3DAINP1RTXADJQQDSJPPLOPF0CRWUA&H=3DL1R68UJQQ2GUSWF0LT9HNOBCULYA&ref_=3Dpe_=
+385040_118058080_pe_245070_24466410_M1T1_SWM_ebook>
+ |  Your Account
+<https://www.amazon.com/gp/r.html?C=3DO5ID2HJ90BI3&K=3DA2B7P1C7349GM4&R=3D1=
+NVXMXX5WHMFI&T=3DC&U=3Dhttps%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Fyour-accou=
+nt-access%2Fref%3Dpe_385040_118058080_TE_M1T1NAV&A=3DCTWDZWIA9019L6TUVOCZT4=
+AVB6WA&H=3DCPLP9VQCTPIDESUBJ11X0APNI2QA&ref_=3Dpe_385040_118058080_TE_M1T1N=
+AV>
+ |  Amazon.com
+<https://www.amazon.com/gp/r.html?C=3DO5ID2HJ90BI3&K=3DA2B7P1C7349GM4&R=3D1=
+NVXMXX5WHMFI&T=3DC&U=3Dhttps%3A%2F%2Fwww.amazon.com%2Fref%3Dpe_385040_11805=
+8080_TE_M1T1NAV&A=3DYDHYKXCUOSEZSAGDAFWGLAZAXX0A&H=3DTZJ35MDA0OFBZGMEZAEEFB=
+URAI0A&ref_=3Dpe_385040_118058080_TE_M1T1NAV>
+Order
+Confirmation Order #D01-8664619-2835151
+<https://www.amazon.com/gp/r.html?C=3DO5ID2HJ90BI3&K=3DA2B7P1C7349GM4&R=3D1=
+NVXMXX5WHMFI&T=3DC&U=3Dhttp%3A%2F%2Fwww.amazon.com%2Fgp%2Fdigital%2Fyour-ac=
+count%2Forder-summary.html%2Fref%3Dpe_385040_118058080_TE_M1T1YA%3ForderID%=
+3DD01-8664619-2835151&A=3DB5IRKQTKCTYPONNYUUFKAVVGXRAA&H=3DCWORSYNLTRBGKAPR=
+YXDP8C2DSHWA&ref_=3Dpe_385040_118058080_TE_M1T1YA>
+Hello
+James P Alexander,
+
+Thank you for shopping with us. All Kindle content, including books and
+Kindle active content, that you've purchased from the Kindle Store is
+stored in your Kindle library
+<https://www.amazon.com/gp/r.html?C=3DO5ID2HJ90BI3&K=3DA2B7P1C7349GM4&R=3D1=
+NVXMXX5WHMFI&T=3DC&U=3Dhttps%3A%2F%2Fwww.amazon.com%2Fgp%2Fdigital%2Ffiona%=
+2Fmanage%2Fref%3Dpe_385040_118058080_TE_M1T1YKL%23All&A=3DBHZGQLJYFESQUFZJA=
+3NXW99OXCEA&H=3DU0AINLAPESPWPOB0FBUIK73VOPSA&ref_=3Dpe_385040_118058080_TE_=
+M1T1YKL>
+on Amazon.com.
+
+*View and manage your books from your Kindle library.*
+[image: Manage Your Content and Devices]
+<https://www.amazon.com/gp/r.html?C=3DO5ID2HJ90BI3&K=3DA2B7P1C7349GM4&R=3D1=
+NVXMXX5WHMFI&T=3DC&U=3Dhttps%3A%2F%2Fwww.amazon.com%2Fgp%2Fdigital%2Ffiona%=
+2Fmanage%3Fie%3DUTF8%26ref_%3Dpe_385040_118058080_TE_M1T1YKL&A=3DQLOPCXGQ2R=
+9OZTKVVMMFFOBMVGOA&H=3DDQU496PGKC4OJCVVIG1H38JVMEWA&ref_=3Dpe_385040_118058=
+080_TE_M1T1YKL>
+Order
+Details Order #D01-8664619-2835151
+<https://www.amazon.com/gp/r.html?C=3DO5ID2HJ90BI3&K=3DA2B7P1C7349GM4&R=3D1=
+NVXMXX5WHMFI&T=3DC&U=3Dhttp%3A%2F%2Fwww.amazon.com%2Fgp%2Fdigital%2Fyour-ac=
+count%2Forder-summary.html%2Fref%3Dpe_385040_118058080_TE_M1T1YA%3ForderID%=
+3DD01-8664619-2835151&A=3DB5IRKQTKCTYPONNYUUFKAVVGXRAA&H=3DCWORSYNLTRBGKAPR=
+YXDP8C2DSHWA&ref_=3Dpe_385040_118058080_TE_M1T1YA>
+Placed
+on Saturday, December 19, 2015
+<https://www.amazon.com/gp/r.html?C=3DO5ID2HJ90BI3&K=3DA2B7P1C7349GM4&R=3D1=
+NVXMXX5WHMFI&T=3DC&U=3Dhttp%3A%2F%2Fwww.amazon.com%2Fdp%2FB00U58TZH6%2Fref%=
+3Dpe_385040_118058080_TE_M1T1DP&A=3D6CDTPODOJ4BIA6ECE3TC8PPBSR0A&H=3DQCWGWR=
+S4WRDG7DJSAOGT6K1U2CAA&ref_=3Dpe_385040_118058080_TE_M1T1DP>
+
+   - Signs Preceding the End of the World
+   <https://www.amazon.com/gp/r.html?C=3DO5ID2HJ90BI3&K=3DA2B7P1C7349GM4&R=
+=3D1NVXMXX5WHMFI&T=3DC&U=3Dhttp%3A%2F%2Fwww.amazon.com%2Fdp%2FB00U58TZH6%2F=
+ref%3Dpe_385040_118058080_TE_M1T1DP&A=3D6CDTPODOJ4BIA6ECE3TC8PPBSR0A&H=3DQC=
+WGWRS4WRDG7DJSAOGT6K1U2CAA&ref_=3Dpe_385040_118058080_TE_M1T1DP>
+
+*Kindle Edition*
+Sold by Amazon Digital Services, Inc.
+Review this item
+<https://www.amazon.com/gp/r.html?C=3DO5ID2HJ90BI3&K=3DA2B7P1C7349GM4&R=3D1=
+NVXMXX5WHMFI&T=3DC&U=3Dhttp%3A%2F%2Fwww.amazon.com%2Freview%2Fcreate-review=
+%2Fref%3Dpe_385040_118058080_TE_M1T1WR%3Fasin%3DB00U58TZH6&A=3DKU49FKBTERFH=
+VFFFP5QIQPCLQ24A&H=3DJ0IASL8SKFGKXQCKXARFLOVGOYUA&ref_=3Dpe_385040_11805808=
+0_TE_M1T1WR>
+[image: Facebook]
+<https://www.amazon.com/gp/r.html?C=3DO5ID2HJ90BI3&K=3DA2B7P1C7349GM4&R=3D1=
+NVXMXX5WHMFI&T=3DC&U=3Dhttp%3A%2F%2Fwww.amazon.com%3A80%2Fgp%2Fredirect.htm=
+l%2Fref%3Dpe_385040_118058080_cm_sw_cl_fa_doce%2F186-0039979-5013945%3F_enc=
+oding%3DUTF8%26location%3Dhttp%253A%252F%252Fwww.facebook.com%252Fdialog%25=
+2Ffeed%253Fapp_id%253D164734381262%2526caption%253D%2526display%253Dpopup%2=
+526link%253Dhttp%25253A%25252F%25252Fwww.amazon.com%25252Fdp%25252FB00U58TZ=
+H6%25252Fref%25253Dcm_sw_r_fa_doce%2526name%253D%2526picture%253Dhttps%2525=
+3A%25252F%25252Fimages-na.ssl-images-amazon.com%25252Fimages%25252FI%25252F=
+51Gch5n77bL._SCLZZZZZZZ__SY115_SX115_.jpg%2526redirect_uri%253Dhttp%25253A%=
+25252F%25252Fwww.amazon.com%25252Fdp%25252FB00U58TZH6%25252Fref%25253Dcm_sw=
+_r_fa_doce%26source%3Dstandards%26token%3D6BD0FB927CC51E76FF446584B1040F70E=
+A7E88E1&A=3D8M3GFCIWOHVQAHD0BRYIFG21FAAA&H=3D1MC1HWTEDWCJGTRAZID4BJS1YVKA&r=
+ef_=3Dpe_385040_118058080_cm_sw_cl_fa_doce>
+[image:
+Twitter]
+<https://www.amazon.com/gp/r.html?C=3DO5ID2HJ90BI3&K=3DA2B7P1C7349GM4&R=3D1=
+NVXMXX5WHMFI&T=3DC&U=3Dhttp%3A%2F%2Fwww.amazon.com%3A80%2Fgp%2Fredirect.htm=
+l%2Fref%3Dpe_385040_118058080_cm_sw_cl_tw_doce%2F186-0039979-5013945%3F_enc=
+oding%3DUTF8%26location%3Dhttp%253A%252F%252Ftwitter.com%252Fshare%253Fcoun=
+t%253Dnone%2526original_referer%253Dhttp%25253A%25252F%25252Fwww.amazon.com=
+%25252Fdp%25252FB00U58TZH6%25252Fref%25253Dcm_sw_r_tw_doce%2526related%253D=
+amazon%25252Camazondeals%25252Camazonmp3%2526text%253DSigns%252520Preceding=
+%252520the%252520End%252520of%252520the%252520World%252520by%252520Amazon%2=
+526url%253Dhttp%25253A%25252F%25252Fwww.amazon.com%25252Fdp%25252FB00U58TZH=
+6%25252Fref%25253Dcm_sw_r_tw_doce%2526via%253Damazon%26source%3Dstandards%2=
+6token%3D7A1A4AE8F6CE0BD277D8295E58702D283F329C0F&A=3D3HZP7DS3LOY8RBNSLNPA5=
+U6H7CMA&H=3DYHAWUTUQHNNVMCABRBDOAHR6W1KA&ref_=3Dpe_385040_118058080_cm_sw_c=
+l_tw_doce>
+[image:
+Pinterest]
+<https://www.amazon.com/gp/r.html?C=3DO5ID2HJ90BI3&K=3DA2B7P1C7349GM4&R=3D1=
+NVXMXX5WHMFI&T=3DC&U=3Dhttp%3A%2F%2Fwww.amazon.com%3A80%2Fgp%2Fredirect.htm=
+l%2Fref%3Dpe_385040_118058080_cm_sw_cl_pi_doce%2F186-0039979-5013945%3F_enc=
+oding%3DUTF8%26location%3Dhttp%253A%252F%252Fpinterest.com%252Fpin%252Fcrea=
+te%252Fbutton%252F%253Fdescription%253DSigns%252520Preceding%252520the%2525=
+20End%252520of%252520the%252520World%252520by%252520Amazon%25252C%252520htt=
+p%25253A%25252F%25252Fwww.amazon.com%25252Fdp%25252FB00U58TZH6%25252Fref%25=
+253Dcm_sw_r_pi_doce%2526is_video%253Dfalse%2526media%253Dhttps%25253A%25252=
+F%25252Fimages-na.ssl-images-amazon.com%25252Fimages%25252FI%25252F51Gch5n7=
+7bL._SCLZZZZZZZ__SY115_SX115_.jpg%2526title%253D%2526url%253Dhttp%25253A%25=
+252F%25252Fwww.amazon.com%25252Fdp%25252FB00U58TZH6%25252Fref%25253Dcm_sw_r=
+_pi_doce%26source%3Dstandards%26token%3D9F58B366258E1A8B5259E9BEF3482E02341=
+F42D3&A=3DY5GJP2WCLWY05LOZ8UHKUT6IA9SA&H=3DMWQV3PNQ7KO6HIIBKDHWTXPD1BQA&ref=
+_=3Dpe_385040_118058080_cm_sw_cl_pi_doce>
+*$5.24* Item Subtotal: $5.24 Promotions: -$0.00 Total Before Tax: $5.24 Tax
+Collected: $0.00 *Grand Total:* *$5.24*
+
+Learn more about Kindle in Help
+<https://www.amazon.com/gp/r.html?C=3DO5ID2HJ90BI3&K=3DA2B7P1C7349GM4&R=3D1=
+NVXMXX5WHMFI&T=3DC&U=3Dhttp%3A%2F%2Fwww.amazon.com%2Fgp%2Fhelp%2Fcustomer%2=
+Fdisplay.html%2Fref%3Dpe_385040_118058080_TE_M1T1_ss%3Fie%3DUTF8%26nodeId%3=
+D200127470&A=3DXVO5ISL7DRS3FE37J9EMG7GHFJUA&H=3DSCWDQEZJ8ZM5V9FQDMJVZDEOTWM=
+A&ref_=3Dpe_385040_118058080_TE_M1T1_ss>
+.
+
+We hope to see you again soon!
+*Amazon.com*
+[image: Last-Minute Deals]
+
+You can view your receipt or invoice by visiting the Order details
+<https://www.amazon.com/gp/r.html?C=3DO5ID2HJ90BI3&K=3DA2B7P1C7349GM4&R=3D1=
+NVXMXX5WHMFI&T=3DC&U=3Dhttp%3A%2F%2Fwww.amazon.com%2Fgp%2Fdigital%2Fyour-ac=
+count%2Forder-summary.html%2Fref%3Dpe_385040_118058080_TE_M1T1YA%3ForderID%=
+3DD01-8664619-2835151&A=3DB5IRKQTKCTYPONNYUUFKAVVGXRAA&H=3DCWORSYNLTRBGKAPR=
+YXDP8C2DSHWA&ref_=3Dpe_385040_118058080_TE_M1T1YA>
+page.
+
+This email was sent from a notification-only address that cannot accept
+incoming email. Please do not reply to this message.
+
+
+
+--=20
+
+
+
+
+
+
+Jamie Alexander
+Founder & CTO | Moonrider <http://www.moonrider.com/>
+M: 416-201-2407
+
+--001a11c36b0496f383052754ae5f
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<br><br>---------- Forwarded message ----------<br>From: <b>Amazon.com</b> =
+&lt;<a href=3D"mailto:digital-no-reply@amazon.com">digital-no-reply@amazon.=
+com</a>&gt;<br>Date: Sunday, 20 December 2015<br>Subject: Amazon.com order =
+of Signs Preceding the End of the World.<br>To: James P Alexander &lt;<a hr=
+ef=3D"mailto:jamie.alexander@rogers.com">jamie.alexander@rogers.com</a>&gt;=
+<br><br><br>
+ =20
+  =20
+  =20
+  =20
+ =20
+ <div style=3D"margin:0;font-size:13px;line-height:18px;font-family:Arial,s=
+ans-serif">=20
+  <table cellpadding=3D"0" style=3D"width:655px;color:rgb(51,51,51);margin:=
+0 auto;border-collapse:collapse">=20
+   <tbody>
+    <tr>=20
+     <td style=3D"padding:0 20px 20px 20px;vertical-align:top;font-size:13p=
+x;line-height:18px;font-family:Arial,sans-serif">=20
+      <table cellpadding=3D"0" style=3D"width:100%;border-collapse:collapse=
+">=20
+       <tbody>
+        <tr>=20
+         <td style=3D"vertical-align:top;font-size:13px;line-height:18px;fo=
+nt-family:Arial,sans-serif">=20
+          <table cellpadding=3D"0" style=3D"width:100%;border-collapse:coll=
+apse">=20
+           <tbody>
+            <tr>=20
+             <td rowspan=3D"2" style=3D"width:115px;padding:18px 0 0 0;vert=
+ical-align:top;font-size:13px;line-height:18px;font-family:Arial,sans-serif=
+"><a href=3D"https://www.amazon.com/gp/r.html?C=3DO5ID2HJ90BI3&amp;K=3DA2B7=
+P1C7349GM4&amp;R=3D1NVXMXX5WHMFI&amp;T=3DC&amp;U=3Dhttps%3A%2F%2Fwww.amazon=
+.com%2Fref%3Dpe_385040_118058080_TE_M1T1&amp;A=3DFK3CHLOSTCQIQ6Q7L79GZAEKXK=
+IA&amp;H=3DQ2WHWSUVUAVYANICT0VFQXY75OOA&amp;ref_=3Dpe_385040_118058080_TE_M=
+1T1" title=3D"Visit Amazon.com" style=3D"text-decoration:none;color:rgb(0,1=
+02,153);font-size:13px;line-height:18px;font-family:Arial,sans-serif" targe=
+t=3D"_blank"><img alt=3D"Amazon" src=3D"http://g-ecx.images-amazon.com/imag=
+es/G/01/x-locale/cs/te/logo.png" style=3D"border:0"></a></td>=20
+             <td style=3D"text-align:right;padding:5px 0;border-bottom:1px =
+solid rgb(204,204,204);white-space:nowrap;vertical-align:top;font-size:13px=
+;line-height:18px;font-family:Arial,sans-serif"> <a href=3D"https://www.ama=
+zon.com/gp/r.html?C=3DO5ID2HJ90BI3&amp;K=3DA2B7P1C7349GM4&amp;R=3D1NVXMXX5W=
+HMFI&amp;T=3DC&amp;U=3Dhttp%3A%2F%2Fwww.amazon.com%2Fref%3Dpe_385040_118058=
+080_pe_245070_24466410_M1T1_SWM_ebook%2Fb%3Fie%3DUTF8%26node%3D1286228011&a=
+mp;A=3DAINP1RTXADJQQDSJPPLOPF0CRWUA&amp;H=3DL1R68UJQQ2GUSWF0LT9HNOBCULYA&am=
+p;ref_=3Dpe_385040_118058080_pe_245070_24466410_M1T1_SWM_ebook" style=3D"bo=
+rder-right:0px solid rgb(204,204,204);margin-right:0px;padding-right:0px;te=
+xt-decoration:none;color:rgb(0,102,153);font-size:13px;line-height:18px;fon=
+t-family:Arial,sans-serif" target=3D"_blank">Kindle eBooks</a> <span style=
+=3D"text-decoration:none;color:rgb(204,204,204);font-size:15px;font-family:=
+Arial,sans-serif">=C2=A0|=C2=A0</span> <a href=3D"https://www.amazon.com/gp=
+/r.html?C=3DO5ID2HJ90BI3&amp;K=3DA2B7P1C7349GM4&amp;R=3D1NVXMXX5WHMFI&amp;T=
+=3DC&amp;U=3Dhttps%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Fyour-account-access%=
+2Fref%3Dpe_385040_118058080_TE_M1T1NAV&amp;A=3DCTWDZWIA9019L6TUVOCZT4AVB6WA=
+&amp;H=3DCPLP9VQCTPIDESUBJ11X0APNI2QA&amp;ref_=3Dpe_385040_118058080_TE_M1T=
+1NAV" style=3D"border-right:0px solid rgb(204,204,204);margin-right:0px;pad=
+ding-right:0px;text-decoration:none;color:rgb(0,102,153);font-size:13px;lin=
+e-height:18px;font-family:Arial,sans-serif" target=3D"_blank">Your Account<=
+/a> <span style=3D"text-decoration:none;color:rgb(204,204,204);font-size:15=
+px;font-family:Arial,sans-serif">=C2=A0|=C2=A0</span> <a href=3D"https://ww=
+w.amazon.com/gp/r.html?C=3DO5ID2HJ90BI3&amp;K=3DA2B7P1C7349GM4&amp;R=3D1NVX=
+MXX5WHMFI&amp;T=3DC&amp;U=3Dhttps%3A%2F%2Fwww.amazon.com%2Fref%3Dpe_385040_=
+118058080_TE_M1T1NAV&amp;A=3DYDHYKXCUOSEZSAGDAFWGLAZAXX0A&amp;H=3DTZJ35MDA0=
+OFBZGMEZAEEFBURAI0A&amp;ref_=3Dpe_385040_118058080_TE_M1T1NAV" style=3D"bor=
+der:0;margin:0;padding:0;border-right:0px solid rgb(204,204,204);margin-rig=
+ht:0px;padding-right:0px;text-decoration:none;color:rgb(0,102,153);font-siz=
+e:13px;line-height:18px;font-family:Arial,sans-serif" target=3D"_blank">Ama=
+zon.com</a> </td>=20
+            </tr>=20
+            <tr>=20
+             <td style=3D"text-align:right;padding:7px 0 5px 0;vertical-ali=
+gn:top;font-size:13px;line-height:18px;font-family:Arial,sans-serif"><h2 st=
+yle=3D"font-size:20px;line-height:24px;margin:0;padding:0;font-weight:norma=
+l;color:rgb(0,0,0)">Order Confirmation</h2> Order #<a href=3D"https://www.a=
+mazon.com/gp/r.html?C=3DO5ID2HJ90BI3&amp;K=3DA2B7P1C7349GM4&amp;R=3D1NVXMXX=
+5WHMFI&amp;T=3DC&amp;U=3Dhttp%3A%2F%2Fwww.amazon.com%2Fgp%2Fdigital%2Fyour-=
+account%2Forder-summary.html%2Fref%3Dpe_385040_118058080_TE_M1T1YA%3ForderI=
+D%3DD01-8664619-2835151&amp;A=3DB5IRKQTKCTYPONNYUUFKAVVGXRAA&amp;H=3DCWORSY=
+NLTRBGKAPRYXDP8C2DSHWA&amp;ref_=3Dpe_385040_118058080_TE_M1T1YA" style=3D"t=
+ext-decoration:none;color:rgb(0,102,153);font-size:13px;line-height:18px;fo=
+nt-family:Arial,sans-serif" target=3D"_blank">D01-8664619-2835151</a></td>=
+=20
+            </tr>=20
+           </tbody>
+          </table> </td>=20
+        </tr>=20
+        <tr>=20
+         <td style=3D"vertical-align:top;font-size:13px;line-height:18px;fo=
+nt-family:Arial,sans-serif">=20
+          <table cellpadding=3D"0" style=3D"width:100%;border-collapse:coll=
+apse">=20
+           <tbody>
+            <tr>
+             <td style=3D"vertical-align:top;font-size:13px;line-height:18p=
+x;font-family:Arial,sans-serif"><h3 style=3D"font-size:18px;color:rgb(204,1=
+02,0);margin:15px 0 0 0;font-weight:normal">Hello James P Alexander,</h3> <=
+p style=3D"margin:4px 0 18px 0;font-size:13px;line-height:18px;font-family:=
+Arial,sans-serif">Thank you for shopping with us. All Kindle content, inclu=
+ding books and Kindle active content, that you&#39;ve purchased from the Ki=
+ndle Store is stored in your <a href=3D"https://www.amazon.com/gp/r.html?C=
+=3DO5ID2HJ90BI3&amp;K=3DA2B7P1C7349GM4&amp;R=3D1NVXMXX5WHMFI&amp;T=3DC&amp;=
+U=3Dhttps%3A%2F%2Fwww.amazon.com%2Fgp%2Fdigital%2Ffiona%2Fmanage%2Fref%3Dpe=
+_385040_118058080_TE_M1T1YKL%23All&amp;A=3DBHZGQLJYFESQUFZJA3NXW99OXCEA&amp=
+;H=3DU0AINLAPESPWPOB0FBUIK73VOPSA&amp;ref_=3Dpe_385040_118058080_TE_M1T1YKL=
+" style=3D"text-decoration:none;color:rgb(0,102,153);font-size:13px;line-he=
+ight:18px;font-family:Arial,sans-serif" target=3D"_blank">Kindle library</a=
+> on Amazon.com.</p> </td>=20
+            </tr>=20
+           </tbody>
+          </table> </td>=20
+        </tr>=20
+        <tr>=20
+         <td colspan=3D"2" style=3D"vertical-align:top;font-size:13px;line-=
+height:18px;font-family:Arial,sans-serif">=20
+          <table cellpadding=3D"0" style=3D"border-top:3px solid rgb(45,55,=
+65);width:100%;margin:0 0 20px 0;border-collapse:collapse">=20
+           <tbody>
+            <tr>=20
+             <td style=3D"font-size:14px;padding:11px 18px 18px 18px;backgr=
+ound-color:rgb(239,239,239);width:50%;vertical-align:top;line-height:18px;f=
+ont-family:Arial,sans-serif"> <p style=3D"margin:2px 0 9px 0;font-size:13px=
+;line-height:18px;font-family:Arial,sans-serif"><strong>View and manage you=
+r books from your Kindle library.</strong></p> <a href=3D"https://www.amazo=
+n.com/gp/r.html?C=3DO5ID2HJ90BI3&amp;K=3DA2B7P1C7349GM4&amp;R=3D1NVXMXX5WHM=
+FI&amp;T=3DC&amp;U=3Dhttps%3A%2F%2Fwww.amazon.com%2Fgp%2Fdigital%2Ffiona%2F=
+manage%3Fie%3DUTF8%26ref_%3Dpe_385040_118058080_TE_M1T1YKL&amp;A=3DQLOPCXGQ=
+2R9OZTKVVMMFFOBMVGOA&amp;H=3DDQU496PGKC4OJCVVIG1H38JVMEWA&amp;ref_=3Dpe_385=
+040_118058080_TE_M1T1YKL" style=3D"font-size:11px;color:rgb(0,102,153);text=
+-decoration:none;line-height:18px;font-family:Arial,sans-serif" target=3D"_=
+blank"><img alt=3D"Manage Your Content and Devices" src=3D"http://g-ecx.ima=
+ges-amazon.com/images/G/01/x-locale/cs/te/button-manageyourcontentanddevice=
+s.png" style=3D"border:0"></a></td>=20
+            </tr>=20
+            <tr>=20
+             <td style=3D"background-color:rgb(254,254,254);font-size:14px;=
+padding:11px 18px 18px 18px;width:50%;vertical-align:top;line-height:18px;f=
+ont-family:Arial,sans-serif"> </td>=20
+            </tr>=20
+           </tbody>
+          </table> </td>=20
+        </tr>=20
+        <tr>=20
+         <td style=3D"vertical-align:top;font-size:13px;line-height:18px;fo=
+nt-family:Arial,sans-serif">=20
+          <table cellpadding=3D"0" style=3D"width:100%;border-collapse:coll=
+apse">=20
+           <tbody>
+            <tr>=20
+             <td style=3D"vertical-align:top;font-size:13px;line-height:18p=
+x;font-family:Arial,sans-serif"><h3 style=3D"border-bottom:1px solid rgb(20=
+4,204,204);margin:0 0 3px 0;padding:0 0 3px 0;font-size:18px;color:rgb(204,=
+102,0);font-weight:normal">Order Details</h3></td>=20
+            </tr>=20
+            <tr>=20
+             <td style=3D"vertical-align:top;font-size:13px;line-height:18p=
+x;font-family:Arial,sans-serif"><h4 style=3D"font-size:14px;margin:0;font-w=
+eight:normal">Order #<a href=3D"https://www.amazon.com/gp/r.html?C=3DO5ID2H=
+J90BI3&amp;K=3DA2B7P1C7349GM4&amp;R=3D1NVXMXX5WHMFI&amp;T=3DC&amp;U=3Dhttp%=
+3A%2F%2Fwww.amazon.com%2Fgp%2Fdigital%2Fyour-account%2Forder-summary.html%2=
+Fref%3Dpe_385040_118058080_TE_M1T1YA%3ForderID%3DD01-8664619-2835151&amp;A=
+=3DB5IRKQTKCTYPONNYUUFKAVVGXRAA&amp;H=3DCWORSYNLTRBGKAPRYXDP8C2DSHWA&amp;re=
+f_=3Dpe_385040_118058080_TE_M1T1YA" style=3D"text-decoration:none;color:rgb=
+(0,102,153);font-size:13px;line-height:18px;font-family:Arial,sans-serif" t=
+arget=3D"_blank">D01-8664619-2835151 </a></h4> <span style=3D"color:rgb(102=
+,102,102);font-size:12px">Placed on Saturday, December 19, 2015</span></td>=
+=20
+            </tr>=20
+            <tr>=20
+             <td style=3D"padding:16px 20px 6px 20px;vertical-align:top;fon=
+t-size:13px;line-height:18px;font-family:Arial,sans-serif">=20
+              <table cellpadding=3D"0" style=3D"width:100%;border-collapse:=
+collapse">=20
+               <tbody>
+                <tr>=20
+                 <td style=3D"width:150px;text-align:center;padding:0 0 30p=
+x 0;vertical-align:top;font-size:13px;line-height:18px;font-family:Arial,sa=
+ns-serif"><a href=3D"https://www.amazon.com/gp/r.html?C=3DO5ID2HJ90BI3&amp;=
+K=3DA2B7P1C7349GM4&amp;R=3D1NVXMXX5WHMFI&amp;T=3DC&amp;U=3Dhttp%3A%2F%2Fwww=
+.amazon.com%2Fdp%2FB00U58TZH6%2Fref%3Dpe_385040_118058080_TE_M1T1DP&amp;A=
+=3D6CDTPODOJ4BIA6ECE3TC8PPBSR0A&amp;H=3DQCWGWRS4WRDG7DJSAOGT6K1U2CAA&amp;re=
+f_=3Dpe_385040_118058080_TE_M1T1DP" title=3D"Signs Preceding the End of the=
+ World" style=3D"text-decoration:none;color:rgb(0,102,153);font-size:13px;l=
+ine-height:18px;font-family:Arial,sans-serif" target=3D"_blank"></a><img he=
+ight=3D"115" src=3D"https://images-na.ssl-images-amazon.com/images/I/51Gch5=
+n77bL._SCLZZZZZZZ__SY115_SX115_.jpg"></td>=20
+                 <td style=3D"color:rgb(102,102,102);padding:10px 10px 30px=
+ 10px;vertical-align:top;font-size:13px;line-height:18px;font-family:Arial,=
+sans-serif">=20
+                  <ul style=3D"margin:0;padding:0">=20
+                   <li style=3D"list-style-type:none;line-height:14px;paddi=
+ng:0 0 4px 0;margin:0"> <a href=3D"https://www.amazon.com/gp/r.html?C=3DO5I=
+D2HJ90BI3&amp;K=3DA2B7P1C7349GM4&amp;R=3D1NVXMXX5WHMFI&amp;T=3DC&amp;U=3Dht=
+tp%3A%2F%2Fwww.amazon.com%2Fdp%2FB00U58TZH6%2Fref%3Dpe_385040_118058080_TE_=
+M1T1DP&amp;A=3D6CDTPODOJ4BIA6ECE3TC8PPBSR0A&amp;H=3DQCWGWRS4WRDG7DJSAOGT6K1=
+U2CAA&amp;ref_=3Dpe_385040_118058080_TE_M1T1DP" style=3D"font-size:14px;tex=
+t-decoration:none;color:rgb(0,102,153);line-height:18px;font-family:Arial,s=
+ans-serif" target=3D"_blank"> Signs Preceding the End of the World </a> </l=
+i>=20
+                  </ul> <p style=3D"margin:0;font-size:12px;line-height:16p=
+x;font-family:Arial,sans-serif"> <em>Kindle Edition</em><br> Sold by Amazon=
+ Digital Services, Inc. <br> <a href=3D"https://www.amazon.com/gp/r.html?C=
+=3DO5ID2HJ90BI3&amp;K=3DA2B7P1C7349GM4&amp;R=3D1NVXMXX5WHMFI&amp;T=3DC&amp;=
+U=3Dhttp%3A%2F%2Fwww.amazon.com%2Freview%2Fcreate-review%2Fref%3Dpe_385040_=
+118058080_TE_M1T1WR%3Fasin%3DB00U58TZH6&amp;A=3DKU49FKBTERFHVFFFP5QIQPCLQ24=
+A&amp;H=3DJ0IASL8SKFGKXQCKXARFLOVGOYUA&amp;ref_=3Dpe_385040_118058080_TE_M1=
+T1WR" style=3D"font-size:11px;text-decoration:none;color:rgb(0,102,153);lin=
+e-height:18px;font-family:Arial,sans-serif" target=3D"_blank">Review this i=
+tem</a> </p>=20
+                  <div>=20
+                   <table border=3D"0" cellspacing=3D"4" cellpadding=3D"0" =
+style=3D"border-collapse:separate">=20
+                    <tbody style=3D"vertical-align:bottom">=20
+                     <tr>=20
+                      <td style=3D"vertical-align:top;font-size:13px;line-h=
+eight:18px;font-family:Arial,sans-serif"> </td>=20
+                      <td style=3D"vertical-align:top;font-size:13px;line-h=
+eight:18px;font-family:Arial,sans-serif"> <a href=3D"https://www.amazon.com=
+/gp/r.html?C=3DO5ID2HJ90BI3&amp;K=3DA2B7P1C7349GM4&amp;R=3D1NVXMXX5WHMFI&am=
+p;T=3DC&amp;U=3Dhttp%3A%2F%2Fwww.amazon.com%3A80%2Fgp%2Fredirect.html%2Fref=
+%3Dpe_385040_118058080_cm_sw_cl_fa_doce%2F186-0039979-5013945%3F_encoding%3=
+DUTF8%26location%3Dhttp%253A%252F%252Fwww.facebook.com%252Fdialog%252Ffeed%=
+253Fapp_id%253D164734381262%2526caption%253D%2526display%253Dpopup%2526link=
+%253Dhttp%25253A%25252F%25252Fwww.amazon.com%25252Fdp%25252FB00U58TZH6%2525=
+2Fref%25253Dcm_sw_r_fa_doce%2526name%253D%2526picture%253Dhttps%25253A%2525=
+2F%25252Fimages-na.ssl-images-amazon.com%25252Fimages%25252FI%25252F51Gch5n=
+77bL._SCLZZZZZZZ__SY115_SX115_.jpg%2526redirect_uri%253Dhttp%25253A%25252F%=
+25252Fwww.amazon.com%25252Fdp%25252FB00U58TZH6%25252Fref%25253Dcm_sw_r_fa_d=
+oce%26source%3Dstandards%26token%3D6BD0FB927CC51E76FF446584B1040F70EA7E88E1=
+&amp;A=3D8M3GFCIWOHVQAHD0BRYIFG21FAAA&amp;H=3D1MC1HWTEDWCJGTRAZID4BJS1YVKA&=
+amp;ref_=3Dpe_385040_118058080_cm_sw_cl_fa_doce" title=3D"Share on Facebook=
+" style=3D"font-size:0;text-decoration:none;color:rgb(0,102,153);line-heigh=
+t:18px;font-family:Arial,sans-serif" target=3D"_blank"> <img src=3D"http://=
+g-ecx.images-amazon.com/images/G/01/x-locale/personalization/live-meter/fac=
+ebook._CB199133872_.gif" width=3D"16" alt=3D"Facebook" style=3D"vertical-al=
+ign:middle;border:0" height=3D"16" border=3D"0"> </a> </td>=20
+                      <td style=3D"vertical-align:top;font-size:13px;line-h=
+eight:18px;font-family:Arial,sans-serif"> <a href=3D"https://www.amazon.com=
+/gp/r.html?C=3DO5ID2HJ90BI3&amp;K=3DA2B7P1C7349GM4&amp;R=3D1NVXMXX5WHMFI&am=
+p;T=3DC&amp;U=3Dhttp%3A%2F%2Fwww.amazon.com%3A80%2Fgp%2Fredirect.html%2Fref=
+%3Dpe_385040_118058080_cm_sw_cl_tw_doce%2F186-0039979-5013945%3F_encoding%3=
+DUTF8%26location%3Dhttp%253A%252F%252Ftwitter.com%252Fshare%253Fcount%253Dn=
+one%2526original_referer%253Dhttp%25253A%25252F%25252Fwww.amazon.com%25252F=
+dp%25252FB00U58TZH6%25252Fref%25253Dcm_sw_r_tw_doce%2526related%253Damazon%=
+25252Camazondeals%25252Camazonmp3%2526text%253DSigns%252520Preceding%252520=
+the%252520End%252520of%252520the%252520World%252520by%252520Amazon%2526url%=
+253Dhttp%25253A%25252F%25252Fwww.amazon.com%25252Fdp%25252FB00U58TZH6%25252=
+Fref%25253Dcm_sw_r_tw_doce%2526via%253Damazon%26source%3Dstandards%26token%=
+3D7A1A4AE8F6CE0BD277D8295E58702D283F329C0F&amp;A=3D3HZP7DS3LOY8RBNSLNPA5U6H=
+7CMA&amp;H=3DYHAWUTUQHNNVMCABRBDOAHR6W1KA&amp;ref_=3Dpe_385040_118058080_cm=
+_sw_cl_tw_doce" title=3D"Share on Twitter" style=3D"font-size:0;text-decora=
+tion:none;color:rgb(0,102,153);line-height:18px;font-family:Arial,sans-seri=
+f" target=3D"_blank"> <img src=3D"http://g-ecx.images-amazon.com/images/G/0=
+1/x-locale/communities/social/twitter._CB388046070_.gif" width=3D"16" alt=
+=3D"Twitter" style=3D"vertical-align:middle;border:0" height=3D"16" border=
+=3D"0"> </a> </td>=20
+                      <td style=3D"vertical-align:top;font-size:13px;line-h=
+eight:18px;font-family:Arial,sans-serif"> <a href=3D"https://www.amazon.com=
+/gp/r.html?C=3DO5ID2HJ90BI3&amp;K=3DA2B7P1C7349GM4&amp;R=3D1NVXMXX5WHMFI&am=
+p;T=3DC&amp;U=3Dhttp%3A%2F%2Fwww.amazon.com%3A80%2Fgp%2Fredirect.html%2Fref=
+%3Dpe_385040_118058080_cm_sw_cl_pi_doce%2F186-0039979-5013945%3F_encoding%3=
+DUTF8%26location%3Dhttp%253A%252F%252Fpinterest.com%252Fpin%252Fcreate%252F=
+button%252F%253Fdescription%253DSigns%252520Preceding%252520the%252520End%2=
+52520of%252520the%252520World%252520by%252520Amazon%25252C%252520http%25253=
+A%25252F%25252Fwww.amazon.com%25252Fdp%25252FB00U58TZH6%25252Fref%25253Dcm_=
+sw_r_pi_doce%2526is_video%253Dfalse%2526media%253Dhttps%25253A%25252F%25252=
+Fimages-na.ssl-images-amazon.com%25252Fimages%25252FI%25252F51Gch5n77bL._SC=
+LZZZZZZZ__SY115_SX115_.jpg%2526title%253D%2526url%253Dhttp%25253A%25252F%25=
+252Fwww.amazon.com%25252Fdp%25252FB00U58TZH6%25252Fref%25253Dcm_sw_r_pi_doc=
+e%26source%3Dstandards%26token%3D9F58B366258E1A8B5259E9BEF3482E02341F42D3&a=
+mp;A=3DY5GJP2WCLWY05LOZ8UHKUT6IA9SA&amp;H=3DMWQV3PNQ7KO6HIIBKDHWTXPD1BQA&am=
+p;ref_=3Dpe_385040_118058080_cm_sw_cl_pi_doce" title=3D"Pin it on Pinterest=
+" style=3D"font-size:0;text-decoration:none;color:rgb(0,102,153);line-heigh=
+t:18px;font-family:Arial,sans-serif" target=3D"_blank"> <img src=3D"http://=
+g-ecx.images-amazon.com/images/G/01/x-locale/communities/social/pinterest._=
+CB149279734_.png" width=3D"16" alt=3D"Pinterest" style=3D"vertical-align:mi=
+ddle;border:0" height=3D"16" border=3D"0"> </a> </td>=20
+                     </tr>=20
+                    </tbody>=20
+                   </table>=20
+                  </div> </td>=20
+                 <td style=3D"width:80px;text-align:right;font-size:14px;pa=
+dding:10px 0 30px 0;vertical-align:top;line-height:18px;font-family:Arial,s=
+ans-serif"><strong>$5.24</strong></td>=20
+                </tr>=20
+                <tr>=20
+                 <td colspan=3D"3" style=3D"border-top:1px solid rgb(234,23=
+4,234);padding:0 0 16px 0;vertical-align:top;font-size:13px;line-height:18p=
+x;font-family:Arial,sans-serif"></td>=20
+                </tr>=20
+               </tbody>
+              </table>=20
+              <table style=3D"width:100%;border-collapse:collapse">=20
+               <tbody>
+                <tr>=20
+                 <td style=3D"text-align:right;line-height:18px;padding:0 0=
+ 10px 10px;vertical-align:top;font-size:13px;font-family:Arial,sans-serif">=
+Item Subtotal:</td>=20
+                 <td style=3D"width:70px;text-align:right;line-height:18px;=
+padding:0 0 10px 10px;vertical-align:top;font-size:13px;font-family:Arial,s=
+ans-serif">$5.24</td>=20
+                </tr>=20
+                <tr>=20
+                 <td style=3D"text-align:right;line-height:18px;padding:0 0=
+ 10px 10px;vertical-align:top;font-size:13px;font-family:Arial,sans-serif">=
+ Promotions: </td>=20
+                 <td style=3D"text-align:right;line-height:18px;padding:0 0=
+ 10px 10px;vertical-align:top;font-size:13px;font-family:Arial,sans-serif">=
+ -$0.00 </td>=20
+                </tr>=20
+                <tr>=20
+                 <td style=3D"text-align:right;line-height:18px;padding:0 0=
+ 10px 10px;vertical-align:top;font-size:13px;font-family:Arial,sans-serif">=
+Total Before Tax:</td>=20
+                 <td style=3D"text-align:right;line-height:18px;padding:0 0=
+ 10px 10px;vertical-align:top;font-size:13px;font-family:Arial,sans-serif">=
+$5.24</td>=20
+                </tr>=20
+                <tr>=20
+                 <td style=3D"text-align:right;line-height:18px;padding:0 0=
+ 10px 10px;vertical-align:top;font-size:13px;font-family:Arial,sans-serif">=
+Tax Collected:</td>=20
+                 <td style=3D"text-align:right;line-height:18px;padding:0 0=
+ 10px 10px;vertical-align:top;font-size:13px;font-family:Arial,sans-serif">=
+$0.00</td>=20
+                </tr>=20
+                <tr>=20
+                 <td style=3D"font-size:14px;font-weight:bold;text-align:ri=
+ght;line-height:18px;padding:0 0 10px 10px;vertical-align:top;font-family:A=
+rial,sans-serif"><strong>Grand Total:</strong></td>=20
+                 <td style=3D"font-size:14px;font-weight:bold;text-align:ri=
+ght;line-height:18px;padding:0 0 10px 10px;vertical-align:top;font-family:A=
+rial,sans-serif"><strong>$5.24</strong></td>=20
+                </tr>=20
+                <tr>=20
+                 <td style=3D"text-align:right;line-height:18px;padding:0 0=
+ 10px 10px;vertical-align:top;font-size:13px;font-family:Arial,sans-serif">=
+ </td>=20
+                </tr>=20
+               </tbody>
+              </table> </td>=20
+            </tr>=20
+           </tbody>
+          </table> </td>=20
+        </tr>=20
+        <tr>=20
+         <td style=3D"vertical-align:top;font-size:13px;line-height:18px;fo=
+nt-family:Arial,sans-serif">=20
+          <table cellpadding=3D"0" style=3D"width:100%;border-collapse:coll=
+apse">=20
+           <tbody>
+            <tr>
+             <td style=3D"vertical-align:top;font-size:13px;line-height:18p=
+x;font-family:Arial,sans-serif"> <p style=3D"border-top:1px solid rgb(204,2=
+04,204);padding:20px 0 0 0;line-height:22px;margin:4px 0 18px 0;font-size:1=
+3px;font-family:Arial,sans-serif">Learn more about Kindle in <a href=3D"htt=
+ps://www.amazon.com/gp/r.html?C=3DO5ID2HJ90BI3&amp;K=3DA2B7P1C7349GM4&amp;R=
+=3D1NVXMXX5WHMFI&amp;T=3DC&amp;U=3Dhttp%3A%2F%2Fwww.amazon.com%2Fgp%2Fhelp%=
+2Fcustomer%2Fdisplay.html%2Fref%3Dpe_385040_118058080_TE_M1T1_ss%3Fie%3DUTF=
+8%26nodeId%3D200127470&amp;A=3DXVO5ISL7DRS3FE37J9EMG7GHFJUA&amp;H=3DSCWDQEZ=
+J8ZM5V9FQDMJVZDEOTWMA&amp;ref_=3Dpe_385040_118058080_TE_M1T1_ss" style=3D"t=
+ext-decoration:none;color:rgb(0,102,153);font-size:13px;line-height:18px;fo=
+nt-family:Arial,sans-serif" target=3D"_blank">Help</a>.<br> </p></td>=20
+            </tr>
+           </tbody>
+          </table> </td>=20
+        </tr>=20
+        <tr>=20
+         <td style=3D"vertical-align:top;font-size:13px;line-height:18px;fo=
+nt-family:Arial,sans-serif">=20
+          <table cellpadding=3D"0" style=3D"width:100%;border-collapse:coll=
+apse">=20
+           <tbody>
+            <tr>=20
+             <td style=3D"vertical-align:top;font-size:13px;line-height:18p=
+x;font-family:Arial,sans-serif"> <p style=3D"padding:0 0 20px 0;border-bott=
+om:1px solid rgb(234,234,234);margin:0;font-size:13px;line-height:18px;font=
+-family:Arial,sans-serif">We hope to see you again soon!<br> <span style=3D=
+"font-size:16px;line-height:24px;font-weight:bold"><strong>Amazon.com</stro=
+ng></span></p> </td>=20
+            </tr>=20
+           </tbody>
+          </table> </td>=20
+        </tr>=20
+        <tr>=20
+         <td style=3D"vertical-align:top;font-size:13px;line-height:18px;fo=
+nt-family:Arial,sans-serif">=20
+          <table cellpadding=3D"0" style=3D"width:100%;border-bottom:1px so=
+lid rgb(234,234,234);border-collapse:collapse">=20
+           <tbody>
+            <tr>=20
+             <td style=3D"padding:10px 0;vertical-align:top;font-size:13px;=
+line-height:18px;font-family:Arial,sans-serif">=20
+             =20
+              <div></div>
+              <table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadd=
+ing=3D"0" style=3D"border-collapse:collapse">
+               <tbody>
+                <tr>
+                 <td align=3D"center" style=3D"padding:0 0 0 0;vertical-ali=
+gn:top;font-size:13px;line-height:18px;font-family:Arial,sans-serif"><map n=
+ame=3D"151be1bd14944648_amazon"><area shape=3D"rect" coords=3D"0,0,500,100"=
+ alt=3D"Last-Minute Deals" href=3D"https://www.amazon.com/gp/r.html?C=3DO5I=
+D2HJ90BI3&amp;K=3DA2B7P1C7349GM4&amp;R=3D1NVXMXX5WHMFI&amp;T=3DC&amp;U=3Dht=
+tp%3A%2F%2Fwww.amazon.com%3A80%2Fgp%2Fredirect.html%2Fref%3Dpe_385040_11805=
+8080_amb_link_451654702_2%2F190-7978971-1006438%3F_encoding%3DUTF8%26locati=
+on%3Dhttp%253A%252F%252Fwww.amazon.com%252Fb%253Fnode%253D11516390011%2526r=
+ef%253Dpe_trans_lmd%26source%3Dstandards%26token%3D3A0F170E7CEFE27BDC730D3D=
+7344512BC1296B83%26pf_rd_m%3DATVPDKIKX0DER%26pf_rd_s%3Demail-center-1%26pf_=
+rd_r%3DKZA0CVNJR58J3P9NQ6P2%26pf_rd_t%3D401%26pf_rd_p%3D2351202902%26pf_rd_=
+i%3Dcontentsymphonyslot&amp;A=3DJPTGBASAJ6TADYKEABZJNKETXLQA&amp;H=3DZFZNKJ=
+ZRCI1DLMBL2TVMA82RFW4A&amp;ref_=3Dpe_385040_118058080_amb_link_451654702_2"=
+ target=3D"_blank"> </map><img src=3D"https://images-na.ssl-images-amazon.c=
+om/images/G/01/img15/events/email/29334_events_last-mins-deals_email-stripe=
+_500x100._CB285339146_.png" width=3D"500" align=3D"center" usemap=3D"#151be=
+1bd14944648_amazon" alt=3D"Last-Minute Deals" height=3D"100" border=3D"0"><=
+/td>
+                </tr>
+               </tbody>
+              </table> </td>=20
+            </tr>=20
+           </tbody>
+          </table> </td>=20
+        </tr>=20
+        <tr>=20
+         <td style=3D"vertical-align:top;font-size:13px;line-height:18px;fo=
+nt-family:Arial,sans-serif">=20
+          <table style=3D"width:100%;margin:20px 0 0 0;border-collapse:coll=
+apse">=20
+           <tbody>
+            <tr>=20
+             <td style=3D"vertical-align:top;font-size:13px;line-height:18p=
+x;font-family:Arial,sans-serif"> <p style=3D"font-size:11px;color:rgb(102,1=
+02,102);line-height:16px;margin:0 0 10px 0;font-family:Arial,sans-serif"> Y=
+ou can view your receipt or invoice by visiting the <a href=3D"https://www.=
+amazon.com/gp/r.html?C=3DO5ID2HJ90BI3&amp;K=3DA2B7P1C7349GM4&amp;R=3D1NVXMX=
+X5WHMFI&amp;T=3DC&amp;U=3Dhttp%3A%2F%2Fwww.amazon.com%2Fgp%2Fdigital%2Fyour=
+-account%2Forder-summary.html%2Fref%3Dpe_385040_118058080_TE_M1T1YA%3Forder=
+ID%3DD01-8664619-2835151&amp;A=3DB5IRKQTKCTYPONNYUUFKAVVGXRAA&amp;H=3DCWORS=
+YNLTRBGKAPRYXDP8C2DSHWA&amp;ref_=3Dpe_385040_118058080_TE_M1T1YA" style=3D"=
+font-size:11px;text-decoration:none;color:rgb(0,102,153);line-height:18px;f=
+ont-family:Arial,sans-serif" target=3D"_blank">Order details</a> page.</p> =
+<p style=3D"font-size:11px;color:rgb(102,102,102);line-height:16px;margin:0=
+ 0 10px 0;font-family:Arial,sans-serif">This email was sent from a notifica=
+tion-only address that cannot accept incoming email. Please do not reply to=
+ this message.</p> </td>=20
+            </tr>=20
+           </tbody>
+          </table> </td>=20
+        </tr>=20
+       </tbody>
+      </table> </td>=20
+    </tr>=20
+   </tbody>
+  </table> =20
+ <img width=3D"1" height=3D"1" src=3D"https://www.amazon.com/gp/r.html?C=3D=
+O5ID2HJ90BI3&amp;K=3DA2B7P1C7349GM4&amp;R=3D1NVXMXX5WHMFI&amp;T=3DE&amp;U=
+=3Dhttp%3A%2F%2Fimages.amazon.com%2Fimages%2FG%2F01%2Fnav%2Ftransp.gif&amp;=
+A=3DOBVLZ89ZW65WAVAGTLVAQFXMCTGA&amp;H=3DKL2RAQHJFLJQJJIQITATXDXBMWGA&amp;r=
+ef_=3Dpe_385040_118058080"></div>
+<br><br><br>-- <br><div style=3D"float:left;text-align:center">
+	<p style=3D"text-align:left"><br>
+		</p><p style=3D"text-align:left"><span style=3D"font-family:arial,sans-se=
+rif;font-size:small"><br></span></p><p style=3D"text-align:left"><span styl=
+e=3D"font-family:arial,sans-serif;font-size:small"><br></span></p><p style=
+=3D"text-align:left"><span style=3D"font-family:arial,sans-serif;font-size:=
+small"><br></span></p><p style=3D"text-align:left"><span style=3D"font-fami=
+ly:arial,sans-serif;font-size:small"><br></span></p></div><font face=3D"tah=
+oma, sans-serif" style=3D"font-size:13px"><span style=3D"font-family:arial"=
+><span style=3D"font-family:arial,sans-serif;border-collapse:collapse">Jami=
+e Alexander<br>Founder &amp; CTO |=C2=A0<a href=3D"http://www.moonrider.com=
+/" target=3D"_blank">Moonrider</a></span></span></font><br><span style=3D"f=
+ont-family:arial,sans-serif">M: 416-201-2407</span><div><span style=3D"font=
+-family:arial,sans-serif"><br></span></div><div><span style=3D"font-family:=
+arial,sans-serif"><br></span></div><br>
+
+--001a11c36b0496f383052754ae5f--

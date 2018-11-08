@@ -1,0 +1,629 @@
+Authentication-Results: apiserver;
+Received: from mail-oa0-f45.google.com ([10.183.253.48])
+	by apiserver (Haraka/2.5.0) with ESMTP id DAD5D5BD-BC12-4D91-9DEE-B7369DDAC926.1
+	envelope-from <johnny.patterson@gmail.com>;
+	Fri, 11 Jul 2014 21:23:29 +0000
+Received: by mail-oa0-f45.google.com with SMTP id i7so877145oag.32
+        for <jp@billpass.ca>; Fri, 11 Jul 2014 14:23:45 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        bh=5ScHE6cafZLS6Qca/Lun0hctT3KwDkWaWSsfHhL+UQc=;
+        b=G0CNqrPx79qcbKodae9Umx98JM0c//rv1Csz0zwqdgBtzN3HsfkRnSZDI9w4C6YHCh
+         LQXVDej4x2oApLBeq1ZZB0SFGQrH9rIAI1UG8iDilKRze7lWcHePvR/+PYOO8+E4okZb
+         hLxVBOfRSg9uXWQoYrtyXoy5qlEQDsdgROC/u20lrPNlXl9WqBqad/izxaj3SYmYCsvk
+         Vd4j9UOLKcC39tHQ/hnHlo66i13/mIWYRBYqilPHZzu/L1cK5C5cGUoi7S48z3XO6xLt
+         00lzOsyEdnY6+VD/dk3iL0ZGFOCmDjp0zprnbizJgrBQUrrhst6+PXgbmxYi6rxEruCN
+         x6EQ==
+MIME-Version: 1.0
+X-Received: by 10.60.79.104 with SMTP id i8mr1783012oex.67.1405113824751; Fri,
+ 11 Jul 2014 14:23:44 -0700 (PDT)
+Received: by 10.76.83.231 with HTTP; Fri, 11 Jul 2014 14:23:44 -0700 (PDT)
+In-Reply-To: <1404861503.70721.YahooMailNeo@web125902.mail.ne1.yahoo.com>
+References: <35e3561a-9997-4276-9890-79a090daf073@xtinp2mta410.xt.local>
+	<1404861503.70721.YahooMailNeo@web125902.mail.ne1.yahoo.com>
+Date: Fri, 11 Jul 2014 17:23:44 -0400
+Message-ID: <CAO8dceL2Lk67y+B06kGUawmV3p=4kZVKfuZWtF8mLmEM6X8EeA@mail.gmail.com>
+Subject: Fwd: Fw: Your eReceipt from Gap
+From: Johnny Patterson <johnny.patterson@gmail.com>
+To: jp@billpass.ca
+Content-Type: multipart/alternative; boundary=089e0118289a651c9304fdf18eb1
+
+--089e0118289a651c9304fdf18eb1
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+---------- Forwarded message ----------
+From: Natasha Kordonska <nkordonska@yahoo.com>
+Date: Tue, Jul 8, 2014 at 7:18 PM
+Subject: Fw: Your eReceipt from Gap
+To: "johnny.patterson@gmail.com" <johnny.patterson@gmail.com>
+
+
+
+  ----- Forwarded Message -----
+ *From:* Gap <gap@email.gapcanada.ca>
+*To:* nkordonska@yahoo.com
+*Sent:* Sunday, November 4, 2012 1:57:51 PM
+*Subject:* Your eReceipt from Gap
+
+      [image: GAP]
+<http://click.email.gapcanada.ca/?qs=3D77e801c9b758b580218be4df150964572864=
+d6da2d6135aed847b8f0bef633f20bfdeebe8ec292bf>
+[image:
+EVERYDAY FREE SHIPPING ON ANY ORDER OVER $50. NO CODE. NO HASSLE.]
+<http://click.email.gapcanada.ca/?qs=3D77e801c9b758b58038856c2935b99548d406=
+c6fdb97839cd510e151311734269125ce04f06567ccf>
+ [image:
+WOMEN]
+<http://click.email.gapcanada.ca/?qs=3D77e801c9b758b5806681e674e815f61d1373=
+82412bce2ec6b5984d998892db584a5f32fd26166e3c>[image:
+MEN]
+<http://click.email.gapcanada.ca/?qs=3D77e801c9b758b5808b5df693dadb41b3ba52=
+27a959ac4d16308567bf972009149b5a3b72aca1d690>
+[image:
+GIRLS]
+<http://click.email.gapcanada.ca/?qs=3D77e801c9b758b580e804d22b180e28f74555=
+6a83e7118dcfb31af4a21680bb6a130465b0009298d0>[image:
+BOYS]
+<http://click.email.gapcanada.ca/?qs=3D77e801c9b758b5804a11638980032724ee51=
+66912c4ec08a519506694e727d356334a9d55702c2d4>
+[image:
+TODDLER GIRL (1=E2=80=935 YRS)]
+<http://click.email.gapcanada.ca/?qs=3D77e801c9b758b5802430857c4e817cbd3a3f=
+910b878b4abde2d8a8df22772d3a0a909df18539b533>[image:
+TODDLER BOY (1=E2=80=935 YRS)]
+<http://click.email.gapcanada.ca/?qs=3D77e801c9b758b580bc44bfdbfc23df4cbb39=
+192f20aa4fb200eb097a0cda3d8baeade7c5aa86cc4f>
+[image:
+INFANT GIRL (0=E2=80=9324 MOS)]
+<http://click.email.gapcanada.ca/?qs=3De10320add9cb45443dbe8257c300ef678cf8=
+d33353d137616e7d6a6601ea0e7f0092ff61b61ad270>[image:
+INFANT BOY (0=E2=80=9324 MOS)]
+<http://click.email.gapcanada.ca/?qs=3De10320add9cb4544acc98909c9fcda0f96d9=
+8bbbd0ce203b6b2e59de58d1f16fd6bdbc05d83ddc29>
+<http://click.email.gapcanada.ca/?qs=3De10320add9cb4544403c2851b1fe3c1ea9ca=
+49ac7274601c9a32199660d1c6af9955f2a84a4e961a>
+  Thank
+you for visiting Gap. As requested, below is a copy of your receipt. We may
+email you updates and special offers from time to time. If you prefer not
+to receive emails from us, click here
+<http://click.email.gapcanada.ca/?qs=3De10320add9cb4544f86bdff04b4cb27b3b14=
+739429198a8b5d2449edc3534b8a1c524390a4415077>
+now or opt out at any time by clicking the "unsubscribe" link that appears
+in each email. We encourage you to review our Privacy Policy
+<http://click.email.gapcanada.ca/?qs=3De10320add9cb4544f59fc60c220ce08db25f=
+4f82fe988e840999fed0f77286a3e5527a5b8ecbd0e9>
+..
+ Gap - 9877           375 Queen Street West
+          Toronto, ON M5V 2A5
+          Tel. (416) 591-3517
+11/04/2012                    2:03:26 PM
+Trans.: 5670                Store: 09877
+Reg.: 002
+Cashier: 1925443           Valid No:3215
+                  SALE
+[image: 098770025670201211043215]
+
+TB PF HELMET                   19.95 G
+  139789  0003         1 @ 19.95
+
+TB PF KNIGHT M                 14.95 G
+  139805  0003         1 @ 14.95
+
+TB PF LION MTN                 14.95 G
+  139806  0005         1 @ 14.95
+
+TB PF LION HAT                 19.95 G
+  139790  0005         1 @ 19.95
+
+
+Subtotal                       69.80
+  HST Taxable Amount       69.80
+  HST (13.0000%) Tax        9.07
+            Rebate        (5.60)
+HST Total Tax                   3.47
+Total                          73.27
+    MasterCard (S)             73.27
+      Account:  XXXXXXXXXXXX7778
+      Auth: 05705B (A)
+Total Tender                   73.27
+Change Due                      0.00
+
+GST #                         R139199822
+
+
+
+     Unwashed, unworn, or defective
+ merchandise accompanied by an original
+receipt may be returned or exchanged to
+   any Canada store within 60 days of
+original purchase. Returns with original
+receipt receive original form of payment
+   for price paid. Returns without a
+ receipt receive merchandise credit by
+  mail. Valid ID is required. One-time
+ price adjustments may be made within 7
+days of purchase with original receipt,
+  refund will be in the form of a gift
+  card.  Merchandise ending in 0.97 is
+    FINAL SALE. Complete details are
+ available in store or at gapcanada.ca
+
+For exclusive deals and product previews
+  LIKE us on Facebook, or text VIP to
+36888 (Message and data rates may apply)
+             Customer Copy
+             [image: GAP]
+<http://click.email.gapcanada.ca/?qs=3De10320add9cb4544a214bb228259c74b9ef9=
+784d8323aed51b447a2be514b8c1b34d134f87f5fcc2>
+[image:
+OLD NAVY]
+<http://click.email.gapcanada.ca/?qs=3De10320add9cb454486253dca0a1c9a97ef50=
+3e59208a20d122e70ff9ee660e5f4fc6de4ca33edd3f>
+[image:
+BANANA REPUBLIC]
+<http://click.email.gapcanada.ca/?qs=3De10320add9cb45441454e598bce533aa733c=
+9a386a01d12213c64e1a61a233e61cf92ba0cf8b0335>
+[image:
+GAP OUTLET]
+<http://click.email.gapcanada.ca/?qs=3De10320add9cb45441a45828ac44307939520=
+b6aa0d670ae1287a9e2d837f088143306c0c17c5646a>
+[image:
+BANANA REPUBLIC FACTORY STORE]
+<http://click.email.gapcanada.ca/?qs=3De10320add9cb454487c543990634680a9fad=
+d341d40a33924fc3869035a6ec74655461dfb49d8d50>
+
+--089e0118289a651c9304fdf18eb1
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><br><br><div class=3D"gmail_quote">---------- Forwarded me=
+ssage ----------<br>From: <b class=3D"gmail_sendername">Natasha Kordonska</=
+b> <span dir=3D"ltr">&lt;<a href=3D"mailto:nkordonska@yahoo.com">nkordonska=
+@yahoo.com</a>&gt;</span><br>
+Date: Tue, Jul 8, 2014 at 7:18 PM<br>Subject: Fw: Your eReceipt from Gap<br=
+>To: &quot;<a href=3D"mailto:johnny.patterson@gmail.com">johnny.patterson@g=
+mail.com</a>&quot; &lt;<a href=3D"mailto:johnny.patterson@gmail.com">johnny=
+..patterson@gmail.com</a>&gt;<br>
+<br><br><div><div style=3D"color:#000;background-color:#fff;font-family:Hel=
+veticaNeue-Light,Helvetica Neue Light,Helvetica Neue,Helvetica,Arial,Lucida=
+ Grande,sans-serif;font-size:10pt"><div><span></span></div><div><br></div>
+  <div style=3D"font-family:HelveticaNeue-Light,&#39;Helvetica Neue Light&#=
+39;,&#39;Helvetica Neue&#39;,Helvetica,Arial,&#39;Lucida Grande&#39;,sans-s=
+erif;font-size:10pt"> <div style=3D"font-family:HelveticaNeue,&#39;Helvetic=
+a Neue&#39;,Helvetica,Arial,&#39;Lucida Grande&#39;,sans-serif;font-size:12=
+pt">
+ <div dir=3D"ltr"> ----- Forwarded Message -----<br>  <font face=3D"Arial">=
+ <b><span style=3D"font-weight:bold">From:</span></b> Gap &lt;<a href=3D"ma=
+ilto:gap@email.gapcanada.ca" target=3D"_blank">gap@email.gapcanada.ca</a>&g=
+t;<br>
+ <b><span style=3D"font-weight:bold">To:</span></b> <a href=3D"mailto:nkord=
+onska@yahoo.com" target=3D"_blank">nkordonska@yahoo.com</a> <br> <b><span s=
+tyle=3D"font-weight:bold">Sent:</span></b> Sunday, November 4, 2012 1:57:51=
+ PM<br>
+ <b><span style=3D"font-weight:bold">Subject:</span></b> Your eReceipt from=
+ Gap<br> </font> </div> <div><br><div>
+
+
+
+
+
+
+<div>
+=20
+
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+  <tbody><tr>
+    <td align=3D"center"><div align=3D"center">
+        <table align=3D"center" width=3D"830" border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"0">
+          <tbody><tr>
+            <td align=3D"center"><table border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" width=3D"828">
+                <tbody>
+                  <tr>
+                    <td width=3D"828" align=3D"center" valign=3D"top"><tabl=
+e border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"828" align=3D"c=
+enter">
+<tbody><tr><td>
+    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+    <tbody><tr><td><a rel=3D"nofollow" href=3D"http://click.email.gapcanada=
+..ca/?qs=3D77e801c9b758b580218be4df150964572864d6da2d6135aed847b8f0bef633f20=
+bfdeebe8ec292bf" target=3D"_blank"><img alt=3D"GAP" src=3D"https://ec.yimg.=
+com/mail?url=3Dhttp%3A%2F%2Fimage.email.gap.com%2Flib%2Ffe9b13707564037c70%=
+2Fm%2F2%2Fgpca_header_080612_en_logo.gif&amp;t=3D1404861458&amp;ymreqid=3Dc=
+ee1e0bf-b354-0041-0138-400179010000&amp;sig=3DHt9qEJP6g7vIn.UXJFG2iA--~B" w=
+idth=3D"64" height=3D"63" border=3D"0" style=3D"display:block;font-family:A=
+rial,Helvetica,sans-serif;font-size:10px;color:rgb(0,0,0)"></a></td>
+<td width=3D"470"><img alt=3D"" src=3D"https://ec.yimg.com/mail?url=3Dhttp%=
+3A%2F%2Fimage.email.gap.com%2Flib%2Ffe9b13707564037c70%2Fm%2F2%2Fgpus_heade=
+r_080612_spacer.gif&amp;t=3D1404861458&amp;ymreqid=3Dcee1e0bf-b354-0041-013=
+8-400179010000&amp;sig=3Dq.CGOIgmpYOPgoKSWEgAtQ--~B" width=3D"1" height=3D"=
+1" style=3D"display:block"></td>
+<td><a rel=3D"nofollow" href=3D"http://click.email.gapcanada.ca/?qs=3D77e80=
+1c9b758b58038856c2935b99548d406c6fdb97839cd510e151311734269125ce04f06567ccf=
+" target=3D"_blank">
+<img alt=3D"EVERYDAY FREE SHIPPING ON ANY ORDER OVER $50. NO CODE. NO HASSL=
+E." src=3D"https://ec.yimg.com/mail?url=3Dhttp%3A%2F%2Fimage.email.gap.com%=
+2Flib%2Ffe9b13707564037c70%2Fm%2F2%2Fgpca_header_080612_en_edfs.gif&amp;t=
+=3D1404861458&amp;ymreqid=3Dcee1e0bf-b354-0041-0138-400179010000&amp;sig=3D=
+VnVGO7r3JkqDUQgE1q0T9A--~B" width=3D"294" height=3D"63" border=3D"0" style=
+=3D"display:block;font-family:Arial,Helvetica,sans-serif;font-size:10px;col=
+or:rgb(0,0,0)"></a></td>
+</tr>
+    </tbody></table></td></tr>
+<tr><td><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+    <tbody><tr><td><a rel=3D"nofollow" href=3D"http://click.email.gapcanada=
+..ca/?qs=3D77e801c9b758b5806681e674e815f61d137382412bce2ec6b5984d998892db584=
+a5f32fd26166e3c" target=3D"_blank"><img alt=3D"WOMEN" src=3D"https://ec.yim=
+g.com/mail?url=3Dhttp%3A%2F%2Fimage.email.gap.com%2Flib%2Ffe9b13707564037c7=
+0%2Fm%2F2%2Fgpca_header_080612_en_cta01.gif&amp;t=3D1404861458&amp;ymreqid=
+=3Dcee1e0bf-b354-0041-0138-400179010000&amp;sig=3DwH0x9QPni7YmASKvSd5tjw--~=
+B" width=3D"69" height=3D"43" border=3D"0" style=3D"display:block;font-fami=
+ly:Arial,Helvetica,sans-serif;font-size:10px;color:rgb(0,0,0)"></a></td>
+<td><a rel=3D"nofollow" href=3D"http://click.email.gapcanada.ca/?qs=3D77e80=
+1c9b758b5808b5df693dadb41b3ba5227a959ac4d16308567bf972009149b5a3b72aca1d690=
+" target=3D"_blank"><img alt=3D"MEN" src=3D"https://ec.yimg.com/mail?url=3D=
+http%3A%2F%2Fimage.email.gap.com%2Flib%2Ffe9b13707564037c70%2Fm%2F2%2Fgpca_=
+header_080612_en_cta02.gif&amp;t=3D1404861458&amp;ymreqid=3Dcee1e0bf-b354-0=
+041-0138-400179010000&amp;sig=3D8I194I7VXRRyNz4M4mo8Eg--~B" width=3D"85" he=
+ight=3D"43" border=3D"0" style=3D"display:block;font-family:Arial,Helvetica=
+,sans-serif;font-size:10px;color:rgb(0,0,0)"></a></td>
+<td><a rel=3D"nofollow" href=3D"http://click.email.gapcanada.ca/?qs=3D77e80=
+1c9b758b580e804d22b180e28f745556a83e7118dcfb31af4a21680bb6a130465b0009298d0=
+" target=3D"_blank">
+<img alt=3D"GIRLS" src=3D"https://ec.yimg.com/mail?url=3Dhttp%3A%2F%2Fimage=
+..email.gap.com%2Flib%2Ffe9b13707564037c70%2Fm%2F2%2Fgpca_header_080612_en_c=
+ta03.gif&amp;t=3D1404861458&amp;ymreqid=3Dcee1e0bf-b354-0041-0138-400179010=
+000&amp;sig=3DUpZXRXzS3Ay3BmKEbzX2VQ--~B" width=3D"91" height=3D"43" border=
+=3D"0" style=3D"display:block;font-family:Arial,Helvetica,sans-serif;font-s=
+ize:10px;color:rgb(0,0,0)"></a></td>
+<td><a rel=3D"nofollow" href=3D"http://click.email.gapcanada.ca/?qs=3D77e80=
+1c9b758b5804a11638980032724ee5166912c4ec08a519506694e727d356334a9d55702c2d4=
+" target=3D"_blank"><img alt=3D"BOYS" src=3D"https://ec.yimg.com/mail?url=
+=3Dhttp%3A%2F%2Fimage.email.gap.com%2Flib%2Ffe9b13707564037c70%2Fm%2F2%2Fgp=
+ca_header_080612_en_cta04.gif&amp;t=3D1404861458&amp;ymreqid=3Dcee1e0bf-b35=
+4-0041-0138-400179010000&amp;sig=3D8Izey8uS.0hzY6GHtsXi8g--~B" width=3D"89"=
+ height=3D"43" border=3D"0" style=3D"display:block;font-family:Arial,Helvet=
+ica,sans-serif;font-size:10px;color:rgb(0,0,0)"></a></td>
+<td><a rel=3D"nofollow" href=3D"http://click.email.gapcanada.ca/?qs=3D77e80=
+1c9b758b5802430857c4e817cbd3a3f910b878b4abde2d8a8df22772d3a0a909df18539b533=
+" target=3D"_blank">
+<img alt=3D"TODDLER GIRL (1=E2=80=935 YRS)" src=3D"https://ec.yimg.com/mail=
+?url=3Dhttp%3A%2F%2Fimage.email.gap.com%2Flib%2Ffe9b13707564037c70%2Fm%2F2%=
+2Fgpca_header_080612_en_cta05.gif&amp;t=3D1404861458&amp;ymreqid=3Dcee1e0bf=
+-b354-0041-0138-400179010000&amp;sig=3DZw5IaYwt7J8jSkLP6ub_jA--~B" width=3D=
+"138" height=3D"43" border=3D"0" style=3D"display:block;font-family:Arial,H=
+elvetica,sans-serif;font-size:10px;color:rgb(0,0,0)"></a></td>
+<td><a rel=3D"nofollow" href=3D"http://click.email.gapcanada.ca/?qs=3D77e80=
+1c9b758b580bc44bfdbfc23df4cbb39192f20aa4fb200eb097a0cda3d8baeade7c5aa86cc4f=
+" target=3D"_blank"><img alt=3D"TODDLER BOY (1=E2=80=935 YRS)" src=3D"https=
+://ec.yimg.com/mail?url=3Dhttp%3A%2F%2Fimage.email.gap.com%2Flib%2Ffe9b1370=
+7564037c70%2Fm%2F2%2Fgpca_header_080612_en_cta06.gif&amp;t=3D1404861458&amp=
+;ymreqid=3Dcee1e0bf-b354-0041-0138-400179010000&amp;sig=3DqO.JDm7gEThTU0xsP=
+P9ygQ--~B" width=3D"136" height=3D"43" border=3D"0" style=3D"display:block;=
+font-family:Arial,Helvetica,sans-serif;font-size:10px;color:rgb(0,0,0)"></a=
+></td>
+<td><a rel=3D"nofollow" href=3D"http://click.email.gapcanada.ca/?qs=3De1032=
+0add9cb45443dbe8257c300ef678cf8d33353d137616e7d6a6601ea0e7f0092ff61b61ad270=
+" target=3D"_blank">
+<img alt=3D"INFANT GIRL (0=E2=80=9324 MOS)" src=3D"https://ec.yimg.com/mail=
+?url=3Dhttp%3A%2F%2Fimage.email.gap.com%2Flib%2Ffe9b13707564037c70%2Fm%2F2%=
+2Fgpca_header_080612_en_cta07.gif&amp;t=3D1404861458&amp;ymreqid=3Dcee1e0bf=
+-b354-0041-0138-400179010000&amp;sig=3D5BXnhn5cA80N4NNgYgcVFA--~B" width=3D=
+"123" height=3D"43" border=3D"0" style=3D"display:block;font-family:Arial,H=
+elvetica,sans-serif;font-size:10px;color:rgb(0,0,0)"></a></td>
+<td><a rel=3D"nofollow" href=3D"http://click.email.gapcanada.ca/?qs=3De1032=
+0add9cb4544acc98909c9fcda0f96d98bbbd0ce203b6b2e59de58d1f16fd6bdbc05d83ddc29=
+" target=3D"_blank"><img alt=3D"INFANT BOY (0=E2=80=9324 MOS)" src=3D"https=
+://ec.yimg.com/mail?url=3Dhttp%3A%2F%2Fimage.email.gap.com%2Flib%2Ffe9b1370=
+7564037c70%2Fm%2F2%2Fgpca_header_080612_en_cta08.gif&amp;t=3D1404861458&amp=
+;ymreqid=3Dcee1e0bf-b354-0041-0138-400179010000&amp;sig=3Dp3KEZ_EZ6HKfK97p0=
+40C4g--~B" width=3D"97" height=3D"43" border=3D"0" style=3D"display:block;f=
+ont-family:Arial,Helvetica,sans-serif;font-size:10px;color:rgb(0,0,0)"></a>=
+</td>
+</tr>
+    </tbody></table></td></tr>
+<tr><td height=3D"10"><img alt=3D"" src=3D"https://ec.yimg.com/mail?url=3Dh=
+ttp%3A%2F%2Fimage.email.gap.com%2Flib%2Ffe9b13707564037c70%2Fm%2F2%2Fgpus_h=
+eader_080612_spacer.gif&amp;t=3D1404861458&amp;ymreqid=3Dcee1e0bf-b354-0041=
+-0138-400179010000&amp;sig=3Dq.CGOIgmpYOPgoKSWEgAtQ--~B" width=3D"1" height=
+=3D"1" style=3D"display:block"></td>
+</tr>
+</tbody></table></td>
+                  </tr>
+                </tbody>
+              </table></td>
+          </tr>
+          <tr>
+            <td width=3D"830" align=3D"center" valign=3D"top"><table width=
+=3D"606" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                <tbody><tr>
+                  <td width=3D"606" align=3D"left" valign=3D"top"><a rel=3D=
+"nofollow" href=3D"http://click.email.gapcanada.ca/?qs=3De10320add9cb454440=
+3c2851b1fe3c1ea9ca49ac7274601c9a32199660d1c6af9955f2a84a4e961a" style=3D"te=
+xt-decoration:none" target=3D"_blank"><img style=3D"display:block;font-styl=
+e:normal;font-variant:normal;font-weight:normal;font-size:12px;line-height:=
+normal;font-family:Arial,Helvetica,sans-serif;color:rgb(255,255,255)" src=
+=3D"https://ec.yimg.com/mail?url=3Dhttp%3A%2F%2Fimage.email.piperlime.com%2=
+Flib%2Ffe9d13707564037f77%2Fm%2F2%2FGAP_eReceipt_banner2_03.jpg&amp;t=3D140=
+4861458&amp;ymreqid=3Dcee1e0bf-b354-0041-0138-400179010000&amp;sig=3Dxmg_bR=
+3.VrI6HT6NqTAJow--~B" width=3D"606" height=3D"200" alt=3D"" border=3D"0" ti=
+tle=3D""></a></td>
+
+                </tr>
+                <tr>
+                  <td width=3D"606" align=3D"left" valign=3D"top" style=3D"=
+padding:0px 0px 0px 0px"><table width=3D"100%" border=3D"0" cellspacing=3D"=
+0" cellpadding=3D"0">
+                      <tbody><tr>
+                        <td width=3D"598" align=3D"left" valign=3D"top" bgc=
+olor=3D"#ea674f" style=3D"padding:20px 50px;font-style:normal;font-variant:=
+normal;font-weight:normal;font-size:12px;line-height:normal;font-family:Ari=
+al,Helvetica,sans-serif;color:rgb(255,255,255)">
+Thank you for visiting Gap. As requested, below is a copy of your receipt. =
+We may email you updates and special offers from time to time. If you prefe=
+r not to receive emails from us, <a rel=3D"nofollow" href=3D"http://click.e=
+mail.gapcanada.ca/?qs=3De10320add9cb4544f86bdff04b4cb27b3b14739429198a8b5d2=
+449edc3534b8a1c524390a4415077" style=3D"color:#ffffff" target=3D"_blank">cl=
+ick here</a> now or opt out at any time by clicking the &quot;unsubscribe&q=
+uot; link that appears in each email. We encourage you to review our <a rel=
+=3D"nofollow" href=3D"http://click.email.gapcanada.ca/?qs=3De10320add9cb454=
+4f59fc60c220ce08db25f4f82fe988e840999fed0f77286a3e5527a5b8ecbd0e9" style=3D=
+"color:#ffffff" target=3D"_blank">Privacy Policy</a>.</td>
+
+                      </tr>
+                    </tbody></table></td>
+                </tr>
+                <tr>
+                  <td width=3D"606" align=3D"left" valign=3D"top" style=3D"=
+padding:0px 5px"><table width=3D"596" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0">
+                      <tbody><tr>
+                        <td align=3D"left" valign=3D"top" style=3D"padding:=
+24px 0 5px 0"><table width=3D"424" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0">
+                            <tbody><tr>
+                              <td align=3D"left" valign=3D"top" style=3D"pa=
+dding:3px"><table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+                                  <tbody><tr>
+                                    <td align=3D"left" valign=3D"top" style=
+=3D"border:1px #d5d5d5 solid"><table width=3D"100%" border=3D"0" cellspacin=
+g=3D"0" cellpadding=3D"0">
+                                        <tbody><tr>
+                                          <td align=3D"left" width=3D"435" =
+valign=3D"top" style=3D"font-family:&#39;Lucida Console&#39;,Courier,monosp=
+ace;line-height:14px;font-size:14px">
+                                           =20
+  <br>
+  <table style=3D"padding-left:50px"><tbody>
+    <tr><td align=3D"center" style=3D"font-family:&#39;Lucida Console&#39;,=
+Courier,monospace;line-height:14px;font-size:14px;padding:0px">Gap - 9877
+</td></tr>
+    <tr><td align=3D"left" style=3D"font-family:&#39;Lucida Console&#39;,Co=
+urier,monospace;line-height:14px;font-size:14px;padding:0px">
+      =C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0375=C2=A0Queen=
+=C2=A0Street=C2=A0West
+<br>=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0Toronto,=C2=
+=A0ON=C2=A0M5V=C2=A02A5
+<br>=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0Tel.=C2=A0<=
+a href=3D"tel:%28416%29%C2%A0591-3517" value=3D"+14165913517" target=3D"_bl=
+ank">(416)=C2=A0591-3517</a>
+<br>11/04/2012=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A02:03:26=C2=A0PM
+<br>Trans.:=C2=A05670=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0Store:=C2=A009877
+<br>Reg.:=C2=A0002=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0
+<br>Cashier:=C2=A01925443=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0Valid=C2=A0No:3215
+<br>=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0SALE
+<br>
+      <img border=3D"0" src=3D"https://ec.yimg.com/mail?url=3Dhttp%3A%2F%2F=
+cl.s6.exct.net%2FLiveContent.aspx%3Fqs%3D8f044b3c9f58381ad3780033df3cebb75c=
+6dbe57e6d887a69351498ca5238c8709183ec8f626cc73828eaaff5d899f38ae568d7f19fc8=
+bcbc069abe7b10e9e19c7678c575732c4e00472891bc916d1ca62235abbbca38202c62daa13=
+1e9a5110b403b00671a68336&amp;t=3D1404861458&amp;ymreqid=3Dcee1e0bf-b354-004=
+1-0138-400179010000&amp;sig=3Dubg..r4Ef_islzU9noDfsA--~B" alt=3D"0987700256=
+70201211043215" width=3D"311" height=3D"55">
+     =20
+<br>
+<br>TB=C2=A0PF=C2=A0HELMET=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A019.95=C2=
+=A0G
+<br>=C2=A0=C2=A0139789=C2=A0=C2=A00003=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A01=C2=A0@=C2=A019.95
+<br>
+<br>TB=C2=A0PF=C2=A0KNIGHT=C2=A0M=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A014.95=C2=A0G
+<br>=C2=A0=C2=A0139805=C2=A0=C2=A00003=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A01=C2=A0@=C2=A014.95
+<br>
+<br>TB=C2=A0PF=C2=A0LION=C2=A0MTN=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A014.95=C2=A0G
+<br>=C2=A0=C2=A0139806=C2=A0=C2=A00005=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A01=C2=A0@=C2=A014.95
+<br>
+<br>TB=C2=A0PF=C2=A0LION=C2=A0HAT=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A019.95=C2=A0G
+<br>=C2=A0=C2=A0139790=C2=A0=C2=A00005=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A01=C2=A0@=C2=A019.95
+<br>
+<br>
+<br>Subtotal=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+69.80=C2=A0=C2=A0=C2=A0=C2=A0
+<br>=C2=A0=C2=A0HST=C2=A0Taxable=C2=A0Amount=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A069.80=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0
+<br>=C2=A0=C2=A0HST=C2=A0(13.0000%)=C2=A0Tax=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A09.07=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0
+<br>=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0Rebate=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0(5.60)=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0
+<br>HST=C2=A0Total=C2=A0Tax=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A03.47=C2=
+=A0=C2=A0=C2=A0=C2=A0
+<br>Total=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A073.27=C2=A0=C2=A0=C2=A0=C2=A0
+<br>=C2=A0=C2=A0=C2=A0=C2=A0MasterCard=C2=A0(S)=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A073.27=C2=A0=C2=A0=C2=A0=
+=C2=A0
+<br>=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0Account:=C2=A0=C2=A0XXXXXXXXXXXX777=
+8
+<br>=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0Auth:=C2=A005705B=C2=A0(A)
+<br>Total=C2=A0Tender=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A073.27=C2=A0=C2=
+=A0=C2=A0=C2=A0
+<br>Change=C2=A0Due=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A00.00=C2=A0=C2=A0=C2=A0=C2=A0
+<br>
+<br>GST=C2=A0#=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0R139199822
+<br>
+<br>
+<br>
+<br>=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0Unwashed,=C2=A0unworn,=C2=A0or=C2=A0defec=
+tive
+<br>=C2=A0merchandise=C2=A0accompanied=C2=A0by=C2=A0an=C2=A0original
+<br>receipt=C2=A0may=C2=A0be=C2=A0returned=C2=A0or=C2=A0exchanged=C2=A0to
+<br>=C2=A0=C2=A0=C2=A0any=C2=A0Canada=C2=A0store=C2=A0within=C2=A060=C2=A0d=
+ays=C2=A0of
+<br>original=C2=A0purchase.=C2=A0Returns=C2=A0with=C2=A0original
+<br>receipt=C2=A0receive=C2=A0original=C2=A0form=C2=A0of=C2=A0payment
+<br>=C2=A0=C2=A0=C2=A0for=C2=A0price=C2=A0paid.=C2=A0Returns=C2=A0without=
+=C2=A0a
+<br>=C2=A0receipt=C2=A0receive=C2=A0merchandise=C2=A0credit=C2=A0by
+<br>=C2=A0=C2=A0mail.=C2=A0Valid=C2=A0ID=C2=A0is=C2=A0required.=C2=A0One-ti=
+me
+<br>=C2=A0price=C2=A0adjustments=C2=A0may=C2=A0be=C2=A0made=C2=A0within=C2=
+=A07
+<br>days=C2=A0of=C2=A0purchase=C2=A0with=C2=A0original=C2=A0receipt,
+<br>=C2=A0=C2=A0refund=C2=A0will=C2=A0be=C2=A0in=C2=A0the=C2=A0form=C2=A0of=
+=C2=A0a=C2=A0gift
+<br>=C2=A0=C2=A0card.=C2=A0=C2=A0Merchandise=C2=A0ending=C2=A0in=C2=A00.97=
+=C2=A0is
+<br>=C2=A0=C2=A0=C2=A0=C2=A0FINAL=C2=A0SALE.=C2=A0Complete=C2=A0details=C2=
+=A0are
+<br>=C2=A0available=C2=A0in=C2=A0store=C2=A0or=C2=A0at=C2=A0<a href=3D"http=
+://gapcanada.ca" target=3D"_blank">gapcanada.ca</a>
+<br>=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0
+<br>For=C2=A0exclusive=C2=A0deals=C2=A0and=C2=A0product=C2=A0previews
+<br>=C2=A0=C2=A0LIKE=C2=A0us=C2=A0on=C2=A0Facebook,=C2=A0or=C2=A0text=C2=A0=
+VIP=C2=A0to
+<br>36888=C2=A0(Message=C2=A0and=C2=A0data=C2=A0rates=C2=A0may=C2=A0apply)
+<br>=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0Customer=C2=A0Copy
+    </td></tr>
+  </tbody></table>
+  <br>
+                                          </td>
+                                        </tr>
+                                      </tbody></table></td>
+                                  </tr>
+                                </tbody></table></td>
+                            </tr>
+                          </tbody></table></td>
+                        <td width=3D"147" align=3D"left" valign=3D"top">=C2=
+=A0</td>
+                      </tr>
+                    </tbody></table></td>
+                </tr>
+              </tbody></table></td>
+          </tr>
+          <tr>
+            <td width=3D"828" align=3D"left" valign=3D"top"><img src=3D"htt=
+ps://ec.yimg.com/mail?url=3Dhttp%3A%2F%2Fimage.email.gapinc.com%2Flib%2Ffe9=
+813707564027577%2Fm%2F3%2F20120905_GAP_Universal_Spacer.gif&amp;t=3D1404861=
+458&amp;ymreqid=3Dcee1e0bf-b354-0041-0138-400179010000&amp;sig=3DhU1cp9YagC=
+8NZba6CMiHHQ--~B" width=3D"828" height=3D"7" style=3D"display:block" alt=3D=
+"" title=3D"" border=3D"0"></td>
+
+          </tr>
+          <tr>
+            <td width=3D"828" align=3D"center" valign=3D"top"><table width=
+=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center"=
+>
+                <tbody><tr>
+                  <td width=3D"209" height=3D"41">=C2=A0</td>
+                  <td width=3D"57" height=3D"41"><a rel=3D"nofollow" href=
+=3D"http://click.email.gapcanada.ca/?qs=3De10320add9cb4544a214bb228259c74b9=
+ef9784d8323aed51b447a2be514b8c1b34d134f87f5fcc2" style=3D"text-decoration:n=
+one" target=3D"_blank"><img src=3D"https://ec.yimg.com/mail?url=3Dhttp%3A%2=
+F%2Fimage.email.gapcanada.ca%2Flib%2Ffe9f13707564037c74%2Fm%2F1%2F20120607_=
+GPFC_Footer_fall2012_08.jpg&amp;t=3D1404861458&amp;ymreqid=3Dcee1e0bf-b354-=
+0041-0138-400179010000&amp;sig=3D0.PftCE9hnP7tVTn1je_HA--~B" width=3D"57" h=
+eight=3D"41" style=3D"display:block;color:#000001" border=3D"0" alt=3D"GAP"=
+></a></td>
+
+                  <td width=3D"101" height=3D"41"><a rel=3D"nofollow" href=
+=3D"http://click.email.gapcanada.ca/?qs=3De10320add9cb454486253dca0a1c9a97e=
+f503e59208a20d122e70ff9ee660e5f4fc6de4ca33edd3f" style=3D"text-decoration:n=
+one" target=3D"_blank"><img src=3D"https://ec.yimg.com/mail?url=3Dhttp%3A%2=
+F%2Fimage.email.gapcanada.ca%2Flib%2Ffe9f13707564037c74%2Fm%2F1%2F20120607_=
+GPFC_Footer_fall2012_09.jpg&amp;t=3D1404861458&amp;ymreqid=3Dcee1e0bf-b354-=
+0041-0138-400179010000&amp;sig=3Dl26o1SJwBb77sNIby1fg.w--~B" width=3D"101" =
+height=3D"41" style=3D"display:block;color:#000001" border=3D"0" alt=3D"OLD=
+ NAVY"></a></td>
+
+                  <td width=3D"95" height=3D"41"><a rel=3D"nofollow" href=
+=3D"http://click.email.gapcanada.ca/?qs=3De10320add9cb45441454e598bce533aa7=
+33c9a386a01d12213c64e1a61a233e61cf92ba0cf8b0335" style=3D"text-decoration:n=
+one" target=3D"_blank"><img src=3D"https://ec.yimg.com/mail?url=3Dhttp%3A%2=
+F%2Fimage.email.gapcanada.ca%2Flib%2Ffe9f13707564037c74%2Fm%2F1%2F20120607_=
+GPFC_Footer_fall2012_10.jpg&amp;t=3D1404861458&amp;ymreqid=3Dcee1e0bf-b354-=
+0041-0138-400179010000&amp;sig=3D4R.sZx3HRLmJM1DOaNjURQ--~B" width=3D"95" h=
+eight=3D"41" style=3D"display:block;color:#000001" border=3D"0" alt=3D"BANA=
+NA REPUBLIC"></a></td>
+
+                  <td width=3D"52" height=3D"41"><a rel=3D"nofollow" href=
+=3D"http://click.email.gapcanada.ca/?qs=3De10320add9cb45441a45828ac44307939=
+520b6aa0d670ae1287a9e2d837f088143306c0c17c5646a" style=3D"text-decoration:n=
+one" target=3D"_blank"><img src=3D"https://ec.yimg.com/mail?url=3Dhttp%3A%2=
+F%2Fimage.email.gapcanada.ca%2Flib%2Ffe9f13707564037c74%2Fm%2F1%2F20120607_=
+GPFC_Footer_fall2012_11.jpg&amp;t=3D1404861458&amp;ymreqid=3Dcee1e0bf-b354-=
+0041-0138-400179010000&amp;sig=3D2aYZQPfYvEpUpihZAwsfNA--~B" width=3D"52" h=
+eight=3D"41" style=3D"display:block;color:#000001" border=3D"0" alt=3D"GAP =
+OUTLET"></a></td>
+
+                  <td width=3D"105" height=3D"41"><a rel=3D"nofollow" href=
+=3D"http://click.email.gapcanada.ca/?qs=3De10320add9cb454487c543990634680a9=
+fadd341d40a33924fc3869035a6ec74655461dfb49d8d50" style=3D"text-decoration:n=
+one" target=3D"_blank"><img src=3D"https://ec.yimg.com/mail?url=3Dhttp%3A%2=
+F%2Fimage.email.gapcanada.ca%2Flib%2Ffe9f13707564037c74%2Fm%2F1%2F20120607_=
+GPFC_Footer_fall2012_12.jpg&amp;t=3D1404861458&amp;ymreqid=3Dcee1e0bf-b354-=
+0041-0138-400179010000&amp;sig=3DgDG74EWNmoFuQaMcV9lcyg--~B" width=3D"105" =
+height=3D"41" style=3D"display:block;color:#000001" border=3D"0" alt=3D"BAN=
+ANA REPUBLIC FACTORY STORE"></a></td>
+
+                  <td width=3D"211" height=3D"41" colspan=3D"2">=C2=A0</td>
+                </tr>
+              </tbody></table></td>
+          </tr>
+        </tbody></table>
+      </div></td>
+  </tr>
+</tbody></table>
+<br>
+=20
+
+<img src=3D"https://ec.yimg.com/mail?url=3Dhttp%3A%2F%2Fclick.email.gapcana=
+da.ca%2Fopen.aspx%3Fffcb10-fef61275776103-fe581c777561027c7c17-fe9f13707564=
+037c74-ff60107771-fe571c797162057a7115-ff2c17767267&amp;t=3D1404861458&amp;=
+ymreqid=3Dcee1e0bf-b354-0041-0138-400179010000&amp;sig=3DcKup86.g.mizEOmfSU=
+zeoQ--~B" width=3D"1" height=3D"1">
+</div>
+
+
+</div><br><br></div> </div> </div>  </div></div></div><br></div>
+
+--089e0118289a651c9304fdf18eb1--

@@ -1,0 +1,760 @@
+X-Mailgun-Spf: Neutral
+X-Mailgun-Sscore: 0.0
+X-Mailgun-Sflag: No
+X-Mailgun-Incoming: Yes
+X-Envelope-From: <daniel@getsensibill.com>
+Received: from mail-it0-f42.google.com (mail-it0-f42.google.com [209.85.214.42])
+ by mxa.mailgun.org with ESMTP id 57a0f55b.7f6a40413930-in01;
+ Tue, 02 Aug 2016 19:32:43 -0000 (UTC)
+Received: by mail-it0-f42.google.com with SMTP id f6so279710861ith.1
+        for <danielpwagner@billpass.ca>; Tue, 02 Aug 2016 12:32:43 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=getsensibill-com.20150623.gappssmtp.com; s=20150623;
+        h=from:to:references:in-reply-to:subject:date:message-id:mime-version
+         :thread-index:content-language;
+        bh=GS0Z184TC5Hm3U63SPykFOHfoIPLd3vxplWqT4sdvZE=;
+        b=lPNp3bDGMFYjXRXTI/wkTR2SYCZ1okdKzWoRXGivQtfzYecjgq4eHqU6YG1wdLGtb9
+         YvxmW18XnYDxa4XhTZTrnfUSH1beMe0ADeGVhoMdcyiLw62AakXQw/dwMXVRiS3hCZ0p
+         XkREHXZFUCSonHMiXihSES9uMcDdceqtTyXSM8I0tgSl3Tfadr3Os0RCU26VKRJUke0h
+         P2TA2ynCar9Kz92Yg1ALEPYXxZIXxx1C10yVB8R0yO7QVOr86rTaXbFW1DlbA0EpZiiP
+         /eMYBUb3LIVzzMzfczmnyueENaN9T8qFu0q93853oDxzoHKx2Sd961jCSk7YAw6QAYE3
+         D93Q==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:from:to:references:in-reply-to:subject:date
+         :message-id:mime-version:thread-index:content-language;
+        bh=GS0Z184TC5Hm3U63SPykFOHfoIPLd3vxplWqT4sdvZE=;
+        b=mwZxgS4FtW+RIF2bWii3TdMGd4d3+7o+DOo14W4JVuI7HPlf0LSWQY/3w/mb68Ofc7
+         5hdvIQqPJUObiG4uLG8xcry+cKWaP5+YO6trrcccG5A7eWuwpRndMdheew4xLg1OMhh8
+         l9VfTBH4QKZbcIYMb3BiP+WT9HPsAp/0WsFiNfIgQ4oZJ+UJiNZVORwhFB8RQtln0x22
+         qoeEATqJKGsniU062ooxkg08CoJ2kOj+UhK7VaR4YqhVJFbfz5fSz0gMApnkr1VK7Lac
+         sWodhql9a9DTqvXBeLoITr48ELxKfuQ5GC9wUVmgZRNDBoSCWr7UhSpfLtoEGysoLd2h
+         YJyQ==
+X-Gm-Message-State: AEkoousL/Z4qtCLIpZDp57FMPJZULhjgJFwwWMHPyyOXilLLO3jiPK2TFa3yHawO9Z66dg==
+X-Received: by 10.36.152.5 with SMTP id n5mr49282808itd.79.1470166362993;
+        Tue, 02 Aug 2016 12:32:42 -0700 (PDT)
+Return-Path: <daniel@getsensibill.com>
+Received: from DESKTOP1M9J2FN ([206.47.38.58])
+        by smtp.gmail.com with ESMTPSA id z65sm1941413ioi.28.2016.08.02.12.32.42
+        for <danielpwagner@billpass.ca>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 02 Aug 2016 12:32:42 -0700 (PDT)
+From: "Daniel Wagner" <daniel@getsensibill.com>
+To: <danielpwagner@billpass.ca>
+References: <9a0498b5-9467-4d33-b4b1-48bdfadd334e@xtgap4s7mta404.xt.local> <FBFB46A6-D011-4775-AAAD-DF3202BCA4E7@gmail.com>
+In-Reply-To: <FBFB46A6-D011-4775-AAAD-DF3202BCA4E7@gmail.com>
+Subject: FW: Your receipt for order #20005323025 from Crate and Barrel
+Date: Tue, 2 Aug 2016 15:32:39 -0400
+Message-ID: <02b301d1ecf4$a21b79a0$e6526ce0$@getsensibill.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_02B4_01D1ECD3.1B0C98C0"
+X-Mailer: Microsoft Outlook 16.0
+Thread-Index: AQIhe9Mg8mAup12jRx2aXMcCPOo25QHtTXn2n4eHBiA=
+Content-Language: en-ca
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_02B4_01D1ECD3.1B0C98C0
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+From: "Crate and Barrel" <crateandbarrel@mail.crateandbarrel.com =
+<mailto:crateandbarrel@mail.crateandbarrel.com> >
+Date: April 29, 2015 at 10:27:36 AM EDT
+To: <SNIDER.KRISTA@GMAIL.COM <mailto:SNIDER.KRISTA@gmail.com> >
+Subject: Your receipt for order #20005323025 from Crate and Barrel
+Reply-To: "Crate and Barrel" =
+<reply-ff021171746204-38_HTML-12224334-7200718-3180@mail.crateandbarrel.c=
+om =
+<mailto:reply-ff021171746204-38_HTML-12224334-7200718-3180@mail.crateandb=
+arrel.com> >
+
+  =
+<http://click.mail.crateandbarrel.com/open.aspx?ffcb10-ff021171746204-fe6=
+515737563007c7011-fe9613727564037c7d-ff941778-fe6a15727766007e7610-ff3317=
+717d64>=20
+
+
+
+
+
+ =
+<http://click.mail.crateandbarrel.com/?qs=3Dc232c5e22fb59ba18343693389731=
+4ddc7b56ef3ba2825e3974d88c6c8d5b82b2720a12c2dd8e761> Your receipt for =
+order #20005323025 from Crate and Barrel.
+
+ =
+<http://click.mail.crateandbarrel.com/?qs=3Dc232c5e22fb59ba1780d59eb60c9b=
+f22ea15b4348d3bc5af43720624e7a8e9fc4c9091778b160d4e> View with images
+
+
+
+
+ =
+<http://click.mail.crateandbarrel.com/?qs=3Dc232c5e22fb59ba18c91d215f6917=
+b54e233362fbe259c7392fd0c9ec00c597fb8a111c1ad49619c305f5b0e4a609698>  =
+<http://click.mail.crateandbarrel.com/?qs=3Dc232c5e22fb59ba18c91d215f6917=
+b54e233362fbe259c7392fd0c9ec00c597fb8a111c1ad49619c305f5b0e4a609698>  =
+<http://click.mail.crateandbarrel.com/?qs=3Dc232c5e22fb59ba18c91d215f6917=
+b54e233362fbe259c7392fd0c9ec00c597fb8a111c1ad49619c305f5b0e4a609698>=20
+
+YORKDALE
+3401 Dufferin Street
+Toronto, ON M6A 2T9
+(416) 657-4100
+
+
+
+
+  =
+<http://image.mail.crateandbarrel.com/lib/fe9613727564037c7d/m/2/Canada_e=
+Receipt_EN_top_img.jpg>=20
+
+
+
+
+Order #: 20005323025=20
+Sale Date: 04/29/2015
+Associate: JONATHAN ECKERT
+
+
+
+
+ =
+<http://click.mail.crateandbarrel.com/?qs=3Dc232c5e22fb59ba1eae2a9cbf4dde=
+2ba663732fb46e37d9a36b86ed96ce3e131a01a8e181c4663a0ce8cf44ac7820521>=20
+
+
+
+
+
+		=09
+	=09
+Return
+
+=09
+		=09
+=09
+			=09
+ =20
+
+=09
+=09
+					=09
+
+
+
+  =
+<http://image.mail.crateandbarrel.com/lib/fe9613727564037c7d/m/2/cbca_mig=
+ration_email_dotted.jpg>=20
+
+
+
+SKU=20
+
+Description=20
+
+Qty=20
+
+Retail
+Amount=20
+
+Extended
+Amount=20
+
+
+  =
+<http://image.mail.crateandbarrel.com/lib/fe9613727564037c7d/m/2/cbca_mig=
+ration_email_dotted.jpg>=20
+
+
+
+157832=20
+
+Set of 20 Awning Stripe Beverage Napkin R
+
+2=20
+
+-6.95=20
+
+-13.90=20
+
+
+=09
+
+=09
+Transaction Totals:=20
+
+ =09
+=09
+MERCHANDISE:
+ON HST 13.000%:
+TOTAL:
+
+CASH REFUND:
+
+	-13.90
+-1.80
+-15.70
+
+-15.70
+
+
+
+=09
+=09
+		=09
+=09
+=09
+
+=09
+  =
+<http://crateandbarrel.com/handlers/barcode.ashx?n=3DaIFjt64qFQ9zsJkVeMkJ=
+bCEDr08LYROLcVIxaA3G93s%3d>=20
+
+=09
+=09
+=09
+
+Visit us online at  =
+<http://click.mail.crateandbarrel.com/?qs=3Dc232c5e22fb59ba14cac8e8168058=
+2abacbefc0afaf7182fc6a1f610b5d072c15d7279680fe96e14fe8e6b5cc70f777c> =
+crateandbarrel.ca
+
+=09
+=09
+
+ =
+<http://click.mail.crateandbarrel.com/?qs=3Dc232c5e22fb59ba15d632e33cb6df=
+42c0f1559e78df1bc36762988e3f1ba125479acb44ffc73622c34f52ed0e35bfdac>=20
+
+=09
+
+
+ =
+<http://click.mail.crateandbarrel.com/?qs=3Dc232c5e22fb59ba18030c3c320a85=
+512e1fb016b819dfc1c60fef72c3fe870e4c2b22da7b1d07e7ca164e8323a273eab>=20
+
+
+
+*Excludes dining chairs, office chairs and clearance items. Cannot be =
+combined with any other offers or discounts.
+
+ =
+<http://click.mail.crateandbarrel.com/?qs=3Dc232c5e22fb59ba186b59d2a98b04=
+273dcdc4c466f33735df159a39d3c7d0b0edbe749e97a576206b846dbdc881b2769> =
+Return Policy
+
+Subscribe
+If you wish to receive Crate and Barrel email messages about new =
+products, sales, exclusive offers and more, click here to  =
+<http://click.mail.crateandbarrel.com/?qs=3Dc232c5e22fb59ba18720f582d88fa=
+7f5e03941e978e4b5288ce768098b5549a87876fc2d14879d32> subscribe.
+
+Privacy policy
+Click to view our  =
+<http://click.mail.crateandbarrel.com/?qs=3Dc232c5e22fb59ba113dacebc5120f=
+b62562297e02c0fbda0888ec1d96efc3a1ff3a1ce3ecc86280072ff3c11dd8e7f36> =
+privacy policy.
+
+Crate and Barrel, 6060 Burnside Court, Unit 2, Mississauga, ON L5T 2T5
+
+ =
+<http://click.mail.crateandbarrel.com/?qs=3Dc232c5e22fb59ba17dc33b8679cdd=
+4465865dd6ebbe76c8ff5ca20d7023ed1a9b17aa8d722634d2bb574fda8d48aab50> =
+www.crateandbarrel.ca=20
+
+=20
+
+
+------=_NextPart_000_02B4_01D1ECD3.1B0C98C0
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta =
+http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8"><meta =
+name=3DGenerator content=3D"Microsoft Word 15 (filtered medium)"><!--[if =
+!mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><title>Your receipt for order #20005323025 from =
+Crate and Barrel.</title><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Helvetica;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+span.EmailStyle18
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle19
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1027" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-CA link=3Dblue =
+vlink=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal =
+style=3D'margin-bottom:12.0pt'><b>From:</b> &quot;Crate and Barrel&quot; =
+&lt;<a =
+href=3D"mailto:crateandbarrel@mail.crateandbarrel.com">crateandbarrel@mai=
+l.crateandbarrel.com</a>&gt;<br><b>Date:</b> April 29, 2015 at 10:27:36 =
+AM EDT<br><b>To:</b> &lt;<a =
+href=3D"mailto:SNIDER.KRISTA@gmail.com">SNIDER.KRISTA@GMAIL.COM</a>&gt;<b=
+r><b>Subject:</b> <b>Your receipt for order #20005323025 from Crate and =
+Barrel</b><br><b>Reply-To:</b> &quot;Crate and Barrel&quot; &lt;<a =
+href=3D"mailto:reply-ff021171746204-38_HTML-12224334-7200718-3180@mail.cr=
+ateandbarrel.com">reply-ff021171746204-38_HTML-12224334-7200718-3180@mail=
+.crateandbarrel.com</a>&gt;<o:p></o:p></p><blockquote =
+style=3D'margin-top:5.0pt;margin-bottom:5.0pt'><div><p =
+class=3DMsoNormal><img border=3D0 width=3D1 height=3D1 =
+style=3D'width:.0104in;height:.0104in' id=3D"_x0000_i1025" =
+src=3D"http://click.mail.crateandbarrel.com/open.aspx?ffcb10-ff0211717462=
+04-fe6515737563007c7011-fe9613727564037c7d-ff941778-fe6a15727766007e7610-=
+ff3317717d64"><o:p></o:p></p><div align=3Dcenter><table =
+class=3DMsoNormalTable border=3D0 cellspacing=3D0 cellpadding=3D0 =
+width=3D"100%" style=3D'width:100.0%;background:#E6E7E9'><tr><td =
+width=3D710 valign=3Dtop style=3D'width:532.5pt;padding:0cm 0cm 0cm 0cm' =
+id=3Dtop><div align=3Dcenter><table class=3DMsoNormalTable border=3D0 =
+cellspacing=3D0 cellpadding=3D0 width=3D"100%" =
+style=3D'width:100.0%;background:#E6E7E9'><tr><td width=3D710 =
+style=3D'width:532.5pt;padding:0cm 0cm 0cm 0cm'><div =
+align=3Dcenter><table class=3DMsoNormalTable border=3D0 cellspacing=3D0 =
+cellpadding=3D0 style=3D'background:white'><tr><td width=3D710 =
+style=3D'width:532.5pt;padding:7.5pt 0cm 7.5pt 0cm'><div =
+align=3Dcenter><table class=3DMsoNormalTable border=3D0 cellspacing=3D0 =
+cellpadding=3D0 width=3D"100%" style=3D'width:100.0%'><tr><td =
+style=3D'background:white;padding:0cm 0cm 0cm 7.5pt'><p =
+class=3DMsoNormal style=3D'line-height:12.0pt'><span =
+style=3D'font-size:7.5pt;font-family:"Helvetica",sans-serif;color:#666666=
+'><a =
+href=3D"http://click.mail.crateandbarrel.com/?qs=3Dc232c5e22fb59ba1834369=
+33897314ddc7b56ef3ba2825e3974d88c6c8d5b82b2720a12c2dd8e761" =
+target=3D"_blank"><span style=3D'color:black;text-decoration:none'>Your =
+receipt for order #20005323025 from Crate and =
+Barrel.</span></a><o:p></o:p></span></p></td><td =
+style=3D'background:white;padding:0cm 15.0pt 0cm 0cm'><p =
+class=3DMsoNormal align=3Dright =
+style=3D'text-align:right;line-height:12.0pt'><span =
+style=3D'font-size:7.5pt;font-family:"Helvetica",sans-serif;color:#666666=
+'><a =
+href=3D"http://click.mail.crateandbarrel.com/?qs=3Dc232c5e22fb59ba1780d59=
+eb60c9bf22ea15b4348d3bc5af43720624e7a8e9fc4c9091778b160d4e" =
+target=3D"_blank" title=3D"View with images"><span =
+style=3D'color:#666666;text-decoration:none'>View with =
+images</span></a><o:p></o:p></span></p></td></tr></table></div></td></tr>=
+</table></div></td></tr><tr><td width=3D710 =
+style=3D'width:532.5pt;padding:0cm 0cm 0cm 0cm'><div =
+align=3Dcenter><table class=3DMsoNormalTable border=3D0 cellspacing=3D0 =
+cellpadding=3D0 width=3D710 =
+style=3D'width:532.5pt;background:white'><tr><td width=3D670 =
+style=3D'width:502.5pt;padding:0cm 15.0pt 15.0pt 15.0pt'><div =
+align=3Dcenter><table class=3DMsoNormalTable border=3D0 cellspacing=3D0 =
+cellpadding=3D0 width=3D"100%" style=3D'width:100.0%'><tr><td =
+width=3D380 style=3D'width:285.0pt;padding:0cm 0cm 0cm 0cm'><p =
+class=3DMsoNormal><a =
+href=3D"http://click.mail.crateandbarrel.com/?qs=3Dc232c5e22fb59ba18c91d2=
+15f6917b54e233362fbe259c7392fd0c9ec00c597fb8a111c1ad49619c305f5b0e4a60969=
+8" target=3D"_blank" title=3D"Crate&amp;Barrel"></a><!--[if gte vml =
+1]><v:shapetype id=3D"_x0000_t75" coordsize=3D"21600,21600" o:spt=3D"75" =
+o:preferrelative=3D"t" path=3D"m@4@5l@4@11@9@11@9@5xe" filled=3D"f" =
+stroked=3D"f">
+<v:stroke joinstyle=3D"miter" />
+<v:formulas>
+<v:f eqn=3D"if lineDrawn pixelLineWidth 0" />
+<v:f eqn=3D"sum @0 1 0" />
+<v:f eqn=3D"sum 0 0 @1" />
+<v:f eqn=3D"prod @2 1 2" />
+<v:f eqn=3D"prod @3 21600 pixelWidth" />
+<v:f eqn=3D"prod @3 21600 pixelHeight" />
+<v:f eqn=3D"sum @0 0 1" />
+<v:f eqn=3D"prod @6 1 2" />
+<v:f eqn=3D"prod @7 21600 pixelWidth" />
+<v:f eqn=3D"sum @8 21600 0" />
+<v:f eqn=3D"prod @7 21600 pixelHeight" />
+<v:f eqn=3D"sum @10 21600 0" />
+</v:formulas>
+<v:path o:extrusionok=3D"f" gradientshapeok=3D"t" o:connecttype=3D"rect" =
+/>
+<o:lock v:ext=3D"edit" aspectratio=3D"t" />
+</v:shapetype><v:shape id=3D"_x0000_s1026" type=3D"#_x0000_t75" =
+alt=3D"Crate&amp;Barrel" =
+href=3D"http://click.mail.crateandbarrel.com/?qs=3Dc232c5e22fb59ba18c91d2=
+15f6917b54e233362fbe259c7392fd0c9ec00c597fb8a111c1ad49619c305f5b0e4a60969=
+8" target=3D"&quot;_blank&quot;" title=3D"&quot;Crate&amp;Barrel&quot;" =
+style=3D'position:absolute;margin-left:0;margin-top:0;width:215.25pt;heig=
+ht:30.75pt;z-index:251658240;mso-wrap-distance-left:0;mso-wrap-distance-t=
+op:0;mso-wrap-distance-right:0;mso-wrap-distance-bottom:0;mso-position-ho=
+rizontal:left;mso-position-horizontal-relative:text;mso-position-vertical=
+-relative:line' o:allowoverlap=3D"f" o:button=3D"t">
+<v:imagedata =
+src=3D"http://image.mail.crateandbarrel.com/lib/fe9613727564037c7d/m/1/20=
+14_Logo_Reg.jpg" />
+<w:wrap type=3D"square"/>
+</v:shape><![endif]--><![if !vml]><a =
+href=3D"http://click.mail.crateandbarrel.com/?qs=3Dc232c5e22fb59ba18c91d2=
+15f6917b54e233362fbe259c7392fd0c9ec00c597fb8a111c1ad49619c305f5b0e4a60969=
+8" target=3D"&quot;_blank&quot;"><img border=3D0 width=3D287 height=3D41 =
+style=3D'width:2.9895in;height:.427in' =
+src=3D"http://image.mail.crateandbarrel.com/lib/fe9613727564037c7d/m/1/20=
+14_Logo_Reg.jpg" align=3Dleft alt=3D"Crate&amp;Barrel" =
+title=3D"&quot;Crate&amp;Barrel&quot;" =
+v:shapes=3D"_x0000_s1026"></a><![endif]><a =
+href=3D"http://click.mail.crateandbarrel.com/?qs=3Dc232c5e22fb59ba18c91d2=
+15f6917b54e233362fbe259c7392fd0c9ec00c597fb8a111c1ad49619c305f5b0e4a60969=
+8" target=3D"_blank" =
+title=3D"Crate&amp;Barrel"></a><o:p></o:p></p></td><td width=3D320 =
+valign=3Dbottom style=3D'width:240.0pt;padding:0cm 0cm 0cm =
+0cm;-webkit-text-size-adjust:none'><p class=3DMsoNormal align=3Dright =
+style=3D'text-align:right;line-height:10.5pt'><b><span =
+style=3D'font-size:9.0pt;font-family:"Helvetica",sans-serif;color:black'>=
+YORKDALE<br>3401 Dufferin Street<br>Toronto, ON M6A 2T9<br>(416) =
+657-4100</span></b><span =
+style=3D'font-size:9.0pt;font-family:"Helvetica",sans-serif;color:black'>=
+<o:p></o:p></span></p></td></tr></table></div></td></tr></table></div></t=
+d></tr><tr><td width=3D710 style=3D'width:532.5pt;padding:0cm 0cm 0cm =
+0cm'><div align=3Dcenter><table class=3DMsoNormalTable border=3D0 =
+cellspacing=3D0 cellpadding=3D0 style=3D'background:white'><tr><td =
+style=3D'padding:0cm 0cm 0cm 0cm'><table class=3DMsoNormalTable =
+border=3D0 cellspacing=3D0 cellpadding=3D0 =
+style=3D'background:white'><tr><td style=3D'padding:0cm 0cm 0cm 0cm'><p =
+class=3DMsoNormal><img border=3D0 width=3D710 height=3D102 =
+style=3D'width:7.3958in;height:1.0625in' id=3D"_x0000_i1026" =
+src=3D"http://image.mail.crateandbarrel.com/lib/fe9613727564037c7d/m/2/Ca=
+nada_eReceipt_EN_top_img.jpg" alt=3D"Your Crate and Barrel =
+Receipt"><o:p></o:p></p></td></tr></table></td></tr><tr><td =
+style=3D'padding:0cm 0cm 15.0pt =
+0cm;-webkit-text-size-adjust:none'><table class=3DMsoNormalTable =
+border=3D0 cellspacing=3D0 cellpadding=3D0 =
+style=3D'background:white'><tr><td style=3D'padding:0cm 0cm 0cm =
+15.0pt'><div align=3Dcenter><table class=3DMsoNormalTable border=3D0 =
+cellspacing=3D0 cellpadding=3D0 style=3D'background:white'><tr =
+style=3D'height:121.5pt'><td width=3D307 valign=3Dtop =
+style=3D'width:230.25pt;padding:0cm 0cm 0cm 0cm;height:121.5pt'><p =
+class=3DMsoNormal style=3D'mso-line-height-alt:12.75pt'><b><span =
+style=3D'font-size:14.5pt;font-family:"Helvetica",sans-serif;color:black'=
+>Order #: 20005323025 </span></b><span =
+style=3D'font-size:14.5pt;font-family:"Helvetica",sans-serif;color:black'=
+><br></span><span =
+style=3D'font-size:10.0pt;font-family:"Helvetica",sans-serif;color:black'=
+>Sale Date: 04/29/2015<br>Associate: JONATHAN ECKERT</span><span =
+style=3D'font-size:14.5pt;font-family:"Helvetica",sans-serif;color:black'=
+><br><br><br><o:p></o:p></span></p></td></tr></table></div></td><td =
+style=3D'padding:0cm 0cm 0cm 0cm'><p class=3DMsoNormal><a =
+href=3D"http://click.mail.crateandbarrel.com/?qs=3Dc232c5e22fb59ba1eae2a9=
+cbf4dde2ba663732fb46e37d9a36b86ed96ce3e131a01a8e181c4663a0ce8cf44ac782052=
+1" target=3D"_blank" title=3D"Spring Into Colour" id=3D"hm_lnk_3"><span =
+style=3D'text-decoration:none'><img border=3D0 width=3D348 height=3D162 =
+style=3D'width:3.625in;height:1.6875in' id=3D"_x0000_i1027" =
+src=3D"http://image.mail.crateandbarrel.com/lib/fe9613727564037c7d/m/2/CB=
+_CA-EN-ereceipt_new1_01.jpg" alt=3D"Spring Into =
+Colour"></span></a><o:p></o:p></p></td></tr></table></td></tr></table></d=
+iv></td></tr><tr><td width=3D710 style=3D'width:532.5pt;padding:0cm 0cm =
+0cm 0cm'><div align=3Dcenter><table class=3DMsoNormalTable border=3D0 =
+cellspacing=3D0 cellpadding=3D0 style=3D'background:white'><tr><td =
+width=3D710 style=3D'width:532.5pt;padding:0cm 0cm 0cm 0cm'><div =
+align=3Dcenter><table class=3DMsoNormalTable border=3D0 cellspacing=3D0 =
+cellpadding=3D0 width=3D"100%" =
+style=3D'width:100.0%;background:white'><tr><td valign=3Dtop =
+style=3D'padding:0cm 0cm 0cm 0cm'><table class=3DMsoNormalTable =
+border=3D0 cellspacing=3D0 cellpadding=3D0 align=3Dleft><tr><td =
+style=3D'padding:0cm 0cm 0cm 0cm'><table class=3DMsoNormalTable =
+border=3D0 cellspacing=3D0 cellpadding=3D0 align=3Dleft width=3D530 =
+style=3D'width:397.5pt;background:white'><tr style=3D'height:7.5pt'><td =
+width=3D20 style=3D'width:15.0pt;padding:0cm 0cm 0cm =
+0cm;height:7.5pt'></td><td colspan=3D4 =
+style=3D'background:#C4DEF3;padding:0cm 0cm 0cm =
+0cm;height:7.5pt'></td><td width=3D20 style=3D'width:15.0pt;padding:0cm =
+0cm 0cm 0cm;height:7.5pt'></td></tr><tr><td width=3D20 =
+style=3D'width:15.0pt;padding:0cm 0cm 0cm 0cm'></td><td width=3D15 =
+style=3D'width:11.25pt;background:#C4DEF3;padding:0cm 0cm 0cm =
+0cm'></td><td width=3D475 colspan=3D3 =
+style=3D'width:356.25pt;background:#C4DEF3;padding:0cm 0cm 0cm =
+0cm;-webkit-text-size-adjust:none'><p class=3DMsoNormal =
+style=3D'line-height:12.0pt'><b><span =
+style=3D'font-family:"Helvetica",sans-serif;color:black'>Return<o:p></o:p=
+></span></b></p></td><td width=3D20 style=3D'width:15.0pt;padding:0cm =
+0cm 0cm 0cm'></td></tr><tr style=3D'height:7.5pt'><td width=3D20 =
+style=3D'width:15.0pt;padding:0cm 0cm 0cm 0cm;height:7.5pt'></td><td =
+colspan=3D4 style=3D'background:#C4DEF3;padding:0cm 0cm 0cm =
+0cm;height:7.5pt'></td><td width=3D20 style=3D'width:15.0pt;padding:0cm =
+0cm 0cm 0cm;height:7.5pt'></td></tr><tr style=3D'height:15.0pt'><td =
+colspan=3D6 style=3D'padding:0cm 0cm 0cm =
+0cm;height:15.0pt'></td></tr><tr><td width=3D20 =
+style=3D'width:15.0pt;padding:0cm 0cm 0cm 0cm'></td><td width=3D15 =
+style=3D'width:11.25pt;padding:0cm 0cm 0cm 0cm'></td><td width=3D248 =
+style=3D'width:186.0pt;padding:0cm 0cm 0cm =
+0cm;-webkit-text-size-adjust:none'></td><td width=3D248 =
+style=3D'width:186.0pt;padding:0cm 0cm 0cm =
+0cm;-webkit-text-size-adjust:none'></td><td width=3D207 valign=3Dtop =
+style=3D'width:155.25pt;padding:0cm 0cm 0cm =
+0cm;-webkit-text-size-adjust:none'><p class=3DMsoNormal =
+style=3D'line-height:11.25pt'><span =
+style=3D'font-size:9.0pt;font-family:"Helvetica",sans-serif;color:black'>=
+&nbsp; <o:p></o:p></span></p></td><td width=3D20 =
+style=3D'width:15.0pt;padding:0cm 0cm 0cm 0cm'></td></tr><tr =
+style=3D'height:15.0pt'><td colspan=3D6 style=3D'padding:0cm 0cm 0cm =
+0cm;height:15.0pt'></td></tr><tr height=3D0><td width=3D14 =
+style=3D'border:none'></td><td width=3D10 style=3D'border:none'></td><td =
+width=3D175 style=3D'border:none'></td><td width=3D173 =
+style=3D'border:none'></td><td width=3D145 =
+style=3D'border:none'></td><td width=3D14 =
+style=3D'border:none'></td></tr></table></td></tr><tr><td =
+style=3D'padding:0cm 0cm 0cm 0cm'><table class=3DMsoNormalTable =
+border=3D0 cellspacing=3D0 cellpadding=3D0 align=3Dleft><tr><td =
+style=3D'padding:0cm 0cm 0cm 0cm'><div align=3Dcenter><table =
+class=3DMsoNormalTable border=3D0 cellspacing=3D0 cellpadding=3D0 =
+width=3D530 style=3D'width:397.5pt;background:white'><tr><td =
+style=3D'padding:0cm 0cm 0cm 18.75pt'><p class=3DMsoNormal><img =
+border=3D0 width=3D490 height=3D1 =
+style=3D'width:5.1041in;height:.0104in' id=3D"_x0000_i1028" =
+src=3D"http://image.mail.crateandbarrel.com/lib/fe9613727564037c7d/m/2/cb=
+ca_migration_email_dotted.jpg"><o:p></o:p></p></td></tr><tr><td =
+width=3D490 style=3D'width:367.5pt;padding:0cm 0cm 0cm =
+18.75pt;-webkit-text-size-adjust:none'><table class=3DMsoNormalTable =
+border=3D0 cellspacing=3D0 cellpadding=3D0 align=3Dleft><tr><td =
+width=3D51 style=3D'width:38.25pt;background:#E7E7E7;padding:0cm 0cm 0cm =
+6.0pt'><p class=3DMsoNormal style=3D'line-height:9.0pt'><b><span =
+style=3D'font-size:9.0pt;font-family:"Helvetica",sans-serif;color:black'>=
+SKU <o:p></o:p></span></b></p></td><td width=3D223 =
+style=3D'width:167.25pt;background:#E7E7E7;padding:0cm 0cm 0cm =
+0cm;-webkit-text-size-adjust:none'><p class=3DMsoNormal =
+style=3D'line-height:9.0pt'><b><span =
+style=3D'font-size:9.0pt;font-family:"Helvetica",sans-serif;color:black'>=
+Description <o:p></o:p></span></b></p></td><td width=3D32 =
+style=3D'width:24.0pt;background:#E7E7E7;padding:0cm 0cm 0cm =
+0cm;-webkit-text-size-adjust:none'><p class=3DMsoNormal =
+style=3D'line-height:9.0pt'><b><span =
+style=3D'font-size:9.0pt;font-family:"Helvetica",sans-serif;color:black'>=
+Qty <o:p></o:p></span></b></p></td><td width=3D88 =
+style=3D'width:66.0pt;background:#E7E7E7;padding:0cm 0cm 0cm =
+0cm;-webkit-text-size-adjust:none'><p class=3DMsoNormal align=3Dcenter =
+style=3D'text-align:center;line-height:9.75pt'><b><span =
+style=3D'font-size:9.0pt;font-family:"Helvetica",sans-serif;color:black'>=
+Retail<br>Amount <o:p></o:p></span></b></p></td><td width=3D88 =
+style=3D'width:66.0pt;background:#E7E7E7;padding:0cm 0cm 0cm =
+0cm;-webkit-text-size-adjust:none'><p class=3DMsoNormal align=3Dcenter =
+style=3D'text-align:center;line-height:9.75pt'><b><span =
+style=3D'font-size:9.0pt;font-family:"Helvetica",sans-serif;color:black'>=
+Extended<br>Amount =
+<o:p></o:p></span></b></p></td></tr></table></td></tr><tr><td =
+style=3D'padding:0cm 0cm 0cm 18.75pt'><p class=3DMsoNormal><img =
+border=3D0 width=3D490 height=3D1 =
+style=3D'width:5.1041in;height:.0104in' id=3D"_x0000_i1029" =
+src=3D"http://image.mail.crateandbarrel.com/lib/fe9613727564037c7d/m/2/cb=
+ca_migration_email_dotted.jpg"><o:p></o:p></p></td></tr><tr><td =
+width=3D490 style=3D'width:367.5pt;padding:7.5pt 0cm 0cm =
+18.75pt;-webkit-text-size-adjust:none'><table class=3DMsoNormalTable =
+border=3D0 cellspacing=3D0 cellpadding=3D0 align=3Dleft><tr><td =
+width=3D51 valign=3Dtop style=3D'width:38.25pt;padding:0cm 0cm 0cm =
+6.0pt'><p class=3DMsoNormal style=3D'line-height:9.0pt'><span =
+style=3D'font-size:8.5pt;font-family:"Helvetica",sans-serif;color:black'>=
+157832 <o:p></o:p></span></p></td><td width=3D218 valign=3Dtop =
+style=3D'width:163.5pt;padding:0cm 0cm 0cm =
+0cm;-webkit-text-size-adjust:none'><p class=3DMsoNormal =
+style=3D'line-height:9.0pt'><span =
+style=3D'font-size:8.5pt;font-family:"Helvetica",sans-serif;color:black'>=
+Set of 20 Awning Stripe Beverage Napkin R<o:p></o:p></span></p></td><td =
+width=3D32 valign=3Dtop style=3D'width:24.0pt;padding:0cm 0cm 0cm =
+0cm;-webkit-text-size-adjust:none'><p class=3DMsoNormal align=3Dcenter =
+style=3D'text-align:center;line-height:9.0pt'><span =
+style=3D'font-size:8.5pt;font-family:"Helvetica",sans-serif;color:black'>=
+2 <o:p></o:p></span></p></td><td width=3D88 valign=3Dtop =
+style=3D'width:66.0pt;padding:0cm 0cm 0cm =
+0cm;-webkit-text-size-adjust:none'><p class=3DMsoNormal align=3Dcenter =
+style=3D'text-align:center;line-height:9.0pt'><span =
+style=3D'font-size:8.5pt;font-family:"Helvetica",sans-serif;color:black'>=
+-6.95 <o:p></o:p></span></p></td><td width=3D88 valign=3Dtop =
+style=3D'width:66.0pt;padding:0cm 0cm 0cm =
+0cm;-webkit-text-size-adjust:none'><p class=3DMsoNormal align=3Dcenter =
+style=3D'text-align:center;line-height:9.0pt'><span =
+style=3D'font-size:8.5pt;font-family:"Helvetica",sans-serif;color:black'>=
+-13.90 =
+<o:p></o:p></span></p></td></tr></table></td></tr></table></div></td></tr=
+></table></td></tr><tr><td style=3D'padding:0cm 0cm 0cm 0cm'><div =
+align=3Dcenter><table class=3DMsoNormalTable border=3D0 cellspacing=3D0 =
+cellpadding=3D0 width=3D530 style=3D'width:397.5pt;background:white'><tr =
+style=3D'height:15.0pt'><td style=3D'padding:0cm 0cm 0cm =
+0cm;height:15.0pt'></td></tr></table></div></td></tr><tr><td =
+style=3D'padding:0cm 0cm 0cm 0cm'><div align=3Dcenter><table =
+class=3DMsoNormalTable border=3D0 cellspacing=3D0 cellpadding=3D0 =
+width=3D530 style=3D'width:397.5pt;background:white'><tr><td width=3D35 =
+style=3D'width:26.25pt;padding:0cm 0cm 0cm 0cm'></td><td width=3D121 =
+valign=3Dtop style=3D'width:90.75pt;padding:0cm 0cm 0cm =
+0cm;-webkit-text-size-adjust:none'><p class=3DMsoNormal =
+style=3D'line-height:9.75pt'><b><span =
+style=3D'font-size:9.0pt;font-family:"Helvetica",sans-serif;color:black'>=
+Transaction Totals:</span></b><span =
+style=3D'font-size:9.0pt;font-family:"Helvetica",sans-serif;color:black'>=
+ <o:p></o:p></span></p></td><td style=3D'border:none;padding:0cm 0cm 0cm =
+0cm' width=3D374 colspan=3D4><p =
+class=3D'MsoNormal'>&nbsp;</td></tr><tr><td width=3D156 colspan=3D2 =
+valign=3Dtop style=3D'width:117.0pt;padding:0cm 0cm 0cm =
+0cm;-webkit-text-size-adjust:none'></td><td width=3D227 valign=3Dtop =
+style=3D'width:170.25pt;padding:0cm 0cm 0cm =
+0cm;-webkit-text-size-adjust:none'><p class=3DMsoNormal align=3Dright =
+style=3D'text-align:right;line-height:9.75pt'><span =
+style=3D'font-size:8.5pt;font-family:"Helvetica",sans-serif;color:black'>=
+MERCHANDISE:<br>ON HST 13.000%:<br>TOTAL:<br><br>CASH =
+REFUND:<o:p></o:p></span></p></td><td width=3D20 =
+style=3D'width:15.0pt;padding:0cm 0cm 0cm 0cm'></td><td width=3D79 =
+valign=3Dtop style=3D'width:59.25pt;padding:0cm 0cm 0cm =
+0cm;-webkit-text-size-adjust:none'><p class=3DMsoNormal align=3Dright =
+style=3D'text-align:right;line-height:9.75pt'><span =
+style=3D'font-size:8.5pt;font-family:"Helvetica",sans-serif;color:black'>=
+-13.90<br>-1.80<br>-15.70<br><br>-15.70<br><br><o:p></o:p></span></p></td=
+><td width=3D48 style=3D'width:36.0pt;padding:0cm 0cm 0cm =
+0cm'></td></tr><tr style=3D'height:15.0pt'><td colspan=3D6 =
+style=3D'padding:0cm 0cm 0cm 0cm;height:15.0pt'></td></tr><tr =
+style=3D'height:.75pt'><td width=3D20 style=3D'width:15.0pt;padding:0cm =
+0cm 0cm 0cm;height:.75pt'></td><td colspan=3D4 =
+style=3D'background:black;padding:0cm 0cm 0cm 0cm;height:.75pt'></td><td =
+width=3D20 style=3D'width:15.0pt;padding:0cm 0cm 0cm =
+0cm;height:.75pt'></td></tr><tr style=3D'height:15.0pt'><td colspan=3D6 =
+style=3D'padding:0cm 0cm 0cm =
+0cm;height:15.0pt'></td></tr></table></div></td></tr><tr><td =
+style=3D'padding:0cm 0cm 0cm 0cm'></td></tr><tr><td style=3D'padding:0cm =
+0cm 0cm 0cm'><div align=3Dcenter><table class=3DMsoNormalTable =
+border=3D0 cellspacing=3D0 cellpadding=3D0 width=3D530 =
+style=3D'width:397.5pt;background:white'><tr =
+style=3D'height:56.25pt'><td width=3D100 =
+style=3D'width:75.0pt;padding:0cm 0cm 0cm 0cm;height:56.25pt'></td><td =
+width=3D330 style=3D'width:247.5pt;padding:0cm 0cm 15.0pt =
+0cm;height:56.25pt'><p class=3DMsoNormal align=3Dcenter =
+style=3D'text-align:center'><span =
+style=3D'font-size:8.5pt;font-family:"Helvetica",sans-serif;color:black'>=
+<img border=3D0 width=3D330 height=3D75 =
+style=3D'width:3.4375in;height:.7812in' id=3D"_x0000_i1030" =
+src=3D"http://crateandbarrel.com/handlers/barcode.ashx?n=3DaIFjt64qFQ9zsJ=
+kVeMkJbCEDr08LYROLcVIxaA3G93s%3d" =
+alt=3D"BARCODE_NUMBER"><o:p></o:p></span></p></td><td width=3D100 =
+style=3D'width:75.0pt;padding:0cm 0cm 0cm =
+0cm;height:56.25pt'></td></tr><tr style=3D'height:15.0pt'><td =
+colspan=3D3 style=3D'padding:0cm 0cm 0cm =
+0cm;height:15.0pt'></td></tr><tr><td width=3D530 colspan=3D3 =
+valign=3Dtop style=3D'width:397.5pt;padding:0cm 0cm 0cm =
+0cm;-webkit-text-size-adjust:none'></td></tr><tr><td width=3D530 =
+colspan=3D3 valign=3Dtop style=3D'width:397.5pt;padding:0cm 0cm 0cm =
+0cm;-webkit-text-size-adjust:none'><p class=3DMsoNormal align=3Dcenter =
+style=3D'text-align:center;line-height:9.75pt'><span =
+style=3D'font-size:8.5pt;font-family:"Helvetica",sans-serif;color:black'>=
+Visit us online at <a =
+href=3D"http://click.mail.crateandbarrel.com/?qs=3Dc232c5e22fb59ba14cac8e=
+81680582abacbefc0afaf7182fc6a1f610b5d072c15d7279680fe96e14fe8e6b5cc70f777=
+c" target=3D"_blank"><span =
+style=3D'color:#333333'>crateandbarrel.ca</span></a><o:p></o:p></span></p=
+></td></tr><tr style=3D'height:15.0pt'><td colspan=3D3 =
+style=3D'padding:0cm 0cm 0cm =
+0cm;height:15.0pt'></td></tr></table></div></td></tr><tr><td =
+style=3D'padding:0cm 0cm 0cm 0cm'></td></tr></table></td><td =
+valign=3Dtop style=3D'padding:0cm 0cm 0cm 0cm'><div =
+align=3Dcenter><table class=3DMsoNormalTable border=3D0 cellspacing=3D0 =
+cellpadding=3D0 style=3D'background:white'><tr><td style=3D'padding:0cm =
+0cm 0cm 0cm'><p class=3DMsoNormal style=3D'line-height:12.75pt'><span =
+style=3D'font-size:10.0pt;font-family:"Helvetica",sans-serif;color:#66666=
+6'><a =
+href=3D"http://click.mail.crateandbarrel.com/?qs=3Dc232c5e22fb59ba15d632e=
+33cb6df42c0f1559e78df1bc36762988e3f1ba125479acb44ffc73622c34f52ed0e35bfda=
+c" target=3D"_blank" title=3D"Spring Into Colour" id=3D"hm_lnk_5"><span =
+style=3D'text-decoration:none'><img border=3D0 width=3D160 height=3D600 =
+style=3D'width:1.6666in;height:6.25in' id=3D"_x0000_i1031" =
+src=3D"http://image.mail.crateandbarrel.com/lib/fe9613727564037c7d/m/2/CB=
+_CA-EN-ereceipt_new2_01.jpg" alt=3D"Spring Into =
+Colour"></span></a><o:p></o:p></span></p></td><td width=3D20 =
+style=3D'width:15.0pt;padding:0cm 0cm 0cm =
+0cm'></td></tr></table></div></td></tr></table></div></td></tr></table></=
+div></td></tr><tr><td style=3D'padding:0cm 0cm 0cm 0cm'><div =
+align=3Dcenter><table class=3DMsoNormalTable border=3D0 cellspacing=3D0 =
+cellpadding=3D0 style=3D'background:white'><tr><td style=3D'padding:0cm =
+0cm 0cm 0cm'><p class=3DMsoNormal style=3D'line-height:12.75pt'><span =
+style=3D'font-size:10.0pt;font-family:"Helvetica",sans-serif;color:#66666=
+6'><a =
+href=3D"http://click.mail.crateandbarrel.com/?qs=3Dc232c5e22fb59ba18030c3=
+c320a85512e1fb016b819dfc1c60fef72c3fe870e4c2b22da7b1d07e7ca164e8323a273ea=
+b" target=3D"_blank" title=3D"On the Horizon View our new =
+catalogue"><span style=3D'text-decoration:none'><img border=3D0 =
+width=3D710 height=3D253 style=3D'width:7.3958in;height:2.6354in' =
+id=3D"_x0000_i1032" =
+src=3D"http://image.mail.crateandbarrel.com/lib/fe9613727564037c7d/m/2/CB=
+_CA-EN-ereceipt_catalogue_01.jpg" alt=3D"On the Horizon View our new =
+catalogue"></span></a><o:p></o:p></span></p></td></tr></table></div></td>=
+</tr><tr><td style=3D'padding:0cm 0cm 0cm =
+0cm;-webkit-text-size-adjust:none'><div align=3Dcenter><table =
+class=3DMsoNormalTable border=3D0 cellspacing=3D0 cellpadding=3D0 =
+width=3D710 style=3D'width:532.5pt'><tr><td valign=3Dtop =
+style=3D'padding:15.0pt 0cm 0cm 0cm'><p class=3DMsoNormal =
+style=3D'margin-bottom:12.0pt;line-height:9.0pt'><span =
+style=3D'font-size:7.5pt;font-family:"Helvetica",sans-serif;color:#666666=
+'>*Excludes dining chairs, office chairs and clearance items. Cannot be =
+combined with any other offers or discounts.<br><br><a =
+href=3D"http://click.mail.crateandbarrel.com/?qs=3Dc232c5e22fb59ba186b59d=
+2a98b04273dcdc4c466f33735df159a39d3c7d0b0edbe749e97a576206b846dbdc881b276=
+9" target=3D"_blank"><b><span =
+style=3D'color:#333333;text-decoration:none'>Return =
+Policy</span></b></a><br><br><b>Subscribe</b><br>If you wish to receive =
+Crate and Barrel email messages about new products, sales, exclusive =
+offers and more, click here to <a =
+href=3D"http://click.mail.crateandbarrel.com/?qs=3Dc232c5e22fb59ba18720f5=
+82d88fa7f5e03941e978e4b5288ce768098b5549a87876fc2d14879d32" =
+target=3D"_blank"><span =
+style=3D'color:#333333'>subscribe</span></a>.<br><br><b>Privacy =
+policy</b><br>Click to view our <a =
+href=3D"http://click.mail.crateandbarrel.com/?qs=3Dc232c5e22fb59ba113dace=
+bc5120fb62562297e02c0fbda0888ec1d96efc3a1ff3a1ce3ecc86280072ff3c11dd8e7f3=
+6" target=3D"_blank"><span style=3D'color:#333333'>privacy =
+policy</span></a>.<br><br>Crate and Barrel, 6060 Burnside Court, Unit 2, =
+Mississauga, ON L5T 2T5<br><br><a =
+href=3D"http://click.mail.crateandbarrel.com/?qs=3Dc232c5e22fb59ba17dc33b=
+8679cdd4465865dd6ebbe76c8ff5ca20d7023ed1a9b17aa8d722634d2bb574fda8d48aab5=
+0" target=3D"_blank"><span =
+style=3D'color:#333333'>www.crateandbarrel.ca</span></a> =
+<o:p></o:p></span></p></td></tr></table></div></td></tr></table></div></t=
+d></tr></table></div><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:0cm;margin-right:36.0pt;margin-bottom:5.0pt;m=
+argin-left:36.0pt'><o:p>&nbsp;</o:p></p></div></blockquote></div></body><=
+/html>
+------=_NextPart_000_02B4_01D1ECD3.1B0C98C0--

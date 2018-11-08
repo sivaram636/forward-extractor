@@ -1,0 +1,814 @@
+Delivered-To: johnny@getsensibill.com
+Received: by 10.64.138.232 with SMTP id qt8csp140517ieb;
+        Thu, 10 Jul 2014 15:51:48 -0700 (PDT)
+X-Received: by 10.112.147.233 with SMTP id tn9mr8119823lbb.17.1405032707877;
+        Thu, 10 Jul 2014 15:51:47 -0700 (PDT)
+Return-Path: <jamie@moonrider.com>
+Received: from mail-la0-f51.google.com (mail-la0-f51.google.com [209.85.215.51])
+        by mx.google.com with ESMTPS id ca3si543398lad.62.2014.07.10.15.51.47
+        for <johnny@getsensibill.com>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Thu, 10 Jul 2014 15:51:47 -0700 (PDT)
+Received-SPF: none (google.com: jamie@moonrider.com does not designate permitted sender hosts) client-ip=209.85.215.51;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: jamie@moonrider.com does not designate permitted sender hosts) smtp.mail=jamie@moonrider.com
+Received: by mail-la0-f51.google.com with SMTP id mc6so213996lab.24
+        for <johnny@getsensibill.com>; Thu, 10 Jul 2014 15:51:47 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:from:to:content-type;
+        bh=biIvK1vwV7emm8Fn/dafqHGFNEb8LkJ7qQknZXjzBZY=;
+        b=lkRMh4a4GGgxiD6YembN33RSD8xq22fG89hZbWA20HZ2KJkAkcIbBxWfoJlC33xV1B
+         u9Q820TcZZ1BtEIRRp/CfMfBvLqulsulOAcvr8z/J2nLJu0vKwO6LWk2RsBgrDjSBikm
+         QP0ByHQNgH5dAf/Qh7i/jYc3ZM+Iydc6qwdWNThub9okzGYEGDNJJ7/Yiuc/5URAT3U6
+         mAfQVR5nl3mBiKersrjUPXzPpiRDaQ9WbJibFbuM31T7j49rqqWnjbBL7vxAQfOrCgsQ
+         f7Vr08NF3GmNYcoDBYjT2rlalSt40SWRSFLpC9PwwZ7dNzA3tTq8T0D/beBlGvL4o/4Y
+         eHuA==
+X-Gm-Message-State: ALoCoQldDu5TkUzR1BHH3NqzvEg/5RC3ZPH5OktejBdqsrJyOzfOiKBHa4INvTjHR2zdUapM9o4M
+MIME-Version: 1.0
+X-Received: by 10.152.216.228 with SMTP id ot4mr1190444lac.40.1405032707212;
+ Thu, 10 Jul 2014 15:51:47 -0700 (PDT)
+Received: by 10.114.201.101 with HTTP; Thu, 10 Jul 2014 15:51:46 -0700 (PDT)
+In-Reply-To: <5934036.167897.1377136395822.JavaMail.tomcat@cglita75.homedepot.com>
+References: <5934036.167897.1377136395822.JavaMail.tomcat@cglita75.homedepot.com>
+Date: Thu, 10 Jul 2014 18:51:46 -0400
+Message-ID: <CADO8s6+bEmF7OjH6dkc-UeffAuZ1ZszeyCAQrm4KDA0HphuKTA@mail.gmail.com>
+Subject: Fwd: Your Electronic Receipt
+From: Jamie Alexander <jamie@moonrider.com>
+To: Johnny Patterson <johnny@getsensibill.com>
+Content-Type: multipart/mixed; boundary=001a11345ee469653704fddeabd2
+
+--001a11345ee469653704fddeabd2
+Content-Type: multipart/alternative; boundary=001a11345ee469653304fddeabd0
+
+--001a11345ee469653304fddeabd0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Jamie Alexander
+Founder & CTO | Moonrider <http://www.moonrider.com/>
+M: 416-201-2407
+
+
+
+
+---------- Forwarded message ----------
+From: <customercare_canada@homedepot.com>
+Date: Wed, Aug 21, 2013 at 9:53 PM
+Subject: Your Electronic Receipt
+To: jamie@moonrider.com
+
+
+    *Please keep this email for your records.*  Please add
+customercare_canada@homedepot.com to your address book.      [image: The
+Home Depot]
+<http://www.homedepot.ca/?eid=3Demail-receipt%7Cemail%7C%7Chome-page%7CEN%7=
+C%7CAW%7C%7C%7C%7C%7C>
+[image:
+FIND MORE]
+<http://www.homedepot.ca/?eid=3Demail-receipt%7Cemail%7C%7Chome-page%7CEN%7=
+C%7CAW%7C%7C%7C%7C%7C>
+   [image:
+Your e-Receipt]
+-
+      Thank you for your recent transaction at The Home Depot Canada. We
+have provided a digital copy of your receipt below for your convenience. We
+look forward to seeing you again soon.
+
+825 CALEDONIA RD, TORONTO, ONT
+SAM MOUSAVI STORE MGR.(416)780-4730
+
+  7134  00058  93441    21/08/13  09:51 PM
+  CASHIER SELF CHECK OUT - SCOT58
+
+  078627587372 GARDEN HOSE <A>
+     2@9.98                         19.96
+  046878910058 5/8"FEMALE <A>        4.49
+
+                   SUBTOTAL         24.45
+                   GST/HST           3.18
+                   TOTAL           $27.63
+  XXXXXXXXXXXX4397 VISA             27.63
+  AUTH CODE 067905/1582140             TA
+  AID A0000000031010          VISA CREDIT
+
+
+7134 58 93441 21/08/2013 7859
+
+13%   HST R135772911
+
+RETURN POLICY DEFINITIONS
+      POLICY ID   DAYS   POLICY EXPIRES ON
+   A      1       90        19/11/2013
+THE HOME DEPOT RESERVES THE RIGHT TO
+LIMIT / DENY RETURNS. PLEASE SEE THE
+RETURN POLICY SIGN IN STORES FOR
+DETAILS.
+
+KEEP YOUR RECEIPT FOR FASTER RETURNS
+SHOP ONLINE AT WWW.HOMEDEPOT.CA
+More saving. More Doing.
+***************************************
+ENTER FOR A CHANCE
+TO WIN A $3,000
+HOME DEPOT GIFT
+CARD!
+
+Your Opinion Counts!  We would like to
+hear about your shopping experience.
+Enter to win a $3,000 Home Depot Gift
+Card by completing a brief survey about
+your store visit at:
+
+www.homedepot.com/opinion
+<http://www.homedepotopinion.com?username=3D194305%20187229&password=3D1342=
+1%20187171&flag=3DERCPT>
+
+You will need the following to enter
+on-line:
+
+User ID:
+194305 187229
+
+Password:
+13421 187171
+
+Entries must be entered by 20/09/2013.
+Entrants must be 18 or older to enter.
+See complete rules on website. No
+purchase necessary.
+
+(Le sondage est =C3=A9galement offert en
+fran=C3=A7ais sur le Web.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+     -
+   [image: SAVINGS EMAILS - BE THE FIRST TO KNOW ABOUT EXCLUSIVE SAVINGS,
+HOW-TO PROJECT INFO, AND MORE]
+<http://www.homedepot.ca/email?eid=3Demail-receipt%7Cemail%7C%7Cemail-sign-=
+up%7CEN%7C%7CAW%7C%7C%7C%7C%7C>
+-
+  [image: YOUR OPINION COUNTS - HELP US ENSURE THE BEST SHOPPING
+EXPERIENCE: TELL US ABOUT YOUR RECENT PURCHASE]
+<http://www.homedepotopinion.com?username=3D194305%20187229&password=3D1342=
+1%20187171&flag=3DERCPT>
+-
+  [image: PRODUCT REVIEWS]
+<http://www.homedepot.ca/review?eid=3Demail-receipt%7Cemail%7C%7Creviews%7C=
+EN%7C%7CAW%7C%7C%7C%7C%7C>
+SHOP
+<http://www.homedepot.ca?eid=3Demail-receipt%7Cemail%7C%7Chome-page%7CEN%7C=
+%7CAW%7C%7C%7C%7C%7C>
+ |
+SERVICES
+<http://www.homedepot.ca/installation-services?eid=3Demail-receipt%7Cemail%=
+7C%7Cinstallation-services%7CEN%7C%7CAW%7C%7C%7C%7C%7C>
+ |
+KNOW-HOW CENTRE
+<http://www.homedepot.ca/know-how?eid=3Demail-receipt%7Cemail%7C%7Cknow-how=
+%7CEN%7C%7CAW%7C%7C%7C%7C%7C>
+ |
+PROMOTIONS
+<http://www.homedepot.ca/promotions?eid=3Demail-receipt%7Cemail%7C%7Cpromot=
+ions%7CEN%7C%7CAW%7C%7C%7C%7C%7C>
+ |
+VALUE CENTRE
+<http://www.homedepot.ca/catalog/value-centre/172038?eid=3Demail-receipt%7C=
+email%7C%7Cvalue-centre%7CEN%7C%7CAW%7C%7C%7C%7C%7C>
+ |
+CUSTOMER SUPPORT
+<http://www.homedepot.ca/content/customer-support/customer-support?eid=3Dem=
+ail-receipt%7Cemail%7C%7Ccustomer-support%7CEN%7C%7CAW%7C%7C%7C%7C%7C>
+ |
+HAMMER DROP
+<http://www.homedepot.ca/webapp/wcs/stores/servlet/HammerDropView?storeId=
+=3D10051&catalogId=3D10051&langId=3D-15&eid=3Demail-receipt%7Cemail%7C%7Cha=
+mmer-drop%7CEN%7C%7CAW%7C%7C%7C%7C%7C>
+  STAY
+CONNECTED  [image: MOBILE]
+<http://www.homedepot.ca/content/mobile-app?eid=3Demail-receipt%7Cemail%7C%=
+7Cmobile-app%7CEN%7C%7CAW%7C%7C%7C%7C%7C>
+[image:
+FACEBOOK] <http://www.facebook.com/homedepot> [image: TWITTER]
+<http://www.twitter.com/homedepotcanada> [image: PINTEREST]
+<http://pinterest.com/homedepotcanada/> [image: RSS]
+<http://www.homedepot.ca/webapp/wcs/stores/servlet/DisplayTemplate?storeId=
+=3D10051&catalogId=3D10051&langId=3D-15&display=3Drss_feeds&eid=3Demail-rec=
+eipt%7Cemail%7C%7Crss-feeds%7CEN%7C%7CAW%7C%7C%7C%7C%7C>
+
+Please do not reply to this email. To contact us, please call 1-800-668-226=
+6.
+
+
+For all online customer service needs: Call: 1-800-826-0525 (8 a.m. to 11
+p.m. ET Monday through Saturday, 10 a.m. to 10 p.m. on Sunday)
+
+NOTE: All offers may not be available in all areas. Local store prices may
+vary from those displayed. Prices are in Canadian dollars and are subject
+to change without notice. Products shown as available are normally stocked
+but inventory levels cannot be guaranteed.
+
+=C2=A92012 Homer TLC, Inc. All rights reserved. Privacy & Security Statemen=
+t
+<http://www.homedepot.ca/content/customer-support/privacy-and-security?eid=
+=3Demail-receipt%7Cemail%7C%7Cprivacy%7CEN%7C%7CAW%7C%7C%7C%7C%7C>
+
+------------------------------
+The information in this Internet Email is confidential and may be legally
+privileged. It is intended solely for the addressee. Access to this Email
+by anyone else is unauthorized. If you are not the intended recipient, any
+disclosure, copying, distribution or any action taken or omitted to be
+taken in reliance on it, is prohibited and may be unlawful. When addressed
+to our clients any opinions or advice contained in this Email are subject
+to the terms and conditions expressed in any applicable governing The Home
+Depot terms of business or client engagement letter. The Home Depot
+disclaims all responsibility and liability for the accuracy and content of
+this attachment and for any damages or losses arising from any
+inaccuracies, errors, viruses, e.g., worms, trojan horses, etc., or other
+items of a destructive nature, which may be contained in this attachment
+and shall not be liable for direct, indirect, consequential or special
+damages in connection with this e-mail message or its attachment.
+
+--001a11345ee469653304fddeabd0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><br clear=3D"all"><div><div style=3D"float:left;text-align=
+:center">
+	<p style=3D"text-align:left"><br>
+		</p><p style=3D"text-align:left"><span style=3D"font-family:arial,sans-se=
+rif;font-size:small"><br></span></p><p style=3D"text-align:left"><span styl=
+e=3D"font-family:arial,sans-serif;font-size:small"><br></span></p><p style=
+=3D"text-align:left">
+<span style=3D"font-family:arial,sans-serif;font-size:small"><br></span></p=
+><p style=3D"text-align:left"><span style=3D"font-family:arial,sans-serif;f=
+ont-size:small"><br></span></p></div><font face=3D"tahoma, sans-serif" styl=
+e=3D"font-size:13px"><span style=3D"font-family:arial"><span style=3D"font-=
+family:arial,sans-serif;border-collapse:collapse">Jamie Alexander<br>
+Founder &amp; CTO |=C2=A0<a href=3D"http://www.moonrider.com/" target=3D"_b=
+lank">Moonrider</a></span></span></font><br><span style=3D"font-family:aria=
+l,sans-serif">M: 416-201-2407</span><div><span style=3D"font-family:arial,s=
+ans-serif"><br>
+</span></div><div><span style=3D"font-family:arial,sans-serif"><br></span><=
+/div></div>
+<br><br><div class=3D"gmail_quote">---------- Forwarded message ----------<=
+br>From: <b class=3D"gmail_sendername"></b> <span dir=3D"ltr">&lt;<a href=
+=3D"mailto:customercare_canada@homedepot.com">customercare_canada@homedepot=
+.com</a>&gt;</span><br>
+Date: Wed, Aug 21, 2013 at 9:53 PM<br>Subject: Your Electronic Receipt<br>T=
+o: <a href=3D"mailto:jamie@moonrider.com">jamie@moonrider.com</a><br><br><b=
+r><u></u>
+
+
+
+
+
+
+<div text=3D"#333333" link=3D"#666666" vlink=3D"#666666" alink=3D"#666666" =
+style=3D"padding:0;margin:0;font:Arial,Helvetica,sans-serif;font-family:Ari=
+al,Helvetica,sans-serif">
+<span></span>
+<div style=3D"padding:2px 10px 10px 10px">
+<table width=3D"608" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=
+=3D"center">
+<tbody>
+<tr>
+<td style=3D"padding-bottom:10px;padding-bottom:4px;font-family:Arial,Helve=
+tica,sans-serif;font-size:10px;color:#333333">
+<strong>Please keep this email for your records.</strong></td>
+</tr>
+<tr>
+<td style=3D"padding-bottom:10px;font-family:Arial,Helvetica,sans-serif;fon=
+t-size:10px;line-height:12px;color:#333333">
+Please add <a href=3D"mailto:customercare_canada@homedepot.com" target=3D"_=
+blank">customercare_canada@homedepot.com</a> to your address book.</td>
+</tr>
+</tbody>
+</table>
+
+<table width=3D"608" border=3D"0" align=3D"center" cellpadding=3D"0" cellsp=
+acing=3D"0" bgcolor=3D"#FFFFFF">
+<tbody>
+<tr>
+<td align=3D"center">
+<table width=3D"608" border=3D"0" align=3D"center" cellpadding=3D"0" cellsp=
+acing=3D"0">
+<tbody>
+<tr>
+<td><a href=3D"http://www.homedepot.ca/?eid=3Demail-receipt%7Cemail%7C%7Cho=
+me-page%7CEN%7C%7CAW%7C%7C%7C%7C%7C" target=3D"_blank"><img src=3D"https://=
+hdcontent.homedepot.com/eReceipt/Images/logo_en_ca.jpg" alt=3D"The Home Dep=
+ot" width=3D"236" height=3D"60" border=3D"0" style=3D"display:block"></a></=
+td>
+
+<td width=3D"159"><a href=3D"http://www.homedepot.ca/?eid=3Demail-receipt%7=
+Cemail%7C%7Chome-page%7CEN%7C%7CAW%7C%7C%7C%7C%7C" target=3D"_blank"><img s=
+rc=3D"https://hdcontent.homedepot.com/eReceipt/Images/header_find_more_en_c=
+a.jpg" alt=3D"FIND MORE" border=3D"0" width=3D"159" height=3D"44"></a></td>
+
+</tr>
+</tbody>
+</table>
+
+<table width=3D"608" border=3D"0" align=3D"center" cellpadding=3D"0" cellsp=
+acing=3D"0" height=3D"33">
+<tbody>
+<tr>
+<td width=3D"608" align=3D"center"><img src=3D"https://hdcontent.homedepot.=
+com/eReceipt/Images/header_ereceipt_en_ca.jpg" width=3D"608" height=3D"63" =
+border=3D"0" alt=3D"Your e-Receipt"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table width=3D"600" border=3D"1" align=3D"center" cellpadding=3D"-1" cells=
+pacing=3D"0" bgcolor=3D"#FFFFFF">
+<tbody>
+<tr>
+<td align=3D"center" bgcolor=3D"#ffffff">
+<table width=3D"600" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+<tbody>
+<tr>
+<td>
+<div style=3D"color:#ffffff;font-size:10px;line-height:10px">-</div>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table width=3D"600" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+<tbody>
+<tr>
+<td rowspan=3D"6" width=3D"380">
+<table>
+<tbody>
+<tr>
+<td align=3D"left"><span style=3D"font:Arial,Helvetica,sans-serif;font-fami=
+ly:Arial,Helvetica,sans-serif;color:#333333;font-size:12px;line-height:13px=
+">Thank you for your recent transaction at The Home Depot Canada. We have p=
+rovided a digital copy of your
+ receipt below for your convenience. We look forward to seeing you again so=
+on.</span></td>
+</tr>
+<tr>
+
+<td align=3D"center">
+<table style=3D"table-layout:fixed;width:380px" border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td>
+<pre style=3D"width:380px"><div style=3D"text-align:center"><img src=3D"htt=
+ps://hdcontent.homedepot.com/eReceipt/Images/A10F9F74B02AEB4A9FCB403DB87D8B=
+12.jpg"></div><div style=3D"text-align:center"><span style=3D"font-size:10.=
+0pt;color:black">825 CALEDONIA RD, TORONTO, ONT</span></div>
+<div style=3D"text-align:center"><span style=3D"font-size:10.0pt;color:blac=
+k">SAM MOUSAVI STORE MGR.<a href=3D"tel:%28416%29780-4730" value=3D"+141678=
+04730" target=3D"_blank">(416)780-4730</a></span></div><div style=3D"text-a=
+lign:center">
+=C2=A0</div><div style=3D"text-align:left"><span style=3D"font-size:10.0pt;=
+color:black">  7134  00058  93441    21/08/13  09:51 PM</span></div><div st=
+yle=3D"text-align:left"><span style=3D"font-size:10.0pt;color:black">  CASH=
+IER SELF CHECK OUT - SCOT58</span></div>
+<div style=3D"text-align:center">=C2=A0</div><div style=3D"text-align:left"=
+><span style=3D"font-size:10.0pt;color:black">  078627587372 GARDEN HOSE &l=
+t;A&gt;           </span></div><div style=3D"text-align:left"><span style=
+=3D"font-size:10.0pt;color:black">     2@9.98                         19.96=
+ </span></div>
+<div style=3D"text-align:left"><span style=3D"font-size:10.0pt;color:black"=
+>  046878910058 5/8&quot;FEMALE &lt;A&gt;        4.49 </span></div><div sty=
+le=3D"text-align:center">=C2=A0</div><div style=3D"text-align:left"><span s=
+tyle=3D"font-size:10.0pt;color:black">                   SUBTOTAL         2=
+4.45</span></div>
+<div style=3D"text-align:left"><span style=3D"font-size:10.0pt;color:black"=
+>                   GST/HST           3.18</span></div><div style=3D"text-a=
+lign:left"><span style=3D"font-size:10.0pt;color:black">                   =
+TOTAL           $27.63</span></div>
+<div style=3D"text-align:left"><span style=3D"font-size:10.0pt;color:black"=
+>  XXXXXXXXXXXX4397 VISA             27.63</span></div><div style=3D"text-a=
+lign:left"><span style=3D"font-size:10.0pt;color:black">  AUTH CODE 067905/=
+1582140             TA</span></div>
+<div style=3D"text-align:left"><span style=3D"font-size:10.0pt;color:black"=
+>  AID A0000000031010          VISA CREDIT</span></div><div style=3D"text-a=
+lign:center">=C2=A0</div><div style=3D"text-align:center">=C2=A0</div><div =
+style=3D"text-align:center">
+<img src=3D"https://hdapps.homedepot.com/ECommServices/BarcodeServlet?heigh=
+t=3D25&amp;key=3Dee3934433a35ee348583236c2eeadbc1&amp;data=3D08213589344713=
+42"></div><div style=3D"text-align:center"><span style=3D"font-size:10.0pt;=
+color:black">7134 58 93441 21/08/2013 7859</span></div>
+<div style=3D"text-align:center">=C2=A0</div><div style=3D"text-align:cente=
+r"><span style=3D"font-size:10.0pt;color:black">13%   HST R135772911</span>=
+</div><div style=3D"text-align:center">=C2=A0</div><div style=3D"text-align=
+:center"><span style=3D"font-size:10.0pt;color:black">RETURN POLICY DEFINIT=
+IONS</span></div>
+<div style=3D"text-align:left"><span style=3D"font-size:10.0pt;color:black"=
+>      POLICY ID   DAYS   POLICY EXPIRES ON</span></div><div style=3D"text-=
+align:left"><span style=3D"font-size:10.0pt;color:black">   A      1       =
+90        19/11/2013 </span></div>
+<div style=3D"text-align:center"><span style=3D"font-size:10.0pt;color:blac=
+k">THE HOME DEPOT RESERVES THE RIGHT TO</span></div><div style=3D"text-alig=
+n:center"><span style=3D"font-size:10.0pt;color:black">LIMIT / DENY RETURNS=
+. PLEASE SEE THE</span></div>
+<div style=3D"text-align:center"><span style=3D"font-size:10.0pt;color:blac=
+k">RETURN POLICY SIGN IN STORES FOR</span></div><div style=3D"text-align:ce=
+nter"><span style=3D"font-size:10.0pt;color:black">DETAILS.</span></div><di=
+v style=3D"text-align:center">
+=C2=A0</div><div style=3D"text-align:center"><span style=3D"font-size:10.0p=
+t;color:black">KEEP YOUR RECEIPT FOR FASTER RETURNS</span></div><div style=
+=3D"text-align:center"><span style=3D"font-size:10.0pt;color:black">SHOP ON=
+LINE AT <a href=3D"http://WWW.HOMEDEPOT.CA" target=3D"_blank">WWW.HOMEDEPOT=
+.CA</a></span></div>
+<div style=3D"text-align:center"><span style=3D"font-size:10.0pt;color:blac=
+k">More saving. More Doing.</span></div><div style=3D"text-align:center"><s=
+pan style=3D"font-size:10.0pt;color:black">********************************=
+*******</span></div>
+<div style=3D"text-align:center"><span style=3D"font-size:14.0pt;font-weigh=
+t:bold;color:black">ENTER FOR A CHANCE</span></div><div style=3D"text-align=
+:center"><span style=3D"font-size:14.0pt;font-weight:bold;color:black">TO W=
+IN A $3,000</span></div>
+<div style=3D"text-align:center"><span style=3D"font-size:14.0pt;font-weigh=
+t:bold;color:black">HOME DEPOT GIFT</span></div><div style=3D"text-align:ce=
+nter"><span style=3D"font-size:14.0pt;font-weight:bold;color:black">CARD!</=
+span></div>
+<div style=3D"text-align:center">=C2=A0</div><div style=3D"text-align:cente=
+r"><span style=3D"font-size:10.0pt;color:black">Your Opinion Counts!  We wo=
+uld like to</span></div><div style=3D"text-align:center"><span style=3D"fon=
+t-size:10.0pt;color:black">hear about your shopping experience.</span></div=
+>
+<div style=3D"text-align:center"><span style=3D"font-size:10.0pt;color:blac=
+k">Enter to win a $3,000 Home Depot Gift</span></div><div style=3D"text-ali=
+gn:center"><span style=3D"font-size:10.0pt;color:black">Card by completing =
+a brief survey about</span></div>
+<div style=3D"text-align:center"><span style=3D"font-size:10.0pt;color:blac=
+k">your store visit at:</span></div><div style=3D"text-align:center">=C2=A0=
+</div><div style=3D"text-align:center"><span style=3D"font-size:10.0pt;colo=
+r:black"><a href=3D"http://www.homedepotopinion.com?username=3D194305%20187=
+229&amp;password=3D13421%20187171&amp;flag=3DERCPT" target=3D"_blank">www.h=
+omedepot.com/opinion</a></span></div>
+<div style=3D"text-align:center">=C2=A0</div><div style=3D"text-align:cente=
+r"><span style=3D"font-size:10.0pt;color:black">You will need the following=
+ to enter</span></div><div style=3D"text-align:center"><span style=3D"font-=
+size:10.0pt;color:black">on-line:</span></div>
+<div style=3D"text-align:center">=C2=A0</div><div style=3D"text-align:cente=
+r"><span style=3D"font-size:14.0pt;font-weight:bold;color:black">User ID:</=
+span></div><div style=3D"text-align:center"><span style=3D"font-size:14.0pt=
+;font-weight:bold;color:black">194305 187229</span></div>
+<div style=3D"text-align:center">=C2=A0</div><div style=3D"text-align:cente=
+r"><span style=3D"font-size:14.0pt;font-weight:bold;color:black">Password:<=
+/span></div><div style=3D"text-align:center"><span style=3D"font-size:14.0p=
+t;font-weight:bold;color:black">13421 187171</span></div>
+<div style=3D"text-align:center">=C2=A0</div><div style=3D"text-align:cente=
+r"><span style=3D"font-size:10.0pt;color:black">Entries must be entered by =
+20/09/2013.</span></div><div style=3D"text-align:center"><span style=3D"fon=
+t-size:10.0pt;color:black">Entrants must be 18 or older to enter.</span></d=
+iv>
+<div style=3D"text-align:center"><span style=3D"font-size:10.0pt;color:blac=
+k">See complete rules on website. No</span></div><div style=3D"text-align:c=
+enter"><span style=3D"font-size:10.0pt;color:black">purchase necessary.</sp=
+an></div>
+<div style=3D"text-align:center">=C2=A0</div><div style=3D"text-align:cente=
+r"><span style=3D"font-size:10.0pt;color:black">(Le sondage est =C3=A9galem=
+ent offert en</span></div><div style=3D"text-align:center"><span style=3D"f=
+ont-size:10.0pt;color:black">fran=C3=A7ais sur le Web.)</span></div>
+<div style=3D"text-align:center">=C2=A0</div><div style=3D"text-align:cente=
+r">=C2=A0</div><div style=3D"text-align:center">=C2=A0</div><div style=3D"t=
+ext-align:center">=C2=A0</div><div style=3D"text-align:center">=C2=A0</div>=
+<div style=3D"text-align:center">
+=C2=A0</div><div style=3D"text-align:center">=C2=A0</div><div style=3D"text=
+-align:center">=C2=A0</div><div style=3D"text-align:center">=C2=A0</div><di=
+v style=3D"text-align:center">=C2=A0</div><div style=3D"text-align:center">=
+=C2=A0</div><div style=3D"text-align:center">
+=C2=A0</div></pre>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+
+</tr>
+</tbody>
+</table>
+</td>
+<td rowspan=3D"6" width=3D"5">
+<div style=3D"color:#ffffff;font-size:10px;line-height:10px">-</div>
+</td>
+<td valign=3D"top">
+<table>
+<tbody>
+<tr>
+<td><a href=3D"http://www.homedepot.ca/email?eid=3Demail-receipt%7Cemail%7C=
+%7Cemail-sign-up%7CEN%7C%7CAW%7C%7C%7C%7C%7C" target=3D"_blank"><img src=3D=
+"https://hdcontent.homedepot.com/eReceipt/Images/box_savings_en_ca.jpg" wid=
+th=3D"210" height=3D"148" border=3D"0" alt=3D"SAVINGS EMAILS - BE THE FIRST=
+ TO KNOW ABOUT EXCLUSIVE SAVINGS, HOW-TO PROJECT INFO, AND MORE" style=3D"d=
+isplay:block"></a></td>
+
+</tr>
+<tr>
+<td width=3D"210">
+<div style=3D"color:#ffffff;font-size:10px;line-height:10px">-</div>
+</td>
+</tr>
+<tr>
+<td><a href=3D"http://www.homedepotopinion.com?username=3D194305%20187229&a=
+mp;password=3D13421%20187171&amp;flag=3DERCPT" target=3D"_blank"><img src=
+=3D"https://hdcontent.homedepot.com/eReceipt/Images/box_voc_en_ca.jpg" widt=
+h=3D"210" height=3D"126" border=3D"0" alt=3D"YOUR OPINION COUNTS - HELP US =
+ENSURE THE BEST SHOPPING EXPERIENCE: TELL US ABOUT YOUR RECENT PURCHASE" st=
+yle=3D"display:block"></a></td>
+
+</tr>
+<tr>
+<td width=3D"210">
+<div style=3D"color:#ffffff;font-size:10px;line-height:10px">-</div>
+</td>
+</tr>
+<tr>
+<td><a href=3D"http://www.homedepot.ca/review?eid=3Demail-receipt%7Cemail%7=
+C%7Creviews%7CEN%7C%7CAW%7C%7C%7C%7C%7C" target=3D"_blank"><img src=3D"http=
+s://hdcontent.homedepot.com/eReceipt/Images/box_user_review_en_ca.jpg" widt=
+h=3D"210" height=3D"145" border=3D"0" alt=3D"PRODUCT REVIEWS" style=3D"disp=
+lay:block"></a></td>
+
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table width=3D"608" border=3D"0" align=3D"center" cellpadding=3D"0" cellsp=
+acing=3D"0">
+<tbody>
+<tr>
+<td height=3D"10"></td>
+</tr>
+<tr>
+<td colspan=3D"2"><img src=3D"https://hdcontent.homedepot.com/eReceipt/Imag=
+es/seperator_orange.jpg" width=3D"608" height=3D"3"></td>
+</tr>
+<tr>
+<td height=3D"10"></td>
+</tr>
+<tr>
+<td style=3D"width:400px" align=3D"center">
+<a href=3D"http://www.homedepot.ca?eid=3Demail-receipt%7Cemail%7C%7Chome-pa=
+ge%7CEN%7C%7CAW%7C%7C%7C%7C%7C" style=3D"color:#333333;font-family:Arial,He=
+lvetica,sans-serif;font-size:11px;line-height:18px" target=3D"_blank">SHOP<=
+/a>=C2=A0=C2=A0|=C2=A0
+<a href=3D"http://www.homedepot.ca/installation-services?eid=3Demail-receip=
+t%7Cemail%7C%7Cinstallation-services%7CEN%7C%7CAW%7C%7C%7C%7C%7C" style=3D"=
+color:#333333;font-family:Arial,Helvetica,sans-serif;font-size:11px;line-he=
+ight:18px" target=3D"_blank">
+SERVICES</a>=C2=A0=C2=A0|=C2=A0 <a href=3D"http://www.homedepot.ca/know-how=
+?eid=3Demail-receipt%7Cemail%7C%7Cknow-how%7CEN%7C%7CAW%7C%7C%7C%7C%7C" sty=
+le=3D"color:#333333;font-family:Arial,Helvetica,sans-serif;font-size:11px;l=
+ine-height:18px" target=3D"_blank">
+KNOW-HOW CENTRE</a>=C2=A0=C2=A0|=C2=A0 <a href=3D"http://www.homedepot.ca/p=
+romotions?eid=3Demail-receipt%7Cemail%7C%7Cpromotions%7CEN%7C%7CAW%7C%7C%7C=
+%7C%7C" style=3D"color:#333333;font-family:Arial,Helvetica,sans-serif;font-=
+size:11px;line-height:18px" target=3D"_blank">
+PROMOTIONS</a>=C2=A0=C2=A0|=C2=A0 <a href=3D"http://www.homedepot.ca/catalo=
+g/value-centre/172038?eid=3Demail-receipt%7Cemail%7C%7Cvalue-centre%7CEN%7C=
+%7CAW%7C%7C%7C%7C%7C" style=3D"color:#333333;font-family:Arial,Helvetica,sa=
+ns-serif;font-size:11px;line-height:18px" target=3D"_blank">
+VALUE CENTRE</a>=C2=A0=C2=A0|=C2=A0 <a href=3D"http://www.homedepot.ca/cont=
+ent/customer-support/customer-support?eid=3Demail-receipt%7Cemail%7C%7Ccust=
+omer-support%7CEN%7C%7CAW%7C%7C%7C%7C%7C" style=3D"color:#333333;font-famil=
+y:Arial,Helvetica,sans-serif;font-size:11px;line-height:18px" target=3D"_bl=
+ank">
+CUSTOMER SUPPORT</a>=C2=A0=C2=A0|=C2=A0 <a href=3D"http://www.homedepot.ca/=
+webapp/wcs/stores/servlet/HammerDropView?storeId=3D10051&amp;catalogId=3D10=
+051&amp;langId=3D-15&amp;eid=3Demail-receipt%7Cemail%7C%7Chammer-drop%7CEN%=
+7C%7CAW%7C%7C%7C%7C%7C" style=3D"color:#333333;font-family:Arial,Helvetica,=
+sans-serif;font-size:11px;line-height:18px" target=3D"_blank">
+HAMMER DROP</a></td>
+<td style=3D"border-left:1px solid grey;padding:3px" width=3D"208">
+<table border=3D"0" align=3D"center" cellpadding=3D"4" cellspacing=3D"0">
+<tbody>
+<tr>
+<td colspan=3D"5"><span style=3D"font:Arial,Helvetica,sans-serif;font-famil=
+y:Arial,Helvetica,sans-serif;color:#333333;font-size:12px;line-height:13px"=
+>STAY CONNECTED</span></td>
+</tr>
+<tr>
+<td><a href=3D"http://www.homedepot.ca/content/mobile-app?eid=3Demail-recei=
+pt%7Cemail%7C%7Cmobile-app%7CEN%7C%7CAW%7C%7C%7C%7C%7C" target=3D"_blank"><=
+img src=3D"https://hdcontent.homedepot.com/eReceipt/Images/foot_mobile_ca.j=
+pg" width=3D"32" height=3D"32" alt=3D"MOBILE" border=3D"0" align=3D"absmidd=
+le"></a></td>
+
+<td><a href=3D"http://www.facebook.com/homedepot" target=3D"_blank"><img sr=
+c=3D"https://hdcontent.homedepot.com/eReceipt/Images/foot_facebook_ca.jpg" =
+width=3D"32" height=3D"32" alt=3D"FACEBOOK" border=3D"0" align=3D"absmiddle=
+"></a></td>
+
+<td><a href=3D"http://www.twitter.com/homedepotcanada" target=3D"_blank"><i=
+mg src=3D"https://hdcontent.homedepot.com/eReceipt/Images/foot_twitter_ca.j=
+pg" width=3D"32" height=3D"32" alt=3D"TWITTER" border=3D"0" align=3D"absmid=
+dle"></a></td>
+
+<td><a href=3D"http://pinterest.com/homedepotcanada/" target=3D"_blank"><im=
+g src=3D"https://hdcontent.homedepot.com/eReceipt/Images/foot_pinterest_ca.=
+jpg" width=3D"32" height=3D"32" alt=3D"PINTEREST" border=3D"0" align=3D"abs=
+middle"></a></td>
+
+<td><a href=3D"http://www.homedepot.ca/webapp/wcs/stores/servlet/DisplayTem=
+plate?storeId=3D10051&amp;catalogId=3D10051&amp;langId=3D-15&amp;display=3D=
+rss_feeds&amp;eid=3Demail-receipt%7Cemail%7C%7Crss-feeds%7CEN%7C%7CAW%7C%7C=
+%7C%7C%7C" target=3D"_blank"><img src=3D"https://hdcontent.homedepot.com/eR=
+eceipt/Images/foot_rss_ca.jpg" width=3D"32" height=3D"32" alt=3D"RSS" borde=
+r=3D"0" align=3D"absmiddle"></a></td>
+
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height=3D"10"></td>
+</tr>
+<tr>
+<td colspan=3D"2"><img src=3D"https://hdcontent.homedepot.com/eReceipt/Imag=
+es/seperator_grey.jpg" width=3D"608" height=3D"3"></td>
+</tr>
+</tbody>
+</table>
+
+<table width=3D"600" border=3D"0" cellpadding=3D"10" cellspacing=3D"0" alig=
+n=3D"center">
+<tbody>
+<tr>
+<td align=3D"left" style=3D"font-family:Arial,Helvetica,sans-serif;font-siz=
+e:10pt;color:#333333">
+<p style=3D"padding:0;margin:0">Please do not reply to this email. To conta=
+ct us, please call <a href=3D"tel:1-800-668-2266" value=3D"+18006682266" ta=
+rget=3D"_blank">1-800-668-2266</a>.
+</p>
+<p>For all online customer service needs: Call: <a href=3D"tel:1-800-826-05=
+25" value=3D"+18008260525" target=3D"_blank">1-800-826-0525</a> (8 a.m. to =
+11 p.m. ET Monday through Saturday, 10 a.m. to 10 p.m. on Sunday)</p>
+<p>NOTE: All offers may not be available in all areas. Local store prices m=
+ay vary from those displayed. Prices are in Canadian dollars and are subjec=
+t to change without notice. Products shown as available are normally stocke=
+d but inventory levels cannot be
+ guaranteed. <br>
+</p>
+<p style=3D"padding:0;margin:0">=C2=A92012 Homer TLC, Inc. All rights reser=
+ved. <a href=3D"http://www.homedepot.ca/content/customer-support/privacy-an=
+d-security?eid=3Demail-receipt%7Cemail%7C%7Cprivacy%7CEN%7C%7CAW%7C%7C%7C%7=
+C%7C" style=3D"color:#333333" target=3D"_blank">
+Privacy &amp; Security Statement</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<br>
+<hr>
+<font face=3D"Arial" color=3D"Gray" size=3D"1">The information in this Inte=
+rnet Email is confidential and may be legally privileged. It is intended so=
+lely for the addressee. Access to this Email by anyone else is unauthorized=
+. If you are not the intended recipient,
+ any disclosure, copying, distribution or any action taken or omitted to be=
+ taken in reliance on it, is prohibited and may be unlawful. When addressed=
+ to our clients any opinions or advice contained in this Email are subject =
+to the terms and conditions expressed
+ in any applicable governing The Home Depot terms of business or client eng=
+agement letter. The Home Depot disclaims all responsibility and liability f=
+or the accuracy and content of this attachment and for any damages or losse=
+s arising from any inaccuracies,
+ errors, viruses, e.g., worms, trojan horses, etc., or other items of a des=
+tructive nature, which may be contained in this attachment and shall not be=
+ liable for direct, indirect, consequential or special damages in connectio=
+n with this e-mail message or its
+ attachment.<br>
+</font>
+</div>
+
+</div><br></div>
+
+--001a11345ee469653304fddeabd0--
+--001a11345ee469653704fddeabd2
+Content-Type: application/pdf; name="eReceipt.pdf"
+Content-Disposition: attachment; filename="eReceipt.pdf"
+Content-Transfer-Encoding: base64
+X-Attachment-Id: 1ee6882d24e9a2ed_0.1
+
+JVBERi0xLjQKJeLjz9MKMyAwIG9iaiA8PC9EZWNvZGVQYXJtczw8L0NvbG9ycyAxL1ByZWRpY3Rv
+ciAxNS9CaXRzUGVyQ29tcG9uZW50IDEvQ29sdW1ucyAyOTk+Pi9UeXBlL1hPYmplY3QvQ29sb3JT
+cGFjZVsvSW5kZXhlZC9EZXZpY2VSR0IgMSgAAAD+/v4pXS9TdWJ0eXBlL0ltYWdlL0JpdHNQZXJD
+b21wb25lbnQgMS9XaWR0aCAyOTkvTGVuZ3RoIDE3MDkvSGVpZ2h0IDEzOC9GaWx0ZXIvRmxhdGVE
+ZWNvZGU+PnN0cmVhbQp42o1Yv2scRxR+Mzf2DeEijUBgBRTfRITg8koFlPOIGFykcZ1KJEVaEwJR
+cbZGskJchERFukByIX9AHEhp0FqIxKVLF0FZGRdnMHgcDrEn7+3mvdn7oZM0q7tGt6tv37755nvf
+e3MMTn+qyZlbcMgnLiUEPpOw+elgS9PBVqeDWTsNjIGZBsZBTwMToKaBySBxEzC1JwKwiftu9+tp
+YMt2Kt5+gotgRBibuZC3Nn2XF/HGiDBxIW+cCJP8It4ErVgxEOWwHv1fg+XlMFWs1rBy2DWvNopn
+y2A3aqQ2DLpqymBb3H9F4nQJjDEM1VcgNuuqBHYZom1QCVQAaiUwCXNbcC2lVfAS2H9ErcmIk80S
+WB3jWZsTw2DDMGMFlbIlmk0YZiMOewARbX0UhDEVM9gWENPWh1/KpYMNlJHDy43wEoRIoIlrTZDn
+LAyTPIVF3HYkbisNwxKMoYwn7kYShqWYkUMZIXGLLgzLkLhDkpGFmThc9RugI9ZE0iKoRsFozFgV
+W3oEiQurl+tIvvLicAGB+NtCxSLznppAFoZJqZE4TAqJS8MwJZaZpwuJS8IwzV9i8sgEEufCsMfs
+ZzgsitrGYVgLiduLHJVEFAVhSKyx240StXkYr4PelbWESMvDHiKUVQeqAgtIXBaGsUYkX2p4SGWa
+yiBsPo5FYqAxg8Q9nQ/ClsBxTL1GZeqWgrBVVC/Zn7RY1qvBLmPZPdii77SrQYV489imJ3AHNpth
+mM7zKtHqIOc6BBNWwd0j7DIc1SZUCCYjiZx1fIGlMsgbShdVdow0o9qUCMGcoxrIMTlUmwqutJcw
+kmSbppB4mYVgb1KvHkouiloQKsAMax7TOvbGm0GwfeSgZ1jkk8tzCLcPu6iggcnpDHZsuH1EqYZa
+rUPEPYhk0GpiVFvlzTGopxDnIhjNobdBa9eCm7Uu3GUSsqNmoy3h9lrCgoaf7qGO6pScXUhL+sI3
+WFDq3rHAkSAL94VcYhnIaMMyw/M8mFtGpiti0xbYbO6GLVpjQtzp59hs7MOyXo8SSeoRuVxJXwDr
+gKUYtAWmpC8Y08WJANrqIx83GK2RkSgtNKwum2qIEeNZKR1+BJGaFRVdAuO0RSlajiuBGaCi0UgF
+S0osuu0ZgQf1dWQk7Jb4RoOh4rU1aIZhvoNQE7I1bJg4GZrtkwP4yKLpIgNv0MrCuQz7oS32xDFV
+hbeLvTsPplRB3KUE7FnDd0OYls4TJ1vQ9n3y1bkFaATlFceqCZ3Hg/n25s2j3+JHy1fgz0/e+mLz
++q+cbDnxxOk6LtKPJdB5ctztgFnvru9DZ3fgvayY8I0apN40cUKWB0VvOvAv5dQpSee2N1JuxcLm
+51CvRH8BXM1WvEUDcY9Vo4e+kML+CjzDRX6nV+7jpfEWTTMjEsdH+tD08r6B17ke84ZvwqTE0aWE
+TdLP4MsT9L5jSLSVf5C2k05ZQa99EL+rhrBbsRetQtoGsLniT74+9OsetjJkjJJySNsglRlY2Yer
+XbgxQKFquB8Vsf7iR3psqH0LuYL9XCt8UuwjjNO8cwcfsTA2VC29zm6Npy1BVBv0egPxyFAXGlAT
+bPO+lpguw9tCktT04x7Xa78XZUZNM6KdvYv7RKeR/seWK5Ka6kmhVHL+eNFPacTjxYwtpUwDUxm+
+mRtWTD1KiCwwldGgaHHPvYZx8gmYVqVQb06KM2y7cX7Js7SohRaF3QEb9CMPmzsiYSZYE7YMVn1F
+f1LKLgzTINYs7kTmK3/yM26aKA6Ok2KKBSIHtJ30kD5pq/8pzShEXDIbWTGk7fSCsXHz1NeoayxH
+Y6s8tRScdznpI4HYXI59KdQnKa4QRwyj5d7coh3mfBBU2hkPYQtAcyAucTOBdQ/744NiFd/e0Xjy
+2ut/+Fmf9XRhRXnOW7BCLZI9eTH2kF24buGXFKpbCCN9ZKJJYwt+/n048hDAQyGmtl4YF5lbKutQ
+T4vfV+zIQ2bzRUQlblD1WFwKC98/duf7kYfkKlvCxb8u9tQTp1EdIyqGHjI5SiFxa0bEKoaSrSe3
+a0Y7uAVebZXbYw+ZFJKl5NiJOpg7FeqZh0UYMB12Kzy1jzzE8QMNxdmAkyBIbc2T2+49hL2G51C0
+DYJ1oItaqfukMsvtyEOs/zFLDqKlREW0UAR7/8eRh+AY/4iOfKpoHxnpMC76d9648mLkIU18/G+A
+r2YHsyXedLyovh8OTlPWdcPZ0tKBd/ALUPeM07w3nLioFwwmrUN1/qETipaThc5EIGvDaZAipiFY
+1fkeMdXPm/8DcUtjnwplbmRzdHJlYW0KZW5kb2JqCjUgMCBvYmogPDwvVHlwZS9YT2JqZWN0L0Nv
+bG9yU3BhY2UvRGV2aWNlUkdCL1N1YnR5cGUvSW1hZ2UvQml0c1BlckNvbXBvbmVudCA4L1dpZHRo
+IDEyMy9MZW5ndGggMjc4L0hlaWdodCAyNC9GaWx0ZXIvRmxhdGVEZWNvZGU+PnN0cmVhbQp4nO3Q
+WwoCMRQD0O5/0xUpyiXTIy4gfgzzkCY5a71/e+9zPTfr83K+/36K92ucoD/ME56n6WY+xgkz6Hrs
+88B/2uqrPl2zrjV+jJJbwYWsSpGuUXIruJBVKdI1Sm4FF7IqRbpGya3gQlalSNcouRVcyKoU6Rol
+t4ILWZUiXaPkVnAhq1Kka5TcCi5kVYp0jZJbwYWsSpGuUXIruJBVKdI1Sm4FF7IqRbpGya3gQlal
+SNcouRVcyKoU6Rolt4ILWZUiXaPkVnAhq1Kka5TcCi5kVYp0jZJbwYWsSpGuUXIruJBVKdI1Sm4F
+F7IqRbpGya3gQlalSNcouRVcyKoU6Rolt4ILWZUiXaPkVnAhq1Kkn8cXBFz42gplbmRzdHJlYW0K
+ZW5kb2JqCjcgMCBvYmogPDwvTGVuZ3RoIDE1NTMvRmlsdGVyL0ZsYXRlRGVjb2RlPj5zdHJlYW0K
+eJyVWGtz2kYU/c6vuOmkM0knEfvQSqtMp1MFZFACiEpyHE/TD9gImxaQzSPUv7jTf9G7K7DNcEkV
+4WHk1d1zX2fPrrhvvM8b0gPNPMjHjShv/GZGODD8cOAuaC4gnzeaZ/gf3k0ar17nfxrDQzM/8GqZ
+aUab3aPj+4aADw0GnQZzFGxxnvmknYbQjtbgeZ7jSxAuc3wXOJeO8GFZNDI7BaeDkJ55ZL2xwDyW
+rJqpzczrOTSn8xsG7RIO0lRoq8BTFt+GJxDAhqfxQSvsRe1kEIeQtt9AnqTJIE/eAH4f5+i6Fsol
+oLKwD/3kPAs/xZAhSgT9Tup8eeVy78trLMxb15eMrJonn+C+XV9PEI4BfC5dAMaY0gCBdF0OeAne
+ZLrJJT4J3ikOwz6NyUnMVph14yiFLOqdQasbtT5Ccp7DW8haSa40DcXqJqIC0inztSd8pX3pC+iE
+aTsaQDfJIvg5/IXG0SSOyf7XwAk0nLo4PvVoSJ8OzfW0rwNui6ya+oezqI/EMZHtMV3HDWhIr3Zd
+KJIS4Wfn7/MkD3uPAwKdKxqSIisB2cnyZjfLn41Ih9N9VrIe5GGIAC+F73iShqSZ/fnZ5crAh09x
+Fh74+AYkTezwPO9CK2lHwDw/YKrJlRbcZYeRhzQkoyHjNoRsd0nO+DMwG3ArjdoxIScI6QZ1ueHq
+05aH+mrEkivuuNrOFoGjPPClgyLgKh+7utdKfqSVnjAC57rW6jBPqzJI/kpgKnURDPXF14rmvSuf
+YL6Rm7b67ArCJ5c/Yg0NLVMule+LgHPaFa/lyrf67TLCVRrl5+kAhkkvbl1COzqLB3EeJ4OM9Idc
+PIaoOr5DQE4AtMPL7Gko+jyM0yjDrYXG1DTmjvB8x6jgkV08aHJue0DsVNxkKn0CMu9GqKr9CJMc
+JljZKIvSTxiWGU/jTjfHhXsS0CMAe3E/zqGJeINLqOqYOTDsRSFKdxZFBvkYUEkLqP63F1ncGUA8
+qHbVDM6SlCifUBaNIm47ysO4lzl00etxdJc9xdGPUTSEy+Q8xdRbUTzMTYRwFmZ5lO6rQWTvWUBO
+AGbdZIgc6cWDCMIcLi4uHNMu2y2nRSgTNtlgUazul8sCVqOv08WNA/afdmnuj0GkXfmC4vVP9S5i
+ZZtdCcQzXst9iaOBKY+pFMpjNxy0CIYEtqfCJ6bnCVwgJUJ4Kd+g6J6c6xFzn3G/E59Rsixtt4Ui
+JrfwVPKCZJJwazFJVoFJos6X5WYJyd10MS0X0Co3i/XqBcBFAdtyMxvDbPpXAevyFDkFRc7bYrSE
+0VW5WcODQV/dlnfo4AaKv++K5bRYXBcUF7QFpMgZLdbFEqOA7XQBo135oVvOkVnFXbmGznSyPsku
+iqKt0XIMVw9wXc7vZsXaBDeCK4xtAqvN8mvxUMV/at/gFGOrXNeG71+nq+kaRut3ZNO4/o59g1Nq
+ut1unVtMf2yydzCJZll1kPbnfYfccEobkSRY+9kMFkUxhvVtAZNyNiu3pm7YlsL056Q+ckofy8Xb
+2XRRnChQPX3kgpmlzgWxZM5XyJi4TeEzYWdxYhYPXMmUaZAQ9PGCs3qh4TlQKwgIH8PRarUtl2My
+NM9B95R04TlIcBMY9+nDiP8dQkDtp7jGkP4rmG9Wa7gqqp4WdpEI1mSB3fKpZWsRKdIYxBHKySMk
+WpRLKGfjajFbDwSiYva8RG1SRbFfsQUsNzMMF0VrW1zhaiscGBAyFYjqSHIMdrdZXt+OVgVy+rpY
+rUbLB3qzFvUWz26xHvv58qqHu2G5GI9usKpYiX9vRrNijtlDOZkUyzUWglJD4fhIhSO4Cdb0n9F0
+ZXQKZgUq9ZXz5TUBwM0vHprV4IS19IPalrq2pV/b0qttqWpburUtZW1LUduyzmqsLGv3yDvVo3tj
+a4a1GX1cSFw7iG1f31B2kH4cKQf7OfBop1xH4SKxb2ifJ7sXNPNyx+1PZh+e3Zmf77AGc3ODf7NG
+dmD4ewAeYnp/4Nd4ZzNvCDyTKcr88cHexmDTRo9en0zoCHfEt+a7suljz09P5g2lOWmzH68sqNAO
+091bzZ/FsI/0P4jxid8KZW5kc3RyZWFtCmVuZG9iago5IDAgb2JqPDwvUGFyZW50IDggMCBSL0Nv
+bnRlbnRzIDcgMCBSL1R5cGUvUGFnZS9SZXNvdXJjZXM8PC9YT2JqZWN0PDwvaW1nMSA1IDAgUi9p
+bWcwIDMgMCBSL1hmMSAxIDAgUj4+L1Byb2NTZXQgWy9QREYgL1RleHQgL0ltYWdlQiAvSW1hZ2VD
+IC9JbWFnZUldL0ZvbnQ8PC9GMSAyIDAgUi9GMiA0IDAgUi9GMyA2IDAgUj4+Pj4vTWVkaWFCb3hb
+MCAwIDU5NSA4NDJdPj4KZW5kb2JqCjYgMCBvYmo8PC9CYXNlRm9udC9Db3VyaWVyLUJvbGQvVHlw
+ZS9Gb250L0VuY29kaW5nL1dpbkFuc2lFbmNvZGluZy9TdWJ0eXBlL1R5cGUxPj4KZW5kb2JqCjIg
+MCBvYmo8PC9CYXNlRm9udC9IZWx2ZXRpY2EvVHlwZS9Gb250L0VuY29kaW5nL1dpbkFuc2lFbmNv
+ZGluZy9TdWJ0eXBlL1R5cGUxPj4KZW5kb2JqCjQgMCBvYmo8PC9CYXNlRm9udC9Db3VyaWVyL1R5
+cGUvRm9udC9FbmNvZGluZy9XaW5BbnNpRW5jb2RpbmcvU3VidHlwZS9UeXBlMT4+CmVuZG9iagox
+IDAgb2JqIDw8L1R5cGUvWE9iamVjdC9SZXNvdXJjZXM8PC9Qcm9jU2V0IFsvUERGIC9UZXh0IC9J
+bWFnZUIgL0ltYWdlQyAvSW1hZ2VJXS9Gb250PDwvRjEgMiAwIFI+Pj4+L1N1YnR5cGUvRm9ybS9C
+Qm94Wy0yMCAtMjAgMTAwIDEwMF0vTWF0cml4IFsxIDAgMCAxIDAgMF0vTGVuZ3RoIDM4L0Zvcm1U
+eXBlIDEvRmlsdGVyL0ZsYXRlRGVjb2RlPj5zdHJlYW0KeJxzCuHSdzNUsFAISeMyVDAAQggZksul
+YagZksXlGsIFAIKTBx0KZW5kc3RyZWFtCmVuZG9iago4IDAgb2JqPDwvVHlwZS9QYWdlcy9Db3Vu
+dCAxL0tpZHNbOSAwIFJdPj4KZW5kb2JqCjEwIDAgb2JqPDwvVHlwZS9DYXRhbG9nL1BhZ2VzIDgg
+MCBSPj4KZW5kb2JqCjExIDAgb2JqPDwvUHJvZHVjZXIoaVRleHQgMi4wLjggXChieSBsb3dhZ2ll
+LmNvbVwpKS9Nb2REYXRlKEQ6MjAxMzA4MjEyMTUzMTUtMDQnMDAnKS9DcmVhdGlvbkRhdGUoRDoy
+MDEzMDgyMTIxNTMxNS0wNCcwMCcpPj4KZW5kb2JqCnhyZWYKMCAxMgowMDAwMDAwMDAwIDY1NTM1
+IGYgCjAwMDAwMDQ1MDIgMDAwMDAgbiAKMDAwMDAwNDMzMCAwMDAwMCBuIAowMDAwMDAwMDE1IDAw
+MDAwIG4gCjAwMDAwMDQ0MTcgMDAwMDAgbiAKMDAwMDAwMTk2OSAwMDAwMCBuIAowMDAwMDA0MjQw
+IDAwMDAwIG4gCjAwMDAwMDI0MDEgMDAwMDAgbiAKMDAwMDAwNDc2MyAwMDAwMCBuIAowMDAwMDA0
+MDIyIDAwMDAwIG4gCjAwMDAwMDQ4MTMgMDAwMDAgbiAKMDAwMDAwNDg1OCAwMDAwMCBuIAp0cmFp
+bGVyCjw8L1Jvb3QgMTAgMCBSL0lEIFs8MWVjMzdjNWMyMzdlYTZkOWI3ZTAwNGU4YjM4MWNjZTE+
+PDgwZGMwZjYwZDA5NmEzODkxMjgyYzdlZjRjMGU0ODdhPl0vSW5mbyAxMSAwIFIvU2l6ZSAxMj4+
+CnN0YXJ0eHJlZgo0OTkwCiUlRU9GCg==
+--001a11345ee469653704fddeabd2--

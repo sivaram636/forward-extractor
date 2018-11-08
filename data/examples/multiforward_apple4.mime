@@ -1,0 +1,138 @@
+Authentication-Results: apiserver;
+Received: from mail-ob0-f175.google.com ([10.183.253.48])
+	by apiserver (Haraka/2.5.0) with ESMTP id C8762A9B-BB6C-40F1-B4ED-591EEC750D46.1
+	envelope-from <johnny.patterson@gmail.com>;
+	Sun, 13 Jul 2014 15:28:58 +0000
+Received: by mail-ob0-f175.google.com with SMTP id wp18so3183612obc.6
+        for <jp@billpass.ca>; Sun, 13 Jul 2014 08:29:10 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        bh=gretAyKDzK55MlklP8swEE49mybMjbNcOYgawRJxPgs=;
+        b=qCTmDyU+F7n9cVK47n1FnQqzVcF5adYi0VQSOpqGmx72Ta6fGDbkVzxBDlcLS0WcZ9
+         DAXgZ7PJ5rL/VC+SExPj4z/Tvml1bu244S3wDHvs9MyPO2guVdYLzsTB6zMkRVPvZ9Xv
+         c+fZ8zrLLqweSIMqS8q4dEfl4A0E0i7lfcLwW4WvYn16jXFSC7xftvv3Va2YsA5y3Qu3
+         17J40ulDMh0jRDF83du55X3HqLAcX4ne2ULoSMN9bxrhPiYeNDKs0PWes+rqgXXDxEBt
+         g7fn0zW5W4NifClD20oCkFSyp4RXD9HKWHEPV9EPAzlRJwcrvJpfGAkNlvxV4lAkUsEs
+         q2nQ==
+MIME-Version: 1.0
+X-Received: by 10.182.128.202 with SMTP id nq10mr2203801obb.77.1405265350187;
+ Sun, 13 Jul 2014 08:29:10 -0700 (PDT)
+Received: by 10.76.83.231 with HTTP; Sun, 13 Jul 2014 08:29:08 -0700 (PDT)
+In-Reply-To: <AE29777C-5A32-4896-92C0-9EC322D8E08C@me.com>
+References: <1493954540.767391365718679500.JavaMail.nexusp@patna.corp.apple.com>
+	<AE29777C-5A32-4896-92C0-9EC322D8E08C@me.com>
+Date: Sun, 13 Jul 2014 11:29:08 -0400
+Message-ID: <CAO8dceKFgr0jX2dLfTgceUwLJtiYFLPkEiTDiemNHBznoznD=Q@mail.gmail.com>
+Subject: Fwd: Your receipt from Apple Store, Eaton Centre / Votre facture de
+ Apple Store, Eaton Centre
+From: Johnny Patterson <johnny.patterson@gmail.com>
+To: jp@billpass.ca
+Content-Type: multipart/mixed; boundary=089e015371cc03928104fe14d6a3
+
+--089e015371cc03928104fe14d6a3
+Content-Type: multipart/alternative; boundary=089e015371cc03927d04fe14d6a1
+
+--089e015371cc03927d04fe14d6a1
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+---------- Forwarded message ----------
+From: Janice Yeung <janice.yeung@me.com>
+Date: Sun, Jul 13, 2014 at 10:38 AM
+Subject: Fwd: Your receipt from Apple Store, Eaton Centre / Votre facture
+de Apple Store, Eaton Centre
+To: johnny patterson <johnny.patterson@gmail.com>
+
+
+
+
+Begin forwarded message:
+
+*From: *eatoncentre@apple.com
+*Subject: **Your receipt from Apple Store, Eaton Centre / Votre facture de
+Apple Store, Eaton Centre*
+*Date: *11 April, 2013 6:17:59 PM EDT
+*To: *janice.yeung@me.com
+*Cc: *eatoncentre@apple.com
+*Reply-To: *Do_not_reply@apple.com
+
+Thank you for shopping at the Apple Store. / Merci de magasiner au Apple
+Store.
+
+To tell us about your experience, click here
+<http://survey.medallia.com/?appleretail&rn=3DR1216490885&date=3D20130411&s=
+m=3D3&rt=3DF>.
+/ Afin de partager votre exp=C3=A9rience avec nous, cliquez ici
+<http://survey.medallia.com/?appleretail&rn=3DR1216490885&date=3D20130411&s=
+m=3D3&rt=3DF&lang=3Dfr_CA>
+..
+
+--089e015371cc03927d04fe14d6a1
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><br><br><div class=3D"gmail_quote">---------- Forwarded me=
+ssage ----------<br>From: <b class=3D"gmail_sendername">Janice Yeung</b> <s=
+pan dir=3D"ltr">&lt;<a href=3D"mailto:janice.yeung@me.com">janice.yeung@me.=
+com</a>&gt;</span><br>
+Date: Sun, Jul 13, 2014 at 10:38 AM<br>Subject: Fwd: Your receipt from Appl=
+e Store, Eaton Centre / Votre facture de Apple Store, Eaton Centre<br>To: j=
+ohnny patterson &lt;<a href=3D"mailto:johnny.patterson@gmail.com">johnny.pa=
+tterson@gmail.com</a>&gt;<br>
+<br><br><div style=3D"word-wrap:break-word"><br><div><br><div>Begin forward=
+ed message:</div><br><blockquote type=3D"cite"><div style=3D"margin-top:0px=
+;margin-right:0px;margin-bottom:0px;margin-left:0px"><span style=3D"font-fa=
+mily:&#39;Helvetica&#39;;font-size:medium;color:rgba(0,0,0,1.0)"><b>From: <=
+/b></span><span style=3D"font-family:&#39;Helvetica&#39;;font-size:medium">=
+<a href=3D"mailto:eatoncentre@apple.com" target=3D"_blank">eatoncentre@appl=
+e.com</a><br>
+</span></div><div style=3D"margin-top:0px;margin-right:0px;margin-bottom:0p=
+x;margin-left:0px"><span style=3D"font-family:&#39;Helvetica&#39;;font-size=
+:medium;color:rgba(0,0,0,1.0)"><b>Subject: </b></span><span style=3D"font-f=
+amily:&#39;Helvetica&#39;;font-size:medium"><b>Your receipt from Apple Stor=
+e, Eaton Centre / Votre facture de Apple Store, Eaton Centre</b><br>
+</span></div><div style=3D"margin-top:0px;margin-right:0px;margin-bottom:0p=
+x;margin-left:0px"><span style=3D"font-family:&#39;Helvetica&#39;;font-size=
+:medium;color:rgba(0,0,0,1.0)"><b>Date: </b></span><span style=3D"font-fami=
+ly:&#39;Helvetica&#39;;font-size:medium">11 April, 2013 6:17:59 PM EDT<br>
+</span></div><div style=3D"margin-top:0px;margin-right:0px;margin-bottom:0p=
+x;margin-left:0px"><span style=3D"font-family:&#39;Helvetica&#39;;font-size=
+:medium;color:rgba(0,0,0,1.0)"><b>To: </b></span><span style=3D"font-family=
+:&#39;Helvetica&#39;;font-size:medium"><a href=3D"mailto:janice.yeung@me.co=
+m" target=3D"_blank">janice.yeung@me.com</a><br>
+</span></div><div style=3D"margin-top:0px;margin-right:0px;margin-bottom:0p=
+x;margin-left:0px"><span style=3D"font-family:&#39;Helvetica&#39;;font-size=
+:medium;color:rgba(0,0,0,1.0)"><b>Cc: </b></span><span style=3D"font-family=
+:&#39;Helvetica&#39;;font-size:medium"><a href=3D"mailto:eatoncentre@apple.=
+com" target=3D"_blank">eatoncentre@apple.com</a><br>
+</span></div><div style=3D"margin-top:0px;margin-right:0px;margin-bottom:0p=
+x;margin-left:0px"><span style=3D"font-family:&#39;Helvetica&#39;;font-size=
+:medium;color:rgba(0,0,0,1.0)"><b>Reply-To: </b></span><span style=3D"font-=
+family:&#39;Helvetica&#39;;font-size:medium"><a href=3D"mailto:Do_not_reply=
+@apple.com" target=3D"_blank">Do_not_reply@apple.com</a><br>
+</span></div><br>Thank you for shopping at the Apple Store. / Merci de maga=
+siner au Apple Store.<br><br>
+
+To tell us about your experience, <a href=3D"http://survey.medallia.com/?ap=
+pleretail&amp;rn=3DR1216490885&amp;date=3D20130411&amp;sm=3D3&amp;rt=3DF" t=
+arget=3D"_blank">click here</a>. / Afin de partager votre exp=C3=A9rience a=
+vec nous, <a href=3D"http://survey.medallia.com/?appleretail&amp;rn=3DR1216=
+490885&amp;date=3D20130411&amp;sm=3D3&amp;rt=3DF&amp;lang=3Dfr_CA" target=
+=3D"_blank">cliquez ici</a>.<br>
+<br>
+
+</blockquote></div></div><br><div style=3D"word-wrap:break-word"><div><bloc=
+kquote type=3D"cite"></blockquote></div><br></div>
+<br></div><br></div>
+
+--089e015371cc03927d04fe14d6a1--
+--089e015371cc03928104fe14d6a3
+Content-Type: application/pdf; name="emailreceipt_20130411R1216490885.pdf"
+Content-Disposition: attachment;
+	filename="emailreceipt_20130411R1216490885.pdf"
+Content-Transfer-Encoding: base64
+X-Attachment-Id: ecc10b8be2cc0822_0.1.1
+
+--089e015371cc03928104fe14d6a3--

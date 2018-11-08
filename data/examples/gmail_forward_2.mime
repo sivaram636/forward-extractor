@@ -1,0 +1,86 @@
+Received: from mail-la0-f47.google.com (mail-la0-f47.google.com [209.85.215.47])
+	by apiserver (Haraka/2.4.0) with ESMTP id A4FDF74D-EFE7-4BF6-8C21-83E761FF124F.1
+	envelope-from <brad@getsensibill.com>;
+	Mon, 21 Apr 2014 17:50:53 +0000
+Received: by mail-la0-f47.google.com with SMTP id pn19so3376251lab.6
+        for <receipt@sensibill.io>; Mon, 21 Apr 2014 10:51:04 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:from:to:content-type;
+        bh=XtjpgF31bAo9oCAZbH0W3CJ3IKlg4zMm+w3K0vhU78k=;
+        b=lntVOknTWJ4hZhpn1sKu/4QMOPGtK2MWZZzq0XwqgC5RebEfVfb8TXEmiEQWMACCFh
+         Y9ZbgpXhEgbfK2zMNSomuFwU45hGRotDCahaylqw3FAwdANXZRAG/j6qZ/tXp4Tnyvip
+         3pGUjA7BpQtHi+gqPwfnpPHGp0u2nABXsflVj3k7Nw1OkucALQNL6NCeLRn5emRyW5nc
+         3jRTMChRuvxIqqk8VjN+kYKupMK1/zJeDj0lumjjlorAtVY4XjquMTFB9Bhfy/LnnYnY
+         zUIfXlruX+5/L97JMI8PnE2t4ct0Dlm7vX7YvUHxJ90gUx9EYyQi8oupdeol6kwUrNb6
+         I4vw==
+X-Gm-Message-State: ALoCoQlAszt+0e/NVrPapoo0wkImwT+vrFKWhbHkg68XTlqz/Xlr5aUk8qWmQLoc63wfqViNEZrS
+MIME-Version: 1.0
+X-Received: by 10.152.29.170 with SMTP id l10mr2476878lah.40.1398102664239;
+ Mon, 21 Apr 2014 10:51:04 -0700 (PDT)
+Received: by 10.112.76.72 with HTTP; Mon, 21 Apr 2014 10:51:04 -0700 (PDT)
+In-Reply-To: <CAEhDVdx6ETzvcvRpF9MwvUM4h2viRdup2=i8R-=6bFv8EQjP8A@mail.gmail.com>
+References: <n46mot.vw00f@support.comodo.com>
+	<CAEhDVdx6ETzvcvRpF9MwvUM4h2viRdup2=i8R-=6bFv8EQjP8A@mail.gmail.com>
+Date: Mon, 21 Apr 2014 13:51:04 -0400
+Message-ID: <CAEhDVdybsZBjtKD4JfHX+Go2bkx65mMACNcRJeF=xc+vqh+Pvw@mail.gmail.com>
+Subject: Fwd: [#MBH-582794]: 00000000evup
+From: Bradley Arsenault <brad@getsensibill.com>
+To: receipt@sensibill.io
+Content-Type: multipart/alternative; boundary=089e0158c3e2a96fee04f7912406
+
+--089e0158c3e2a96fee04f7912406
+Content-Type: text/plain; charset=ISO-8859-1
+
+---------- Forwarded message ----------
+From: Bradley Arsenault <brad@getsensibill.com>
+Date: Mon, Apr 21, 2014 at 12:47 PM
+Subject: Re: [#MBH-582794]: 00000000evup
+To: COMODO Validation Team <evdocs@comodo.com>
+
+
+Comodo,
+
+I have to say that I am impressed by your thoroughness on our company
+background check. 5 stars for actually doing a background check.
+
+Our accountant Tara is registered under the Chartered Professional
+Accountants of Ontario.
+
+Brad
+
+
+On Thu, Apr 17, 2014 at 11:50 AM, Validation Team - Andrea <
+evdocs@comodo.com> wrote:
+
+> Bradley,
+>
+> Thank you for the accountant letter. Please let us know the name of the
+> association where your accountant is registered so we may verify
+> credentials and proceed with validation.
+> Regards,
+> Comodo Validation Team
+>
+> Ticket Details
+> ===================
+> Ticket ID: MBH-582794
+> Department: EV Validation
+> Priority: Default
+>
+>
+>
+
+--089e0158c3e2a96fee04f7912406
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><br><br><div class=3D"gmail_quote">---------- Forwarded me=
+ssage ----------<br>From: <b class=3D"gmail_sendername">Bradley Arsenault</=
+b> <span dir=3D"ltr">&lt;<a href=3D"mailto:brad@getsensibill.com">brad@gets=
+ensibill.com</a>&gt;</span><br>
+Date: Mon, Apr 21, 2014 at 12:47 PM<br>Subject: Re: [#MBH-582794]: 00000000=
+evup<br>To: COMODO Validation Team &lt;<a href=3D"mailto:evdocs@comodo.com"=
+>evdocs@comodo.com</a>&gt;<br><br><br><div dir=3D"ltr"><p>TEST</p></div></div><br></div>
+
+--089e0158c3e2a96fee04f7912406--

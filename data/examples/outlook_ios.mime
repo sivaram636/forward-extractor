@@ -1,0 +1,1239 @@
+X-Mailgun-Spf: Pass
+X-Mailgun-Sscore: 0.0
+X-Mailgun-Sflag: No
+X-Mailgun-Incoming: Yes
+X-Envelope-From: <derek.li@hotmail.ca>
+Received: from BAY004-OMC4S14.hotmail.com (bay004-omc4s14.hotmail.com [65.54.190.216])
+ by mxa.mailgun.org with ESMTP id 57f90bd0.7f0bdda56030-in02;
+ Sat, 08 Oct 2016 15:08:00 -0000 (UTC)
+Received: from NAM02-BL2-obe.outbound.protection.outlook.com ([65.54.190.201]) by BAY004-OMC4S14.hotmail.com over TLS secured channel with Microsoft SMTPSVC(7.5.7601.23008);
+	 Sat, 8 Oct 2016 08:07:58 -0700
+Received: from SN1NAM02FT009.eop-nam02.prod.protection.outlook.com
+ (10.152.72.58) by SN1NAM02HT100.eop-nam02.prod.protection.outlook.com
+ (10.152.72.205) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.629.5; Sat, 8 Oct
+ 2016 15:07:57 +0000
+Received: from DM3PR13MB0670.namprd13.prod.outlook.com (10.152.72.60) by
+ SN1NAM02FT009.mail.protection.outlook.com (10.152.73.32) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.1.629.5 via Frontend Transport; Sat, 8 Oct 2016 15:07:57 +0000
+Received: from DM3PR13MB0670.namprd13.prod.outlook.com ([10.164.198.22]) by
+ DM3PR13MB0670.namprd13.prod.outlook.com ([10.164.198.22]) with mapi id
+ 15.01.0659.005; Sat, 8 Oct 2016 15:07:56 +0000
+From: Derek Li <derek.li@hotmail.ca>
+To: "derekli@scotiareceipts.com" <derekli@scotiareceipts.com>
+Subject: Fwd: Your Best Buy eReceipt
+Thread-Topic: Your Best Buy eReceipt
+Thread-Index: AQHR8AjcE6Bk1dqN8ESJ3OKePQ/c66CfC21u
+Date: Sat, 8 Oct 2016 15:07:56 +0000
+Message-ID: <DM3PR13MB06707DE9558BA44265C6D3C6FAD90@DM3PR13MB0670.namprd13.prod.outlook.com>
+References: <68748313.1528371470504901024.JavaMail.mqbroker_01@cad2xpap005>
+In-Reply-To: <68748313.1528371470504901024.JavaMail.mqbroker_01@cad2xpap005>
+Accept-Language: en-CA, en-US
+Content-Language: en-CA
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: spf=softfail (sender IP is 10.152.72.60)
+ smtp.mailfrom=hotmail.ca; scotiareceipts.com; dkim=none (message not signed)
+ header.d=none;scotiareceipts.com; dmarc=none action=none
+ header.from=hotmail.ca;
+received-spf: SoftFail (protection.outlook.com: domain of transitioning
+ hotmail.ca discourages use of 10.152.72.60 as permitted sender)
+x-ms-exchange-messagesentrepresentingtype: 1
+x-tmn: [kCCSJw81ovHFZSXdlfI0gUP/erHcttcQ]
+x-eopattributedmessage: 0
+x-microsoft-exchange-diagnostics: 1;SN1NAM02HT100;6:K11YCQH9GLsrnHkdZail6MWSRydTB1LtY9hAENh1S69WcDWxOiPkhA1MFG/BEuppJpex0rzpiZkR8wXF7TqO7YAUCPam8cxC8nTrncgoWnn2gKFRPWwaf825gGJ4/UtE53Mk4JA0g+tjK5nuB0WiVVTEpvXpyk0xrJvzKsSlWfCZcK3fAXvAHot6VH3ggWnUGxofxakPOKfOwxEhXwNqx1ULvVHH/KNksCDGeZW7KU/D9kBIa5wfOdRHrCjZZm5aeH94LnF05BaJap9RBIa/RuGBDPahFO6bBZIdKfTWavM=;5:8LXO9rZOdWbSx/zn1EKX2N3z1P7bMVtptR+RUQmCkCG4Fi2jPtszJmyfxx/GR9EVpxXt68k9iD6iUdetY8XAzvF+yxmNt0RUnfJUvXFUYdsgSxcfwXfxxl3JIhFRDjLR87lLZrO/3sxt77NAiaIzvA==;24:9hGCpStrnns13G1Rx0NwcK8xs/j3hth9fc+JjgeZ8WscYilBoECVvFRcE1VECPSq4paATsvjOjpqvEUsjwgWbzRY6sgQha+piH5esbIj5KE=;7:F/JcYGxB/B8FrBhXZ49bo1eWl0wcB2tsfPCpb/6CBRTQvNCD/Q6mlKER1+0v66KaTQBj3kw+B/ZwGizflYda4gFT8HpwtZTsdFWdNaXq9XHd/uDqfHBJXzVm+pboj6kGcAsS/5a/OPU8nepP/QI75lX1c2sdUZhwQfCNZPNHxTucH6LXNyal1i49U9VokVn3qHVAZ9lra2gsQ5aiHN9pW9udITgssVxq/dxTX2rFQmZQzLPdCjSplQtBth+el/qNHNQFMNlTHnkPrzFgQewJ5AnObZuhf7tMOCzOmOk7CUEjg0mdJpwmPU53KWrhLQINgcRtu8yGKTozD8iEWRPyQA==
+x-forefront-antispam-report: EFV:NLI;SFV:NSPM;SFS:(10019020)(98900003);DIR:OUT;SFP:1102;SCL:1;SRVR:SN1NAM02HT100;H:DM3PR13MB0670.namprd13.prod.outlook.com;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: d43885d8-9f05-4417-6f8e-08d3ef8ce2b7
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(1601124038)(1603103081)(1601125047)(1603101256);SRVR:SN1NAM02HT100;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(432015012)(82015046);SRVR:SN1NAM02HT100;BCL:0;PCL:0;RULEID:;SRVR:SN1NAM02HT100;
+x-forefront-prvs: 008960E8EC
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_DM3PR13MB06707DE9558BA44265C6D3C6FAD90DM3PR13MB0670namp_"
+MIME-Version: 1.0
+X-OriginatorOrg: outlook.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 08 Oct 2016 15:07:56.5472
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SN1NAM02HT100
+Return-Path: derek.li@hotmail.ca
+X-OriginalArrivalTime: 08 Oct 2016 15:07:58.0864 (UTC) FILETIME=[C182F100:01D22175]
+
+--_000_DM3PR13MB06707DE9558BA44265C6D3C6FAD90DM3PR13MB0670namp_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+
+
+Get Outlook for iOS<https://aka.ms/o0ukef>
+
+
+
+---------- Forwarded message ----------
+From: "Best Buy Canada" <non-respondable-email@bestbuy.ca<mailto:non-respon=
+dable-email@bestbuy.ca>>
+Date: Sat, Aug 6, 2016 at 1:35 PM -0400
+Subject: Your Best Buy eReceipt
+To: "derek.li@hotmail.ca" <derek.li@hotmail.ca<mailto:derek.li@hotmail.ca>>
+
+
+
+        YOUR BEST BUY e-RECEIPT IS HERE
+
+
+[http://www.bestbuy.ca/Projects/Ereceipt/Assets/header-logo.gif] <http://ww=
+w.bestbuy.ca/en-CA/home.aspx?CMP=3DEMC-eReceipt-ALL-20130626-BBYheaderlogo-=
+en>         [Reward Zone]  <http://www.bestbuy.ca/en-CA/reward-zone.aspx?CM=
+P=3DEMC-eReceipt-ALL-20130626-BBYheaderRZ-en>      [Weekly flyer]  <http://=
+www.bestbuy.ca/en-CA/secure/weekly-ad.aspx?CMP=3DEMC-eReceipt-ALL-20130626-=
+BBYheaderflyer-en>     [Find stores]  <https://www-ssl.bestbuy.ca/en-CA/sto=
+res/store-locator.aspx?CMP=3DEMC-eReceipt-ALL-20130626-BBYheaderfindstore-e=
+n>
+
+
+
+Thank you for shopping at Best Buy. Upon your request, we are pleased to pr=
+ovide you with an electronic copy of your receipt. Please save it to facili=
+tate returns, exchanges and service of your protection plan(s) in the futur=
+e.
+
+Yours truly,
+
+BEST BUY
+bestbuy.ca<http://www.bestbuy.ca/en-CA/home.aspx?CMP=3DEMC-eReceipt-ALL-201=
+30626-BBYcontenthome-en>
+
+
+
+
+
+
+               BEST BUY #977
+   Thousands of Possibilities, Get Yours
+
+      65 Dundas Street West, Toronto
+        Store Phone #:416-642-8321
+    Geek Squad Precinct #:416-642-8325
+   Geek Squad Toll Free: 1-800-GEEKSQUAD
+
+             Keep your receipt
+
+
+Val #: 1073-2376-8309-1947
+
+0977 053 2993 08/06/16     13:33    HW2X
+
+                SALES
+
+10407088  SP480GBSS3S             149.99
+  SP S55 SSD 480GB
+                             ----------
+                     SUBTOTAL     149.99
+                       HST ON      19.50
+                             =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+                        TOTAL     169.49
+
+Transaction Record SALE
+xxxxxxxxxxx6015  C AMEX           169.49
+Approved 419646
+TERM: 0977 053 E
+SEQ NO: 97753993
+ACI/ISO 000/000
+8/06/2016 13:32:19
+AID: A000000025010402
+APN: SCOTIABANK AMEX
+TVR 0000008000
+TSI 0032
+NO SIGNATURE REQUIRED
+
+
+Unopened Digital Memory and External
+Hard Drives may be returned within 30
+days of purchase.  Visit bestbuy.ca
+or speak to an employee for details.
+GST Reg.# R135664738
+
+
+
+   Shop BestBuy.ca & get FREE Shipping
+   on orders over $25 or FREE Pick Up
+        in-store within 20 mins!
+
+  YOUR CUSTOMER SERVICE 4-PART-KEY IS:
+          0977 053 2993 080616
+
+
+   WIN A $1000 BEST BUY GIFT CARD!
+ TAKE OUR SHORT 5 MINUTE SURVEY IN THE
+  NEXT 30 DAYS AND BE ENTERED TO WIN.
+ To enter and for full contest rules,
+  go to www.bestbuycanadacares.ca<http://www.bestbuycanadacares.ca> and
+       use the following codes:
+
+         Group A:   096532
+         Group B:   7993
+         Group C:   0781612XHW00
+
+
+
+
+Total Store Stock Items: 1
+
+        <<<<< CUSTOMER COPY >>>>>
+
+
+
+
+
+
+
+
+[http://www.bestbuy.ca/Projects/Ereceipt/Assets/smile.png]<http://www.bestb=
+uycanadacares.ca>
+PLEASE TELL US HOW WE DID<http://www.bestbuycanadacares.ca>
+TAKE OUR SURVEY<http://www.bestbuycanadacares.ca>
+
+Details ><http://www.bestbuycanadacares.ca>
+
+
+
+[http://www.bestbuy.ca/Projects/Ereceipt/Assets/info.png]<http://www.bestbu=
+y.ca/en-CA/help.aspx?CMP=3DEMC-eReceipt-ALL-20131112-BBYsidebarhelp-en>
+GOT A QUESTION?<http://www.bestbuy.ca/en-CA/help.aspx?CMP=3DEMC-eReceipt-AL=
+L-20131112-BBYsidebarhelp-en>
+GET AN ANSWER<http://www.bestbuy.ca/en-CA/help.aspx?CMP=3DEMC-eReceipt-ALL-=
+20131112-BBYsidebarhelp-en>
+
+Details ><http://www.bestbuy.ca/en-CA/help.aspx?CMP=3DEMC-eReceipt-ALL-2013=
+1112-BBYsidebarhelp-en>
+
+
+
+[http://www.bestbuy.ca/Projects/Ereceipt/Assets/return.gif]<http://www.best=
+buy.ca/en-CA/help/returns-and-exchanges-policy/hc1075.aspx?CMP=3DEMC-eRecei=
+pt-ALL-20131112-BBYsidebarreturn-en>
+RETURNS AND
+EXCHANGES<http://www.bestbuy.ca/en-CA/help/returns-and-exchanges-policy/hc1=
+075.aspx?CMP=3DEMC-eReceipt-ALL-20131112-BBYsidebarreturn-en>
+
+Details ><http://www.bestbuy.ca/en-CA/help/returns-and-exchanges-policy/hc1=
+075.aspx?CMP=3DEMC-eReceipt-ALL-20131112-BBYsidebarreturn-en>
+
+
+
+[http://www.bestbuy.ca/Projects/Ereceipt/Assets/reserve.png]<http://www.bes=
+tbuy.ca/en-CA/reserveandpickup.aspx?CMP=3DEMC-eReceipt-ALL-20131112-BBYside=
+barreserve-en>
+RESERVE ONLINE
+<http://www.bestbuy.ca/en-CA/reserveandpickup.aspx?CMP=3DEMC-eReceipt-ALL-2=
+0131112-BBYsidebarreserve-en>
+AND PICK UP
+IN-STORE<http://www.bestbuy.ca/en-CA/reserveandpickup.aspx?CMP=3DEMC-eRecei=
+pt-ALL-20131112-BBYsidebarreserve-en>
+
+Details ><http://www.bestbuy.ca/en-CA/reserveandpickup.aspx?CMP=3DEMC-eRece=
+ipt-ALL-20131112-BBYsidebarreserve-en>
+
+
+
+[http://www.bestbuy.ca/Projects/Ereceipt/Assets/lpg.png]<http://www.bestbuy=
+.ca/en-CA/help/lowest-price-guarantee/hc1001.aspx?CMP=3DEMC-eReceipt-ALL-20=
+131112-BBYsidebarprice-en>
+WE'LL BEAT
+ANY PRICE<http://www.bestbuy.ca/en-CA/help/lowest-price-guarantee/hc1001.as=
+px?CMP=3DEMC-eReceipt-ALL-20131112-BBYsidebarprice-en>
+ONLINE OR ANYWHERE ELSE<http://www.bestbuy.ca/en-CA/help/lowest-price-guara=
+ntee/hc1001.aspx?CMP=3DEMC-eReceipt-ALL-20131112-BBYsidebarprice-en>
+
+Details ><http://www.bestbuy.ca/en-CA/help/what-is-your-lowest-price-guaran=
+tee/hc1001.aspx?CMP=3DEMC-eReceipt-ALL-20131112-BBYsidebarprice-en>
+
+
+
+
+
+
+
+        [Careers] <http://www.bestbuy.ca/en-CA/careers.aspx>    [Careers] <=
+http://www.bestbuy.ca/en-CA/help.aspx>       [Careers] <https://www-ssl.bes=
+tbuy.ca/en-CA/secure/contact-us.aspx>
+
+
+
+We accept returns or exchanges 30 days from the original date of purchase o=
+n most items we sell*. All returns, exchanges and price adjustments must be=
+ made in the country of original purchase.
+
+All returns require:
+
+1.      The original receipt (invoice) from your purchase.
+2.      The original method of payment. Payment card purchases will be refu=
+nded to the original payment card. Store credit will be given for returns w=
+ith gift receipts.
+3.      Original packaging and all items originally included by the manufac=
+turer or Best Buy (including all manuals, accessories, gifts with purchase,=
+ bonus and included items).
+4.      Your name, address, phone number and signature. Valid government-is=
+sued photo ID may be requested to confirm this information.
+
+
+*Some conditions and exclusions apply. Certain items have a 14-day or 15-da=
+y return policy. Some items may not be returned if opened or assembled, or =
+may not be eligible for return or exchange (such as food). A list of these =
+items and full details on our return and exchange policy can be found on Be=
+stBuy.ca.
+
+The information in this e-mail message including any attachments is intende=
+d only for the named recipients above and may contain confidential or privi=
+leged information. If you have received this message in error, or are not t=
+he intended email recipient(s), please immediately notify the sender by ema=
+iling customerservice@bestbuycanada.ca<mailto:customerservice@bestbuycanada=
+.ca> and delete all copies of it from your computer.
+
+This email was sent from an outgoing-only address that cannot accept incomi=
+ng emails. If you haven't found the information you are looking for and sti=
+ll have questions please visit our information centre<http://www.bestbuy.ca=
+/en-CA/help.aspx> to access general information, frequently asked questions=
+, contact us information, and more.
+
+At Best Buy we know how important it is to protect your personal informatio=
+n. A copy of our privacy notice can be found at www.bestbuy.ca<http://www.b=
+estbuy.ca/>.
+
+
+
+
+--_000_DM3PR13MB06707DE9558BA44265C6D3C6FAD90DM3PR13MB0670namp_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta content=3D"text/html; charset=3Dutf-8">
+</head>
+<body>
+<div><br>
+<br>
+<div class=3D"acompli_signature">Get <a href=3D"https://aka.ms/o0ukef">Outl=
+ook for iOS</a></div>
+<br>
+</div>
+<br>
+<br>
+<div class=3D"gmail_quote">---------- Forwarded message ----------<br>
+From: &quot;<b class=3D"gmail_sendername">Best Buy Canada</b>&quot; <span d=
+ir=3D"ltr">&lt;<a href=3D"mailto:non-respondable-email@bestbuy.ca">non-resp=
+ondable-email@bestbuy.ca</a>&gt;</span><br>
+Date: Sat, Aug 6, 2016 at 1:35 PM -0400<br>
+Subject: Your Best Buy eReceipt<br>
+To: &quot;derek.li@hotmail.ca&quot; <span dir=3D"ltr">&lt;<a href=3D"mailto=
+:derek.li@hotmail.ca">derek.li@hotmail.ca</a>&gt;</span><br>
+<br>
+<br>
+</div>
+<div>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"560">
+<tbody>
+<tr>
+<td>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"560">
+<tbody>
+<tr>
+<td width=3D"10" height=3D"10"></td>
+<td height=3D"8"></td>
+</tr>
+<tr>
+<td width=3D"10"></td>
+<td><font face=3D"Arial" color=3D"#000000" size=3D"3"><strong>YOUR BEST BUY=
+ e-RECEIPT IS HERE</strong></font>
+</td>
+</tr>
+<tr>
+<td width=3D"10" height=3D"10"></td>
+<td height=3D"8"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"560">
+<tbody>
+<tr>
+<td width=3D"316"><a href=3D"http://www.bestbuy.ca/en-CA/home.aspx?CMP=3DEM=
+C-eReceipt-ALL-20130626-BBYheaderlogo-en" target=3D"_blank"><img src=3D"htt=
+p://www.bestbuy.ca/Projects/Ereceipt/Assets/header-logo.gif" border=3D"0" w=
+idth=3D"316" height=3D"67" style=3D"display:block">
+</a></td>
+<td width=3D"90"><a href=3D"http://www.bestbuy.ca/en-CA/reward-zone.aspx?CM=
+P=3DEMC-eReceipt-ALL-20130626-BBYheaderRZ-en" target=3D"_blank"><img src=3D=
+"http://www.bestbuy.ca/Projects/Ereceipt/Assets/header-rz.gif" border=3D"0"=
+ width=3D"90" height=3D"67" alt=3D"Reward Zone" style=3D"display:block">
+</a></td>
+<td width=3D"73"><a href=3D"http://www.bestbuy.ca/en-CA/secure/weekly-ad.as=
+px?CMP=3DEMC-eReceipt-ALL-20130626-BBYheaderflyer-en" target=3D"_blank"><im=
+g src=3D"http://www.bestbuy.ca/Projects/Ereceipt/Assets/header-weekly-ad.gi=
+f" border=3D"0" width=3D"73" height=3D"67" alt=3D"Weekly flyer" style=3D"di=
+splay:block">
+</a></td>
+<td width=3D"81"><a href=3D"https://www-ssl.bestbuy.ca/en-CA/stores/store-l=
+ocator.aspx?CMP=3DEMC-eReceipt-ALL-20130626-BBYheaderfindstore-en" target=
+=3D"_blank"><img src=3D"http://www.bestbuy.ca/Projects/Ereceipt/Assets/head=
+er-store-locator.gif" border=3D"0" width=3D"81" height=3D"67" alt=3D"Find s=
+tores" style=3D"display:block">
+</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">
+<tbody>
+<tr>
+<td width=3D"10" height=3D"24"></td>
+<td height=3D"24"></td>
+<td width=3D"10" height=3D"24"></td>
+</tr>
+<tr>
+<td style=3D"height:24px; width:10px">&nbsp;</td>
+<td>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">
+<tbody>
+<tr>
+<td><font face=3D"Arial" color=3D"#000000" size=3D"3">Thank you for shoppin=
+g at Best Buy. Upon your request, we are pleased to provide you with an ele=
+ctronic copy of your receipt. Please save it to facilitate returns, exchang=
+es and service of your protection plan(s)
+ in the future.</font></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td><font face=3D"Arial" color=3D"#000000" size=3D"3">Yours truly,</font></=
+td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">
+<tbody>
+<tr>
+<td>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">
+<tbody>
+<tr>
+<td><font face=3D"Arial" color=3D"#000000" size=3D"4">BEST BUY</font></td>
+</tr>
+<tr>
+<td><a href=3D"http://www.bestbuy.ca/en-CA/home.aspx?CMP=3DEMC-eReceipt-ALL=
+-20130626-BBYcontenthome-en" target=3D"_blank" style=3D"text-decoration:non=
+e"><font face=3D"Arial" color=3D"#04188f" size=3D"2">bestbuy.ca</font></a>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style=3D"width:93px"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style=3D"height:24px; width:10px">&nbsp;</td>
+</tr>
+<tr>
+<td style=3D"height:24px; width:10px">&nbsp;</td>
+<td style=3D"height:24px">&nbsp;</td>
+<td style=3D"height:24px; width:10px">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">
+<tbody>
+<tr>
+<td style=3D"width:10px"></td>
+<td width=3D"280" valign=3D"top">
+<table border=3D"1" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+<tbody>
+<tr>
+<td border=3D"0"><font face=3D"Courier New" size=3D"1">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">
+<tbody>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000" size=3D"1"><b>&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;BEST&nbsp;BUY&nbsp;#977</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000" size=3D"1">&nbsp;&nbsp;&nb=
+sp;Thousands&nbsp;of&nbsp;Possibilities,&nbsp;Get&nbsp;Yours</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000">&nbsp;</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000" size=3D"1">&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;65&nbsp;Dundas&nbsp;Street&nbsp;West,&nbsp;Toronto&nbs=
+p;&nbsp;&nbsp;&nbsp;</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000" size=3D"1">&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Store&nbsp;Phone&nbsp;#:416-642-8321&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000" size=3D"1">&nbsp;&nbsp;&nb=
+sp;&nbsp;Geek&nbsp;Squad&nbsp;Precinct&nbsp;#:416-642-8325&nbsp;&nbsp;</fon=
+t></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000" size=3D"1">&nbsp;&nbsp;&nb=
+sp;Geek&nbsp;Squad&nbsp;Toll&nbsp;Free:&nbsp;1-800-GEEKSQUAD</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000">&nbsp;</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000" size=3D"1"><b>&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Keep&nbsp=
+;your&nbsp;receipt</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000">&nbsp;</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000">&nbsp;</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000" size=3D"1">Val&nbsp;#:&nbs=
+p;1073-2376-8309-1947&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000">&nbsp;</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000" size=3D"1">0977&nbsp;053&n=
+bsp;2993&nbsp;08/06/16&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;13:33&nbsp;&nbsp;&nbsp;=
+&nbsp;HW2X</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000">&nbsp;</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000" size=3D"1">&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;SALES&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000">&nbsp;</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000" size=3D"1">10407088&nbsp;&=
+nbsp;SP480GBSS3S&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;149.99</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000" size=3D"1">&nbsp;&nbsp;SP&=
+nbsp;S55&nbsp;SSD&nbsp;480GB&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000" size=3D"1">&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;----------&nbsp;</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000" size=3D"1">&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SUBTOTAL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1=
+49.99</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000" size=3D"1">&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HST&nbsp;ON&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;19.50</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000" size=3D"1">&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D&nbsp;</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000" size=3D"1">&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TOTAL&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;169.49</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000">&nbsp;</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000" size=3D"1">Transaction&nbs=
+p;Record&nbsp;SALE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000" size=3D"1">xxxxxxxxxxx6015=
+&nbsp;&nbsp;C&nbsp;AMEX&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;169.49</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000" size=3D"1">Approved&nbsp;4=
+19646&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000" size=3D"1">TERM:&nbsp;0977=
+&nbsp;053&nbsp;E&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000" size=3D"1">SEQ&nbsp;NO:&nb=
+sp;97753993&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000" size=3D"1">ACI/ISO&nbsp;00=
+0/000&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000" size=3D"1">8/06/2016&nbsp;=
+13:32:19&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></t=
+d>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000" size=3D"1">AID:&nbsp;A0000=
+00025010402&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000" size=3D"1">APN:&nbsp;SCOTI=
+ABANK&nbsp;AMEX&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000" size=3D"1">TVR&nbsp;000000=
+8000&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000" size=3D"1">TSI&nbsp;0032&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000" size=3D"1">NO&nbsp;SIGNATU=
+RE&nbsp;REQUIRED&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000">&nbsp;</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000">&nbsp;</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000" size=3D"1">Unopened&nbsp;D=
+igital&nbsp;Memory&nbsp;and&nbsp;External&nbsp;&nbsp;&nbsp;&nbsp;</font></t=
+d>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000" size=3D"1">Hard&nbsp;Drive=
+s&nbsp;may&nbsp;be&nbsp;returned&nbsp;within&nbsp;30&nbsp;&nbsp;&nbsp;</fon=
+t></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000" size=3D"1">days&nbsp;of&nb=
+sp;purchase.&nbsp;&nbsp;Visit&nbsp;bestbuy.ca&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000" size=3D"1">or&nbsp;speak&n=
+bsp;to&nbsp;an&nbsp;employee&nbsp;for&nbsp;details.&nbsp;&nbsp;&nbsp;&nbsp;=
+</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000" size=3D"1">GST&nbsp;Reg.#&=
+nbsp;R135664738&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000">&nbsp;</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000">&nbsp;</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000">&nbsp;</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000" size=3D"1">&nbsp;&nbsp;&nb=
+sp;Shop BestBuy.ca &amp; get FREE Shipping</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000" size=3D"1">&nbsp;&nbsp;&nb=
+sp;on orders over $25 or FREE Pick Up</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000" size=3D"1">&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in-store within 20 mins!</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000">&nbsp;</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000" size=3D"1">&nbsp;&nbsp;YOU=
+R CUSTOMER SERVICE 4-PART-KEY IS:</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000" size=3D"1">&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0977 053 2993 080616</font></t=
+d>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000">&nbsp;</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000">&nbsp;</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000" size=3D"1">&nbsp;&nbsp;&nb=
+sp;WIN A $1000 BEST BUY GIFT CARD!</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000" size=3D"1">&nbsp;TAKE OUR =
+SHORT 5 MINUTE SURVEY IN THE</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000" size=3D"1">&nbsp;&nbsp;NEX=
+T 30 DAYS AND BE ENTERED TO WIN.</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000" size=3D"1">&nbsp;To enter =
+and for full contest rules,</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000" size=3D"1">&nbsp;&nbsp;go =
+to <a href=3D"http://www.bestbuycanadacares.ca">
+www.bestbuycanadacares.ca</a> and</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000" size=3D"1">&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;use the following codes:</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000">&nbsp;</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000" size=3D"1">&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Group A: &nbsp;&nbsp;096532</font></=
+td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000" size=3D"1">&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Group B: &nbsp;&nbsp;7993</font></td=
+>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000" size=3D"1">&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Group C: &nbsp;&nbsp;0781612XHW00</f=
+ont></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000">&nbsp;</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000">&nbsp;</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000">&nbsp;</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000">&nbsp;</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000" size=3D"1"><b>Total Store =
+Stock Items: 1</b></font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000">&nbsp;</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000" size=3D"1">&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;&lt;&lt;&lt;&lt; CUSTOMER COPY &gt;&gt=
+;&gt;&gt;&gt;</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000">&nbsp;</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000">&nbsp;</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000">&nbsp;</font></td>
+</tr>
+<tr>
+<td><font face=3D"Courier New" color=3D"#000000">&nbsp;</font></td>
+</tr>
+</tbody>
+</table>
+</font></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style=3D"width:9px"></td>
+<td width=3D"280" valign=3D"top">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" bgco=
+lor=3D"#e6e7e8" style=3D"vertical-align:top">
+<tbody>
+<tr>
+<td width=3D"17"></td>
+<td>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"vertical-a=
+lign:top">
+<tbody>
+<tr>
+<td height=3D"15"></td>
+</tr>
+<tr>
+<td>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"vertical-a=
+lign:top">
+<tbody>
+<tr>
+<td valign=3D"top"><a href=3D"http://www.bestbuycanadacares.ca" target=3D"_=
+blank" style=3D"text-decoration:none"><img border=3D"0" src=3D"http://www.b=
+estbuy.ca/Projects/Ereceipt/Assets/smile.png" style=3D"display:block"></a><=
+/td>
+<td width=3D"12"></td>
+<td>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"vertical-a=
+lign:top">
+<tbody>
+<tr>
+<td><a href=3D"http://www.bestbuycanadacares.ca" target=3D"_blank" style=3D=
+"text-decoration:none"><font size=3D"2" face=3D"Arial" color=3D"#4d4d4f"><s=
+trong>PLEASE TELL US HOW WE DID</strong></font></a></td>
+</tr>
+<tr>
+<td><a href=3D"http://www.bestbuycanadacares.ca" target=3D"_blank" style=3D=
+"text-decoration:none"><font size=3D"2" face=3D"Arial" color=3D"#77787b">TA=
+KE OUR SURVEY</font></a></td>
+</tr>
+<tr>
+<td height=3D"10"></td>
+</tr>
+<tr>
+<td><a href=3D"http://www.bestbuycanadacares.ca" target=3D"_blank" style=3D=
+"text-decoration:none"><font size=3D"1" face=3D"Arial" color=3D"#0078d7">De=
+tails &gt;</font></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height=3D"32"></td>
+</tr>
+<tr>
+<td>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"vertical-a=
+lign:top">
+<tbody>
+<tr>
+<td valign=3D"top"><a href=3D"http://www.bestbuy.ca/en-CA/help.aspx?CMP=3DE=
+MC-eReceipt-ALL-20131112-BBYsidebarhelp-en" target=3D"_blank" style=3D"text=
+-decoration:none"><img border=3D"0" src=3D"http://www.bestbuy.ca/Projects/E=
+receipt/Assets/info.png" style=3D"display:block"></a></td>
+<td width=3D"12"></td>
+<td>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"vertical-a=
+lign:top">
+<tbody>
+<tr>
+<td><a href=3D"http://www.bestbuy.ca/en-CA/help.aspx?CMP=3DEMC-eReceipt-ALL=
+-20131112-BBYsidebarhelp-en" target=3D"_blank" style=3D"text-decoration:non=
+e"><font size=3D"2" face=3D"Arial" color=3D"#4d4d4f"><strong>GOT A QUESTION=
+?</strong></font></a></td>
+</tr>
+<tr>
+<td><a href=3D"http://www.bestbuy.ca/en-CA/help.aspx?CMP=3DEMC-eReceipt-ALL=
+-20131112-BBYsidebarhelp-en" target=3D"_blank" style=3D"text-decoration:non=
+e"><font size=3D"2" face=3D"Arial" color=3D"#77787b">GET AN ANSWER</font></=
+a></td>
+</tr>
+<tr>
+<td height=3D"10"></td>
+</tr>
+<tr>
+<td><a href=3D"http://www.bestbuy.ca/en-CA/help.aspx?CMP=3DEMC-eReceipt-ALL=
+-20131112-BBYsidebarhelp-en" target=3D"_blank" style=3D"text-decoration:non=
+e"><font size=3D"1" face=3D"Arial" color=3D"#0078d7">Details &gt;</font></a=
+></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height=3D"30"></td>
+</tr>
+<tr>
+<td>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"vertical-a=
+lign:top">
+<tbody>
+<tr>
+<td valign=3D"top"><a href=3D"http://www.bestbuy.ca/en-CA/help/returns-and-=
+exchanges-policy/hc1075.aspx?CMP=3DEMC-eReceipt-ALL-20131112-BBYsidebarretu=
+rn-en" target=3D"_blank" style=3D"text-decoration:none"><img border=3D"0" s=
+rc=3D"http://www.bestbuy.ca/Projects/Ereceipt/Assets/return.gif" style=3D"d=
+isplay:block"></a></td>
+<td width=3D"12"></td>
+<td>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"vertical-a=
+lign:top">
+<tbody>
+<tr>
+<td><a href=3D"http://www.bestbuy.ca/en-CA/help/returns-and-exchanges-polic=
+y/hc1075.aspx?CMP=3DEMC-eReceipt-ALL-20131112-BBYsidebarreturn-en" target=
+=3D"_blank" style=3D"text-decoration:none"><font size=3D"2" face=3D"Arial" =
+color=3D"#4d4d4f"><strong>RETURNS AND<br>
+EXCHANGES</strong></font></a></td>
+</tr>
+<tr>
+<td height=3D"10"></td>
+</tr>
+<tr>
+<td><a href=3D"http://www.bestbuy.ca/en-CA/help/returns-and-exchanges-polic=
+y/hc1075.aspx?CMP=3DEMC-eReceipt-ALL-20131112-BBYsidebarreturn-en" target=
+=3D"_blank" style=3D"text-decoration:none"><font size=3D"1" face=3D"Arial" =
+color=3D"#0078d7">Details &gt;</font></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height=3D"30"></td>
+</tr>
+<tr>
+<td>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"vertical-a=
+lign:top">
+<tbody>
+<tr>
+<td valign=3D"top"><a href=3D"http://www.bestbuy.ca/en-CA/reserveandpickup.=
+aspx?CMP=3DEMC-eReceipt-ALL-20131112-BBYsidebarreserve-en" target=3D"_blank=
+" style=3D"text-decoration:none"><img border=3D"0" src=3D"http://www.bestbu=
+y.ca/Projects/Ereceipt/Assets/reserve.png" style=3D"display:block"></a></td=
+>
+<td width=3D"12"></td>
+<td>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"vertical-a=
+lign:top">
+<tbody>
+<tr>
+<td><a href=3D"http://www.bestbuy.ca/en-CA/reserveandpickup.aspx?CMP=3DEMC-=
+eReceipt-ALL-20131112-BBYsidebarreserve-en" target=3D"_blank" style=3D"text=
+-decoration:none"><font size=3D"2" face=3D"Arial" color=3D"#4d4d4f"><strong=
+>RESERVE ONLINE<br>
+</strong></font></a></td>
+</tr>
+<tr>
+<td><a href=3D"http://www.bestbuy.ca/en-CA/reserveandpickup.aspx?CMP=3DEMC-=
+eReceipt-ALL-20131112-BBYsidebarreserve-en" target=3D"_blank" style=3D"text=
+-decoration:none"><font size=3D"2" face=3D"Arial" color=3D"#77787b">AND PIC=
+K UP<br>
+IN-STORE</font></a></td>
+</tr>
+<tr>
+<td height=3D"10"></td>
+</tr>
+<tr>
+<td><a href=3D"http://www.bestbuy.ca/en-CA/reserveandpickup.aspx?CMP=3DEMC-=
+eReceipt-ALL-20131112-BBYsidebarreserve-en" target=3D"_blank" style=3D"text=
+-decoration:none"><font size=3D"1" face=3D"Arial" color=3D"#0078d7">Details=
+ &gt;</font></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height=3D"30"></td>
+</tr>
+<tr>
+<td>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"vertical-a=
+lign:top">
+<tbody>
+<tr>
+<td valign=3D"top"><a href=3D"http://www.bestbuy.ca/en-CA/help/lowest-price=
+-guarantee/hc1001.aspx?CMP=3DEMC-eReceipt-ALL-20131112-BBYsidebarprice-en" =
+target=3D"_blank" style=3D"text-decoration:none"><img border=3D"0" src=3D"h=
+ttp://www.bestbuy.ca/Projects/Ereceipt/Assets/lpg.png" style=3D"display:blo=
+ck"></a></td>
+<td width=3D"12"></td>
+<td>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"vertical-a=
+lign:top">
+<tbody>
+<tr>
+<td><a href=3D"http://www.bestbuy.ca/en-CA/help/lowest-price-guarantee/hc10=
+01.aspx?CMP=3DEMC-eReceipt-ALL-20131112-BBYsidebarprice-en" target=3D"_blan=
+k" style=3D"text-decoration:none"><font size=3D"2" face=3D"Arial" color=3D"=
+#4d4d4f"><strong>WE'LL BEAT<br>
+ANY PRICE</strong></font></a></td>
+</tr>
+<tr>
+<td><a href=3D"http://www.bestbuy.ca/en-CA/help/lowest-price-guarantee/hc10=
+01.aspx?CMP=3DEMC-eReceipt-ALL-20131112-BBYsidebarprice-en" target=3D"_blan=
+k" style=3D"text-decoration:none"><font size=3D"2" face=3D"Arial" color=3D"=
+#77787b">ONLINE OR ANYWHERE ELSE</font></a></td>
+</tr>
+<tr>
+<td height=3D"10"></td>
+</tr>
+<tr>
+<td><a href=3D"http://www.bestbuy.ca/en-CA/help/what-is-your-lowest-price-g=
+uarantee/hc1001.aspx?CMP=3DEMC-eReceipt-ALL-20131112-BBYsidebarprice-en" ta=
+rget=3D"_blank" style=3D"text-decoration:none"><font size=3D"1" face=3D"Ari=
+al" color=3D"#0078d7">Details &gt;</font></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height=3D"30"></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td width=3D"18"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" bgcolor=3D"#003b63"=
+ height=3D"41">
+<tbody>
+<tr>
+<td style=3D"height:16px; width:159px">&nbsp;</td>
+<td><a href=3D"http://www.bestbuy.ca/en-CA/careers.aspx" target=3D"_blank">=
+<img src=3D"http://www.bestbuy.ca/Projects/Ereceipt/Assets/footer-careers.g=
+if" border=3D"0" alt=3D"Careers" width=3D"62" height=3D"41" style=3D"displa=
+y:block"></a></td>
+<td><a href=3D"http://www.bestbuy.ca/en-CA/help.aspx" target=3D"_blank"><im=
+g src=3D"http://www.bestbuy.ca/Projects/Ereceipt/Assets/footer-customer-ser=
+vice.gif" border=3D"0" alt=3D"Careers" width=3D"105" height=3D"41" style=3D=
+"display:block"></a></td>
+<td><a href=3D"https://www-ssl.bestbuy.ca/en-CA/secure/contact-us.aspx" tar=
+get=3D"_blank"><img src=3D"http://www.bestbuy.ca/Projects/Ereceipt/Assets/f=
+ooter-contact-us.gif" border=3D"0" alt=3D"Careers" width=3D"75" height=3D"4=
+1" style=3D"display:block"></a></td>
+<td style=3D"height:16px; width:159px">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+<tbody>
+<tr>
+<td width=3D"10"></td>
+<td width=3D"540">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+<tbody>
+<tr>
+<td><font face=3D"Arial" color=3D"#000000" size=3D"1">We accept returns or =
+exchanges 30 days from the original date of purchase on most items we sell*=
+. All returns, exchanges and price adjustments must be made in the country =
+of original purchase.</font></td>
+</tr>
+<tr>
+<td height=3D"10"></td>
+</tr>
+<tr>
+<td><font face=3D"Arial" color=3D"#000000" size=3D"1">All returns require:<=
+/font></td>
+</tr>
+<tr>
+<td height=3D"5"></td>
+</tr>
+<tr>
+<td>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+<tbody>
+<tr>
+<td width=3D"20" valign=3D"top"><font face=3D"Arial" color=3D"#000000" size=
+=3D"1">1.</font></td>
+<td width=3D"520" valign=3D"top"><font face=3D"Arial" color=3D"#000000" siz=
+e=3D"1">The original receipt (invoice) from your purchase.</font></td>
+</tr>
+<tr>
+<td width=3D"20" valign=3D"top"><font face=3D"Arial" color=3D"#000000" size=
+=3D"1">2.</font></td>
+<td width=3D"520" valign=3D"top"><font face=3D"Arial" color=3D"#000000" siz=
+e=3D"1">The original method of payment. Payment card purchases will be refu=
+nded to the original payment card. Store credit will be given for returns w=
+ith gift receipts.</font></td>
+</tr>
+<tr>
+<td width=3D"20" valign=3D"top"><font face=3D"Arial" color=3D"#000000" size=
+=3D"1">3.</font></td>
+<td width=3D"520" valign=3D"top"><font face=3D"Arial" color=3D"#000000" siz=
+e=3D"1">Original packaging and all items originally included by the manufac=
+turer or Best Buy (including all manuals, accessories, gifts with purchase,=
+ bonus and included items).</font></td>
+</tr>
+<tr>
+<td width=3D"20" valign=3D"top"><font face=3D"Arial" color=3D"#000000" size=
+=3D"1">4.</font></td>
+<td width=3D"520" valign=3D"top"><font face=3D"Arial" color=3D"#000000" siz=
+e=3D"1">Your name, address, phone number and signature. Valid government-is=
+sued photo ID may be requested to confirm this information.</font></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height=3D"10"></td>
+</tr>
+<tr>
+<td><font face=3D"Arial" color=3D"#000000" size=3D"1">*Some conditions and =
+exclusions apply. Certain items have a 14-day or 15-day return policy. Some=
+ items may not be returned if opened or assembled, or may not be eligible f=
+or return or exchange (such as food).
+ A list of these items and full details on our return and exchange policy c=
+an be found on BestBuy.ca.</font></td>
+</tr>
+<tr>
+<td height=3D"10"></td>
+</tr>
+<tr>
+<td><font face=3D"Arial" color=3D"#000000" size=3D"1">The information in th=
+is e-mail message including any attachments is intended only for the named =
+recipients above and may contain confidential or privileged information. If=
+ you have received this message in error,
+ or are not the intended email recipient(s), please immediately notify the =
+sender by emailing
+<a href=3D"mailto:customerservice@bestbuycanada.ca" style=3D"text-decoratio=
+n:none"><font color=3D"#04188f">customerservice@bestbuycanada.ca</font></a>=
+ and delete all copies of it from your computer.</font></td>
+</tr>
+<tr>
+<td height=3D"10"></td>
+</tr>
+<tr>
+<td><font face=3D"Arial" color=3D"#000000" size=3D"1">This email was sent f=
+rom an outgoing-only address that cannot accept incoming emails. If you hav=
+en't found the information you are looking for and still have questions ple=
+ase visit our
+<a href=3D"http://www.bestbuy.ca/en-CA/help.aspx" target=3D"_blank" style=
+=3D"text-decoration:none">
+<font color=3D"#04188f">information centre</font></a> to access general inf=
+ormation, frequently asked questions, contact us information, and more.</fo=
+nt></td>
+</tr>
+<tr>
+<td height=3D"10"></td>
+</tr>
+<tr>
+<td><font face=3D"Arial" color=3D"#000000" size=3D"1">At Best Buy we know h=
+ow important it is to protect your personal information. A copy of our priv=
+acy notice can be found at
+<a href=3D"http://www.bestbuy.ca/" target=3D"_blank" style=3D"text-decorati=
+on:none"><font color=3D"#04188f">www.bestbuy.ca</font></a>.</font></td>
+</tr>
+<tr>
+<td height=3D"20"></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td width=3D"10"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</body>
+</html>
+
+--_000_DM3PR13MB06707DE9558BA44265C6D3C6FAD90DM3PR13MB0670namp_--

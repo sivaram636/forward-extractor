@@ -1,0 +1,694 @@
+Delivered-To: johnny@getsensibill.com
+Received: by 10.64.138.232 with SMTP id qt8csp140719ieb;
+        Thu, 10 Jul 2014 15:56:35 -0700 (PDT)
+X-Received: by 10.224.172.10 with SMTP id j10mr85427474qaz.46.1405032994875;
+        Thu, 10 Jul 2014 15:56:34 -0700 (PDT)
+Return-Path: <jamie@getsensibill.com>
+Received: from mail-qa0-f44.google.com (mail-qa0-f44.google.com [209.85.216.44])
+        by mx.google.com with ESMTPS id do2si784233qcb.21.2014.07.10.15.56.34
+        for <johnny@getsensibill.com>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Thu, 10 Jul 2014 15:56:34 -0700 (PDT)
+Received-SPF: softfail (google.com: domain of transitioning jamie@getsensibill.com does not designate 209.85.216.44 as permitted sender) client-ip=209.85.216.44;
+Authentication-Results: mx.google.com;
+       spf=softfail (google.com: domain of transitioning jamie@getsensibill.com does not designate 209.85.216.44 as permitted sender) smtp.mail=jamie@getsensibill.com
+Received: by mail-qa0-f44.google.com with SMTP id f12so113087qad.17
+        for <johnny@getsensibill.com>; Thu, 10 Jul 2014 15:56:34 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:from:to:content-type;
+        bh=P2dxglCHhsf0YVougWIGQmvb60dhwaX3gJ4ahzlnWR8=;
+        b=hZDT2q4+otRJ0cD8F+O1nJsQysSWtRbnyZ/ZsTQROGzKB2xaCVzPIj3RtpwK1vbcB+
+         KR3UGGtcD39ZrJqVzg5bxoZHApCKHBef4i8HQcOfTref87/gZIfeMIoswEutb205LiBk
+         IcMJ2LgF3U5ypbXGb8z7FsveDrsRrw9x7vg9qDIcuciXHrbHzb9nbO4PXVOGcjM5DtWR
+         7GqX/p2c3ZffiU7cqRwiiR4XqbZMW/gPmJPfXm8RjjoKxzkOXuGYw+AXd3S63ln/JWi6
+         rQg7do4id2+u5KtMQkcYdzjVXSnFQMYsNhULyPyE5hEbYnvgBISCqxkvMeZGXG/l55i1
+         DcvA==
+X-Gm-Message-State: ALoCoQkjgPGzOCzhQ12BwHSFVt3cApqxjbDuu7WuDX6unK8ESm4nkL/Gde3PsSK1VWz2O4hT8wXp
+MIME-Version: 1.0
+X-Received: by 10.224.130.5 with SMTP id q5mr85090831qas.72.1405032994208;
+ Thu, 10 Jul 2014 15:56:34 -0700 (PDT)
+Received: by 10.140.50.161 with HTTP; Thu, 10 Jul 2014 15:56:34 -0700 (PDT)
+In-Reply-To: <CFEC8F8C-CA97-4156-8420-D4145BE26FF9@me.com>
+References: <85102D67-AEB2-4783-838C-3577CFA99681@me.com>
+	<CFEC8F8C-CA97-4156-8420-D4145BE26FF9@me.com>
+Date: Thu, 10 Jul 2014 18:56:34 -0400
+Message-ID: <CAKeckDisEcCq+kEo3cE7_hDjn2QKTKcofbjiwROccB-D+R+UsQ@mail.gmail.com>
+Subject: Fwd: Here's your e-Receipt from Bloomingdale's Soho
+From: Jamie Alexander <jamie@getsensibill.com>
+To: Johnny Patterson <johnny@getsensibill.com>
+Content-Type: multipart/alternative; boundary=001a11c2c45284876b04fddebc1e
+
+--001a11c2c45284876b04fddebc1e
+Content-Type: text/plain; charset=UTF-8
+
+Cheers,
+
+Jamie
+
+
+JAMIE ALEXANDER / CHIEF TECHNICAL OFFICER
+E. jamie@getsensibill.com / C. 416.201.2407
+ 10 Dundas St. E., 6th Floor / Toronto, ON, M5B 2G9
+
+
+---------- Forwarded message ----------
+From: JOANNA KUCZEK <jkuczek@me.com>
+Date: Wed, Jan 8, 2014 at 3:33 PM
+Subject: Fwd: Here's your e-Receipt from Bloomingdale's Soho
+To: Jamie Alexander <jamie@getsensibill.com>, Corey Gross <
+corey@getsensibill.com>
+
+
+Another one from Bloomingdales
+
+
+
+Visit us online
+<http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0vd3w/htext> for
+fashion's latestShop our mobile site.
+<http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0vd3w/mobile>
+<http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0vd3w/designers>
+<http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0vd3w/whatsnew>[image:
+Bloomingdale's]
+<http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0vd3w/logo> [image:
+FREE SHIPPING on orders of $150 & FREE RETURNS]
+<http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0vd3w/freeship>[image:
+WOMEN]
+<http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0vd3w/women>[image:
+SHOES]
+<http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0vd3w/shoes>[image:
+HANDBAGS]
+<http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0vd3w/handbags>[image:
+JEWELRY & ACCESSORIES]
+<http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0vd3w/jewelryacc>[image:
+BEAUTY]
+<http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0vd3w/beauty>[image:
+MEN] <http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0vd3w/men>[image:
+KIDS] <http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0vd3w/kids>[image:
+HOME] <http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0vd3w/home>[image:
+GIFTS]
+<http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0vd3w/gifts>[image:
+THE REGISTRY]
+<http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0vd3w/bridalreg>[image:
+SALE]
+<http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0vd3w/salevalues>
+
+
+*Bloomingdale's
+*Soho
+504 Broadway
+NEW YORK, NY 10012212-729-5900
+
+R4003053002305187225*   053-0023-0518
+*   72032454  0023  2:46 PM  1/03/2014
+*PURCHASE
+**CLARINS                         40.00
+*3380810553109  367/25
+CRL XXXXXXXXX8093
+
+    8.875% NY  RGLR Tax          3.55*                  Total         43.55
+
+**Visa                            43.55
+* BRUNO ZALUM
+ 034637 XXXX       XXXXXXXXXXXX1156 S
+*Sign up for Loyallist,
+**our new Rewards program!
+**Every shopper, every day.
+*
+*Thank you for shopping at
+Bloomingdale's
+*
+
+Bruno Zalum
+
+
+
+*CUSTOMER COPY
+*
+
+ *Returns and exchanges
+<http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0vd3w/returns> are
+easy.* If you have questions, click here
+<http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0vd3w/lrnmore> to
+learn more.
+
+Sincerely,
+*Bloomingdale's Customer Service*
+bloomingdales.com
+<http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0vd3w/bcomsig>
+
+<http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0vd3w/banner1>
+<http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0vd3w/banner2>
+<http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0vd3w/banner3>[image:
+STORES & EVENTS]
+<http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0vd3w/events>[image:
+SHOPPING SERVICES]
+<http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0vd3w/shopsvces>[image:
+CUSTOMER SERVICE]
+<http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0vd3w/custserv>[image:
+CREDIT SERVICES]
+<http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0vd3w/creditserv>[image:
+LOYALLIST]
+<http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0vd3w/loyallist>[image:
+CONNECT WITH US:][image: Facebook]
+<http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0vd3w/facebook>[image:
+Twitter]
+<http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0vd3w/twitter>[image:
+Pinterest]
+<http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0vd3w/pintrest>
+<http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0vd3w/phone>*FREE
+SHIPPING:*
+Free standard shipping on orders of $150 or more only at Bloomingdales.com
+<http://bloomingdales.com/> and Bloomingdales.com/Registry
+<http://bloomingdales.com/Registry>. Not valid when shipping to multiple
+addresses. No adjustments to prior purchases. Free shipping is valid online
+only. Offer excludes Gift Cards, Furniture, and Mattresses. Not valid in
+Bloomingdale's stores or Bloomingdale's The Outlet stores. Valid only when
+shipping to the U.S. Delivery charges may apply in store. See a sales
+associate for details.
+
+*FREE SHIPPING ON BEAUTY:*
+Free standard shipping on beauty orders of $50 or more at Bloomingdales.com
+<http://bloomingdales.com/>. Not valid when shipping to multiple addresses.
+No adjustments to prior purchases. Free shipping is valid online only. Not
+valid in Bloomingdale's stores or Bloomingdale's The Outlet stores. Valid
+only when shipping to the U.S. Delivery charges may apply in store. See a
+sales associate for details.
+
+*FREE RETURNS:*
+Free returns everyday on online orders. Offer excludes gift cards,
+furniture, mattresses, mirrors, lamps and wall art. Only valid when
+shipping within the U.S.  BLOOMINGDALES.COM
+<http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0vd3w/logo>
+| PRIVACY
+POLICY
+<http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0vd3w/privacy>
+Don't miss a thing! Add bloomingdales@e.bloomingdales.com to your address
+book.
+2014 Bloomingdale's. 1000 Third Aveuenue New York, NY 10022.
+
+--001a11c2c45284876b04fddebc1e
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><br clear=3D"all"><div><div dir=3D"ltr"><div style=3D"colo=
+r:rgb(82,82,82);font-size:11px"><div style=3D"font-family:Times"><div style=
+=3D"color:rgb(34,34,34);font-family:arial;font-size:small"><br></div><div s=
+tyle=3D"color:rgb(34,34,34);font-family:arial;font-size:small">
+<br></div><div style=3D"color:rgb(34,34,34);font-family:arial;font-size:sma=
+ll">Cheers,</div></div><div style=3D"font-family:arial;color:rgb(34,34,34);=
+font-size:small"><br></div><div style=3D"font-family:arial;color:rgb(34,34,=
+34);font-size:small">
+Jamie</div><div style=3D"font-family:Times"><span style=3D"font-weight:bold=
+;color:rgb(10,10,10)"><br></span></div><div style=3D"font-family:Times"><sp=
+an style=3D"font-weight:bold;color:rgb(10,10,10)"><br></span></div><div><fo=
+nt face=3D"tahoma, sans-serif"><span style=3D"color:rgb(10,10,10)">JAMIE AL=
+EXANDER</span>=C2=A0/=C2=A0CHIEF TECHNICAL OFFICER</font></div>
+<div style=3D"margin-top:5px"><font face=3D"tahoma, sans-serif"><span style=
+=3D"font-size:10.5px;color:rgb(40,190,193)">E.=C2=A0</span><a href=3D"mailt=
+o:jamie@getsensibill.com" target=3D"_blank">jamie@getsensibill.com</a> /=C2=
+=A0<span style=3D"font-size:10.5px;color:rgb(40,190,193)">C.=C2=A0</span>41=
+6.201.2407</font></div>
+<div style=3D"margin-top:15px"><font face=3D"tahoma, sans-serif"><img src=
+=3D"https://www.filepicker.io/api/file/uzPXhpSpeRsg8fZD07tg/convert?w=3D150=
+&amp;h=3D55&amp;fit=3Dclip" style=3D"width:100px;vertical-align:middle">=C2=
+=A010 Dundas St. E., 6th Floor / Toronto, ON, M5B 2G9</font></div>
+</div></div></div>
+<br><br><div class=3D"gmail_quote">---------- Forwarded message ----------<=
+br>From: <b class=3D"gmail_sendername">JOANNA KUCZEK</b> <span dir=3D"ltr">=
+&lt;<a href=3D"mailto:jkuczek@me.com">jkuczek@me.com</a>&gt;</span><br>Date=
+: Wed, Jan 8, 2014 at 3:33 PM<br>
+Subject: Fwd: Here&#39;s your e-Receipt from Bloomingdale&#39;s Soho<br>To:=
+ Jamie Alexander &lt;<a href=3D"mailto:jamie@getsensibill.com">jamie@getsen=
+sibill.com</a>&gt;, Corey Gross &lt;<a href=3D"mailto:corey@getsensibill.co=
+m">corey@getsensibill.com</a>&gt;<br>
+<br><br><div style=3D"word-wrap:break-word">Another one from Bloomingdales<=
+div><br></div><div><br><div><blockquote type=3D"cite"><div><div style=3D"wo=
+rd-wrap:break-word"><div><blockquote type=3D"cite"><br><div><div bgcolor=3D=
+"#FFFFFF" style=3D"margin:0px;padding:0px;font-family:Helvetica;font-size:1=
+2px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing=
+:normal;line-height:normal;text-align:start;text-indent:0px;text-transform:=
+none;white-space:normal;word-spacing:0px;width:100%!important">
+<table width=3D"95%" border=3D"0" cellspacing=3D"0" cellpadding=3D"8" style=
+=3D"margin:0px;padding:0px;width:95%!important;line-height:100%!important">=
+<tbody><tr><td align=3D"left" bgcolor=3D"#FFFFFF"><table align=3D"center" w=
+idth=3D"649" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody><tr><td width=3D"649" valign=3D"middle"><table width=3D"650" border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0"><tbody><tr><td width=3D"5"><img =
+alt=3D"" border=3D"0" src=3D"http://f.e.bloomingdales.com/i/32/392907741/07=
+1213_spacer.gif" width=3D"9" height=3D"21" style=3D"display:block"></td>
+<td width=3D"175" height=3D"21" align=3D"left" style=3D"font-size:10px;line=
+-height:13px;font-family:Arial,sans-serif;color:rgb(102,102,102)"><a href=
+=3D"http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0vd3w/htext" =
+target=3D"_blank">Visit us online</a><span>=C2=A0</span>for fashion&#39;s l=
+atest</td>
+<td width=3D"474" align=3D"right" valign=3D"middle" style=3D"font-size:10px=
+;line-height:13px;font-family:Arial,sans-serif;color:rgb(102,102,102)"><a h=
+ref=3D"http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0vd3w/mobi=
+le" style=3D"color:rgb(102,102,102);font-size:10px;line-height:13px;font-fa=
+mily:Arial,sans-serif;text-decoration:underline" target=3D"_blank">Shop our=
+ mobile site.</a></td>
+<td width=3D"5"><img alt=3D"" border=3D"0" src=3D"http://f.e.bloomingdales.=
+com/i/32/392907741/071213_spacer.gif" width=3D"12" height=3D"21" style=3D"d=
+isplay:block"></td></tr></tbody></table></td></tr><tr><td width=3D"649"><im=
+g alt=3D"" border=3D"0" src=3D"http://f.e.bloomingdales.com/i/32/392907741/=
+071213_spacer.gif" width=3D"10" height=3D"12" style=3D"display:block"></td>
+</tr><tr><td><table width=3D"650" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0"><tbody><tr><td width=3D"650"><table width=3D"650" border=3D"0" cell=
+spacing=3D"0" cellpadding=3D"0" bgcolor=3D"#000000"><tbody><tr><td width=3D=
+"493">=C2=A0</td><td width=3D"79" align=3D"right">
+<a href=3D"http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0vd3w/=
+designers" style=3D"color:rgb(0,109,180)" target=3D"_blank"><img alt=3D"" b=
+order=3D"0" src=3D"http://f.e.bloomingdales.com/i/32/392907741/061713_desig=
+ners.jpg" width=3D"79" height=3D"20" style=3D"display:block"></a></td>
+<td width=3D"78" align=3D"right"><a href=3D"http://e.bloomingdales.com/a/hB=
+Sw6DQAXa0vdB8xtdBNs8w5u.AXa0vd3w/whatsnew" style=3D"color:rgb(0,109,180)" t=
+arget=3D"_blank"><img alt=3D"" border=3D"0" src=3D"http://f.e.bloomingdales=
+.com/i/32/392907741/061713_whats_new.jpg" width=3D"78" height=3D"20" style=
+=3D"display:block"></a></td>
+</tr></tbody></table><table width=3D"650" border=3D"0" cellspacing=3D"0" ce=
+llpadding=3D"0"><tbody><tr><td width=3D"251" align=3D"left&quot;"><a href=
+=3D"http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0vd3w/logo" s=
+tyle=3D"color:rgb(0,109,180)" target=3D"_blank"><img alt=3D"Bloomingdale&#3=
+9;s" border=3D"0" src=3D"http://f.e.bloomingdales.com/i/32/392907741/071213=
+_logo.jpg" width=3D"286" height=3D"61" style=3D"display:block"></a></td>
+<td width=3D"327">=C2=A0</td><td width=3D"72" align=3D"left"><a href=3D"htt=
+p://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0vd3w/freeship" styl=
+e=3D"color:rgb(0,109,180)" target=3D"_blank"><img alt=3D"FREE=20
+SHIPPING on orders of $150 &amp; FREE RETURNS" border=3D"0" src=3D"http://f=
+.e.bloomingdales.com/i/32/392907741/071213_free_shipping.jpg" width=3D"100"=
+ height=3D"61" style=3D"display:block"></a></td></tr></tbody></table><table=
+ width=3D"650" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody><tr><td><a href=3D"http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBN=
+s8w5u.AXa0vd3w/women" style=3D"color:rgb(0,109,180)" target=3D"_blank"><img=
+ alt=3D"WOMEN" border=3D"0" src=3D"http://f.e.bloomingdales.com/i/32/392907=
+741/071213_women.jpg" width=3D"57" height=3D"30" style=3D"display:block"></=
+a></td>
+<td><a href=3D"http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0v=
+d3w/shoes" style=3D"color:rgb(0,109,180)" target=3D"_blank"><img alt=3D"SHO=
+ES" border=3D"0" src=3D"http://f.e.bloomingdales.com/i/32/392907741/071213_=
+shoes.jpg" width=3D"47" height=3D"30" style=3D"display:block"></a></td>
+<td><a href=3D"http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0v=
+d3w/handbags" style=3D"color:rgb(0,109,180)" target=3D"_blank"><img alt=3D"=
+HANDBAGS" border=3D"0" src=3D"http://f.e.bloomingdales.com/i/32/392907741/0=
+71213_handbags.jpg" width=3D"71" height=3D"30" style=3D"display:block"></a>=
+</td>
+<td><a href=3D"http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0v=
+d3w/jewelryacc" style=3D"color:rgb(0,109,180)" target=3D"_blank"><img alt=
+=3D"JEWELRY &amp; ACCESSORIES" border=3D"0" src=3D"http://f.e.bloomingdales=
+.com/i/32/392907741/071213_jewelry_acc.jpg" width=3D"142" height=3D"30" sty=
+le=3D"display:block"></a></td>
+<td><a href=3D"http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0v=
+d3w/beauty" style=3D"color:rgb(0,109,180)" target=3D"_blank"><img alt=3D"BE=
+AUTY" border=3D"0" src=3D"http://f.e.bloomingdales.com/i/32/392907741/07121=
+3_beauty.jpg" width=3D"53" height=3D"30" style=3D"display:block"></a></td>
+<td><a href=3D"http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0v=
+d3w/men" style=3D"color:rgb(0,109,180)" target=3D"_blank"><img alt=3D"MEN" =
+border=3D"0" src=3D"http://f.e.bloomingdales.com/i/32/392907741/071213_men.=
+jpg" width=3D"35" height=3D"30" style=3D"display:block"></a></td>
+<td><a href=3D"http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0v=
+d3w/kids" style=3D"color:rgb(0,109,180)" target=3D"_blank"><img alt=3D"KIDS=
+" border=3D"0" src=3D"http://f.e.bloomingdales.com/i/32/392907741/071213_ki=
+ds.jpg" width=3D"36" height=3D"30" style=3D"display:block"></a></td>
+<td><a href=3D"http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0v=
+d3w/home" style=3D"color:rgb(0,109,180)" target=3D"_blank"><img alt=3D"HOME=
+" border=3D"0" src=3D"http://f.e.bloomingdales.com/i/32/392907741/071213_ho=
+me.jpg" width=3D"43" height=3D"30" style=3D"display:block"></a></td>
+<td><a href=3D"http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0v=
+d3w/gifts" style=3D"color:rgb(0,109,180)" target=3D"_blank"><img alt=3D"GIF=
+TS" border=3D"0" src=3D"http://f.e.bloomingdales.com/i/32/392907741/071213_=
+gifts.jpg" width=3D"41" height=3D"30" style=3D"display:block"></a></td>
+<td><a href=3D"http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0v=
+d3w/bridalreg" style=3D"color:rgb(0,109,180)" target=3D"_blank"><img alt=3D=
+"THE REGISTRY" border=3D"0" src=3D"http://f.e.bloomingdales.com/i/32/392907=
+741/071213_registry.jpg" width=3D"84" height=3D"30" style=3D"display:block"=
+></a></td>
+<td><a href=3D"http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0v=
+d3w/salevalues" style=3D"color:rgb(0,109,180)" target=3D"_blank"><img alt=
+=3D"SALE" border=3D"0" src=3D"http://f.e.bloomingdales.com/i/32/392907741/0=
+71213_sale.jpg" width=3D"41" height=3D"30" style=3D"display:block"></a></td=
+>
+</tr></tbody></table><table width=3D"670" border=3D"0" cellspacing=3D"0" ce=
+llpadding=3D"0"><tbody><tr><td width=3D"3"><img src=3D"http://f.chtah.com/i=
+/32/392907741/091708spacer.gif" width=3D"3" height=3D"2" alt=3D"" style=3D"=
+display:block"></td>
+<td width=3D"1" bgcolor=3D"#FFFFFF"><img src=3D"http://f.chtah.com/i/32/392=
+907741/091708spacer.gif" width=3D"1" height=3D"2" alt=3D"" style=3D"display=
+:block"></td><td width=3D"1" bgcolor=3D"#FFFFFF"><img src=3D"http://f.chtah=
+.com/i/32/392907741/091708spacer.gif" width=3D"1" height=3D"2" alt=3D"" sty=
+le=3D"display:block"></td>
+<td width=3D"1" bgcolor=3D"#FFFFFF"><img src=3D"http://f.chtah.com/i/32/392=
+907741/091708spacer.gif" width=3D"1" height=3D"2" alt=3D"" style=3D"display=
+:block"></td><td width=3D"1" bgcolor=3D"#FFFFFF"><img src=3D"http://f.chtah=
+.com/i/32/392907741/091708spacer.gif" width=3D"1" height=3D"2" alt=3D"" sty=
+le=3D"display:block"></td>
+<td width=3D"1" bgcolor=3D"#FFFFFF"><img src=3D"http://f.chtah.com/i/32/392=
+907741/091708spacer.gif" width=3D"1" height=3D"2" alt=3D"" style=3D"display=
+:block"></td><td width=3D"1" bgcolor=3D"#FFFFFF"><img src=3D"http://f.chtah=
+.com/i/32/392907741/091708spacer.gif" width=3D"1" height=3D"2" alt=3D"" sty=
+le=3D"display:block"></td>
+<td width=3D"1" bgcolor=3D"#FFFFFF"><img src=3D"http://f.chtah.com/i/32/392=
+907741/091708spacer.gif" width=3D"1" height=3D"2" alt=3D"" style=3D"display=
+:block"></td><td width=3D"180">=C2=A0</td><td width=3D"290"><pre><center><b=
+ig><b>Bloomingdale&#39;s
+</b></big>Soho
+504=C2=A0Broadway
+NEW=C2=A0YORK,=C2=A0NY=C2=A010012
+<a href=3D"tel:212-729-5900" value=3D"+12127295900" target=3D"_blank">212-7=
+29-5900</a>
+
+</center></pre><center><img src=3D"http://bar.cheetahmail.com/cgi-bin/barco=
+de/BSw6DQAXa0vdB8xtdBNs8w5u.AXa0vd3w/bar.png?bc=3DR4003053002305187225&amp;=
+sz=3D100x37"></center><pre><center>R4003053002305187225
+</center>
+<b>=C2=A0=C2=A0=C2=A0053-0023-0518
+</b>=C2=A0=C2=A0=C2=A072032454=C2=A0=C2=A00023=C2=A0=C2=A02:46=C2=A0PM=C2=
+=A0=C2=A01/03/2014
+
+<b>PURCHASE
+</b>
+<b>CLARINS=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A040.00
+</b>3380810553109=C2=A0=C2=A0367/25=C2=A0
+CRL=C2=A0XXXXXXXXX8093
+
+=C2=A0=C2=A0=C2=A0=C2=A08.875%=C2=A0NY=C2=A0=C2=A0RGLR=C2=A0Tax=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A03.55
+<b>=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0Total=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A043.55
+
+</b><b>Visa=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A043.55
+</b>=C2=A0BRUNO=C2=A0ZALUM
+=C2=A0034637=C2=A0XXXX=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0XXXXXXXXXXX=
+X1156=C2=A0S
+
+<center><b>Sign=C2=A0up=C2=A0for=C2=A0Loyallist,
+</b></center><center><b>our=C2=A0new=C2=A0Rewards=C2=A0program!
+</b></center><center><b>Every=C2=A0shopper,=C2=A0every=C2=A0day.
+</b></center>
+
+<center><b>Thank=C2=A0you=C2=A0for=C2=A0shopping=C2=A0at
+Bloomingdale&#39;s
+</b></center>
+
+Bruno=C2=A0Zalum
+
+
+
+
+<center><big><b>CUSTOMER=C2=A0COPY
+</b></big></center></pre><pre></pre></td><td width=3D"180">=C2=A0</td><td w=
+idth=3D"1" bgcolor=3D"#FFFFFF"><img src=3D"http://f.chtah.com/i/32/39290774=
+1/091708spacer.gif" width=3D"1" height=3D"2" alt=3D"" style=3D"display:bloc=
+k"></td><td width=3D"1" bgcolor=3D"#FFFFFF">
+<img src=3D"http://f.chtah.com/i/32/392907741/091708spacer.gif" width=3D"1"=
+ height=3D"2" alt=3D"" style=3D"display:block"></td><td width=3D"1" bgcolor=
+=3D"#FFFFFF"><img src=3D"http://f.chtah.com/i/32/392907741/091708spacer.gif=
+" width=3D"1" height=3D"2" alt=3D"" style=3D"display:block"></td>
+<td width=3D"1" bgcolor=3D"#FFFFFF"><img src=3D"http://f.chtah.com/i/32/392=
+907741/091708spacer.gif" width=3D"1" height=3D"2" alt=3D"" style=3D"display=
+:block"></td><td width=3D"1" bgcolor=3D"#FFFFFF"><img src=3D"http://f.chtah=
+.com/i/32/392907741/091708spacer.gif" width=3D"1" height=3D"2" alt=3D"" sty=
+le=3D"display:block"></td>
+<td width=3D"1" bgcolor=3D"#FFFFFF"><img src=3D"http://f.chtah.com/i/32/392=
+907741/091708spacer.gif" width=3D"1" height=3D"2" alt=3D"" style=3D"display=
+:block"></td><td width=3D"1" bgcolor=3D"#FFFFFF"><img src=3D"http://f.chtah=
+.com/i/32/392907741/091708spacer.gif" width=3D"1" height=3D"2" alt=3D"" sty=
+le=3D"display:block"></td>
+<td width=3D"3"><img src=3D"http://f.chtah.com/i/32/392907741/091708spacer.=
+gif" width=3D"3" height=3D"2" alt=3D"" style=3D"display:block"></td></tr></=
+tbody></table><table width=3D"670" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0"><tbody><tr>
+<td width=3D"3"><img src=3D"http://f.chtah.com/i/32/392907741/091708spacer.=
+gif" width=3D"3" height=3D"2" alt=3D"" style=3D"display:block"></td><td wid=
+th=3D"1" bgcolor=3D"#FFFFFF"><img src=3D"http://f.chtah.com/i/32/392907741/=
+091708spacer.gif" width=3D"1" height=3D"2" alt=3D"" style=3D"display:block"=
+></td>
+<td width=3D"1" bgcolor=3D"#FFFFFF"><img src=3D"http://f.chtah.com/i/32/392=
+907741/091708spacer.gif" width=3D"1" height=3D"2" alt=3D"" style=3D"display=
+:block"></td><td width=3D"1" bgcolor=3D"#FFFFFF"><img src=3D"http://f.chtah=
+.com/i/32/392907741/091708spacer.gif" width=3D"1" height=3D"2" alt=3D"" sty=
+le=3D"display:block"></td>
+<td width=3D"1" bgcolor=3D"#FFFFFF"><img src=3D"http://f.chtah.com/i/32/392=
+907741/091708spacer.gif" width=3D"1" height=3D"2" alt=3D"" style=3D"display=
+:block"></td><td width=3D"1" bgcolor=3D"#FFFFFF"><img src=3D"http://f.chtah=
+.com/i/32/392907741/091708spacer.gif" width=3D"1" height=3D"2" alt=3D"" sty=
+le=3D"display:block"></td>
+<td width=3D"1" bgcolor=3D"#FFFFFF"><img src=3D"http://f.chtah.com/i/32/392=
+907741/091708spacer.gif" width=3D"1" height=3D"2" alt=3D"" style=3D"display=
+:block"></td><td width=3D"1" bgcolor=3D"#FFFFFF"><img src=3D"http://f.chtah=
+.com/i/32/392907741/091708spacer.gif" width=3D"1" height=3D"2" alt=3D"" sty=
+le=3D"display:block"></td>
+<td><img src=3D"http://f.chtah.com/i/32/392907741/091708spacer.gif" width=
+=3D"650" height=3D"1" border=3D"0" alt=3D"" style=3D"display:block"></td><t=
+d width=3D"1" bgcolor=3D"#FFFFFF"><img src=3D"http://f.chtah.com/i/32/39290=
+7741/091708spacer.gif" width=3D"1" height=3D"2" alt=3D"" style=3D"display:b=
+lock"></td>
+<td width=3D"1" bgcolor=3D"#FFFFFF"><img src=3D"http://f.chtah.com/i/32/392=
+907741/091708spacer.gif" width=3D"1" height=3D"2" alt=3D"" style=3D"display=
+:block"></td><td width=3D"1" bgcolor=3D"#FFFFFF"><img src=3D"http://f.chtah=
+.com/i/32/392907741/091708spacer.gif" width=3D"1" height=3D"2" alt=3D"" sty=
+le=3D"display:block"></td>
+<td width=3D"1" bgcolor=3D"#FFFFFF"><img src=3D"http://f.chtah.com/i/32/392=
+907741/091708spacer.gif" width=3D"1" height=3D"2" alt=3D"" style=3D"display=
+:block"></td><td width=3D"1" bgcolor=3D"#FFFFFF"><img src=3D"http://f.chtah=
+.com/i/32/392907741/091708spacer.gif" width=3D"1" height=3D"2" alt=3D"" sty=
+le=3D"display:block"></td>
+<td width=3D"1" bgcolor=3D"#FFFFFF"><img src=3D"http://f.chtah.com/i/32/392=
+907741/091708spacer.gif" width=3D"1" height=3D"2" alt=3D"" style=3D"display=
+:block"></td><td width=3D"1" bgcolor=3D"#FFFFFF"><img src=3D"http://f.chtah=
+.com/i/32/392907741/091708spacer.gif" width=3D"1" height=3D"2" alt=3D"" sty=
+le=3D"display:block"></td>
+<td width=3D"3"><img src=3D"http://f.chtah.com/i/32/392907741/091708spacer.=
+gif" width=3D"3" height=3D"2" alt=3D"" style=3D"display:block"></td></tr></=
+tbody></table><table width=3D"670" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0"><tbody><tr>
+<td width=3D"3"><img src=3D"http://f.chtah.com/i/32/392907741/091708spacer.=
+gif" width=3D"3" height=3D"2" alt=3D"" style=3D"display:block"></td><td wid=
+th=3D"1" bgcolor=3D"#FFFFFF"><img src=3D"http://f.chtah.com/i/32/392907741/=
+091708spacer.gif" width=3D"1" height=3D"2" alt=3D"" style=3D"display:block"=
+></td>
+<td width=3D"1" bgcolor=3D"#FFFFFF"><img src=3D"http://f.chtah.com/i/32/392=
+907741/091708spacer.gif" width=3D"1" height=3D"2" alt=3D"" style=3D"display=
+:block"></td><td width=3D"1" bgcolor=3D"#FFFFFF"><img src=3D"http://f.chtah=
+.com/i/32/392907741/091708spacer.gif" width=3D"1" height=3D"2" alt=3D"" sty=
+le=3D"display:block"></td>
+<td width=3D"1" bgcolor=3D"#FFFFFF"><img src=3D"http://f.chtah.com/i/32/392=
+907741/091708spacer.gif" width=3D"1" height=3D"2" alt=3D"" style=3D"display=
+:block"></td><td width=3D"1" bgcolor=3D"#FFFFFF"><img src=3D"http://f.chtah=
+.com/i/32/392907741/091708spacer.gif" width=3D"1" height=3D"2" alt=3D"" sty=
+le=3D"display:block"></td>
+<td width=3D"1" bgcolor=3D"#FFFFFF"><img src=3D"http://f.chtah.com/i/32/392=
+907741/091708spacer.gif" width=3D"1" height=3D"2" alt=3D"" style=3D"display=
+:block"></td><td width=3D"1" bgcolor=3D"#FFFFFF"><img src=3D"http://f.chtah=
+.com/i/32/392907741/091708spacer.gif" width=3D"1" height=3D"2" alt=3D"" sty=
+le=3D"display:block"></td>
+<td width=3D"10"><img src=3D"http://f.chtah.com/i/32/392907741/091708spacer=
+.gif" width=3D"10" height=3D"2" alt=3D"" style=3D"display:block"></td><td w=
+idth=3D"640" valign=3D"top" align=3D"left"><font face=3D"Arial, Helvetica,=
+=20
+sans-serif" style=3D"font-size:11px"><b><a href=3D"http://e.bloomingdales.c=
+om/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0vd3w/returns" target=3D"_blank">Returns =
+and exchanges</a><span>=C2=A0</span>are easy.</b><span>=C2=A0</span>If you =
+have questions, click<span>=C2=A0</span><a href=3D"http://e.bloomingdales.c=
+om/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0vd3w/lrnmore" target=3D"_blank">here</a>=
+<span>=C2=A0</span>to learn more.<br>
+<br>Sincerely,<br><b>Bloomingdale&#39;s Customer Service</b><br><a href=3D"=
+http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0vd3w/bcomsig" ta=
+rget=3D"_blank">bloomingdales.com</a></font><br><br></td><td width=3D"1" bg=
+color=3D"#FFFFFF">
+<img src=3D"http://f.chtah.com/i/32/392907741/091708spacer.gif" width=3D"1"=
+ height=3D"2" alt=3D"" style=3D"display:block"></td><td width=3D"1" bgcolor=
+=3D"#FFFFFF"><img src=3D"http://f.chtah.com/i/32/392907741/091708spacer.gif=
+" width=3D"1" height=3D"2" alt=3D"" style=3D"display:block"></td>
+<td width=3D"1" bgcolor=3D"#FFFFFF"><img src=3D"http://f.chtah.com/i/32/392=
+907741/091708spacer.gif" width=3D"1" height=3D"2" alt=3D"" style=3D"display=
+:block"></td><td width=3D"1" bgcolor=3D"#FFFFFF"><img src=3D"http://f.chtah=
+.com/i/32/392907741/091708spacer.gif" width=3D"1" height=3D"2" alt=3D"" sty=
+le=3D"display:block"></td>
+<td width=3D"1" bgcolor=3D"#FFFFFF"><img src=3D"http://f.chtah.com/i/32/392=
+907741/091708spacer.gif" width=3D"1" height=3D"2" alt=3D"" style=3D"display=
+:block"></td><td width=3D"1" bgcolor=3D"#FFFFFF"><img src=3D"http://f.chtah=
+.com/i/32/392907741/091708spacer.gif" width=3D"1" height=3D"2" alt=3D"" sty=
+le=3D"display:block"></td>
+<td width=3D"1" bgcolor=3D"#FFFFFF"><img src=3D"http://f.chtah.com/i/32/392=
+907741/091708spacer.gif" width=3D"1" height=3D"2" alt=3D"" style=3D"display=
+:block"></td><td width=3D"3"><img src=3D"http://f.chtah.com/i/32/392907741/=
+091708spacer.gif" width=3D"3" height=3D"2" alt=3D"" style=3D"display:block"=
+></td>
+</tr></tbody></table></td></tr></tbody></table></td></tr><tr><td width=3D"6=
+50" valign=3D"top" align=3D"center"><table width=3D"650" border=3D"0" cells=
+pacing=3D"0" cellpadding=3D"0"><tbody><tr><td width=3D"36"><img src=3D"http=
+://f.chtah.com/i/32/392907741/1x2.gif" alt=3D"" width=3D"36" height=3D"10" =
+border=3D"0" style=3D"display:block"></td>
+<td><a href=3D"http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0v=
+d3w/banner1" style=3D"color:rgb(0,109,180)" target=3D"_blank"><img src=3D"h=
+ttp://f.e.bloomingdales.com/i/32/392907741/103113_eReceipts_1202_Internatio=
+nal_Shipping_OES.jpg" width=3D"168" height=3D"154" border=3D"0" alt=3D"" st=
+yle=3D"display:block"></a></td>
+<td width=3D"36"><img src=3D"http://f.chtah.com/i/32/392907741/1x2.gif" alt=
+=3D"" width=3D"36" height=3D"10" border=3D"0" style=3D"display:block"></td>=
+<td><a href=3D"http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0v=
+d3w/banner2" style=3D"color:rgb(0,109,180)" target=3D"_blank"><img src=3D"h=
+ttp://f.e.bloomingdales.com/i/32/392907741/053113_eReceipts_0127_Registry_c=
+heckout.jpg" width=3D"168" height=3D"154" border=3D"0" alt=3D"" style=3D"di=
+splay:block"></a></td>
+<td width=3D"36"><img src=3D"http://f.chtah.com/i/32/392907741/1x2.gif" alt=
+=3D"" width=3D"36" height=3D"10" border=3D"0" style=3D"display:block"></td>=
+<td><a href=3D"http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0v=
+d3w/banner3" style=3D"color:rgb(0,109,180)" target=3D"_blank"><img src=3D"h=
+ttp://f.e.bloomingdales.com/i/32/392907741/073113_eReceipts_0708_Loyallist-=
+Statement-Email_v3.jpg" width=3D"168" height=3D"154" border=3D"0" alt=3D"" =
+style=3D"display:block"></a></td>
+<td width=3D"36"><img src=3D"http://f.chtah.com/i/32/392907741/1x2.gif" alt=
+=3D"" width=3D"36" height=3D"10" border=3D"0" style=3D"display:block"></td>=
+</tr></tbody></table></td></tr></tbody></table><table width=3D"650" border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" bgcolor=3D"#000000" align=3D"cen=
+ter">
+<tbody><tr><td><img alt=3D"" border=3D"0" src=3D"http://f.chtah.com/i/32/39=
+2907741/091708spacer.gif" width=3D"1" height=3D"5" style=3D"display:block">=
+</td></tr></tbody></table><table width=3D"650" border=3D"0" cellspacing=3D"=
+0" cellpadding=3D"0" align=3D"center">
+<tbody><tr><td width=3D"109" height=3D"28"><a href=3D"http://e.bloomingdale=
+s.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0vd3w/events" style=3D"color:rgb(0,109=
+,180)" target=3D"_blank"><img alt=3D"STORES=20
+&amp; EVENTS" border=3D"0" src=3D"http://f.e.bloomingdales.com/i/32/3929077=
+41/071213_store.jpg" width=3D"109" height=3D"58" style=3D"display:block"></=
+a></td><td width=3D"120"><a href=3D"http://e.bloomingdales.com/a/hBSw6DQAXa=
+0vdB8xtdBNs8w5u.AXa0vd3w/shopsvces" style=3D"color:rgb(0,109,180)" target=
+=3D"_blank"><img alt=3D"SHOPPING SERVICES" border=3D"0" src=3D"http://f.e.b=
+loomingdales.com/i/32/392907741/071213_shopping.jpg" width=3D"120" height=
+=3D"58" style=3D"display:block"></a></td>
+<td width=3D"118" height=3D"28"><a href=3D"http://e.bloomingdales.com/a/hBS=
+w6DQAXa0vdB8xtdBNs8w5u.AXa0vd3w/custserv" style=3D"color:rgb(0,109,180)" ta=
+rget=3D"_blank"><img alt=3D"CUSTOMER SERVICE" border=3D"0" src=3D"http://f.=
+e.bloomingdales.com/i/32/392907741/071213_customer_serv.jpg" width=3D"118" =
+height=3D"58" style=3D"display:block"></a></td>
+<td width=3D"102"><a href=3D"http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xt=
+dBNs8w5u.AXa0vd3w/creditserv" style=3D"color:rgb(0,109,180)" target=3D"_bla=
+nk"><img alt=3D"CREDIT SERVICES" border=3D"0" src=3D"http://f.e.bloomingdal=
+es.com/i/32/392907741/071213_credit_serv.jpg" width=3D"102" height=3D"58" s=
+tyle=3D"display:block"></a></td>
+<td width=3D"77" height=3D"28"><a href=3D"http://e.bloomingdales.com/a/hBSw=
+6DQAXa0vdB8xtdBNs8w5u.AXa0vd3w/loyallist" style=3D"color:rgb(0,109,180)" ta=
+rget=3D"_blank"><img alt=3D"LOYALLIST" border=3D"0" src=3D"http://f.e.bloom=
+ingdales.com/i/32/392907741/071213_loyal_footer.jpg" width=3D"77" height=3D=
+"58" style=3D"display:block"></a></td>
+<td width=3D"10"><img alt=3D"" border=3D"0" src=3D"http://f.e.bloomingdales=
+.com/i/32/392907741/071213_hor_line.jpg" width=3D"5" height=3D"58" style=3D=
+"display:block"></td><td width=3D"119" height=3D"28" valign=3D"top"><table =
+width=3D"118" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody><tr><td width=3D"118"><img alt=3D"CONNECT WITH US:" border=3D"0" src=
+=3D"http://f.e.bloomingdales.com/i/32/392907741/071213_connect_us.jpg" widt=
+h=3D"119" height=3D"30" style=3D"display:block"></td></tr><tr><td><table wi=
+dth=3D"118" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody><tr><td width=3D"36"><a href=3D"http://e.bloomingdales.com/a/hBSw6DQ=
+AXa0vdB8xtdBNs8w5u.AXa0vd3w/facebook" style=3D"color:rgb(0,109,180)" target=
+=3D"_blank"><img alt=3D"Facebook" border=3D"0" src=3D"http://f.e.bloomingda=
+les.com/i/32/392907741/071213_fb.jpg" width=3D"36" height=3D"28" style=3D"d=
+isplay:block"></a></td>
+<td width=3D"29"><a href=3D"http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtd=
+BNs8w5u.AXa0vd3w/twitter" style=3D"color:rgb(0,109,180)" target=3D"_blank">=
+<img alt=3D"Twitter" border=3D"0" src=3D"http://f.e.bloomingdales.com/i/32/=
+392907741/071213_tw.jpg" width=3D"29" height=3D"28" style=3D"display:block"=
+></a></td>
+<td width=3D"29"><a href=3D"http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtd=
+BNs8w5u.AXa0vd3w/pintrest" style=3D"color:rgb(0,109,180)" target=3D"_blank"=
+><img alt=3D"Pinterest" border=3D"0" src=3D"http://f.e.bloomingdales.com/i/=
+32/392907741/071213_pin.jpg" width=3D"29" height=3D"28" style=3D"display:bl=
+ock"></a></td>
+<td width=3D"24"><a href=3D"http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtd=
+BNs8w5u.AXa0vd3w/phone" style=3D"color:rgb(0,109,180)" target=3D"_blank"><i=
+mg alt=3D"" border=3D"0" src=3D"http://f.e.bloomingdales.com/i/32/392907741=
+/071213_phone.jpg" width=3D"25" height=3D"28" style=3D"display:block"></a><=
+/td>
+</tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><t=
+able width=3D"650" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=
+=3D"center"><tbody><tr><td width=3D"650" height=3D"3"><img alt=3D"" border=
+=3D"0" src=3D"http://f.e.bloomingdales.com/i/32/392907741/071213_line_foote=
+r.jpg" width=3D"650" height=3D"7" style=3D"display:block"></td>
+</tr></tbody></table><table width=3D"650" border=3D"0" cellspacing=3D"0" ce=
+llpadding=3D"0" align=3D"center"><tbody><tr><td width=3D"5"><img alt=3D"" b=
+order=3D"0" src=3D"http://f.e.bloomingdales.com/i/32/392907741/071213_space=
+r.gif" width=3D"6" height=3D"21" style=3D"display:block"></td>
+<td width=3D"632"><table width=3D"632" border=3D"0" cellspacing=3D"0" cellp=
+adding=3D"0" align=3D"center"><tbody><tr><td width=3D"632"><img alt=3D"" bo=
+rder=3D"0" src=3D"http://f.e.bloomingdales.com/i/32/392907741/071213_spacer=
+.gif" width=3D"10" height=3D"16" style=3D"display:block"></td>
+</tr><tr><td style=3D"font-size:10px;line-height:13px;font-family:Arial,san=
+s-serif;color:rgb(102,102,102)"><span style=3D"font-size:10px;line-height:1=
+3px;font-family:Arial,sans-serif;color:rgb(102,102,102)"><b>FREE SHIPPING:<=
+/b><br>
+Free standard shipping on orders of $150 or more only at<span>=C2=A0</span>=
+<a href=3D"http://bloomingdales.com/" style=3D"color:rgb(0,109,180)" target=
+=3D"_blank">Bloomingdales.com</a><span>=C2=A0</span>and<span>=C2=A0</span><=
+a href=3D"http://bloomingdales.com/Registry" style=3D"color:rgb(0,109,180)"=
+ target=3D"_blank">Bloomingdales.com/Registry</a>. Not valid when shipping =
+to multiple addresses. No adjustments to prior purchases. Free shipping is =
+valid online only. Offer excludes Gift Cards, Furniture, and Mattresses. No=
+t valid in Bloomingdale&#39;s stores or Bloomingdale&#39;s The Outlet store=
+s. Valid only when shipping to the U.S. Delivery charges may apply in store=
+. See a sales associate for details.<span>=C2=A0</span><br>
+<br><b>FREE SHIPPING ON BEAUTY:</b><br>Free standard shipping on beauty ord=
+ers of $50 or more at<span>=C2=A0</span><a href=3D"http://bloomingdales.com=
+/" style=3D"color:rgb(0,109,180)" target=3D"_blank">Bloomingdales.com</a>. =
+Not valid when shipping to multiple addresses. No adjustments to prior purc=
+hases. Free shipping is valid online only. Not valid in Bloomingdale&#39;s =
+stores or Bloomingdale&#39;s The Outlet stores. Valid only when shipping to=
+ the U.S. Delivery charges may apply in store. See a sales associate for de=
+tails.<br>
+<br><b>FREE RETURNS:</b><br>Free returns everyday on online orders. Offer e=
+xcludes gift cards, furniture, mattresses, mirrors, lamps and wall art. Onl=
+y valid when shipping within the U.S.</span></td></tr><tr><td width=3D"650"=
+>
+<img alt=3D"" border=3D"0" src=3D"http://f.e.bloomingdales.com/i/32/3929077=
+41/071213_spacer.gif" width=3D"10" height=3D"17" style=3D"display:block"></=
+td></tr></tbody></table></td><td width=3D"13"><img alt=3D"" border=3D"0" sr=
+c=3D"http://f.e.bloomingdales.com/i/32/392907741/071213_spacer.gif" width=
+=3D"13" height=3D"21" style=3D"display:block"></td>
+</tr></tbody></table><table width=3D"650" border=3D"0" cellspacing=3D"0" ce=
+llpadding=3D"0" align=3D"center"><tbody><tr><td width=3D"650" height=3D"3">=
+<img alt=3D"" border=3D"0" src=3D"http://f.e.bloomingdales.com/i/32/3929077=
+41/071213_line_footer.jpg" width=3D"650" height=3D"7" style=3D"display:bloc=
+k"></td>
+</tr></tbody></table><table width=3D"650" border=3D"0" cellspacing=3D"0" ce=
+llpadding=3D"0" align=3D"center"><tbody><tr><td width=3D"650" height=3D"3">=
+<img alt=3D"" border=3D"0" src=3D"http://f.e.bloomingdales.com/i/32/3929077=
+41/071213_spacer.gif" width=3D"10" height=3D"4" style=3D"display:block"></t=
+d>
+</tr></tbody></table><table width=3D"650" border=3D"0" cellspacing=3D"0" ce=
+llpadding=3D"0" align=3D"center"><tbody><tr><td width=3D"213">=C2=A0</td><t=
+d width=3D"224" align=3D"middle"><img alt=3D"" border=3D"0" src=3D"http://f=
+.e.bloomingdales.com/i/32/392907741/071213_like_no.jpg" width=3D"224" heigh=
+t=3D"32" style=3D"display:block"></td>
+<td width=3D"213">=C2=A0</td></tr></tbody></table><table width=3D"650" bord=
+er=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center"><tbody><tr><t=
+d align=3D"center" style=3D"font-size:10px;line-height:13px;font-family:Ari=
+al,sans-serif;color:rgb(102,102,102)">
+<span style=3D"font-size:10px;font-weight:bold;line-height:13px;font-family=
+:Arial,sans-serif;color:rgb(51,51,51)"><a href=3D"http://e.bloomingdales.co=
+m/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0vd3w/logo" style=3D"color:rgb(51,51,51);f=
+ont-size:10px;line-height:13px;font-family:Arial,sans-serif;text-decoration=
+:none" target=3D"_blank">BLOOMINGDALES.COM</a><span>=C2=A0</span>|<span>=C2=
+=A0</span><a href=3D"http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u=
+.AXa0vd3w/privacy" style=3D"color:rgb(51,51,51);font-size:10px;line-height:=
+13px;font-family:Arial,sans-serif;text-decoration:none" target=3D"_blank">P=
+RIVACY POLICY</a></span><br>
+Don&#39;t miss a thing! Add<span>=C2=A0</span><a href=3D"mailto:bloomingdal=
+es@e.bloomingdales.com" style=3D"color:rgb(0,109,180)" target=3D"_blank">bl=
+oomingdales@e.bloomingdales.com</a><span>=C2=A0</span>to your address book.=
+<br>2014 Bloomingdale&#39;s. 1000 Third Aveuenue New York, NY 10022.</td>
+</tr></tbody></table></td></tr></tbody></table>=C2=A0<table><tbody><tr><td =
+align=3D"center" bgcolor=3D"#FFFFFF">=C2=A0</td></tr></tbody></table><img s=
+rc=3D"http://e.bloomingdales.com/a/hBSw6DQAXa0vdB8xtdBNs8w5u.AXa0vd3w/colum=
+n.gif"></div>
+</div></blockquote></div><br></div></div></blockquote></div><br></div></div=
+></div><br></div>
+
+--001a11c2c45284876b04fddebc1e--

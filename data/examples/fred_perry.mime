@@ -1,0 +1,1137 @@
+X-Mailgun-Spam-Rules: DKIM_SIGNED, DKIM_VALID, DKIM_VALID_AU, FREEMAIL_FROM,
+ HTML_MESSAGE, RCVD_IN_DNSWL_LOW, SPF_PASS, T_RP_MATCHES_RCVD
+X-Mailgun-Dkim-Check-Result: Pass
+X-Mailgun-Spf: Pass
+X-Mailgun-Sscore: -0.8
+X-Mailgun-Sflag: No
+X-Mailgun-Incoming: Yes
+X-Envelope-From: <english_peter@hotmail.com>
+Received: from BAY004-OMC4S25.hotmail.com (bay004-omc4s25.hotmail.com [65.54.190.227])
+ by mxa.mailgun.org with ESMTP id 58298180.7f4f35e82770-in07;
+ Mon, 14 Nov 2016 09:18:56 -0000 (UTC)
+Received: from EUR01-HE1-obe.outbound.protection.outlook.com ([65.54.190.199]) by BAY004-OMC4S25.hotmail.com over TLS secured channel with Microsoft SMTPSVC(7.5.7601.23008);
+	 Mon, 14 Nov 2016 01:18:55 -0800
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=FMIxpH8sb93yQtLvfNfJpwATRqm3DunaCx+Z0ZnluYY=;
+ b=cn3G77vBVhUlaPwoTsVTJTu2ITGJy43bFa48Z7R2WWDT+rrKarH3UYCGinv9dRDbE+egncBjuiFCudkb9+neBtE9moH95myuYm3U71P1mFNQ4jfpgIKRrftB3ahGAn/4diXR6kshqZ3gOOISZmFaKDgWVsWdNKmZLiSupbLhLdKiZX9PAA4XFsFL2cEsrko2q2GZ8otLrTdzKGZvin5/VQ9+XfVSZDA7fyYoA9QFC5Tu5HlT8e5Z+PZ7HLHe9LJYMTbQeBODQ8nf4BvCC2RghSEzNwb/gRQ8VJdTfC77QostVdImMYhY2Cj6n0SWed3Mwlj/z++EwsZ2l2sx4rKnsA==
+Received: from VE1EUR01FT023.eop-EUR01.prod.protection.outlook.com
+ (10.152.2.57) by VE1EUR01HT123.eop-EUR01.prod.protection.outlook.com
+ (10.152.3.90) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.707.3; Mon, 14 Nov
+ 2016 09:18:52 +0000
+Received: from DB5PR05MB1688.eurprd05.prod.outlook.com (10.152.2.56) by
+ VE1EUR01FT023.mail.protection.outlook.com (10.152.2.218) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.1.721.5 via Frontend Transport; Mon, 14 Nov 2016 09:18:52 +0000
+Received: from DB5PR05MB1688.eurprd05.prod.outlook.com ([10.165.6.154]) by
+ DB5PR05MB1688.eurprd05.prod.outlook.com ([10.165.6.154]) with mapi id
+ 15.01.0707.015; Mon, 14 Nov 2016 09:18:52 +0000
+From: Peter English <english_peter@hotmail.com>
+To: "peter@billpass.co.uk" <peter@billpass.co.uk>
+Subject: Fw: Your Fred Perry eReceipt
+Thread-Topic: Your Fred Perry eReceipt
+Thread-Index: AQHSNRN02v92U7sK/EaTEbSJvVwBwqDYRgDq
+Date: Mon, 14 Nov 2016 09:18:52 +0000
+Message-ID: <DB5PR05MB1688BBF801B791027342923394BC0@DB5PR05MB1688.eurprd05.prod.outlook.com>
+References: <20161102141433.26979.49964.repoze.sendmail@worker4.prl.nu>
+In-Reply-To: <20161102141433.26979.49964.repoze.sendmail@worker4.prl.nu>
+Accept-Language: en-GB, en-US
+Content-Language: en-GB
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: billpass.co.uk; dkim=none (message not signed)
+ header.d=none;billpass.co.uk; dmarc=none action=none header.from=hotmail.com;
+x-incomingtopheadermarker: OriginalChecksum:;UpperCasedChecksum:;SizeAsReceived:7381;Count:39
+x-ms-exchange-messagesentrepresentingtype: 1
+x-tmn: [6cMO5IRcYS7UZNYKNIajbWDOo1hLDhQL]
+x-incomingheadercount: 39
+x-eopattributedmessage: 0
+x-microsoft-exchange-diagnostics: 1;VE1EUR01HT123;7:Lugl6/S6021MA8PWh4rGytHc8+Tn1RaFW1nOfbQ4TSiCqVrQTMGVSqV/UBMPWWLrI0WlD/5PHUzwZsiNeXdFa/+DiM9t54Wgwh/0e6PqBp5sHSVRCiXX8HzkKGQ3hZ1DdGdzOX0ZQ0pnm6uGDKdc3ZyKKwDjRBKlpD0nvhXUrbwTxuWItoIeNq1MrZP3pRplS5UdpyfXQWGowSakuFic7HsXqinZBkHoHIXMewo5PE+OFq+8FdF2A12Wn9OdPtWYnZ258+W+67O99whBbK78c5M1f5sBJK1DlPOVhXa1FVTWaPdIsWMaWfQUj/a+/NwT9ckXa3em7NnVTettD4cRk/VJWdxjxBu6N9cN22VBDDk=
+x-forefront-antispam-report: EFV:NLI;SFV:NSPM;SFS:(10019020)(98900003);DIR:OUT;SFP:1102;SCL:1;SRVR:VE1EUR01HT123;H:DB5PR05MB1688.eurprd05.prod.outlook.com;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: 52abdef0-1fb1-43cd-f03c-08d40c6f401b
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(1601124038)(1603103113)(1601125047);SRVR:VE1EUR01HT123;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(432015012)(82015046);SRVR:VE1EUR01HT123;BCL:0;PCL:0;RULEID:;SRVR:VE1EUR01HT123;
+x-forefront-prvs: 0126A32F74
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_DB5PR05MB1688BBF801B791027342923394BC0DB5PR05MB1688eurp_"
+MIME-Version: 1.0
+X-OriginatorOrg: hotmail.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 14 Nov 2016 09:18:52.1958
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: VE1EUR01HT123
+Return-Path: english_peter@hotmail.com
+X-OriginalArrivalTime: 14 Nov 2016 09:18:55.0392 (UTC) FILETIME=[1F837A00:01D23E58]
+
+--_000_DB5PR05MB1688BBF801B791027342923394BC0DB5PR05MB1688eurp_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+________________________________
+From: Fred Perry <noreply@ereceipts.co.uk>
+Sent: 02 November 2016 14:14
+To: english_peter@hotmail.com
+Subject: Your Fred Perry eReceipt
+
+[http://assets.cdn.paperlessreceipts.co.uk/img/emails/fred_perry/ereceipt_h=
+eader_2.3f88e286.png]<https://u694255.ct.sendgrid.net/wf/click?upn=3DlrJ9ut=
+eB1d19L-2Bkpad2Id9PxvuOSGqgeaz-2FOccwOZjw-3D_hygGXsJdunS6iKu8AuW23lni7RbX32=
+xWKlihKQvnlhSmqHjvRz0vCCCkTMlWASSLzz1vnCRZmawTuWscGt6zqOxoKQmomEgkayoZiKXdi=
+L2bYT-2BEbkpAXaE3aqlA4IT8f2a8uflsk1uO54rCylmgYOo-2BvAHd5Bxst-2FaQ5Q-2BdRidN=
+vYtGyaW0H-2BpVJ4ScUgp2kur8RuQa1EsX7yxAyytXtNUxJN-2BlK6iAmy1tXF3Ruj4q2KEdGWU=
+MdlV7B-2F3fl4hy5UL2pCp5aZD5EksxsCR7RRTRyHVD6UcDocbAk6XBNLSwA1WLiJT7kJSmGuuW=
+xm1Jv6iZj5S25PYEOV83-2F7x7CDaDz6WKjKfSU604qa9PmsoGOBe9DxdVnMdloI5Aa8tO-2Bb0=
+wISMozsgMKUL-2BYz8boc4pjwqSBaQ5YV-2Flohf2NQm7ifWsScs-2FJj-2FeaZks6UKm-2BHQP=
+kDpe-2FbbhM2z9bCcBSw-3D-3D>
+
+
+
+
+Transaction ID: T6145CG20060447
+
+[http://barcodes.ereceipts.co.uk/c93/T6145CG20060447.png?s=3DQsaMGfdlDRgC4j=
+%2BeqRZ8rslLrmU%3D]
+
+
+Transaction Date:
+
+2 Nov 2016, 14:15
+
+
+
+
+ITEM NO.        COLOUR  DESCRIPTION     SIZE    AMOUNT
+M9614   420     RINGER T-SHIRT  M       =A335.00
+
+
+
+                        Subtotal        =A329.17
+                        VAT @ 20%       =A35.83
+                        Total   =A335.00
+
+
+
+PAYMENT METHOD
+Payment Type: Card
+Amount: =A335.00
+Card Type: Visa
+
+
+
+
+STORE ADDRESS
+Covent Garden, 9 Henrietta Street
+London, WC2E 8PW
+
+
+
+Refund and Exchange Policy
+
+
+Please return any unwanted merchandise to a Fred Perry shop for a full refu=
+nd or exchange within 28 days. Goods returned must be unworn, in a saleable=
+ condition with tickets attached with a valid proof of purchase, being a pa=
+per POS receipt, or a printed copy of the ereceipt. Refunds and exchanges c=
+an only be made in country of purchase
+
+
+Full Returns & Exchanges policy can be found here.<https://u694255.ct.sendg=
+rid.net/wf/click?upn=3DlrJ9uteB1d19L-2Bkpad2Id9PxvuOSGqgeaz-2FOccwOZjwpk-2F=
+-2BkcQH2MBcIOJqDQegrv3i6v92jNoRMhBmHArNTSA-3D-3D_hygGXsJdunS6iKu8AuW23lni7R=
+bX32xWKlihKQvnlhSmqHjvRz0vCCCkTMlWASSLzz1vnCRZmawTuWscGt6zqOxoKQmomEgkayoZi=
+KXdiL2bYT-2BEbkpAXaE3aqlA4IT8f2a8uflsk1uO54rCylmgYOo-2BvAHd5Bxst-2FaQ5Q-2Bd=
+RidNvYtGyaW0H-2BpVJ4ScUgp2kur8RuQa1EsX7yxAyytXtNUxJN-2BlK6iAmy1tXF3Ruj4q2KE=
+dGWUMdlV7B-2F3fl4hy5UL2pCp5aZD5EksxsCR7RRTRyHVD6UcDocbAk6XBNLSwA1WLiJT7kJSm=
+GuuWxm1J36t8cHjafQmKgRpWAKGYuvDqYZVuD4fHj7EKT-2B8Th3NwCXJR8lDkv5P86S1ueQnj4=
+Z5rX6E4uXZCcgn6lym3OBJW9GeAqK-2BTZ8kD-2B-2FHuZd3gmdBR-2FmkAptc270xaApfhmyN6=
+n1fR3dFHNtdIJCLrHg-3D-3D>
+
+
+
+        [http://assets.cdn.paperlessreceipts.co.uk/img/emails/fred_perry/so=
+cial-facebook.b4de2c88.png] <https://u694255.ct.sendgrid.net/wf/click?upn=
+=3DlrJ9uteB1d19L-2Bkpad2Id0NTlRU89TW5JNLTlq9CygZfN2Vp15yPOfWTCa-2FtEWHO_hyg=
+GXsJdunS6iKu8AuW23lni7RbX32xWKlihKQvnlhSmqHjvRz0vCCCkTMlWASSLzz1vnCRZmawTuW=
+scGt6zqOxoKQmomEgkayoZiKXdiL2bYT-2BEbkpAXaE3aqlA4IT8f2a8uflsk1uO54rCylmgYOo=
+-2BvAHd5Bxst-2FaQ5Q-2BdRidNvYtGyaW0H-2BpVJ4ScUgp2kur8RuQa1EsX7yxAyytXtNUxJN=
+-2BlK6iAmy1tXF3Ruj4q2KEdGWUMdlV7B-2F3fl4hy5UL2pCp5aZD5EksxsCR7RRTRyHVD6UcDo=
+cbAk6XBNLSwA1WLiJT7kJSmGuuWxm1JQ8d2YMV8SzcL1i1bR3HomB-2F0Nw3RQad7B5DcM5-2BF=
+c-2BDr-2Bst0iALs-2Fs2lzidM4Qw0NPoc5VyqOMB-2FoxplP8XgtW3k3aDWXxK7-2BE4GuLgGO=
+Z0TO-2F1q01O1Da-2B6tpIFTRVXW9JHRGwNZHpNhHnSiFatmQ-3D-3D>         [http://as=
+sets.cdn.paperlessreceipts.co.uk/img/emails/fred_perry/social-insta.b669290=
+e.png] <https://u694255.ct.sendgrid.net/wf/click?upn=3DlrJ9uteB1d19L-2Bkpad=
+2Id8JGr9w3efyPrXZJsezk8LNZdknwaTbpZ3zh3e-2BGul-2Fr_hygGXsJdunS6iKu8AuW23lni=
+7RbX32xWKlihKQvnlhSmqHjvRz0vCCCkTMlWASSLzz1vnCRZmawTuWscGt6zqOxoKQmomEgkayo=
+ZiKXdiL2bYT-2BEbkpAXaE3aqlA4IT8f2a8uflsk1uO54rCylmgYOo-2BvAHd5Bxst-2FaQ5Q-2=
+BdRidNvYtGyaW0H-2BpVJ4ScUgp2kur8RuQa1EsX7yxAyytXtNUxJN-2BlK6iAmy1tXF3Ruj4q2=
+KEdGWUMdlV7B-2F3fl4hy5UL2pCp5aZD5EksxsCR7RRTRyHVD6UcDocbAk6XBNLSwA1WLiJT7kJ=
+SmGuuWxm1JTiSVW0U0QdRCQDhey-2FQ-2FHR3KOGGzM-2FT9M-2BUO7uRIUj9-2FmXRd-2FJg-2=
+ByEQLTPfAde1c9UVlJRz05JrJA8Kr2H3du5PehpXwfH-2F4o6NNyhnPcHUu12WM9Vd4kK6dAe8p=
+xB-2BLV0n4WsMTBBJ0-2FbD22P3HUA-3D-3D>        [http://assets.cdn.paperlessre=
+ceipts.co.uk/img/emails/fred_perry/social-twitter.2a50e138.png] <https://u6=
+94255.ct.sendgrid.net/wf/click?upn=3DlrJ9uteB1d19L-2Bkpad2Idz967EKbaHVLNowv=
+jZgKrSw7-2BmyFB8OubSaUxWw1ZPeE_hygGXsJdunS6iKu8AuW23lni7RbX32xWKlihKQvnlhSm=
+qHjvRz0vCCCkTMlWASSLzz1vnCRZmawTuWscGt6zqOxoKQmomEgkayoZiKXdiL2bYT-2BEbkpAX=
+aE3aqlA4IT8f2a8uflsk1uO54rCylmgYOo-2BvAHd5Bxst-2FaQ5Q-2BdRidNvYtGyaW0H-2BpV=
+J4ScUgp2kur8RuQa1EsX7yxAyytXtNUxJN-2BlK6iAmy1tXF3Ruj4q2KEdGWUMdlV7B-2F3fl4h=
+y5UL2pCp5aZD5EksxsCR7RRTRyHVD6UcDocbAk6XBNLSwA1WLiJT7kJSmGuuWxm1JM4jd3xte-2=
+B39n9tScmR6hdwgO-2BBo1Mv5oOGf02THM-2BZ6synF-2FKfnQiVRRLUoDIUMhfs4u-2FYxX7cG=
+BsdIiTsqT2eyikPPh7PCWrOD2QalRAGKN5-2B7v6UjNytqJCIzmmd2wkfW-2FydAnm9fRTfJGbO=
+icbQ-3D-3D>      [http://assets.cdn.paperlessreceipts.co.uk/img/emails/fred=
+_perry/social-youtube.acb45c92.png] <https://u694255.ct.sendgrid.net/wf/cli=
+ck?upn=3Dxb1di3Yz7-2Ff4jAsEpF-2Biaf-2FSAoC4RV5CIrsp6JpM0VOYytOu9qa4MGmDqwdp=
+ZP-2ByXiLQSSOgm1hzuGVh7KO1OQ-3D-3D_hygGXsJdunS6iKu8AuW23lni7RbX32xWKlihKQvn=
+lhSmqHjvRz0vCCCkTMlWASSLzz1vnCRZmawTuWscGt6zqOxoKQmomEgkayoZiKXdiL2bYT-2BEb=
+kpAXaE3aqlA4IT8f2a8uflsk1uO54rCylmgYOo-2BvAHd5Bxst-2FaQ5Q-2BdRidNvYtGyaW0H-=
+2BpVJ4ScUgp2kur8RuQa1EsX7yxAyytXtNUxJN-2BlK6iAmy1tXF3Ruj4q2KEdGWUMdlV7B-2F3=
+fl4hy5UL2pCp5aZD5EksxsCR7RRTRyHVD6UcDocbAk6XBNLSwA1WLiJT7kJSmGuuWxm1JSQ6T4e=
+qqzxpbw8W3m0ZN2rLYIhyuWsQke1CtALHMWUYah85OjIafE5sDEGPFmEodWmXQxrV1lYBWA68J1=
+XnZMZIDuVY-2FK7fXw-2B8vA1p5Jcp1oYsK3CpBG50UK2ynvfF-2B1Z1AgI1GkGhoorQE9dhogA=
+-3D-3D>
+
+
+
+This is an email from Fred Perry Ltd, registered at 14 James Street, Covent=
+ Garden, London, WC2E 8BU.
+
+Company Registration No. 3114528 England. VAT Registration No. GB 668 01 67=
+ 20
+
+
+
+
+[http://assets.cdn.paperlessreceipts.co.uk/img/emails/ereceipts-small.36bec=
+83e.png]<https://u694255.ct.sendgrid.net/wf/click?upn=3D3YsdTF0rpaap78Fyjxk=
+EXSaS8rrB7FsS7I4M3EWBU-2B0-3D_hygGXsJdunS6iKu8AuW23lni7RbX32xWKlihKQvnlhSmq=
+HjvRz0vCCCkTMlWASSLzz1vnCRZmawTuWscGt6zqOxoKQmomEgkayoZiKXdiL2bYT-2BEbkpAXa=
+E3aqlA4IT8f2a8uflsk1uO54rCylmgYOo-2BvAHd5Bxst-2FaQ5Q-2BdRidNvYtGyaW0H-2BpVJ=
+4ScUgp2kur8RuQa1EsX7yxAyytXtNUxJN-2BlK6iAmy1tXF3Ruj4q2KEdGWUMdlV7B-2F3fl4hy=
+5UL2pCp5aZD5EksxsCR7RRTRyHVD6UcDocbAk6XBNLSwA1WLiJT7kJSmGuuWxm1J1d6G8jIEz-2=
+FeI83GiTFU1gDtuCWRPszNgnQihAygyW7qC87CaQT1tEh34lFQ9r7DiHV6KAD3zPgthU4C12UxV=
+STkhiVoldydsn482mXJnuRpSY0ZJA8PdTlKzjfbRwB3z3w0RbqcW6GgeYdd1DS6iXA-3D-3D>
+
+
+
+
+
+
+--_000_DB5PR05MB1688BBF801B791027342923394BC0DB5PR05MB1688eurp_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;font=
+-family:Calibri,Arial,Helvetica,sans-serif;" dir=3D"ltr">
+<p><br>
+</p>
+<br>
+<br>
+<div style=3D"color: rgb(0, 0, 0);">
+<hr tabindex=3D"-1" style=3D"display:inline-block; width:98%">
+<div id=3D"divRplyFwdMsg" dir=3D"ltr"><font face=3D"Calibri, sans-serif" co=
+lor=3D"#000000" style=3D"font-size:11pt"><b>From:</b> Fred Perry &lt;norepl=
+y@ereceipts.co.uk&gt;<br>
+<b>Sent:</b> 02 November 2016 14:14<br>
+<b>To:</b> english_peter@hotmail.com<br>
+<b>Subject:</b> Your Fred Perry eReceipt</font>
+<div>&nbsp;</div>
+</div>
+<div>
+<table class=3D"body" height=3D"100%" style=3D"border-collapse:collapse; bo=
+rder-spacing:0; padding:0; text-align:left; vertical-align:top; height:100%=
+; width:100%; color:#808080; font-family:'Helvetica Neue','Helvetica','Aria=
+l',sans-serif; font-weight:normal; line-height:19px; margin:0; font-size:14=
+px">
+<tbody>
+<tr style=3D"padding:0; text-align:left; vertical-align:top">
+<td class=3D"center" align=3D"center" valign=3D"top" style=3D"word-break:br=
+eak-word; padding:0; text-align:center; vertical-align:top; color:#808080; =
+font-family:'Helvetica Neue','Helvetica','Arial',sans-serif; font-weight:no=
+rmal; line-height:19px; margin:0; font-size:14px; border-collapse:collapse!=
+important">
+<center style=3D"min-width:580px; width:100%">
+<table class=3D"row header" style=3D"border-collapse:collapse; border-spaci=
+ng:0; padding:0; text-align:left; vertical-align:top; width:100%">
+<tbody>
+<tr style=3D"padding:0; text-align:left; vertical-align:top">
+<td class=3D"center" align=3D"center" style=3D"word-break:break-word; paddi=
+ng:0; text-align:center; vertical-align:top; color:#808080; font-family:'He=
+lvetica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-heig=
+ht:19px; margin:0; font-size:14px; border-collapse:collapse!important">
+<center style=3D"min-width:580px; width:100%">
+<table class=3D"container" style=3D"border-collapse:collapse; border-spacin=
+g:0; padding:0; text-align:inherit; vertical-align:top; margin:0 auto; widt=
+h:580px">
+<tbody>
+<tr style=3D"padding:0; text-align:left; vertical-align:top">
+<td class=3D"wrapper last top" style=3D"word-break:break-word; padding:10px=
+ 20px 0 0; text-align:left; vertical-align:top; color:#808080; font-family:=
+'Helvetica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-h=
+eight:19px; margin:0; font-size:14px; padding-right:0; border-collapse:coll=
+apse!important; padding-top:0!important">
+<table class=3D"twelve columns" style=3D"border-collapse:collapse; border-s=
+pacing:0; padding:0; text-align:left; vertical-align:top; margin:0 auto; wi=
+dth:580px">
+<tbody>
+<tr style=3D"padding:0; text-align:left; vertical-align:top">
+<td class=3D"twelve sub-columns last" align=3D"right" style=3D"word-break:b=
+reak-word; padding:0 0 2px; text-align:right; vertical-align:middle; color:=
+#808080; font-family:'Helvetica Neue','Helvetica','Arial',sans-serif; font-=
+weight:normal; line-height:19px; margin:0; font-size:14px; min-width:0; pad=
+ding-right:0; width:100%; border-collapse:collapse!important">
+<a target=3D"_blank" href=3D"https://u694255.ct.sendgrid.net/wf/click?upn=
+=3DlrJ9uteB1d19L-2Bkpad2Id9PxvuOSGqgeaz-2FOccwOZjw-3D_hygGXsJdunS6iKu8AuW23=
+lni7RbX32xWKlihKQvnlhSmqHjvRz0vCCCkTMlWASSLzz1vnCRZmawTuWscGt6zqOxoKQmomEgk=
+ayoZiKXdiL2bYT-2BEbkpAXaE3aqlA4IT8f2a8uflsk1uO54rCylmgYOo-2BvAHd5Bxst-2FaQ5=
+Q-2BdRidNvYtGyaW0H-2BpVJ4ScUgp2kur8RuQa1EsX7yxAyytXtNUxJN-2BlK6iAmy1tXF3Ruj=
+4q2KEdGWUMdlV7B-2F3fl4hy5UL2pCp5aZD5EksxsCR7RRTRyHVD6UcDocbAk6XBNLSwA1WLiJT=
+7kJSmGuuWxm1Jv6iZj5S25PYEOV83-2F7x7CDaDz6WKjKfSU604qa9PmsoGOBe9DxdVnMdloI5A=
+a8tO-2Bb0wISMozsgMKUL-2BYz8boc4pjwqSBaQ5YV-2Flohf2NQm7ifWsScs-2FJj-2FeaZks6=
+UKm-2BHQPkDpe-2FbbhM2z9bCcBSw-3D-3D" style=3D"color:#2ba6cb; text-decoratio=
+n:none"><img align=3D"left" style=3D"clear: both; display: block; float: le=
+ft; max-width: 100%; outline: none; text-decoration: none; width: 100%; bor=
+der: none; user-select: none;" src=3D"http://assets.cdn.paperlessreceipts.c=
+o.uk/img/emails/fred_perry/ereceipt_header_2.3f88e286.png"></a>
+</td>
+<td class=3D"expander" style=3D"word-break:break-word; padding:0!important;=
+ text-align:left; vertical-align:top; color:#808080; font-family:'Helvetica=
+ Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-height:19px=
+; margin:0; font-size:14px; visibility:hidden; width:0; border-collapse:col=
+lapse!important">
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+</td>
+</tr>
+</tbody>
+</table>
+<table class=3D"container" style=3D"border-collapse:collapse; border-spacin=
+g:0; padding:0; text-align:inherit; vertical-align:top; margin:0 auto; widt=
+h:580px">
+<tbody>
+<tr style=3D"padding:0; text-align:left; vertical-align:top">
+<td style=3D"word-break:break-word; padding:0; text-align:left; vertical-al=
+ign:top; color:#808080; font-family:'Helvetica Neue','Helvetica','Arial',sa=
+ns-serif; font-weight:normal; line-height:19px; margin:0; font-size:14px; b=
+order-collapse:collapse!important">
+<table class=3D"row spacer" height=3D"20" style=3D"border-collapse:collapse=
+; border-spacing:0; padding:0; text-align:left; vertical-align:top; height:=
+20px; width:100%; display:block">
+<tbody>
+<tr style=3D"padding:0; text-align:left; vertical-align:top">
+<td style=3D"word-break:break-word; padding:0; text-align:left; vertical-al=
+ign:top; color:#808080; font-family:'Helvetica Neue','Helvetica','Arial',sa=
+ns-serif; font-weight:normal; line-height:19px; margin:0; font-size:14px; b=
+order-collapse:collapse!important">
+</td>
+</tr>
+</tbody>
+</table>
+<table class=3D"row" style=3D"border-collapse:collapse; border-spacing:0; p=
+adding:0; text-align:left; vertical-align:top; width:100%; display:block">
+<tbody>
+<tr style=3D"padding:0; text-align:left; vertical-align:top">
+<td class=3D"wrapper last" style=3D"word-break:break-word; padding:10px 20p=
+x 0 0; text-align:left; vertical-align:top; color:#808080; font-family:'Hel=
+vetica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-heigh=
+t:19px; margin:0; font-size:14px; padding-right:0; border-collapse:collapse=
+!important">
+<table class=3D"twelve columns" style=3D"border-collapse:collapse; border-s=
+pacing:0; padding:0; text-align:left; vertical-align:top; margin:0 auto; wi=
+dth:580px">
+<tbody>
+<tr style=3D"padding:0; text-align:left; vertical-align:top">
+<td class=3D"six sub-columns" style=3D"word-break:break-word; padding:0 0 2=
+px; text-align:left; vertical-align:top; color:#808080; font-family:'Helvet=
+ica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-height:1=
+9px; margin:0; font-size:14px; min-width:0; padding-right:10px; width:50%; =
+border-collapse:collapse!important">
+<p style=3D"margin:0; color:#808080; font-family:'Helvetica Neue','Helvetic=
+a','Arial',sans-serif; font-weight:normal; line-height:19px; padding:0; tex=
+t-align:left; font-size:14px; margin-bottom:0">
+Transaction ID: T6145CG20060447</p>
+<p style=3D"margin:0; color:#808080; font-family:'Helvetica Neue','Helvetic=
+a','Arial',sans-serif; font-weight:normal; line-height:19px; padding:0; tex=
+t-align:left; font-size:14px; margin-bottom:0; margin-top:10px">
+<img align=3D"left" style=3D"clear: both; display: block; float: left; max-=
+width: 100%; outline: none; text-decoration: none; width: auto; user-select=
+: none;" src=3D"http://barcodes.ereceipts.co.uk/c93/T6145CG20060447.png?s=
+=3DQsaMGfdlDRgC4j%2BeqRZ8rslLrmU%3D"></p>
+</td>
+<td class=3D"six sub-columns last" style=3D"word-break:break-word; padding:=
+0 0 2px; text-align:left; vertical-align:top; color:#808080; font-family:'H=
+elvetica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-hei=
+ght:19px; margin:0; font-size:14px; min-width:0; padding-right:0; width:50%=
+; border-collapse:collapse!important">
+<p class=3D"right-align" style=3D"margin:0; color:#808080; font-family:'Hel=
+vetica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-heigh=
+t:19px; padding:0; text-align:right; font-size:14px; margin-bottom:0">
+Transaction Date:</p>
+<p class=3D"right-align" style=3D"margin:0; color:#808080; font-family:'Hel=
+vetica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-heigh=
+t:19px; padding:0; text-align:right; font-size:14px; margin-bottom:0">
+2 Nov 2016, 14:15</p>
+</td>
+<td class=3D"expander" style=3D"word-break:break-word; padding:0!important;=
+ text-align:left; vertical-align:top; color:#808080; font-family:'Helvetica=
+ Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-height:19px=
+; margin:0; font-size:14px; visibility:hidden; width:0; border-collapse:col=
+lapse!important">
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<br>
+<table class=3D"row spacer" height=3D"20" style=3D"border-collapse:collapse=
+; border-spacing:0; padding:0; text-align:left; vertical-align:top; height:=
+20px; width:100%; display:block">
+<tbody>
+<tr style=3D"padding:0; text-align:left; vertical-align:top">
+<td style=3D"word-break:break-word; padding:0; text-align:left; vertical-al=
+ign:top; color:#808080; font-family:'Helvetica Neue','Helvetica','Arial',sa=
+ns-serif; font-weight:normal; line-height:19px; margin:0; font-size:14px; b=
+order-collapse:collapse!important">
+</td>
+</tr>
+</tbody>
+</table>
+<table class=3D"row products" style=3D"border-collapse:collapse; border-spa=
+cing:0; padding:0; text-align:left; vertical-align:top; width:100%; display=
+:block">
+<tbody>
+<tr style=3D"padding:0; text-align:left; vertical-align:top">
+<td class=3D"wrapper last" style=3D"word-break:break-word; padding:10px 20p=
+x 0 0; text-align:left; vertical-align:top; color:#808080; font-family:'Hel=
+vetica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-heigh=
+t:19px; margin:0; font-size:14px; padding-right:0; border-collapse:collapse=
+!important; padding-top:0">
+<table class=3D"twelve columns text-pad" style=3D"border-collapse:collapse;=
+ border-spacing:0; padding:0; text-align:left; vertical-align:top; margin:0=
+ auto; width:580px">
+<tbody>
+<tr style=3D"padding:0; text-align:left; vertical-align:top">
+<td class=3D"two sub-columns heading" style=3D"word-break:break-word; paddi=
+ng:0 0 2px; text-align:left; vertical-align:top; color:#000; font-family:'H=
+elvetica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-hei=
+ght:19px; margin:0; font-size:14px; text-transform:uppercase; min-width:0; =
+padding-right:10px; width:16.666666%; border-collapse:collapse!important">
+ITEM NO.</td>
+<td class=3D"two sub-columns heading" style=3D"word-break:break-word; paddi=
+ng:0 0 2px; text-align:left; vertical-align:top; color:#000; font-family:'H=
+elvetica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-hei=
+ght:19px; margin:0; font-size:14px; text-transform:uppercase; min-width:0; =
+padding-right:10px; width:16.666666%; border-collapse:collapse!important">
+COLOUR</td>
+<td class=3D"four sub-columns heading" style=3D"word-break:break-word; padd=
+ing:0 0 2px; text-align:left; vertical-align:top; color:#000; font-family:'=
+Helvetica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-he=
+ight:19px; margin:0; font-size:14px; text-transform:uppercase; min-width:0;=
+ padding-right:0; width:33.333333%; border-collapse:collapse!important">
+DESCRIPTION</td>
+<td class=3D"two sub-columns heading" style=3D"word-break:break-word; paddi=
+ng:0 0 2px; text-align:right; vertical-align:top; color:#000; font-family:'=
+Helvetica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-he=
+ight:19px; margin:0; font-size:14px; text-transform:uppercase; min-width:0;=
+ padding-right:10px; width:16.666666%; border-collapse:collapse!important">
+SIZE</td>
+<td class=3D"two sub-columns last heading" style=3D"word-break:break-word; =
+padding:0 0 2px; text-align:right; vertical-align:top; color:#000; font-fam=
+ily:'Helvetica Neue','Helvetica','Arial',sans-serif; font-weight:normal; li=
+ne-height:19px; margin:0; font-size:14px; text-transform:uppercase; min-wid=
+th:0; padding-right:0; width:16.666666%; border-collapse:collapse!important=
+">
+AMOUNT</td>
+</tr>
+<tr style=3D"padding:0; text-align:left; vertical-align:top">
+<td class=3D"two sub-columns" style=3D"word-break:break-word; padding:0 0 2=
+px; text-align:left; vertical-align:top; color:#808080; font-family:'Helvet=
+ica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-height:1=
+9px; margin:0; font-size:14px; min-width:0; padding-right:10px; width:16.66=
+6666%; border-collapse:collapse!important">
+M9614</td>
+<td class=3D"two sub-columns" style=3D"word-break:break-word; padding:0 0 2=
+px; text-align:left; vertical-align:top; color:#808080; font-family:'Helvet=
+ica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-height:1=
+9px; margin:0; font-size:14px; min-width:0; padding-right:10px; width:16.66=
+6666%; border-collapse:collapse!important">
+420</td>
+<td class=3D"four sub-columns" style=3D"word-break:break-word; padding:0 0 =
+2px; text-align:left; vertical-align:top; color:#808080; font-family:'Helve=
+tica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-height:=
+19px; margin:0; font-size:14px; min-width:0; padding-right:0; width:33.3333=
+33%; border-collapse:collapse!important; text-transform:capitalize">
+RINGER T-SHIRT</td>
+<td class=3D"two sub-columns" style=3D"word-break:break-word; padding:0 0 2=
+px; text-align:right; vertical-align:top; color:#808080; font-family:'Helve=
+tica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-height:=
+19px; margin:0; font-size:14px; min-width:0; padding-right:10px; width:16.6=
+66666%; border-collapse:collapse!important">
+M</td>
+<td class=3D"two sub-columns last" style=3D"word-break:break-word; padding:=
+0 0 2px; text-align:right; vertical-align:top; color:#808080; font-family:'=
+Helvetica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-he=
+ight:19px; margin:0; font-size:14px; min-width:0; padding-right:0; width:16=
+.666666%; border-collapse:collapse!important">
+=A335.00 </td>
+</tr>
+<tr style=3D"padding:0; text-align:left; vertical-align:top">
+<td class=3D"two sub-columns" style=3D"word-break:break-word; padding:0 0 2=
+px; text-align:left; vertical-align:top; color:#808080; font-family:'Helvet=
+ica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-height:1=
+9px; margin:0; font-size:14px; min-width:0; padding-right:10px; width:16.66=
+6666%; border-collapse:collapse!important">
+</td>
+<td class=3D"two sub-columns" style=3D"word-break:break-word; padding:0 0 2=
+px; text-align:left; vertical-align:top; color:#808080; font-family:'Helvet=
+ica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-height:1=
+9px; margin:0; font-size:14px; min-width:0; padding-right:10px; width:16.66=
+6666%; border-collapse:collapse!important">
+</td>
+<td class=3D"four sub-columns" style=3D"word-break:break-word; padding:0 0 =
+2px; text-align:left; vertical-align:top; color:#808080; font-family:'Helve=
+tica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-height:=
+19px; margin:0; font-size:14px; min-width:0; padding-right:0; width:33.3333=
+33%; border-collapse:collapse!important; text-transform:capitalize">
+</td>
+<td class=3D"two sub-columns" style=3D"word-break:break-word; padding:0 0 2=
+px; text-align:right; vertical-align:top; color:#808080; font-family:'Helve=
+tica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-height:=
+19px; margin:0; font-size:14px; min-width:0; padding-right:10px; width:16.6=
+66666%; border-collapse:collapse!important">
+</td>
+<td class=3D"two sub-columns last" style=3D"word-break:break-word; padding:=
+0 0 2px; text-align:right; vertical-align:top; color:#808080; font-family:'=
+Helvetica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-he=
+ight:19px; margin:0; font-size:14px; min-width:0; padding-right:0; width:16=
+.666666%; border-collapse:collapse!important">
+</td>
+</tr>
+<tr style=3D"padding:0; text-align:left; vertical-align:top">
+<td class=3D"two sub-columns" style=3D"word-break:break-word; padding:0 0 2=
+px; text-align:left; vertical-align:top; color:#808080; font-family:'Helvet=
+ica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-height:1=
+9px; margin:0; font-size:14px; min-width:0; padding-right:10px; width:16.66=
+6666%; border-collapse:collapse!important">
+</td>
+<td class=3D"two sub-columns" style=3D"word-break:break-word; padding:0 0 2=
+px; text-align:left; vertical-align:top; color:#808080; font-family:'Helvet=
+ica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-height:1=
+9px; margin:0; font-size:14px; min-width:0; padding-right:10px; width:16.66=
+6666%; border-collapse:collapse!important">
+</td>
+<td class=3D"four sub-columns" style=3D"word-break:break-word; padding:0 0 =
+2px; text-align:left; vertical-align:top; color:#808080; font-family:'Helve=
+tica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-height:=
+19px; margin:0; font-size:14px; min-width:0; padding-right:0; width:33.3333=
+33%; border-collapse:collapse!important; text-transform:capitalize">
+</td>
+<td class=3D"two sub-columns" style=3D"word-break:break-word; padding:0 0 2=
+px; text-align:right; vertical-align:top; color:#808080; font-family:'Helve=
+tica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-height:=
+19px; margin:0; font-size:14px; min-width:0; padding-right:10px; width:16.6=
+66666%; border-collapse:collapse!important">
+</td>
+<td class=3D"two sub-columns last" style=3D"word-break:break-word; padding:=
+0 0 2px; text-align:right; vertical-align:top; color:#808080; font-family:'=
+Helvetica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-he=
+ight:19px; margin:0; font-size:14px; min-width:0; padding-right:0; width:16=
+.666666%; border-collapse:collapse!important">
+</td>
+</tr>
+<tr class=3D"spacer" height=3D"20" style=3D"padding:0; text-align:left; ver=
+tical-align:top; height:20px">
+<td class=3D"two sub-columns" style=3D"word-break:break-word; padding:0 0 2=
+px; text-align:left; vertical-align:top; color:#808080; font-family:'Helvet=
+ica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-height:1=
+9px; margin:0; font-size:14px; min-width:0; padding-right:10px; width:16.66=
+6666%; border-collapse:collapse!important">
+</td>
+<td class=3D"two sub-columns" style=3D"word-break:break-word; padding:0 0 2=
+px; text-align:left; vertical-align:top; color:#808080; font-family:'Helvet=
+ica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-height:1=
+9px; margin:0; font-size:14px; min-width:0; padding-right:10px; width:16.66=
+6666%; border-collapse:collapse!important">
+</td>
+<td class=3D"four sub-columns" style=3D"word-break:break-word; padding:0 0 =
+2px; text-align:left; vertical-align:top; color:#808080; font-family:'Helve=
+tica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-height:=
+19px; margin:0; font-size:14px; min-width:0; padding-right:10px; width:33.3=
+33333%; border-collapse:collapse!important">
+</td>
+<td class=3D"two sub-columns" style=3D"word-break:break-word; padding:0 0 2=
+px; text-align:left; vertical-align:top; color:#808080; font-family:'Helvet=
+ica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-height:1=
+9px; margin:0; font-size:14px; min-width:0; padding-right:10px; width:16.66=
+6666%; border-collapse:collapse!important">
+</td>
+<td class=3D"two sub-columns last" style=3D"word-break:break-word; padding:=
+0 0 2px; text-align:left; vertical-align:top; color:#808080; font-family:'H=
+elvetica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-hei=
+ght:19px; margin:0; font-size:14px; min-width:0; padding-right:0; width:16.=
+666666%; border-collapse:collapse!important">
+</td>
+</tr>
+<tr style=3D"padding:0; text-align:left; vertical-align:top">
+<td class=3D"two sub-columns" style=3D"word-break:break-word; padding:0 0 2=
+px; text-align:left; vertical-align:top; color:#808080; font-family:'Helvet=
+ica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-height:1=
+9px; margin:0; font-size:14px; min-width:0; padding-right:10px; width:16.66=
+6666%; border-collapse:collapse!important; border-top:1px solid #d3d3d3; pa=
+dding-top:5px">
+</td>
+<td class=3D"two sub-columns" style=3D"word-break:break-word; padding:0 0 2=
+px; text-align:left; vertical-align:top; color:#808080; font-family:'Helvet=
+ica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-height:1=
+9px; margin:0; font-size:14px; min-width:0; padding-right:10px; width:16.66=
+6666%; border-collapse:collapse!important; border-top:1px solid #d3d3d3; pa=
+dding-top:5px">
+</td>
+<td class=3D"four sub-columns" style=3D"word-break:break-word; padding:0 0 =
+2px; text-align:left; vertical-align:top; color:#808080; font-family:'Helve=
+tica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-height:=
+19px; margin:0; font-size:14px; min-width:0; padding-right:10px; width:33.3=
+33333%; border-collapse:collapse!important; border-top:1px solid #d3d3d3; p=
+adding-top:5px">
+</td>
+<td class=3D"two sub-columns" style=3D"word-break:break-word; padding:0 0 2=
+px; text-align:right; vertical-align:top; color:#808080; font-family:'Helve=
+tica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-height:=
+19px; margin:0; font-size:14px; min-width:0; padding-right:10px; width:16.6=
+66666%; border-collapse:collapse!important; border-top:1px solid #d3d3d3; p=
+adding-top:5px">
+Subtotal</td>
+<td class=3D"two sub-columns last" style=3D"word-break:break-word; padding:=
+0 0 2px; text-align:right; vertical-align:top; color:#808080; font-family:'=
+Helvetica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-he=
+ight:19px; margin:0; font-size:14px; min-width:0; padding-right:0; width:16=
+.666666%; border-collapse:collapse!important; border-top:1px solid #d3d3d3;=
+ padding-top:5px">
+=A329.17</td>
+</tr>
+<tr style=3D"padding:0; text-align:left; vertical-align:top">
+<td class=3D"two sub-columns" style=3D"word-break:break-word; padding:0 0 2=
+px; text-align:left; vertical-align:top; color:#808080; font-family:'Helvet=
+ica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-height:1=
+9px; margin:0; font-size:14px; min-width:0; padding-right:10px; width:16.66=
+6666%; border-collapse:collapse!important">
+</td>
+<td class=3D"two sub-columns" style=3D"word-break:break-word; padding:0 0 2=
+px; text-align:left; vertical-align:top; color:#808080; font-family:'Helvet=
+ica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-height:1=
+9px; margin:0; font-size:14px; min-width:0; padding-right:10px; width:16.66=
+6666%; border-collapse:collapse!important">
+</td>
+<td class=3D"four sub-columns" style=3D"word-break:break-word; padding:0 0 =
+2px; text-align:left; vertical-align:top; color:#808080; font-family:'Helve=
+tica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-height:=
+19px; margin:0; font-size:14px; min-width:0; padding-right:10px; width:33.3=
+33333%; border-collapse:collapse!important">
+</td>
+<td class=3D"two sub-columns" style=3D"word-break:break-word; padding:0 0 2=
+px; text-align:right; vertical-align:top; color:#808080; font-family:'Helve=
+tica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-height:=
+19px; margin:0; font-size:14px; min-width:0; padding-right:10px; width:16.6=
+66666%; border-collapse:collapse!important">
+VAT @ 20%</td>
+<td class=3D"two sub-columns last" style=3D"word-break:break-word; padding:=
+0 0 2px; text-align:right; vertical-align:top; color:#808080; font-family:'=
+Helvetica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-he=
+ight:19px; margin:0; font-size:14px; min-width:0; padding-right:0; width:16=
+.666666%; border-collapse:collapse!important">
+=A35.83</td>
+</tr>
+<tr style=3D"padding:0; text-align:left; vertical-align:top">
+<td class=3D"two sub-columns" style=3D"word-break:break-word; padding:0 0 2=
+px; text-align:left; vertical-align:top; color:#808080; font-family:'Helvet=
+ica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-height:1=
+9px; margin:0; font-size:14px; min-width:0; padding-right:10px; width:16.66=
+6666%; border-collapse:collapse!important">
+</td>
+<td class=3D"two sub-columns" style=3D"word-break:break-word; padding:0 0 2=
+px; text-align:left; vertical-align:top; color:#808080; font-family:'Helvet=
+ica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-height:1=
+9px; margin:0; font-size:14px; min-width:0; padding-right:10px; width:16.66=
+6666%; border-collapse:collapse!important">
+</td>
+<td class=3D"four sub-columns" style=3D"word-break:break-word; padding:0 0 =
+2px; text-align:left; vertical-align:top; color:#808080; font-family:'Helve=
+tica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-height:=
+19px; margin:0; font-size:14px; min-width:0; padding-right:10px; width:33.3=
+33333%; border-collapse:collapse!important">
+</td>
+<td class=3D"two sub-columns" style=3D"word-break:break-word; padding:0 0 2=
+px; text-align:right; vertical-align:top; color:#000; font-family:'Helvetic=
+a Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-height:19p=
+x; margin:0; font-size:14px; min-width:0; padding-right:10px; width:16.6666=
+66%; border-collapse:collapse!important">
+Total</td>
+<td class=3D"two sub-columns last" style=3D"word-break:break-word; padding:=
+0 0 2px; text-align:right; vertical-align:top; color:#000; font-family:'Hel=
+vetica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-heigh=
+t:19px; margin:0; font-size:14px; min-width:0; padding-right:0; width:16.66=
+6666%; border-collapse:collapse!important">
+=A335.00</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class=3D"row spacer" height=3D"20" style=3D"border-collapse:collapse=
+; border-spacing:0; padding:0; text-align:left; vertical-align:top; height:=
+20px; width:100%; display:block">
+<tbody>
+<tr style=3D"padding:0; text-align:left; vertical-align:top">
+<td style=3D"word-break:break-word; padding:0; text-align:left; vertical-al=
+ign:top; color:#808080; font-family:'Helvetica Neue','Helvetica','Arial',sa=
+ns-serif; font-weight:normal; line-height:19px; margin:0; font-size:14px; b=
+order-collapse:collapse!important">
+</td>
+</tr>
+</tbody>
+</table>
+<table class=3D"row spacer" height=3D"20" style=3D"border-collapse:collapse=
+; border-spacing:0; padding:0; text-align:left; vertical-align:top; height:=
+20px; width:100%; display:block">
+<tbody>
+<tr style=3D"padding:0; text-align:left; vertical-align:top">
+<td style=3D"word-break:break-word; padding:0; text-align:left; vertical-al=
+ign:top; color:#808080; font-family:'Helvetica Neue','Helvetica','Arial',sa=
+ns-serif; font-weight:normal; line-height:19px; margin:0; font-size:14px; b=
+order-collapse:collapse!important">
+</td>
+</tr>
+</tbody>
+</table>
+<table class=3D"row" style=3D"border-collapse:collapse; border-spacing:0; p=
+adding:0; text-align:left; vertical-align:top; width:100%; display:block">
+<tbody>
+<tr style=3D"padding:0; text-align:left; vertical-align:top">
+<td class=3D"wrapper last" style=3D"word-break:break-word; padding:10px 20p=
+x 0 0; text-align:left; vertical-align:top; color:#808080; font-family:'Hel=
+vetica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-heigh=
+t:19px; margin:0; font-size:14px; padding-right:0; border-collapse:collapse=
+!important">
+<table class=3D"twelve columns" style=3D"border-collapse:collapse; border-s=
+pacing:0; padding:0; text-align:left; vertical-align:top; margin:0 auto; wi=
+dth:580px">
+<tbody>
+<tr style=3D"padding:0; text-align:left; vertical-align:top">
+<td class=3D"six sub-columns" style=3D"word-break:break-word; padding:0 0 2=
+px; text-align:left; vertical-align:top; color:#808080; font-family:'Helvet=
+ica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-height:1=
+9px; margin:0; font-size:14px; min-width:0; padding-right:10px; width:50%; =
+border-collapse:collapse!important">
+<span class=3D"heading" style=3D"color:#000; text-transform:uppercase">PAYM=
+ENT METHOD</span>
+<br>
+Payment Type: Card<br>
+Amount: =A335.00 <br>
+Card Type: Visa <br>
+<br>
+<br>
+</td>
+<td class=3D"six sub-columns last" style=3D"word-break:break-word; padding:=
+0 0 2px; text-align:left; vertical-align:top; color:#808080; font-family:'H=
+elvetica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-hei=
+ght:19px; margin:0; font-size:14px; min-width:0; padding-right:0; width:50%=
+; border-collapse:collapse!important">
+<p class=3D"right-align" style=3D"margin:0; color:#808080; font-family:'Hel=
+vetica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-heigh=
+t:19px; padding:0; text-align:right; font-size:14px; margin-bottom:0">
+<span class=3D"heading" style=3D"color:#000; text-transform:uppercase">STOR=
+E ADDRESS</span>
+<br>
+Covent Garden, 9 Henrietta Street <br>
+London, WC2E 8PW</p>
+</td>
+<td class=3D"expander" style=3D"word-break:break-word; padding:0!important;=
+ text-align:left; vertical-align:top; color:#808080; font-family:'Helvetica=
+ Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-height:19px=
+; margin:0; font-size:14px; visibility:hidden; width:0; border-collapse:col=
+lapse!important">
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class=3D"row footer" style=3D"border-collapse:collapse; border-spaci=
+ng:0; padding:0; text-align:left; vertical-align:top; width:100%; display:b=
+lock">
+<tbody>
+<tr style=3D"padding:0; text-align:left; vertical-align:top">
+<td class=3D"wrapper last offset-by-one" style=3D"word-break:break-word; pa=
+dding:10px 20px 0 0; text-align:left; vertical-align:top; color:#808080; fo=
+nt-family:'Helvetica Neue','Helvetica','Arial',sans-serif; font-weight:norm=
+al; line-height:19px; margin:0; font-size:14px; padding-left:50px; backgrou=
+nd:#fff; padding-right:0; border-collapse:collapse!important">
+<table class=3D"ten columns" style=3D"border-collapse:collapse; border-spac=
+ing:0; padding:0; text-align:left; vertical-align:top; margin:0 auto; width=
+:480px">
+<tbody>
+<tr style=3D"padding:0; text-align:left; vertical-align:top">
+<td style=3D"word-break:break-word; padding:0 0 2px; text-align:left; verti=
+cal-align:top; color:#808080; font-family:'Helvetica Neue','Helvetica','Ari=
+al',sans-serif; font-weight:normal; line-height:19px; margin:0; font-size:1=
+4px; border-collapse:collapse!important">
+<p class=3D"heading" style=3D"margin:0; color:#000; font-family:'Helvetica =
+Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-height:19px;=
+ padding:0; text-align:center; font-size:14px; margin-bottom:0; text-transf=
+orm:uppercase">
+Refund and Exchange Policy</p>
+<br>
+<p style=3D"margin:0; color:#808080; font-family:'Helvetica Neue','Helvetic=
+a','Arial',sans-serif; font-weight:normal; line-height:19px; padding:0; tex=
+t-align:center; font-size:14px; margin-bottom:0">
+Please return any unwanted merchandise to a Fred Perry shop for a full refu=
+nd or exchange within 28 days. Goods returned must be unworn, in a saleable=
+ condition with tickets attached with a valid proof of purchase, being a pa=
+per POS receipt, or a printed copy
+ of the ereceipt. Refunds and exchanges can only be made in country of purc=
+hase</p>
+<br>
+<p style=3D"margin:0; color:#808080; font-family:'Helvetica Neue','Helvetic=
+a','Arial',sans-serif; font-weight:normal; line-height:19px; padding:0; tex=
+t-align:center; font-size:14px; margin-bottom:0">
+Full Returns &amp; Exchanges policy can be found <a href=3D"https://u694255=
+.ct.sendgrid.net/wf/click?upn=3DlrJ9uteB1d19L-2Bkpad2Id9PxvuOSGqgeaz-2FOccw=
+OZjwpk-2F-2BkcQH2MBcIOJqDQegrv3i6v92jNoRMhBmHArNTSA-3D-3D_hygGXsJdunS6iKu8A=
+uW23lni7RbX32xWKlihKQvnlhSmqHjvRz0vCCCkTMlWASSLzz1vnCRZmawTuWscGt6zqOxoKQmo=
+mEgkayoZiKXdiL2bYT-2BEbkpAXaE3aqlA4IT8f2a8uflsk1uO54rCylmgYOo-2BvAHd5Bxst-2=
+FaQ5Q-2BdRidNvYtGyaW0H-2BpVJ4ScUgp2kur8RuQa1EsX7yxAyytXtNUxJN-2BlK6iAmy1tXF=
+3Ruj4q2KEdGWUMdlV7B-2F3fl4hy5UL2pCp5aZD5EksxsCR7RRTRyHVD6UcDocbAk6XBNLSwA1W=
+LiJT7kJSmGuuWxm1J36t8cHjafQmKgRpWAKGYuvDqYZVuD4fHj7EKT-2B8Th3NwCXJR8lDkv5P8=
+6S1ueQnj4Z5rX6E4uXZCcgn6lym3OBJW9GeAqK-2BTZ8kD-2B-2FHuZd3gmdBR-2FmkAptc270x=
+aApfhmyN6n1fR3dFHNtdIJCLrHg-3D-3D" style=3D"color:#2ba6cb; text-decoration:=
+none">
+here.</a></p>
+</td>
+<td class=3D"expander" style=3D"word-break:break-word; padding:0!important;=
+ text-align:left; vertical-align:top; color:#808080; font-family:'Helvetica=
+ Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-height:19px=
+; margin:0; font-size:14px; visibility:hidden; width:0; border-collapse:col=
+lapse!important">
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class=3D"row spacer" height=3D"20" style=3D"border-collapse:collapse=
+; border-spacing:0; padding:0; text-align:left; vertical-align:top; height:=
+20px; width:100%; display:block">
+<tbody>
+<tr style=3D"padding:0; text-align:left; vertical-align:top">
+<td style=3D"word-break:break-word; padding:0; text-align:left; vertical-al=
+ign:top; color:#808080; font-family:'Helvetica Neue','Helvetica','Arial',sa=
+ns-serif; font-weight:normal; line-height:19px; margin:0; font-size:14px; b=
+order-collapse:collapse!important">
+</td>
+</tr>
+</tbody>
+</table>
+<table class=3D"row footer" style=3D"border-collapse:collapse; border-spaci=
+ng:0; padding:0; text-align:left; vertical-align:top; width:100%; display:b=
+lock">
+<tbody>
+<tr style=3D"padding:0; text-align:left; vertical-align:top">
+<td class=3D"wrapper last" style=3D"word-break:break-word; padding:10px 20p=
+x 0 0; text-align:left; vertical-align:top; color:#808080; font-family:'Hel=
+vetica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-heigh=
+t:19px; margin:0; font-size:14px; background:#fff; padding-right:0; border-=
+collapse:collapse!important">
+<table class=3D"twelve columns" style=3D"border-collapse:collapse; border-s=
+pacing:0; padding:0; text-align:left; vertical-align:top; margin:0 auto; wi=
+dth:580px">
+<tbody>
+<tr style=3D"padding:0; text-align:left; vertical-align:top">
+<td class=3D"four sub-columns" style=3D"word-break:break-word; padding:0 0 =
+2px; text-align:left; vertical-align:top; color:#808080; font-family:'Helve=
+tica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-height:=
+19px; margin:0; font-size:14px; min-width:0; padding-right:10px; width:33.3=
+33333%; border-collapse:collapse!important">
+</td>
+<td class=3D"one sub-columns" style=3D"word-break:break-word; padding:0 0 2=
+px; text-align:left; vertical-align:top; color:#808080; font-family:'Helvet=
+ica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-height:1=
+9px; margin:0; font-size:14px; min-width:0; padding-right:10px; width:8.333=
+333%; border-collapse:collapse!important">
+<a target=3D"_blank" href=3D"https://u694255.ct.sendgrid.net/wf/click?upn=
+=3DlrJ9uteB1d19L-2Bkpad2Id0NTlRU89TW5JNLTlq9CygZfN2Vp15yPOfWTCa-2FtEWHO_hyg=
+GXsJdunS6iKu8AuW23lni7RbX32xWKlihKQvnlhSmqHjvRz0vCCCkTMlWASSLzz1vnCRZmawTuW=
+scGt6zqOxoKQmomEgkayoZiKXdiL2bYT-2BEbkpAXaE3aqlA4IT8f2a8uflsk1uO54rCylmgYOo=
+-2BvAHd5Bxst-2FaQ5Q-2BdRidNvYtGyaW0H-2BpVJ4ScUgp2kur8RuQa1EsX7yxAyytXtNUxJN=
+-2BlK6iAmy1tXF3Ruj4q2KEdGWUMdlV7B-2F3fl4hy5UL2pCp5aZD5EksxsCR7RRTRyHVD6UcDo=
+cbAk6XBNLSwA1WLiJT7kJSmGuuWxm1JQ8d2YMV8SzcL1i1bR3HomB-2F0Nw3RQad7B5DcM5-2BF=
+c-2BDr-2Bst0iALs-2Fs2lzidM4Qw0NPoc5VyqOMB-2FoxplP8XgtW3k3aDWXxK7-2BE4GuLgGO=
+Z0TO-2F1q01O1Da-2B6tpIFTRVXW9JHRGwNZHpNhHnSiFatmQ-3D-3D" style=3D"color:#2b=
+a6cb; text-decoration:none"><img align=3D"left" style=3D"clear: both; displ=
+ay: block; float: left; max-width: 100%; outline: none; text-decoration: no=
+ne; width: auto; border: none; margin-right: 5px; user-select: none;" src=
+=3D"http://assets.cdn.paperlessreceipts.co.uk/img/emails/fred_perry/social-=
+facebook.b4de2c88.png"></a>
+</td>
+<td class=3D"one sub-columns" style=3D"word-break:break-word; padding:0 0 2=
+px; text-align:left; vertical-align:top; color:#808080; font-family:'Helvet=
+ica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-height:1=
+9px; margin:0; font-size:14px; min-width:0; padding-right:10px; width:8.333=
+333%; border-collapse:collapse!important">
+<a target=3D"_blank" href=3D"https://u694255.ct.sendgrid.net/wf/click?upn=
+=3DlrJ9uteB1d19L-2Bkpad2Id8JGr9w3efyPrXZJsezk8LNZdknwaTbpZ3zh3e-2BGul-2Fr_h=
+ygGXsJdunS6iKu8AuW23lni7RbX32xWKlihKQvnlhSmqHjvRz0vCCCkTMlWASSLzz1vnCRZmawT=
+uWscGt6zqOxoKQmomEgkayoZiKXdiL2bYT-2BEbkpAXaE3aqlA4IT8f2a8uflsk1uO54rCylmgY=
+Oo-2BvAHd5Bxst-2FaQ5Q-2BdRidNvYtGyaW0H-2BpVJ4ScUgp2kur8RuQa1EsX7yxAyytXtNUx=
+JN-2BlK6iAmy1tXF3Ruj4q2KEdGWUMdlV7B-2F3fl4hy5UL2pCp5aZD5EksxsCR7RRTRyHVD6Uc=
+DocbAk6XBNLSwA1WLiJT7kJSmGuuWxm1JTiSVW0U0QdRCQDhey-2FQ-2FHR3KOGGzM-2FT9M-2B=
+UO7uRIUj9-2FmXRd-2FJg-2ByEQLTPfAde1c9UVlJRz05JrJA8Kr2H3du5PehpXwfH-2F4o6NNy=
+hnPcHUu12WM9Vd4kK6dAe8pxB-2BLV0n4WsMTBBJ0-2FbD22P3HUA-3D-3D" style=3D"color=
+:#2ba6cb; text-decoration:none"><img align=3D"left" style=3D"clear: both; d=
+isplay: block; float: left; max-width: 100%; outline: none; text-decoration=
+: none; width: auto; border: none; margin-right: 5px; user-select: none;" s=
+rc=3D"http://assets.cdn.paperlessreceipts.co.uk/img/emails/fred_perry/socia=
+l-insta.b669290e.png"></a>
+</td>
+<td class=3D"one sub-columns" style=3D"word-break:break-word; padding:0 0 2=
+px; text-align:left; vertical-align:top; color:#808080; font-family:'Helvet=
+ica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-height:1=
+9px; margin:0; font-size:14px; min-width:0; padding-right:10px; width:8.333=
+333%; border-collapse:collapse!important">
+<a target=3D"_blank" href=3D"https://u694255.ct.sendgrid.net/wf/click?upn=
+=3DlrJ9uteB1d19L-2Bkpad2Idz967EKbaHVLNowvjZgKrSw7-2BmyFB8OubSaUxWw1ZPeE_hyg=
+GXsJdunS6iKu8AuW23lni7RbX32xWKlihKQvnlhSmqHjvRz0vCCCkTMlWASSLzz1vnCRZmawTuW=
+scGt6zqOxoKQmomEgkayoZiKXdiL2bYT-2BEbkpAXaE3aqlA4IT8f2a8uflsk1uO54rCylmgYOo=
+-2BvAHd5Bxst-2FaQ5Q-2BdRidNvYtGyaW0H-2BpVJ4ScUgp2kur8RuQa1EsX7yxAyytXtNUxJN=
+-2BlK6iAmy1tXF3Ruj4q2KEdGWUMdlV7B-2F3fl4hy5UL2pCp5aZD5EksxsCR7RRTRyHVD6UcDo=
+cbAk6XBNLSwA1WLiJT7kJSmGuuWxm1JM4jd3xte-2B39n9tScmR6hdwgO-2BBo1Mv5oOGf02THM=
+-2BZ6synF-2FKfnQiVRRLUoDIUMhfs4u-2FYxX7cGBsdIiTsqT2eyikPPh7PCWrOD2QalRAGKN5=
+-2B7v6UjNytqJCIzmmd2wkfW-2FydAnm9fRTfJGbOicbQ-3D-3D" style=3D"color:#2ba6cb=
+; text-decoration:none"><img align=3D"left" style=3D"clear: both; display: =
+block; float: left; max-width: 100%; outline: none; text-decoration: none; =
+width: auto; border: none; margin-right: 5px; user-select: none;" src=3D"ht=
+tp://assets.cdn.paperlessreceipts.co.uk/img/emails/fred_perry/social-twitte=
+r.2a50e138.png"></a>
+</td>
+<td class=3D"one sub-columns" style=3D"word-break:break-word; padding:0 0 2=
+px; text-align:left; vertical-align:top; color:#808080; font-family:'Helvet=
+ica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-height:1=
+9px; margin:0; font-size:14px; min-width:0; padding-right:10px; width:8.333=
+333%; border-collapse:collapse!important">
+<a target=3D"_blank" href=3D"https://u694255.ct.sendgrid.net/wf/click?upn=
+=3Dxb1di3Yz7-2Ff4jAsEpF-2Biaf-2FSAoC4RV5CIrsp6JpM0VOYytOu9qa4MGmDqwdpZP-2By=
+XiLQSSOgm1hzuGVh7KO1OQ-3D-3D_hygGXsJdunS6iKu8AuW23lni7RbX32xWKlihKQvnlhSmqH=
+jvRz0vCCCkTMlWASSLzz1vnCRZmawTuWscGt6zqOxoKQmomEgkayoZiKXdiL2bYT-2BEbkpAXaE=
+3aqlA4IT8f2a8uflsk1uO54rCylmgYOo-2BvAHd5Bxst-2FaQ5Q-2BdRidNvYtGyaW0H-2BpVJ4=
+ScUgp2kur8RuQa1EsX7yxAyytXtNUxJN-2BlK6iAmy1tXF3Ruj4q2KEdGWUMdlV7B-2F3fl4hy5=
+UL2pCp5aZD5EksxsCR7RRTRyHVD6UcDocbAk6XBNLSwA1WLiJT7kJSmGuuWxm1JSQ6T4eqqzxpb=
+w8W3m0ZN2rLYIhyuWsQke1CtALHMWUYah85OjIafE5sDEGPFmEodWmXQxrV1lYBWA68J1XnZMZI=
+DuVY-2FK7fXw-2B8vA1p5Jcp1oYsK3CpBG50UK2ynvfF-2B1Z1AgI1GkGhoorQE9dhogA-3D-3D=
+" style=3D"color:#2ba6cb; text-decoration:none"><img align=3D"left" style=
+=3D"clear: both; display: block; float: left; max-width: 100%; outline: non=
+e; text-decoration: none; width: auto; border: none; margin-right: 5px; use=
+r-select: none;" src=3D"http://assets.cdn.paperlessreceipts.co.uk/img/email=
+s/fred_perry/social-youtube.acb45c92.png"></a>
+</td>
+<td class=3D"four sub-columns" style=3D"word-break:break-word; padding:0 0 =
+2px; text-align:left; vertical-align:top; color:#808080; font-family:'Helve=
+tica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-height:=
+19px; margin:0; font-size:14px; min-width:0; padding-right:10px; width:33.3=
+33333%; border-collapse:collapse!important">
+</td>
+<td class=3D"expander" style=3D"word-break:break-word; padding:0!important;=
+ text-align:left; vertical-align:top; color:#808080; font-family:'Helvetica=
+ Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-height:19px=
+; margin:0; font-size:14px; visibility:hidden; width:0; border-collapse:col=
+lapse!important">
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class=3D"row spacer" height=3D"20" style=3D"border-collapse:collapse=
+; border-spacing:0; padding:0; text-align:left; vertical-align:top; height:=
+20px; width:100%; display:block">
+<tbody>
+<tr style=3D"padding:0; text-align:left; vertical-align:top">
+<td style=3D"word-break:break-word; padding:0; text-align:left; vertical-al=
+ign:top; color:#808080; font-family:'Helvetica Neue','Helvetica','Arial',sa=
+ns-serif; font-weight:normal; line-height:19px; margin:0; font-size:14px; b=
+order-collapse:collapse!important">
+</td>
+</tr>
+</tbody>
+</table>
+<table class=3D"row footer" style=3D"border-collapse:collapse; border-spaci=
+ng:0; padding:0; text-align:left; vertical-align:top; width:100%; display:b=
+lock">
+<tbody>
+<tr style=3D"padding:0; text-align:left; vertical-align:top">
+<td class=3D"wrapper last" style=3D"word-break:break-word; padding:10px 20p=
+x 0 0; text-align:left; vertical-align:top; color:#808080; font-family:'Hel=
+vetica Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-heigh=
+t:19px; margin:0; font-size:14px; background:#fff; padding-right:0; border-=
+collapse:collapse!important">
+<table class=3D"twelve columns" style=3D"border-collapse:collapse; border-s=
+pacing:0; padding:0; text-align:left; vertical-align:top; margin:0 auto; wi=
+dth:580px">
+<tbody>
+<tr style=3D"padding:0; text-align:left; vertical-align:top">
+<td style=3D"word-break:break-word; padding:0 0 2px; text-align:left; verti=
+cal-align:top; color:#808080; font-family:'Helvetica Neue','Helvetica','Ari=
+al',sans-serif; font-weight:normal; line-height:19px; margin:0; font-size:1=
+4px; border-collapse:collapse!important">
+<p style=3D"margin:0; color:#808080; font-family:'Helvetica Neue','Helvetic=
+a','Arial',sans-serif; font-weight:normal; line-height:19px; padding:0; tex=
+t-align:center; font-size:0.8em; margin-bottom:0">
+This is an email from Fred Perry Ltd, registered at 14 James Street, Covent=
+ Garden, London, WC2E 8BU.</p>
+<p style=3D"margin:0; color:#808080; font-family:'Helvetica Neue','Helvetic=
+a','Arial',sans-serif; font-weight:normal; line-height:19px; padding:0; tex=
+t-align:center; font-size:0.8em; margin-bottom:0">
+Company Registration No. 3114528 England. VAT Registration No. GB 668 01 67=
+ 20</p>
+</td>
+<td class=3D"expander" style=3D"word-break:break-word; padding:0!important;=
+ text-align:left; vertical-align:top; color:#808080; font-family:'Helvetica=
+ Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-height:19px=
+; margin:0; font-size:14px; visibility:hidden; width:0; border-collapse:col=
+lapse!important">
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class=3D"row spacer" height=3D"20" style=3D"border-collapse:collapse=
+; border-spacing:0; padding:0; text-align:left; vertical-align:top; height:=
+20px; width:100%; display:block">
+<tbody>
+<tr style=3D"padding:0; text-align:left; vertical-align:top">
+<td style=3D"word-break:break-word; padding:0; text-align:left; vertical-al=
+ign:top; color:#808080; font-family:'Helvetica Neue','Helvetica','Arial',sa=
+ns-serif; font-weight:normal; line-height:19px; margin:0; font-size:14px; b=
+order-collapse:collapse!important">
+</td>
+</tr>
+</tbody>
+</table>
+<table class=3D"row footer" style=3D"border-collapse:collapse; border-spaci=
+ng:0; padding:0; text-align:left; vertical-align:top; width:100%; display:b=
+lock">
+<tbody>
+<tr style=3D"padding:0; text-align:left; vertical-align:top">
+<td class=3D"wrapper last offset-by-ten" style=3D"word-break:break-word; pa=
+dding:10px 20px 0 0; text-align:left; vertical-align:top; color:#808080; fo=
+nt-family:'Helvetica Neue','Helvetica','Arial',sans-serif; font-weight:norm=
+al; line-height:19px; margin:0; font-size:14px; padding-left:500px; backgro=
+und:#fff; padding-right:0; border-collapse:collapse!important">
+<table class=3D"two columns" style=3D"border-collapse:collapse; border-spac=
+ing:0; padding:0; text-align:left; vertical-align:top; margin:0 auto; width=
+:80px">
+<tbody>
+<tr style=3D"padding:0; text-align:left; vertical-align:top">
+<td align=3D"center" style=3D"word-break:break-word; padding:0 0 2px; text-=
+align:left; vertical-align:top; color:#808080; font-family:'Helvetica Neue'=
+,'Helvetica','Arial',sans-serif; font-weight:normal; line-height:19px; marg=
+in:0; font-size:14px; border-collapse:collapse!important">
+<a target=3D"_blank" href=3D"https://u694255.ct.sendgrid.net/wf/click?upn=
+=3D3YsdTF0rpaap78FyjxkEXSaS8rrB7FsS7I4M3EWBU-2B0-3D_hygGXsJdunS6iKu8AuW23ln=
+i7RbX32xWKlihKQvnlhSmqHjvRz0vCCCkTMlWASSLzz1vnCRZmawTuWscGt6zqOxoKQmomEgkay=
+oZiKXdiL2bYT-2BEbkpAXaE3aqlA4IT8f2a8uflsk1uO54rCylmgYOo-2BvAHd5Bxst-2FaQ5Q-=
+2BdRidNvYtGyaW0H-2BpVJ4ScUgp2kur8RuQa1EsX7yxAyytXtNUxJN-2BlK6iAmy1tXF3Ruj4q=
+2KEdGWUMdlV7B-2F3fl4hy5UL2pCp5aZD5EksxsCR7RRTRyHVD6UcDocbAk6XBNLSwA1WLiJT7k=
+JSmGuuWxm1J1d6G8jIEz-2FeI83GiTFU1gDtuCWRPszNgnQihAygyW7qC87CaQT1tEh34lFQ9r7=
+DiHV6KAD3zPgthU4C12UxVSTkhiVoldydsn482mXJnuRpSY0ZJA8PdTlKzjfbRwB3z3w0RbqcW6=
+GgeYdd1DS6iXA-3D-3D" style=3D"color:#2ba6cb; text-decoration:none"><img ali=
+gn=3D"left" style=3D"clear: both; display: block; float: left; max-width: 1=
+00%; outline: none; text-decoration: none; width: auto; border: none; user-=
+select: none;" src=3D"http://assets.cdn.paperlessreceipts.co.uk/img/emails/=
+ereceipts-small.36bec83e.png"></a>
+</td>
+<td class=3D"expander" style=3D"word-break:break-word; padding:0!important;=
+ text-align:left; vertical-align:top; color:#808080; font-family:'Helvetica=
+ Neue','Helvetica','Arial',sans-serif; font-weight:normal; line-height:19px=
+; margin:0; font-size:14px; visibility:hidden; width:0; border-collapse:col=
+lapse!important">
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class=3D"row spacer" height=3D"20" style=3D"border-collapse:collapse=
+; border-spacing:0; padding:0; text-align:left; vertical-align:top; height:=
+20px; width:100%; display:block">
+<tbody>
+<tr style=3D"padding:0; text-align:left; vertical-align:top">
+<td style=3D"word-break:break-word; padding:0; text-align:left; vertical-al=
+ign:top; color:#808080; font-family:'Helvetica Neue','Helvetica','Arial',sa=
+ns-serif; font-weight:normal; line-height:19px; margin:0; font-size:14px; b=
+order-collapse:collapse!important">
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+</td>
+</tr>
+</tbody>
+</table>
+<img alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"height: 1px !i=
+mportant; width: 1px !important; border-width: 0px !important; margin: 0px =
+!important; padding: 0px !important; user-select: none;" src=3D"https://u69=
+4255.ct.sendgrid.net/wf/open?upn=3DhygGXsJdunS6iKu8AuW23lni7RbX32xWKlihKQvn=
+lhSmqHjvRz0vCCCkTMlWASSLzz1vnCRZmawTuWscGt6zqOxoKQmomEgkayoZiKXdiL2bYT-2BEb=
+kpAXaE3aqlA4IT8f2a8uflsk1uO54rCylmgYOo-2BvAHd5Bxst-2FaQ5Q-2BdRidNvYtGyaW0H-=
+2BpVJ4ScUgp2kur8RuQa1EsX7yxAyytXtNUxJN-2BlK6iAmy1tXF3Ruj4q2KEdGWUMdlV7B-2F3=
+fl4hy5UL2pCp5aZD5EksxsCR7RRTRyHVD6UcDocbAk6XBNLSwA1WLiJT7kJSmGuuWxm1JiG2tcQ=
+HVJ7Ttw6ODqFsVgQUwNpBRDG97ZucQmn-2BLtVFQ-2Bdl08oAqvmFtWQg6SZgmD-2BXkb1u-2Fy=
+7hNgQqaK3Zmcd6GB0wwEjOLsfBlfJhu3Uol56ZuzWXYIbcvOHNxvZ7Y1wa5C0HpWNRnrdTmppf3=
+Lw-3D-3D">
+</div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_DB5PR05MB1688BBF801B791027342923394BC0DB5PR05MB1688eurp_--

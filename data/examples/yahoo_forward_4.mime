@@ -1,0 +1,627 @@
+Authentication-Results: apiserver; 
+Received: from mail-oa0-f42.google.com ([10.183.253.48])
+	by apiserver (Haraka/2.5.0) with ESMTP id D6AC2725-A80E-434A-B0C8-5BDA5C353D6B.1
+	envelope-from <johnny.patterson@gmail.com>;
+	Fri, 11 Jul 2014 21:20:32 +0000
+Received: by mail-oa0-f42.google.com with SMTP id n16so1842261oag.15
+        for <jp@billpass.ca>; Fri, 11 Jul 2014 14:20:42 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        bh=GmxR8BWUcEvclKaOhKLcZaiNjvhdGu4Ah6eFXjJUsok=;
+        b=fQXaCIiOBxVjPLlq5IBJQtKgzuqQKFETUI5sJew8XtIMNolGrx1OS/qi1WBjfDYGAv
+         CNeUgK1UrWKMyNTsWn/Z6xRJ2x/JmxvJFZsRkRh5nsD0dQ5QNpZCojAtIQXBU5+qF4i9
+         xL/OzMvZoItBfk1VPJCReA8rrVzePI+6MOqqvBhfqj5bwMWVaMkFcNI6h5Vn0fAgvpk2
+         1B+FrNuTu/7rodV6bpMUKsvPVIQgUSG4LCh7IOgXUHZ0PxOHUDZZW7WqWrVuAAkj+9xo
+         2lhHgvwJYsc7QdNr3A04NNHmvo4F7H0g1I4c0SldeTm0bn9+4njwIsj4tw7xT5PftiLG
+         qI9Q==
+MIME-Version: 1.0
+X-Received: by 10.60.42.162 with SMTP id p2mr1934156oel.27.1405113641957; Fri,
+ 11 Jul 2014 14:20:41 -0700 (PDT)
+Received: by 10.76.83.231 with HTTP; Fri, 11 Jul 2014 14:20:41 -0700 (PDT)
+In-Reply-To: <1404861309.3241.YahooMailNeo@web125903.mail.ne1.yahoo.com>
+References: <b6xfycybwv82stau1vwe3qc31rbv4j@mta606.mail.anntaylor.com>
+	<1404861309.3241.YahooMailNeo@web125903.mail.ne1.yahoo.com>
+Date: Fri, 11 Jul 2014 17:20:41 -0400
+Message-ID: <CAO8dce+tLfha6JKBzGbU=L1x9fJwENX8NaG565sPxKkZUPj=4A@mail.gmail.com>
+Subject: Fwd: Fw: Your Ann Taylor CANADA e-Receipt
+From: Johnny Patterson <johnny.patterson@gmail.com>
+To: jp@billpass.ca
+Content-Type: multipart/alternative; boundary=001a11c20c627f7c2e04fdf18328
+
+--001a11c20c627f7c2e04fdf18328
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+---------- Forwarded message ----------
+From: Natasha Kordonska <nkordonska@yahoo.com>
+Date: Tue, Jul 8, 2014 at 7:15 PM
+Subject: Fw: Your Ann Taylor CANADA e-Receipt
+To: "johnny.patterson@gmail.com" <johnny.patterson@gmail.com>
+
+
+
+
+
+ ----- Forwarded Message -----
+ *From:* Ann Taylor <anntaylor@mail.anntaylor.com>
+*To:* nkordonska@yahoo.com
+*Sent:* Monday, May 26, 2014 7:31:26 PM
+*Subject:* Your Ann Taylor CANADA e-Receipt
+
+ *CANADIAN TEMPLATE*
+Thank You For Shopping At Ann Taylor!
+<http://mail.anntaylor.com/a/hBTYcbABdYR8vB82n97Ntfiru.BdYR8vtW/promo>
+Please do not reply to this email. You may contact us by calling
+*1-800-DIAL-ANN* (1-800-342-5266) or by clicking here
+<http://mail.anntaylor.com/a/hBTYcbABdYR8vB82n97Ntfiru.BdYR8vtW/contact>.
+[image:
+ANN TAYLOR]
+<http://mail.anntaylor.com/a/hBTYcbABdYR8vB82n97Ntfiru.BdYR8vtW/anntaylor>
+[image:
+NEW ARRIVALS]
+<http://mail.anntaylor.com/a/hBTYcbABdYR8vB82n97Ntfiru.BdYR8vtW/newarrival>=
+[image:
+APPAREL]
+<http://mail.anntaylor.com/a/hBTYcbABdYR8vB82n97Ntfiru.BdYR8vtW/apparel>[im=
+age:
+SHOES]
+<http://mail.anntaylor.com/a/hBTYcbABdYR8vB82n97Ntfiru.BdYR8vtW/shoes>[imag=
+e:
+PETITES]
+<http://mail.anntaylor.com/a/hBTYcbABdYR8vB82n97Ntfiru.BdYR8vtW/petites>[im=
+age:
+SALE] <http://mail.anntaylor.com/a/hBTYcbABdYR8vB82n97Ntfiru.BdYR8vtW/sale>=
+[image:
+FIND A STORE]
+<http://mail.anntaylor.com/a/hBTYcbABdYR8vB82n97Ntfiru.BdYR8vtW/findstore>
+[image:
+Thank you for shopping with us!]
+<http://mail.anntaylor.com/a/hBTYcbABdYR8vB82n97Ntfiru.BdYR8vtW/main>
+
+
+           Ann Taylor Store #4000
+              220 Yonge Street
+            Toronto, ON M5B 2H1
+               (647) 748-8001
+    Business Number - 83740 1082 RT0001
+--------------------------------------------
+STORE: 04000       REGISTER: 005
+DESK ASSOCIATE: 00000200030
+ASSOCIATE: 00000000026
+--------------------------------------------
+M Suits
+  16019836                       198.00
+M Suits
+  16018396                       109.00
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+SUBTOTAL                            307.00
+HST TAX                              39.91
+TOTAL                               346.91
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+AMOUNT TENDERED
+Visa                                346.91
+  Term Id:    05314064
+  Merchant #: 82019850114
+  Sequence #: 058121
+  Invoice #:  00088121
+  VISA             Purchase
+  Card #  ************5630
+  VISA CREDIT
+  AID: A0000000031010
+              APPROVAL             00
+  PIN Verified
+  AMOUNT                   $    346.91
+  Ref.#:  000000011026      C
+  Auth.#: 085503
+  DATE:   05/26/2014
+  TIME:   19:29:33
+            CUSTOMER COPY
+  ****************************************
+TOTAL PAYMENT                       346.91
+--------------------------------------------
+HST TAX ANALYSIS
+CODE     RATE%     TAXABLE          TAX
+1       13.00000       307.00        39.91
+--------------------------------------------
+Transaction: 8812       5/26/2014 7:31 PM
+--------------------------------------------
+
+
+     Want to be the first to hear about
+      new collections, exclusive offers
+      and more?  Sign up for e-mails at
+                anntaylor.ca.
+
+
+      You can withdraw your consent at
+      Square, New York NY 10036 or 100
+       King Street West, Suite 5600,
+          Toronto, ON M5X 1C9 or at
+        clientservices@anntaylor.com
+
+   Effective June 1, 2014 Ann Taylor will
+    be revising the Return Policy. All
+     purchases made on June 1, 2014 or
+    after will be subject to our new 45
+   day return policy. Any purchases made
+   May, 31 2014 or prior will be subject
+    to our current 60 day return policy.
+    For any questions please ask a Sales
+                Associate.
+
+
+
+ [image: SHOP NOW]
+<http://mail.anntaylor.com/a/hBTYcbABdYR8vB82n97Ntfiru.BdYR8vtW/right> [ima=
+ge:
+We Think You=E2=80=99ll Also Love] [image: TOP=E2=80=93RATED STYLES]
+<http://mail.anntaylor.com/a/hBTYcbABdYR8vB82n97Ntfiru.BdYR8vtW/toprated>[i=
+mage:
+WEAR=E2=80=93TO=E2=80=93WORK BOUTIQUE]
+<http://mail.anntaylor.com/a/hBTYcbABdYR8vB82n97Ntfiru.BdYR8vtW/work>[image=
+:
+SHOE BOUTIQUE]
+<http://mail.anntaylor.com/a/hBTYcbABdYR8vB82n97Ntfiru.BdYR8vtW/boutique>
+[image:
+FACEBOOK]
+<http://mail.anntaylor.com/a/hBTYcbABdYR8vB82n97Ntfiru.BdYR8vtW/facebook>[i=
+mage:
+TWITTER]
+<http://mail.anntaylor.com/a/hBTYcbABdYR8vB82n97Ntfiru.BdYR8vtW/twitter>[im=
+age:
+PINTEREST]
+<http://mail.anntaylor.com/a/hBTYcbABdYR8vB82n97Ntfiru.BdYR8vtW/pinterest>[=
+image:
+INSTAGRAM]
+<http://mail.anntaylor.com/a/hBTYcbABdYR8vB82n97Ntfiru.BdYR8vtW/instagram>
+
+*GET REWARDED FOR THE STYLISH THINGS YOU LOVE WITH THE ANN TAYLOR CARD!
+Learn more
+<http://mail.anntaylor.com/a/hBTYcbABdYR8vB82n97Ntfiru.BdYR8vtW/atcard>.
+STYLE FOR STUDENTS
+<http://mail.anntaylor.com/a/hBTYcbABdYR8vB82n97Ntfiru.BdYR8vtW/students> |
+CUSTOMER SERVICE
+<http://mail.anntaylor.com/a/hBTYcbABdYR8vB82n97Ntfiru.BdYR8vtW/service> |
+PRIVACY
+<http://mail.anntaylor.com/a/hBTYcbABdYR8vB82n97Ntfiru.BdYR8vtW/privacy> *
+
+ *Returns of unwashed and unworn merchandise are accepted under the
+following conditions: Returns with an original receipt made within 60 days
+of original purchase will be credited for the price paid in the original
+form of payment. Returns with an original receipt made more than 60 days
+after original purchase will be credited with a merchandise credit for the
+current selling price. Valid photo identification is required to receive or
+redeem a merchandise credit. Returns made without a receipt will be
+credited with a merchandise credit for the current selling price.
+Merchandise deemed final sale on the date of return may not be returned or
+exchanged. Final sale items (with .44 or .88 cent price endings) may not be
+returned or exchanged. Returns with a gift receipt or exchange receipt made
+within 60 days of the transaction date will be credited with a merchandise
+credit for the price paid. Returns more than 60 days after the transaction
+date will be credited for the current selling price. One price adjustment
+on full priced merchandise may be made within 7 days of the purchase date.
+Present your original receipt to receive an adjustment. Returns, exchanges
+and price adjustments must be made in the original country of purchase.
+
+**If you would like to receive text messages with promotions and special
+offers, insert your phone number after clicking the sign up link above.
+Message and Data Rates May Apply. You can expect to receive 6 automated
+messages per month with offers and alerts. Consent not required for any
+purchase. Reply HELP to 77053 for assistance and STOP to 77053 to opt out
+anytime. Click here
+<http://mail.anntaylor.com/a/hBTYcbABdYR8vB82n97Ntfiru.BdYR8vtW/click1> for
+our Privacy Policy or here
+<http://mail.anntaylor.com/a/hBTYcbABdYR8vB82n97Ntfiru.BdYR8vtW/click2>for
+our Terms and Conditions.
+
+To view our entire Return Policy, please click here
+<http://mail.anntaylor.com/a/hBTYcbABdYR8vB82n97Ntfiru.BdYR8vtW/returns>.
+
+--001a11c20c627f7c2e04fdf18328
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><br><br><div class=3D"gmail_quote">---------- Forwarded me=
+ssage ----------<br>From: <b class=3D"gmail_sendername">Natasha Kordonska</=
+b> <span dir=3D"ltr">&lt;<a href=3D"mailto:nkordonska@yahoo.com">nkordonska=
+@yahoo.com</a>&gt;</span><br>
+Date: Tue, Jul 8, 2014 at 7:15 PM<br>Subject: Fw: Your Ann Taylor CANADA e-=
+Receipt<br>To: &quot;<a href=3D"mailto:johnny.patterson@gmail.com">johnny.p=
+atterson@gmail.com</a>&quot; &lt;<a href=3D"mailto:johnny.patterson@gmail.c=
+om">johnny.patterson@gmail.com</a>&gt;<br>
+<br><br><div><div style=3D"color:#000;background-color:#fff;font-family:Hel=
+veticaNeue-Light,Helvetica Neue Light,Helvetica Neue,Helvetica,Arial,Lucida=
+ Grande,sans-serif;font-size:10pt"><div><div><div style=3D"color:rgb(0,0,0)=
+;font-family:HelveticaNeue-Light,&#39;Helvetica Neue Light&#39;,&#39;Helvet=
+ica Neue&#39;,Helvetica,Arial,&#39;Lucida Grande&#39;,sans-serif;font-size:=
+10pt;background-color:rgb(255,255,255)">
+<div><span></span></div><div><br clear=3D"none"></div>  <div><br><br></div>=
+<div><div style=3D"font-family:HelveticaNeue-Light,&#39;Helvetica Neue Ligh=
+t&#39;,&#39;Helvetica Neue&#39;,Helvetica,Arial,&#39;Lucida Grande&#39;,san=
+s-serif;font-size:10pt">
+ <div style=3D"font-family:HelveticaNeue,&#39;Helvetica Neue&#39;,Helvetica=
+,Arial,&#39;Lucida Grande&#39;,sans-serif;font-size:12pt"> <div dir=3D"ltr"=
+> ----- Forwarded Message -----<br clear=3D"none">  <font face=3D"Arial"> <=
+b><span style=3D"font-weight:bold">From:</span></b> Ann Taylor &lt;<a href=
+=3D"mailto:anntaylor@mail.anntaylor.com" target=3D"_blank">anntaylor@mail.a=
+nntaylor.com</a>&gt;<br clear=3D"none">
+ <b><span style=3D"font-weight:bold">To:</span></b>
+ <a href=3D"mailto:nkordonska@yahoo.com" target=3D"_blank">nkordonska@yahoo=
+..com</a> <br clear=3D"none"> <b><span style=3D"font-weight:bold">Sent:</spa=
+n></b> Monday, May 26, 2014 7:31:26 PM<br clear=3D"none"> <b><span style=3D=
+"font-weight:bold">Subject:</span></b> Your Ann Taylor CANADA e-Receipt<br =
+clear=3D"none">
+ </font> </div> <div><br clear=3D"none"><div><div>
+
+
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"><tbo=
+dy><tr><td align=3D"center" colspan=3D"1" rowspan=3D"1" width=3D"548">=20
+     =20
+     <table align=3D"center" bgcolor=3D"#FFFFFF" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"580"><tbody><tr><td align=3D"center" cols=
+pan=3D"1" rowspan=3D"1"><font style=3D"font-size:10px;color:#999999" face=
+=3D"Arial, Helvetica, sans-serif"></font></td>
+</tr></tbody></table>
+      <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" width=3D"580"><tbody><tr><td align=3D"left" colspan=3D"1" rowspan=3D"1"=
+ valign=3D"bottom"><font style=3D"font-size:20px"><b>CANADIAN TEMPLATE</b><=
+/font><br clear=3D"none">
+<font style=3D"font-size:10px;color:#666666" face=3D"Arial,Helvetica,sans-s=
+erif"> <a rel=3D"nofollow" shape=3D"rect" style=3D"color:#666666" href=3D"h=
+ttp://mail.anntaylor.com/a/hBTYcbABdYR8vB82n97Ntfiru.BdYR8vtW/promo" target=
+=3D"_blank">Thank You For Shopping At Ann=20
+            Taylor!</a></font><br clear=3D"none"><font style=3D"font-size:9=
+px;color:#666666" face=3D"Arial,Helvetica,sans-serif">Please do not reply t=
+o this email. You may contact us by calling <b>1-800-DIAL-ANN</b> <a href=
+=3D"tel:%281-800-342-5266" value=3D"+18003425266" target=3D"_blank">(1-800-=
+342-5266</a>) or by <a rel=3D"nofollow" shape=3D"rect" style=3D"color:#6666=
+66" href=3D"http://mail.anntaylor.com/a/hBTYcbABdYR8vB82n97Ntfiru.BdYR8vtW/=
+contact" target=3D"_blank">clicking here</a>.</font></td>
+<td colspan=3D"1" rowspan=3D"1" width=3D"10"><img src=3D"https://ec.yimg.co=
+m/mail?url=3Dhttp%3A%2F%2Ff.chtah.com%2Fi%2F36%2F1566646063%2Fspacer.gif&am=
+p;t=3D1404861285&amp;ymreqid=3Dcee1e0bf-b354-0041-0138-400163010000&amp;sig=
+=3DAALrRYOHox5Yfhnh19WTlw--~B" alt=3D"" style=3D"display:block" border=3D"0=
+" height=3D"28" width=3D"10"></td>
+</tr></tbody></table>
+     <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"580">=
+<tbody><tr><td colspan=3D"1" rowspan=3D"1" width=3D"548"><img src=3D"https:=
+//ec.yimg.com/mail?url=3Dhttp%3A%2F%2Ff.chtah.com%2Fi%2F36%2F1566646063%2Fs=
+pacer.gif&amp;t=3D1404861285&amp;ymreqid=3Dcee1e0bf-b354-0041-0138-40016301=
+0000&amp;sig=3DAALrRYOHox5Yfhnh19WTlw--~B" alt=3D"" style=3D"display:block"=
+ border=3D"0" height=3D"15" width=3D"548"></td>
+</tr></tbody></table>
+      =20
+     =20
+     =20
+      <table align=3D"center" width=3D"580" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0"><tbody><tr><td colspan=3D"1" rowspan=3D"1" height=3D"15" =
+width=3D"580"><a rel=3D"nofollow" shape=3D"rect" href=3D"http://mail.anntay=
+lor.com/a/hBTYcbABdYR8vB82n97Ntfiru.BdYR8vtW/anntaylor" target=3D"_blank"><=
+img src=3D"https://ec.yimg.com/mail?url=3Dhttp%3A%2F%2Ff.chtah.com%2Fi%2F36=
+%2F1566646063%2F20130808_ats_ereceipt_large_h1.gif&amp;t=3D1404861285&amp;y=
+mreqid=3Dcee1e0bf-b354-0041-0138-400163010000&amp;sig=3DGbZLd0REluXw7yk_Dwo=
+UPw--~B" alt=3D"ANN TAYLOR" style=3D"display:block" border=3D"0" height=3D"=
+58" width=3D"580"></a></td>
+</tr></tbody></table>
+<table align=3D"center" width=3D"580" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0"><tbody><tr><td colspan=3D"1" rowspan=3D"1"><a rel=3D"nofollow" =
+shape=3D"rect" href=3D"http://mail.anntaylor.com/a/hBTYcbABdYR8vB82n97Ntfir=
+u.BdYR8vtW/newarrival" target=3D"_blank"><img src=3D"https://ec.yimg.com/ma=
+il?url=3Dhttp%3A%2F%2Ff.chtah.com%2Fi%2F36%2F1566646063%2F20130808_ats_erec=
+eipt_large_h2.gif&amp;t=3D1404861285&amp;ymreqid=3Dcee1e0bf-b354-0041-0138-=
+400163010000&amp;sig=3DJ6jV_cZBf9xpCw6PY9tlyQ--~B" alt=3D"NEW ARRIVALS" sty=
+le=3D"display:block" border=3D"0" height=3D"31" width=3D"143"></a></td>
+<td colspan=3D"1" rowspan=3D"1"><a rel=3D"nofollow" shape=3D"rect" href=3D"=
+http://mail.anntaylor.com/a/hBTYcbABdYR8vB82n97Ntfiru.BdYR8vtW/apparel" tar=
+get=3D"_blank"><img src=3D"https://ec.yimg.com/mail?url=3Dhttp%3A%2F%2Ff.ch=
+tah.com%2Fi%2F36%2F1566646063%2F20130808_ats_ereceipt_large_h3.gif&amp;t=3D=
+1404861285&amp;ymreqid=3Dcee1e0bf-b354-0041-0138-400163010000&amp;sig=3DQZq=
+g_laVr0hwRnbEc8p0Rw--~B" alt=3D"APPAREL" style=3D"display:block" border=3D"=
+0" height=3D"31" width=3D"85"></a></td>
+<td colspan=3D"1" rowspan=3D"1"><a rel=3D"nofollow" shape=3D"rect" href=3D"=
+http://mail.anntaylor.com/a/hBTYcbABdYR8vB82n97Ntfiru.BdYR8vtW/shoes" targe=
+t=3D"_blank"><img src=3D"https://ec.yimg.com/mail?url=3Dhttp%3A%2F%2Ff.chta=
+h.com%2Fi%2F36%2F1566646063%2F20130808_ats_ereceipt_large_h4.gif&amp;t=3D14=
+04861285&amp;ymreqid=3Dcee1e0bf-b354-0041-0138-400163010000&amp;sig=3DRU5wI=
+xbcmMa7NZpC4k6Dow--~B" alt=3D"SHOES" style=3D"display:block" border=3D"0" h=
+eight=3D"31" width=3D"72"></a></td>
+<td colspan=3D"1" rowspan=3D"1"><a rel=3D"nofollow" shape=3D"rect" href=3D"=
+http://mail.anntaylor.com/a/hBTYcbABdYR8vB82n97Ntfiru.BdYR8vtW/petites" tar=
+get=3D"_blank"><img src=3D"https://ec.yimg.com/mail?url=3Dhttp%3A%2F%2Ff.ch=
+tah.com%2Fi%2F36%2F1566646063%2F20130808_ats_ereceipt_large_h5.gif&amp;t=3D=
+1404861285&amp;ymreqid=3Dcee1e0bf-b354-0041-0138-400163010000&amp;sig=3D9Pm=
+DLBWi9o_7aqdzm2Js.A--~B" alt=3D"PETITES" style=3D"display:block" border=3D"=
+0" height=3D"31" width=3D"81"></a></td>
+<td colspan=3D"1" rowspan=3D"1"><a rel=3D"nofollow" shape=3D"rect" href=3D"=
+http://mail.anntaylor.com/a/hBTYcbABdYR8vB82n97Ntfiru.BdYR8vtW/sale" target=
+=3D"_blank"><img src=3D"https://ec.yimg.com/mail?url=3Dhttp%3A%2F%2Ff.chtah=
+..com%2Fi%2F36%2F1566646063%2F20130808_ats_ereceipt_large_h6.gif&amp;t=3D140=
+4861285&amp;ymreqid=3Dcee1e0bf-b354-0041-0138-400163010000&amp;sig=3DOeZgeh=
+oV9A0xfckrdKYsig--~B" alt=3D"SALE" style=3D"display:block" border=3D"0" hei=
+ght=3D"31" width=3D"66"></a></td>
+<td colspan=3D"1" rowspan=3D"1"><a rel=3D"nofollow" shape=3D"rect" href=3D"=
+http://mail.anntaylor.com/a/hBTYcbABdYR8vB82n97Ntfiru.BdYR8vtW/findstore" t=
+arget=3D"_blank"><img src=3D"https://ec.yimg.com/mail?url=3Dhttp%3A%2F%2Ff.=
+chtah.com%2Fi%2F36%2F1566646063%2F20130808_ats_ereceipt_large_h7.gif&amp;t=
+=3D1404861285&amp;ymreqid=3Dcee1e0bf-b354-0041-0138-400163010000&amp;sig=3D=
+IabraGFERil2nE.wF4CmKw--~B" alt=3D"FIND A STORE" style=3D"display:block" bo=
+rder=3D"0" height=3D"31" width=3D"133"></a></td>
+</tr></tbody></table>
+=09
+   =20
+     =20
+      <table align=3D"center" width=3D"580" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0"><tbody><tr><td align=3D"left" colspan=3D"1" rowspan=3D"1"=
+ valign=3D"top" bgcolor=3D"#dadad8" width=3D"1"><img src=3D"https://ec.yimg=
+..com/mail?url=3Dhttp%3A%2F%2Ff.chtah.com%2Fi%2F36%2F1566646063%2Fspacer.gif=
+&amp;t=3D1404861285&amp;ymreqid=3Dcee1e0bf-b354-0041-0138-400163010000&amp;=
+sig=3DAALrRYOHox5Yfhnh19WTlw--~B" alt=3D"" style=3D"display:block" border=
+=3D"0" height=3D"10" width=3D"1"></td>
+<td align=3D"left" colspan=3D"1" rowspan=3D"1" valign=3D"top" width=3D"419"=
+>
+          		  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"419"><tbody><tr><td colspan=3D"1" rowspan=3D"1"><a rel=3D"nofollow" sha=
+pe=3D"rect" href=3D"http://mail.anntaylor.com/a/hBTYcbABdYR8vB82n97Ntfiru.B=
+dYR8vtW/main" target=3D"_blank"><img src=3D"https://ec.yimg.com/mail?url=3D=
+http%3A%2F%2Ff.chtah.com%2Fi%2F36%2F1566646063%2F20130808_ats_ereceipt_larg=
+e_a1.gif&amp;t=3D1404861285&amp;ymreqid=3Dcee1e0bf-b354-0041-0138-400163010=
+000&amp;sig=3DB2IhEkwdAI2ag7CfQGI7kA--~B" alt=3D"Thank you for shopping wit=
+h us!" style=3D"display:block" border=3D"0" height=3D"57" width=3D"419"></a=
+></td>
+</tr></tbody></table>
+=09
+                  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" w=
+idth=3D"419"><tbody><tr><td align=3D"center" colspan=3D"1" rowspan=3D"1" va=
+lign=3D"top" width=3D"387">
+                      <img align=3D"middle" src=3D"https://ec.yimg.com/mail=
+?url=3Dhttp%3A%2F%2Fbar.cheetahmail.com%2Fcgi-bin%2Fbarcode%2FBTYcbABdYR8vB=
+82n97Ntfiru.BdYR8vtW%2Fbar.png%3Fencode%3D5%26amp%3Bsz%3D160x44%26amp%3Bbc%=
+3D0088120400000505262014&amp;t=3D1404861285&amp;ymreqid=3Dcee1e0bf-b354-004=
+1-0138-400163010000&amp;sig=3Ds2AloR6bKxpqiysp3EU_NQ--~B"><br clear=3D"none=
+">
+<br clear=3D"none"></td></tr><tr><td align=3D"left" colspan=3D"1" rowspan=
+=3D"1" valign=3D"top" width=3D"363">
+            <font style=3D"font-size:9px;color:#000000" face=3D"Arial, Helv=
+etica, sans-serif"></font><pre>                      =20
+           Ann Taylor Store #4000
+              220 Yonge Street
+            Toronto, ON M5B 2H1
+               <a href=3D"tel:%28647%29%20748-8001" value=3D"+16477488001" =
+target=3D"_blank">(647) 748-8001</a>
+    Business Number - 83740 1082 RT0001
+--------------------------------------------
+STORE: 04000       REGISTER: 005
+DESK ASSOCIATE: 00000200030
+ASSOCIATE: 00000000026                     =20
+--------------------------------------------
+M Suits                                    =20
+  16019836                       198.00    =20
+M Suits                                    =20
+  16018396                       109.00    =20
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+SUBTOTAL                            307.00=20
+HST TAX                              39.91=20
+TOTAL                               346.91=20
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+AMOUNT TENDERED
+Visa                                346.91=20
+  Term Id:    05314064                    =20
+  Merchant #: 82019850114                 =20
+  Sequence #: 058121                      =20
+  Invoice #:  00088121                    =20
+  VISA             Purchase               =20
+  Card #  ************5630                =20
+  VISA CREDIT                             =20
+  AID: A0000000031010                     =20
+              APPROVAL             00     =20
+  PIN Verified                            =20
+  AMOUNT                   $    346.91    =20
+  Ref.#:  000000011026      C             =20
+  Auth.#: 085503                          =20
+  DATE:   05/26/2014                      =20
+  TIME:   19:29:33                        =20
+            CUSTOMER COPY                 =20
+  ****************************************=20
+TOTAL PAYMENT                       346.91=20
+--------------------------------------------
+HST TAX ANALYSIS
+CODE     RATE%     TAXABLE          TAX
+1       13.00000       307.00        39.91
+--------------------------------------------
+Transaction: 8812       5/26/2014 7:31 PM
+--------------------------------------------
+                     =20
+                     =20
+     Want to be the first to hear about
+      new collections, exclusive offers
+      and more?  Sign up for e-mails at
+                <a href=3D"http://anntaylor.ca" target=3D"_blank">anntaylor=
+..ca</a>.
+                     =20
+                     =20
+      You can withdraw your consent at=20
+      Square, New York NY 10036 or 100
+       King Street West, Suite 5600,=20
+          Toronto, ON M5X 1C9 or at
+        <a href=3D"mailto:clientservices@anntaylor.com" target=3D"_blank">c=
+lientservices@anntaylor.com</a>
+                     =20
+   Effective June 1, 2014 Ann Taylor will
+    be revising the Return Policy. All=20
+     purchases made on June 1, 2014 or=20
+    after will be subject to our new 45=20
+   day return policy. Any purchases made=20
+   May, 31 2014 or prior will be subject=20
+    to our current 60 day return policy.=20
+    For any questions please ask a Sales
+                Associate.=20
+                     =20
+                     =20
+</pre>
+         =20
+                    </td></tr></tbody></table>
+                    </td><td colspan=3D"1" rowspan=3D"1" valign=3D"top" wid=
+th=3D"161"><a rel=3D"nofollow" shape=3D"rect" href=3D"http://mail.anntaylor=
+..com/a/hBTYcbABdYR8vB82n97Ntfiru.BdYR8vtW/right" target=3D"_blank"><img src=
+=3D"https://ec.yimg.com/mail?url=3Dhttp%3A%2F%2Ff.chtah.com%2Fi%2F36%2F1566=
+646063%2FSMS_E-Receipt_Banner2.jpg&amp;t=3D1404861285&amp;ymreqid=3Dcee1e0b=
+f-b354-0041-0138-400163010000&amp;sig=3DOThq0VsM0Tnu7FCoRQb0xQ--~B" alt=3D"=
+SHOP NOW" width=3D"160" height=3D"600" style=3D"display:block;width:161px;m=
+in-height:606px" border=3D"0"></a>
+          </td></tr></tbody></table>
+     =20
+    =20
+     =20
+      =20
+     =20
+      =20
+<table align=3D"center" width=3D"580" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0"><tbody><tr><td colspan=3D"1" rowspan=3D"1"><img src=3D"https://=
+ec.yimg.com/mail?url=3Dhttp%3A%2F%2Ff.chtah.com%2Fi%2F36%2F1566646063%2F112=
+1_atsereceipt_03.gif&amp;t=3D1404861285&amp;ymreqid=3Dcee1e0bf-b354-0041-01=
+38-400163010000&amp;sig=3DiR0n0Fv6CKNh0X2oP69Tlw--~B" alt=3D"We Think You=
+=E2=80=99ll Also Love" style=3D"display:block" border=3D"0" height=3D"59" w=
+idth=3D"580"></td>
+</tr></tbody></table>
+<table align=3D"center" width=3D"580" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0"><tbody><tr><td colspan=3D"1" rowspan=3D"1"><a rel=3D"nofollow" =
+shape=3D"rect" href=3D"http://mail.anntaylor.com/a/hBTYcbABdYR8vB82n97Ntfir=
+u.BdYR8vtW/toprated" target=3D"_blank"><img src=3D"https://ec.yimg.com/mail=
+?url=3Dhttp%3A%2F%2Ff.chtah.com%2Fi%2F36%2F1566646063%2F20131112_eu_06_01.j=
+pg&amp;t=3D1404861285&amp;ymreqid=3Dcee1e0bf-b354-0041-0138-400163010000&am=
+p;sig=3DnYa4QoQLiXrtSp9MxPpPvA--~B" alt=3D"TOP=E2=80=93RATED STYLES" style=
+=3D"display:block" border=3D"0" height=3D"203" width=3D"193"></a></td>
+<td colspan=3D"1" rowspan=3D"1"><a rel=3D"nofollow" shape=3D"rect" href=3D"=
+http://mail.anntaylor.com/a/hBTYcbABdYR8vB82n97Ntfiru.BdYR8vtW/work" target=
+=3D"_blank"><img src=3D"https://ec.yimg.com/mail?url=3Dhttp%3A%2F%2Ff.chtah=
+..com%2Fi%2F36%2F1566646063%2F20131112_eu_06_02.jpg&amp;t=3D1404861285&amp;y=
+mreqid=3Dcee1e0bf-b354-0041-0138-400163010000&amp;sig=3D7zjgUZVnTgqk5nVSDNv=
+WEg--~B" alt=3D"WEAR=E2=80=93TO=E2=80=93WORK BOUTIQUE" style=3D"display:blo=
+ck" border=3D"0" height=3D"203" width=3D"173"></a></td>
+<td colspan=3D"1" rowspan=3D"1"><a rel=3D"nofollow" shape=3D"rect" href=3D"=
+http://mail.anntaylor.com/a/hBTYcbABdYR8vB82n97Ntfiru.BdYR8vtW/boutique" ta=
+rget=3D"_blank"><img src=3D"https://ec.yimg.com/mail?url=3Dhttp%3A%2F%2Ff.c=
+htah.com%2Fi%2F36%2F1566646063%2F1121_atsereceipt_04.jpg&amp;t=3D1404861285=
+&amp;ymreqid=3Dcee1e0bf-b354-0041-0138-400163010000&amp;sig=3DD21K4AAVZ2aye=
+b_rCasJeg--~B" alt=3D"SHOE BOUTIQUE" style=3D"display:block" border=3D"0" h=
+eight=3D"203" width=3D"212"></a></td>
+</tr></tbody></table>
+<table align=3D"center" width=3D"549" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0"><tbody><tr><td colspan=3D"1" rowspan=3D"1"><a rel=3D"nofollow" =
+shape=3D"rect" href=3D"http://mail.anntaylor.com/a/hBTYcbABdYR8vB82n97Ntfir=
+u.BdYR8vtW/facebook" target=3D"_blank"><img src=3D"https://ec.yimg.com/mail=
+?url=3Dhttp%3A%2F%2Ff.chtah.com%2Fi%2F36%2F1566646063%2F20130531_ATS_ERM_21=
+..gif&amp;t=3D1404861285&amp;ymreqid=3Dcee1e0bf-b354-0041-0138-400163010000&=
+amp;sig=3DjjpzYM_IbMUmCOMSFlEEsA--~B" alt=3D"FACEBOOK" style=3D"display:blo=
+ck" border=3D"0" height=3D"84" width=3D"209"></a></td>
+<td colspan=3D"1" rowspan=3D"1"><a rel=3D"nofollow" shape=3D"rect" href=3D"=
+http://mail.anntaylor.com/a/hBTYcbABdYR8vB82n97Ntfiru.BdYR8vtW/twitter" tar=
+get=3D"_blank"><img src=3D"https://ec.yimg.com/mail?url=3Dhttp%3A%2F%2Ff.ch=
+tah.com%2Fi%2F36%2F1566646063%2F20130531_ATS_ERM_22.gif&amp;t=3D1404861285&=
+amp;ymreqid=3Dcee1e0bf-b354-0041-0138-400163010000&amp;sig=3DJUUV2JyEgJksqL=
+8Rrl0mxQ--~B" alt=3D"TWITTER" style=3D"display:block" border=3D"0" height=
+=3D"84" width=3D"61"></a></td>
+<td colspan=3D"1" rowspan=3D"1"><a rel=3D"nofollow" shape=3D"rect" href=3D"=
+http://mail.anntaylor.com/a/hBTYcbABdYR8vB82n97Ntfiru.BdYR8vtW/pinterest" t=
+arget=3D"_blank"><img src=3D"https://ec.yimg.com/mail?url=3Dhttp%3A%2F%2Ff.=
+chtah.com%2Fi%2F36%2F1566646063%2F20130531_ATS_ERM_23.gif&amp;t=3D140486128=
+5&amp;ymreqid=3Dcee1e0bf-b354-0041-0138-400163010000&amp;sig=3DPJwyw6JUDx5c=
+pX9AWXIFEQ--~B" alt=3D"PINTEREST" style=3D"display:block" border=3D"0" heig=
+ht=3D"84" width=3D"67"></a></td>
+<td colspan=3D"1" rowspan=3D"1"><a rel=3D"nofollow" shape=3D"rect" href=3D"=
+http://mail.anntaylor.com/a/hBTYcbABdYR8vB82n97Ntfiru.BdYR8vtW/instagram" t=
+arget=3D"_blank"><img src=3D"https://ec.yimg.com/mail?url=3Dhttp%3A%2F%2Ff.=
+chtah.com%2Fi%2F36%2F1566646063%2F20130531_ATS_ERM_24.gif&amp;t=3D140486128=
+5&amp;ymreqid=3Dcee1e0bf-b354-0041-0138-400163010000&amp;sig=3DmtdvYbqbCNXj=
+oiZQSImBTQ--~B" alt=3D"INSTAGRAM" style=3D"display:block" border=3D"0" heig=
+ht=3D"84" width=3D"212"></a></td>
+</tr></tbody></table>
+
+      <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" width=3D"580"><tbody><tr><td align=3D"center" colspan=3D"1" rowspan=3D"=
+1" bgcolor=3D"#ffffff" width=3D"548"><font style=3D"font-size:10px;font-wei=
+ght:normal;color:#999999" face=3D" Arial, Helvetica, sans-serif">
+<b><a rel=3D"nofollow" shape=3D"rect" href=3D"http://mail.anntaylor.com/a/h=
+BTYcbABdYR8vB82n97Ntfiru.BdYR8vtW/atcard" style=3D"text-decoration:none;col=
+or:#999999" target=3D"_blank">GET REWARDED FOR THE STYLISH THINGS YOU LOVE =
+WITH THE ANN TAYLOR CARD! Learn more</a>.
+<br clear=3D"none">
+<br clear=3D"none">
+<a rel=3D"nofollow" shape=3D"rect" href=3D"http://mail.anntaylor.com/a/hBTY=
+cbABdYR8vB82n97Ntfiru.BdYR8vtW/students" style=3D"text-decoration:none;colo=
+r:#999999" target=3D"_blank">STYLE FOR STUDENTS</a> | <a rel=3D"nofollow" s=
+hape=3D"rect" href=3D"http://mail.anntaylor.com/a/hBTYcbABdYR8vB82n97Ntfiru=
+..BdYR8vtW/service" style=3D"text-decoration:none;color:#999999" target=3D"_=
+blank">CUSTOMER SERVICE</a> | <a rel=3D"nofollow" shape=3D"rect" href=3D"ht=
+tp://mail.anntaylor.com/a/hBTYcbABdYR8vB82n97Ntfiru.BdYR8vtW/privacy" style=
+=3D"text-decoration:none;color:#999999" target=3D"_blank">PRIVACY</a>
+</b></font><b><br clear=3D"none"><br clear=3D"none"></b></td></tr></tbody><=
+/table>
+     =20
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"580"><tbody><tr><td align=3D"center" colspan=3D"1" rowspan=3D"1" val=
+ign=3D"top"><font style=3D"font-size:10px;font-weight:normal;color:#999999"=
+ face=3D" Arial, Helvetica, sans-serif">
+
+*Returns of unwashed and unworn merchandise are accepted under the followin=
+g conditions:
+Returns with an original receipt made within 60 days of original purchase w=
+ill be credited for the price paid in the original form of payment.  Return=
+s with an original receipt made more than 60 days after original purchase w=
+ill be credited with a merchandise credit for the current selling price.  V=
+alid photo identification is required to receive or redeem a merchandise cr=
+edit.   Returns made without a receipt will be credited with a merchandise =
+credit for the current selling price. Merchandise deemed final sale on the =
+date of return may not be returned or exchanged. Final sale items (with .44=
+ or .88 cent price endings) may not be returned or exchanged.  Returns with=
+ a gift receipt or exchange receipt made within 60 days of the transaction =
+date will be credited with a merchandise credit for the price paid.  Return=
+s more than 60 days after the transaction date will be credited for the cur=
+rent selling price.  One price adjustment on full priced merchandise
+ may be made within 7 days of the purchase date.  Present your original rec=
+eipt to receive an adjustment. Returns, exchanges and price adjustments mus=
+t be made in the original country of purchase.
+  <br clear=3D"none"><br clear=3D"none">
+ **If you would like to receive text messages with promotions and special o=
+ffers, insert your phone number after clicking the sign up link above. Mess=
+age and Data Rates May Apply. You can expect to receive 6 automated message=
+s per month with offers and alerts. Consent not required for any purchase. =
+Reply HELP to 77053 for assistance and STOP to 77053 to opt out anytime.
+  <a rel=3D"nofollow" shape=3D"rect" href=3D"http://mail.anntaylor.com/a/hB=
+TYcbABdYR8vB82n97Ntfiru.BdYR8vtW/click1" style=3D"font-size:10px;font-weigh=
+t:normal;color:#999999" target=3D"_blank">Click here</a> for our Privacy Po=
+licy or <a rel=3D"nofollow" shape=3D"rect" href=3D"http://mail.anntaylor.co=
+m/a/hBTYcbABdYR8vB82n97Ntfiru.BdYR8vtW/click2" style=3D"font-size:10px;font=
+-weight:normal;color:#999999" target=3D"_blank">here </a>for our Terms and =
+Conditions.
+=20
+  <br clear=3D"none"><br clear=3D"none">
+To view our entire Return Policy, please <a rel=3D"nofollow" shape=3D"rect"=
+ href=3D"http://mail.anntaylor.com/a/hBTYcbABdYR8vB82n97Ntfiru.BdYR8vtW/ret=
+urns" style=3D"font-size:10px;font-weight:normal;color:#999999" target=3D"_=
+blank">click here</a>.
+</font></td></tr><tr><td colspan=3D"1" rowspan=3D"1" valign=3D"top"><img sr=
+c=3D"https://ec.yimg.com/mail?url=3Dhttp%3A%2F%2Ff.chtah.com%2Fi%2F36%2F156=
+6646063%2Fspacer.gif&amp;t=3D1404861285&amp;ymreqid=3Dcee1e0bf-b354-0041-01=
+38-400163010000&amp;sig=3DAALrRYOHox5Yfhnh19WTlw--~B" alt=3D"" style=3D"dis=
+play:block" height=3D"10" width=3D"1"></td>
+</tr></tbody></table>     =20
+     =20
+      </td></tr></tbody></table>
+
+
+<img src=3D"https://ec.yimg.com/mail?url=3Dhttp%3A%2F%2Fmail.anntaylor.com%=
+2Fa%2FhBTYcbABdYR8vB82n97Ntfiru.BdYR8vtW%2Fcolumn.gif&amp;t=3D1404861285&am=
+p;ymreqid=3Dcee1e0bf-b354-0041-0138-400163010000&amp;sig=3D82BeN2lXpDuBIMkj=
+RAL4ZA--~B">
+</div></div><br clear=3D"none"><br clear=3D"none"></div> </div> </div></div=
+>  </div></div></div></div></div></div><br></div>
+
+--001a11c20c627f7c2e04fdf18328--

@@ -1,0 +1,710 @@
+Authentication-Results: apiserver;
+Received: from mail-oa0-f49.google.com ([10.183.253.48])
+	by apiserver (Haraka/2.5.0) with ESMTP id BB2F3573-76AE-4B95-A5F3-9EE4FCD0A7D8.1
+	envelope-from <matt@ryersonfutures.ca>;
+	Mon, 28 Jul 2014 15:22:47 +0000
+Received: by mail-oa0-f49.google.com with SMTP id eb12so8818354oac.22
+        for <matt@billpass.ca>; Mon, 28 Jul 2014 08:23:15 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:from:content-type:content-transfer-encoding
+         :mime-version:subject:message-id:date:references:to;
+        bh=30p3phu/E7ygP5tf2sy3AN+u5KeRCvx2H2qho5Bx7kM=;
+        b=mFPNC8m9ymbgO97UeOjw8k4ESV74OVnQ5hc8xi3TycZ1kx1Cbkb7KdDKMh1MnuDIsE
+         JAJr7qyK2+u5Q1L2SOuh5A6Qjn5liAr7fKSW0MgDu8NtscuNBRUy4dRSxZeuNQoGXHQZ
+         7KEs7DMA4gvVpM4x8T5bcRR/Tw8taqpqx7rlJ06sCImAI6yyIgTFifFkU55t6cCOinoQ
+         Ir3ptf5XGijGBy9oqFS4D+R/tMxv5lXFD+kVcrJHRB5BkNIevBB1tiFyh+wjChVb7j0x
+         IAJ9d2dsfpI7eOhqW6DJ3NEY5OJCsDg3riWeOXjQDwuSxYaU50KcZEBO1glLeR37cjOD
+         Op2A==
+X-Gm-Message-State: ALoCoQmbbEwQ82s8JziC91oCqJTzx4cv/MP0Zt+EkVj3PleER//tLjmgd0IrwtGQty7yw8O38FPg
+X-Received: by 10.182.120.129 with SMTP id lc1mr50799625obb.65.1406560995679;
+        Mon, 28 Jul 2014 08:23:15 -0700 (PDT)
+Received: from [10.16.124.93] ([141.117.116.53])
+        by mx.google.com with ESMTPSA id r4sm39850493obi.3.2014.07.28.08.23.15
+        for <matt@billpass.ca>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Mon, 28 Jul 2014 08:23:15 -0700 (PDT)
+From: Matt <matt@ryersonfutures.ca>
+Content-Type: multipart/alternative;
+	boundary=Apple-Mail-CC1E7428-4FA0-490D-A9E3-3FE4286C4D62
+Content-Transfer-Encoding: 7bit
+Mime-Version: 1.0 (1.0)
+Subject: Fwd: Your Order with Amazon.ca
+Message-Id: <71901024-60B6-4B7D-9309-F3F63C045B30@ryersonfutures.ca>
+Date: Mon, 28 Jul 2014 11:23:15 -0400
+References: <31AC8966-D58B-441B-B327-9F31241607FE@ryersonfutures.ca>
+To: "matt@billpass.ca" <matt@billpass.ca>
+X-Mailer: iPad Mail (11D257)
+
+
+--Apple-Mail-CC1E7428-4FA0-490D-A9E3-3FE4286C4D62
+Content-Type: text/plain;
+	charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+
+> Begin forwarded message:
+>=20
+>> From: "auto-confirm@amazon.ca" <auto-confirm@amazon.ca>
+>> Date: June 6, 2014 at 5:22:01 PM EDT
+>> To: "matt@ryersonfutures.ca" <matt@ryersonfutures.ca>
+>> Subject: Your Order with Amazon.ca
+>>=20
+>>=20
+>> 	  VIEW CART | WISH LIST | YOUR ACCOUNT | HELP
+>> Thanks for your order, Matt Saunders!
+>>=20
+>> Want to manage your order online?
+>> If you need to check the status of your order or make changes, please vis=
+it our home page at Amazon.ca and click on Your Account at the top of any pa=
+ge.
+>> Ordering Information:
+>> E-mail Address:  matt@ryersonfutures.ca
+>> Billing Address:
+>> Matthew Saunders
+>> 10 Dundas St. East
+>> suite 600
+>> Toronto, Ontario M5B 2G9
+>> Canada
+>>=20
+>> Shipping Address:
+>> Matthew Saunders
+>> 10 Dundas St. East
+>> suite 600
+>> Toronto, Ontario M5B 2G9
+>> Canada
+>>=20
+>> Order Grand Total: CDN$ 24.47
+>> Order Summary:
+>> Shipping Details : Vision Store Canada
+>> Order #:	 702-9665246-0381050
+>> Shipping Method:	 Standard Shipping
+>> Items:  	 CDN$ 17.98
+>> Shipping & Handling:  	 CDN$ 6.49
+>>  	 ------
+>> Total before tax:  	 CDN$ 24.47
+>> Estimated GST/HST:  	 CDN$ 0.00
+>> Estimated PST/RST/QST:  	 CDN$ 0.00
+>>  	 ------
+>> Order Total:  	 CDN$ 24.47
+>>=20
+>> =20
+>> Delivery estimate: June 13 2014 - June 30 2014
+>> 1	 "Marketplace 3.0: Rewriting the Rules of Borderless Business by Mi=
+kitani, Hiroshi (2013)"
+>> Mikitani, Hiroshi; Hardcover; CDN$ 17.98=20
+>> In Stock
+>>    Sold by: Vision Store Canada
+>> =20
+>>=20
+>> Where can I get help with reviewing or changing my orders?=20
+>> To learn more about managing your orders on Amazon.ca, please visit our H=
+elp pages at www.amazon.ca/help.=20
+>>=20
+>> Please note: This e-mail was sent from a notification-only address that c=
+annot accept incoming e-mail. Please do not reply to this message.
+>>=20
+>> Thanks again for shopping with us!
+>>=20
+>> Amazon.ca=20
+>> Earth's Biggest Selection
+>>=20
+>>    Prefer not to receive HTML mail? Click here
+>>=20
+
+--Apple-Mail-CC1E7428-4FA0-490D-A9E3-3FE4286C4D62
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html><head><meta http-equiv="content-type" content="text/html; charset=utf-8"></head><body dir="auto"><div><br></div><blockquote type="cite"><div>Begin forwarded message:<br><br></div><blockquote type="cite"><div><b>From:</b> "<a href="mailto:auto-confirm@amazon.ca">auto-confirm@amazon.ca</a>" &lt;<a href="mailto:auto-confirm@amazon.ca">auto-confirm@amazon.ca</a>&gt;<br><b>Date:</b> June 6, 2014 at 5:22:01 PM EDT<br><b>To:</b> "<a href="mailto:matt@ryersonfutures.ca">matt@ryersonfutures.ca</a>" &lt;<a href="mailto:matt@ryersonfutures.ca">matt@ryersonfutures.ca</a>&gt;<br><b>Subject:</b> <b>Your Order with <a href="http://Amazon.ca">Amazon.ca</a></b><br><br></div></blockquote><blockquote type="cite"><div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <title>Your Order with Amazon.ca</title>
+
+
+
+
+
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tbody><tr bgcolor="#FFFFFF">
+    <td align="left">
+
+
+<a href="http://www.amazon.ca/gp/r.html?R=18FSUVZ5MC4FH&amp;C=4BSBRXBJ396V&amp;H=DAXEPIVHOEICN56480SUXXLPTG0A&amp;T=C&amp;U=http%3A%2F%2Fwww.amazon.ca%2F%3Fref_%3Dpe_830320_114755010"><img src="http://g-ecx.images-amazon.com/images/G/15/x-locale/common/amazon-logo._V376405888_.gif" width="160" alt="Amazon.ca" height="45" border="0"></a>
+    </td>
+    <td align="right" class="topnav_header" style="font-size:12px;text-decoration:none;color:black"><b>
+      <a href="http://www.amazon.ca/gp/r.html?R=18FSUVZ5MC4FH&amp;C=4BSBRXBJ396V&amp;H=IDITYKBZOAF9GOQMHFFPBWFSWO8A&amp;T=C&amp;U=http%3A%2F%2Fwww.amazon.ca%2Fgp%2Fcart%2Fview.html%2Fref%3Dpe_830320_114755010_ox_oce_cart_ca"><img src="http://g-ecx.images-amazon.com/images/G/15/x-locale/common/icons/topnav-cart._V192565346_.gif" width="19" alt="VIEW CART" height="16" border="0">&nbsp;VIEW CART</a>
+    |
+      <a href="http://www.amazon.ca/gp/r.html?R=18FSUVZ5MC4FH&amp;C=4BSBRXBJ396V&amp;H=JFCNK32V3XFPCQWKIIRTLZ2SU2OA&amp;T=C&amp;U=http%3A%2F%2Fwww.amazon.ca%2Fgp%2Fregistry%2Fwishlist%2Fref%3Dpe_830320_114755010_ox_oce_wl_ca">WISH LIST</a>
+    |
+      <a href="http://www.amazon.ca/gp/r.html?R=18FSUVZ5MC4FH&amp;C=4BSBRXBJ396V&amp;H=TBLXNRVSCFXASRXDPMUQP9AY7COA&amp;T=C&amp;U=http%3A%2F%2Fwww.amazon.ca%2Fgp%2Fcss%2Fhomepage.html%2Fref%3Dpe_830320_114755010_ox_oce_yr_ca">YOUR ACCOUNT</a>
+    |
+      <a href="http://www.amazon.ca/gp/r.html?R=18FSUVZ5MC4FH&amp;C=4BSBRXBJ396V&amp;H=NLVCVQFCDOGPDME5JD9I8SWAYDGA&amp;T=C&amp;U=http%3A%2F%2Fwww.amazon.ca%2Fgp%2Fhelp%2Fcustomer%2Fdisplay.html%2Fref%3Dpe_830320_114755010_ox_oce_nav_top_hlp_ca">HELP</a>
+    </b></td>
+  </tr>
+</tbody></table>
+
+
+
+
+
+<table width="90%" border="0" cellspacing="0" cellpadding="1" align="center" bgcolor="#006699">
+  <tbody><tr>
+    <td>
+      <table width="100%" border="0" cellspacing="0" cellpadding="5" align="center">
+        <tbody><tr valign="top">
+          <td bgcolor="#FFFFFF">
+            <font face="verdana,arial,helvetica" size="-1">
+              <p><b>
+
+                Thanks for your order, Matt Saunders!
+              </b></p>
+
+
+              <p><b>Want to manage your order online?</b><br>
+
+If you need to check the status of your order or make changes, please visit our home page at <a href="http://Amazon.ca">Amazon.ca</a> and click on Your Account at the top of any page.<br>
+              </p>
+            </font>
+            <table cellpadding="4" cellspacing="0" border="0" width="100%">
+              <tbody><tr>
+	        <td colspan="2" bgcolor="#006699">
+	          <font color="#ffffff" face="verdana,arial,helvetica" size="-1"><b>Ordering Information:</b></font>
+	              </td>
+                </tr>
+              <tr>
+	        <td colspan="2">
+                  <font face="verdana,arial,helvetica" size="-1">
+                    <b>E-mail Address:</b>&nbsp;&nbsp;<a href="mailto:matt@ryersonfutures.ca">matt@ryersonfutures.ca</a>
+	          </font>
+	        </td>
+              </tr>
+              <tr>
+	        <td colspan="2">
+	          <table width="100%" cellspacing="0" cellpadding="0">
+	            <tbody><tr>
+	              <td valign="top" width="50%" style="padding-right:1em">
+                        <font face="verdana,arial,helvetica" size="-1">
+		          <b>Billing Address:</b><br>
+                            Matthew Saunders<br>10 Dundas St. East<br>suite 600<br>Toronto, Ontario M5B 2G9<br>Canada<br><br>
+		         </font>
+	               </td>
+                       <td valign="top" width="50%">
+                         <font face="verdana,arial,helvetica" size="-1">
+                         <b>Shipping Address:</b><br>
+                        Matthew Saunders<br>10 Dundas St. East<br>suite 600<br>Toronto, Ontario M5B 2G9<br>Canada<br><br>
+		          </font>
+	                </td>
+	              </tr>
+	            </tbody></table>
+	          </td>
+              </tr>
+              <tr>
+	        <td colspan="2">
+                  <font face="verdana,arial,helvetica" size="-1">
+	            <b>Order Grand Total: CDN$ 24.47</b>
+	          </font>
+	          </td>
+              </tr>
+
+
+
+
+              <tr>
+                <td colspan="2" bgcolor="#006699">
+                  <font color="#ffffff" face="verdana,arial,helvetica" size="-1"><b>Order Summary:</b></font>
+                </td>
+              </tr>
+
+
+
+
+              <tr>
+                <td bgcolor="#EEEEEE">
+
+
+                  <font face="verdana,arial,helvetica" size="-1" color="#CC6600"><b>
+
+                      Shipping Details
+                      : Vision Store Canada
+
+                  </b></font>
+
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <table border="0" cellpadding="1" cellspacing="0" width="100%">
+
+
+
+                            <tbody><tr>
+                                <td nowrap="nowrap">
+                                  <font face="verdana,arial,helvetica" size="-1">
+                                    <b>Order #:</b>
+                                   </font>
+                                </td>
+                                <td width="98%">
+                                  <font face="verdana,arial,helvetica" size="-1">
+                                    <a href="http://www.amazon.ca/gp/r.html?R=18FSUVZ5MC4FH&amp;C=4BSBRXBJ396V&amp;H=SDO2BKIOHZIGH6KCRXEUQG1CFPGA&amp;T=C&amp;U=https%3A%2F%2Fwww.amazon.ca%2Fgp%2Fcss%2Forder-history%3Fref_%3Dpe_830320_114755010">702-9665246-0381050</a>
+                                  </font>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td nowrap="nowrap">
+                                <font face="verdana,arial,helvetica" size="-1">
+                                    <b>Shipping Method:</b>
+                                </font>
+                                </td>
+                                <td width="98%">
+                                  <font face="verdana,arial,helvetica" size="-1">
+                                    Standard Shipping
+                                  </font>
+                                </td>
+                            </tr>
+
+
+
+        <tr>
+          <td nowrap="nowrap">
+            <span class="small">
+              <font face="verdana,arial,helvetica" size="-1">
+                Items: &nbsp;
+              </font>
+            </span>
+          </td>
+          <td>
+            <span class="small">
+              <font face="verdana,arial,helvetica" size="-1">
+                CDN$ 17.98
+              </font>
+            </span>
+          </td>
+        </tr>
+        <tr>
+          <td nowrap="nowrap">
+            <span class="small">
+              <font face="verdana,arial,helvetica" size="-1">
+                Shipping &amp; Handling: &nbsp;
+              </font>
+            </span>
+          </td>
+          <td>
+            <span class="small">
+              <font face="verdana,arial,helvetica" size="-1">
+                CDN$ 6.49
+              </font>
+            </span>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            &nbsp;
+          </td>
+          <td>
+            ------
+          </td>
+        </tr>
+        <tr>
+          <td nowrap="nowrap">
+            <span class="small">
+              <font face="verdana,arial,helvetica" size="-1">
+                Total before tax:
+ &nbsp;
+              </font>
+            </span>
+          </td>
+          <td>
+            <span class="small">
+              <font face="verdana,arial,helvetica" size="-1">
+                CDN$ 24.47
+              </font>
+            </span>
+          </td>
+        </tr>
+        <tr>
+          <td nowrap="nowrap">
+            <span class="small">
+              <font face="verdana,arial,helvetica" size="-1">
+                Estimated GST/HST: &nbsp;
+              </font>
+            </span>
+          </td>
+          <td>
+            <span class="small">
+              <font face="verdana,arial,helvetica" size="-1">
+                CDN$ 0.00
+              </font>
+            </span>
+          </td>
+        </tr>
+        <tr>
+          <td nowrap="nowrap">
+            <span class="small">
+              <font face="verdana,arial,helvetica" size="-1">
+                Estimated PST/RST/QST: &nbsp;
+              </font>
+            </span>
+          </td>
+          <td>
+            <span class="small">
+              <font face="verdana,arial,helvetica" size="-1">
+                CDN$ 0.00
+              </font>
+            </span>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            &nbsp;
+          </td>
+          <td>
+            ------
+          </td>
+        </tr>
+        <tr>
+          <td nowrap="nowrap">
+            <span class="small">
+              <font face="verdana,arial,helvetica" size="-1">
+                <b>
+                  Order Total: &nbsp;
+                </b>
+              </font>
+            </span>
+          </td>
+          <td>
+            <span class="small">
+              <font face="verdana,arial,helvetica" size="-1">
+                <b>
+                  CDN$ 24.47
+                </b>
+              </font>
+            </span>
+          </td>
+        </tr>
+
+
+
+
+
+
+                            <tr>
+                                <td colspan="2">
+                                  <font face="verdana,arial,helvetica" size="-1">
+                                  <br>&nbsp;<br>
+
+
+
+
+
+
+
+
+
+
+                  <b>Delivery estimate: </b>June 13 2014 - June 30 2014
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  </font>
+                                  <table>
+
+                                    <tbody><tr valign="top">
+                                        <td>
+                                        </td>
+                                        <td><font face="verdana,arial,helvetica" size="-1"><b>1</b></font></td>
+
+
+<td>
+<font face="verdana,arial,helvetica" size="-1">
+  <b>"Marketplace 3.0: Rewriting the Rules of Borderless Business by Mikitani, Hiroshi (2013)"</b><br>
+     Mikitani, Hiroshi;
+     Hardcover;
+
+
+    <span class="price">CDN$ 17.98 </span><br>
+
+
+
+     In Stock<br>&nbsp;&nbsp;
+
+  Sold by: <a href="http://www.amazon.ca/gp/r.html?R=18FSUVZ5MC4FH&amp;C=4BSBRXBJ396V&amp;H=ZHRGZKXDDOA7RY9TATJK35X6IPSA&amp;T=C&amp;U=http%3A%2F%2Fwww.amazon.ca%2Fgp%2Fhelp%2Fseller%2Fhome.html%3Fie%3DUTF8%26seller%3DAL7NKUJYM30JM%26ref_%3Dpe_830320_114755010">Vision Store Canada</a>
+
+
+
+</font>
+</td>
+
+
+                                     </tr>
+
+
+
+                                </tbody></table>
+
+
+
+                                </td>
+                            </tr>
+
+
+
+
+                  </tbody></table>
+	              </td>
+              </tr>
+
+
+
+                <tr>
+		  <td>
+	           <hr noshade="noshade" size="1">
+
+
+
+
+
+
+    <p>
+    <font face="verdana,arial,helvetica" size="-1">
+ &nbsp;
+    </font>
+</p>
+
+
+
+
+<p> <font face="verdana,arial,helvetica" size="-1"><b>Where can I get help with reviewing or changing my orders?</b> <br>
+
+To learn more about managing your orders on <a href="http://Amazon.ca">Amazon.ca</a>, please visit our Help pages at <a href="http://www.amazon.ca/help">www.amazon.ca/help</a>. <br></font> </p>
+
+
+    <p>
+    <font face="verdana,arial,helvetica" size="-1">
+       Please note: This e-mail was sent from a notification-only address that cannot accept incoming e-mail. Please do not reply to this message.
+    </font>
+    </p>
+
+    <p>
+    <font face="verdana,arial,helvetica" size="-1">
+       Thanks again for shopping with us!
+    </font>
+     </p>
+    <p>
+    <font face="verdana,arial,helvetica" size="-1">
+      <b>
+
+<a href="http://www.amazon.ca/gp/r.html?R=18FSUVZ5MC4FH&amp;C=4BSBRXBJ396V&amp;H=DAXEPIVHOEICN56480SUXXLPTG0A&amp;T=C&amp;U=http%3A%2F%2Fwww.amazon.ca%2F%3Fref_%3Dpe_830320_114755010">Amazon.ca</a></b>
+
+      <br><b>
+
+Earth's Biggest Selection
+      </b>
+    </font>
+    </p>
+
+
+
+
+    <p>
+    <font face="verdana,arial,helvetica" size="-1">
+      <img src="http://g-ecx.images-amazon.com/images/G/15/x-locale/common/icons/icon-unsubscribe._V192565354_.gif" width="17" height="15" border="0">&nbsp;
+      Prefer not to receive HTML mail?
+
+
+  <a href="http://www.amazon.ca/gp/r.html?R=18FSUVZ5MC4FH&amp;C=4BSBRXBJ396V&amp;H=W764VIZUWHFX0PIN2ESDUUPARYWA&amp;T=C&amp;U=https%3A%2F%2Fwww.amazon.ca%2Fgp%2Fgss%2Fccp%3Fref_%3Dpe_830320_114755010">Click here</a>
+  </font>
+      </p>
+			  </td>
+			</tr>
+		      </tbody></table>
+ </td>
+                   <td valign="top" bgcolor="#e1e4da" width="180">
+
+
+
+
+
+                   </td>
+                   </tr>
+                </tbody></table>
+              </td>
+             </tr>
+         </tbody></table>
+<img src="http://www.amazon.ca/gp/r.html?R=18FSUVZ5MC4FH&amp;C=4BSBRXBJ396V&amp;H=GBSAXVNJC52PIKJRJZO2TE5G8EEA&amp;T=E&amp;U=http%3A%2F%2Fimages.amazon.com%2Fimages%2FG%2F01%2Fnav%2Ftransp.gif">
+
+</div></blockquote></blockquote></body></html>
+--Apple-Mail-CC1E7428-4FA0-490D-A9E3-3FE4286C4D62--
+.

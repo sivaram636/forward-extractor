@@ -1,0 +1,1443 @@
+Delivered-To: johnny@getsensibill.com
+Received: by 10.64.138.232 with SMTP id qt8csp140765ieb;
+        Thu, 10 Jul 2014 15:57:45 -0700 (PDT)
+X-Received: by 10.140.109.118 with SMTP id k109mr80170762qgf.98.1405033064773;
+        Thu, 10 Jul 2014 15:57:44 -0700 (PDT)
+Return-Path: <jamie@getsensibill.com>
+Received: from mail-qa0-f44.google.com (mail-qa0-f44.google.com [209.85.216.44])
+        by mx.google.com with ESMTPS id l65si761866qge.91.2014.07.10.15.57.44
+        for <johnny@getsensibill.com>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Thu, 10 Jul 2014 15:57:44 -0700 (PDT)
+Received-SPF: softfail (google.com: domain of transitioning jamie@getsensibill.com does not designate 209.85.216.44 as permitted sender) client-ip=209.85.216.44;
+Authentication-Results: mx.google.com;
+       spf=softfail (google.com: domain of transitioning jamie@getsensibill.com does not designate 209.85.216.44 as permitted sender) smtp.mail=jamie@getsensibill.com
+Received: by mail-qa0-f44.google.com with SMTP id f12so116841qad.31
+        for <johnny@getsensibill.com>; Thu, 10 Jul 2014 15:57:44 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:from:to:content-type;
+        bh=42qzpTAkIoE9cTw9tarYmca7tVT0cNQtgqwLdmQ6COo=;
+        b=d26JYz2kB1/DMzJu5p2Y+OBq3bVifCI9Ym0zQN4P9iG2PWzRLXLKKQ/5cYsaF6+2Oh
+         HObEjyI5LaOmmfQREgxBiivQ/VieUcIg+zwL3lgMbfI8Nl0xSlRIrqqbHFDEgM+UBQWh
+         UoYSqpjTdol7Mfbq1nOaxcoZ/yK7yiCw8xm7ONNEpF/5EXbmL1FUJ8Zf8QMW8mJye863
+         e7dWKDo0vyNs1FCu0dPqndNYU8/2I/+2oaz9RPj1twR2SZwpwsfRdeCYGNpfAW2mfN0R
+         LdT4XyNCEs26geZ8wkFKTI7916OdRUdxa+Gsy9nUoT5ybu6lcipECuJWjUkPq4BnE/gU
+         FAtw==
+X-Gm-Message-State: ALoCoQmAo28+2HhgDFkH1puh/Vn+q1V7gAildyF2OYVKxMKpTuPKh+MjDVEKd1K9ZHa4fsU2/Lmp
+MIME-Version: 1.0
+X-Received: by 10.140.44.33 with SMTP id f30mr80371701qga.89.1405033064374;
+ Thu, 10 Jul 2014 15:57:44 -0700 (PDT)
+Received: by 10.140.50.161 with HTTP; Thu, 10 Jul 2014 15:57:44 -0700 (PDT)
+In-Reply-To: <554351B7-2A7C-4A59-A677-43696E9F8480@mac.com>
+References: <20140206010937.4931A2F2036@barracuda-BSF400-primary.Sephoraus.com>
+	<554351B7-2A7C-4A59-A677-43696E9F8480@mac.com>
+Date: Thu, 10 Jul 2014 18:57:44 -0400
+Message-ID: <CAKeckDhxi3CxY2SMELiQHY-NtnsyB4-m-6cg22MjftJz=i7wfQ@mail.gmail.com>
+Subject: Fwd: Your receipt from Sephora
+From: Jamie Alexander <jamie@getsensibill.com>
+To: Johnny Patterson <johnny@getsensibill.com>
+Content-Type: multipart/alternative; boundary=001a1139f97eb331bc04fddec037
+
+--001a1139f97eb331bc04fddec037
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Cheers,
+
+Jamie
+
+
+JAMIE ALEXANDER / CHIEF TECHNICAL OFFICER
+E. jamie@getsensibill.com / C. 416.201.2407
+ 10 Dundas St. E., 6th Floor / Toronto, ON, M5B 2G9
+
+
+---------- Forwarded message ----------
+From: JOANNA KUCZEK <jkuczek@mac.com>
+Date: Wed, Feb 5, 2014 at 8:29 PM
+Subject: Fwd: Your receipt from Sephora
+To: Corey Gross <corey@getsensibill.com>, Jamie Alexander <
+jamie@getsensibill.com>
+
+
+Here is one more from Sephora ...
+
+Begin forwarded message:
+
+*From:* "CustomerService@cs.sephora.com" <CustomerService@cs.sephora.com>
+*Date:* February 5, 2014 at 8:09:36 PM EST
+*To:* jkuczek@mac.com
+*Subject:* *Your receipt from Sephora*
+*Reply-To:* CustomerService@cs.sephora.com
+
+   Thanks for shopping Sephora. Your e-receipt is enclosed.
+Status: *Beauty
+Insider*
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.2LGEI.2ASC.bW89=
+MSZyc0NVU1RPTV9UUkFDS0lORz11cytuZXdzMStlcmVjZWlwdHMmbXAyMDQ0Nj0xMzE5MTk0ODc=
+3BLdaLPW0>
+ |  Point
+Balance: *115*         [image: SEPHORA]
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.2LGN0.2ASC.bW89=
+MSZyc0NVU1RPTV9UUkFDS0lORz11cytuZXdzMStlcmVjZWlwdHMmbXAyMDQ0Nj0xMzE5MTk0ODc=
+3BIBMLPG0>
+[image:
+3-Day Shipping Free Over $50]
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.2LGN2.2ASC.bW89=
+MSZyc0NVU1RPTV9UUkFDS0lORz11cytuZXdzMStlcmVjZWlwdHMmbXAyMDQ0Nj0xMzE5MTk0ODc=
+3BIRALPI0>
+    [image:
+MAKEUP]
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.2LGN4.2ASC.bW89=
+MSZyc0NVU1RPTV9UUkFDS0lORz11cytuZXdzMStlcmVjZWlwdHMmbXAyMDQ0Nj0xMzE5MTk0ODc=
+3BJAULPK0>
+[image:
+SKINCARE]
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.2LGN6.2ASC.bW89=
+MSZyc0NVU1RPTV9UUkFDS0lORz11cytuZXdzMStlcmVjZWlwdHMmbXAyMDQ0Nj0xMzE5MTk0ODc=
+3BJQILPM0>
+[image:
+FRAGRANCE]
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.2LGN8.2ASC.bW89=
+MSZyc0NVU1RPTV9UUkFDS0lORz11cytuZXdzMStlcmVjZWlwdHMmbXAyMDQ0Nj0xMzE5MTk0ODc=
+3BJfcLPO0>[image:
+SHOP]
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.2LGNA.2ASC.bW89=
+MSZyc0NVU1RPTV9UUkFDS0lORz11cytuZXdzMStlcmVjZWlwdHMmbXAyMDQ0Nj0xMzE5MTk0ODc=
+3BMGGLPX0>
+[image:
+SOLUTIONS]
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.2LGNC.2ASC.bW89=
+MSZyc0NVU1RPTV9UUkFDS0lORz11cytuZXdzMStlcmVjZWlwdHMmbXAyMDQ0Nj0xMzE5MTk0ODc=
+3BMVaLPZ0>
+[image:
+BRANDS]
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.2LGNG.2ASC.bW89=
+MSZyc0NVU1RPTV9UUkFDS0lORz11cytuZXdzMStlcmVjZWlwdHMmbXAyMDQ0Nj0xMzE5MTk0ODc=
+3BNVCLPd0>
+[image:
+WHAT'S NEW]
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.2LGNK.2ASC.bW89=
+MSZyc0NVU1RPTV9UUkFDS0lORz11cytuZXdzMStlcmVjZWlwdHMmbXAyMDQ0Nj0xMzE5MTk0ODc=
+3BOUKLQB0>
+[image:
+BEAUTY SERVICES]
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.2LGNM.2ASC.bW89=
+MSZyc0NVU1RPTV9UUkFDS0lORz11cytuZXdzMStlcmVjZWlwdHMmbXAyMDQ0Nj0xMzE5MTk0ODc=
+3BPDeLQD0>[image:
+STORES]
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.2LGNI.2ASC.bW89=
+MSZyc0NVU1RPTV9UUkFDS0lORz11cytuZXdzMStlcmVjZWlwdHMmbXAyMDQ0Nj0xMzE5MTk0ODc=
+3BOEWLPf0>
+*HI,*
+ Thank you for shopping at Sephora on 02/05/2014.
+ Routes 4 & 17 Space #E2, Paramus, NJ 07652
+(201) 845-7071
+
+
+Your purchases are now available in your BEAUTY BAG
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.2Kcxk.2ASC.bW89=
+MSZyc0NVU1RPTV9UUkFDS0lORz11cytuZXdzMStlcmVjZWlwdHMmbXAyMDQ0Nj0xMzE5MTk0ODc=
+3CHPKLTG0>=E2=80=94a
+new way to collect and organize your favorite beauty products.
+
+   *ITEM #**DESCRIPTION**PRICE*     1250554 VER BRT CRSYT 10ML RLBL
+20.00 T
+730341 NARS L/G TURKISH DELIGHT  25.00 T      1552553 MJ LOVEMARC
+SHOUT 138  30.00
+T      1508761 SC REGAL LASH  10.00 T      1508761 SC REGAL LASH  10.00 T
+Subtotal $95.00     Sales Tax 7.00%$6.65   *Store Total* *$101.65*
+     *RECEIPT
+#* 6600032002793511610603 *TRANSACTION # 79351* *STORE # 0320*       [image=
+:
+ENTER TO WIN A $250 GIFT CARD. Tell us about your Sephora experience and
+you'll be entered to win a $250 Sephora Gift Card. There=E2=80=99s a new wi=
+nner
+each week!** TAKE OUR SURVEY]
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.3RzUa.2ASC.bW89=
+MQ%5f%5fDEHKFQJ0>
+   [image:
+ENTER TO WIN A $250 GIFT CARD. Tell us about your Sephora experience and
+you'll be entered to win a $250 Sephora Gift Card. There's a new winner
+each week!** TAKE OUR SURVEY]
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.3RzUa.2ASC.bW89=
+MQ%5f%5fDEHKFQJ0>
+    [image:
+VIB]
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.2wx9q.2ASC.bW89=
+MSZyc0NVU1RPTV9UUkFDS0lORz11cytuZXdzMStlcmVjZWlwdHMmbXAyMDQ0Nj0xMzE5MTk0ODc=
+3CJUYLTO0>[image:
+VIB]
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.2wx9q.2ASC.bW89=
+MSZyc0NVU1RPTV9UUkFDS0lORz11cytuZXdzMStlcmVjZWlwdHMmbXAyMDQ0Nj0xMzE5MTk0ODc=
+3CJUYLTO0>Unlock
+VIB (Very Important Beauty Insider) status to enjoy bigger and better
+benefits.
+
+ [image: Reward Yourself]
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.2wx9q.2ASC.bW89=
+MSZyc0NVU1RPTV9UUkFDS0lORz11cytuZXdzMStlcmVjZWlwdHMmbXAyMDQ0Nj0xMzE5MTk0ODc=
+3CJUYLTO0>
+      [image:
+Follow us on...] [image: Facebook]
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.3RzUe.2ASC.bW89=
+MQ%5f%5fDEUSFQN0>
+[image:
+Pinterest]
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.3RzUg.2ASC.bW89=
+MQ%5f%5fDEbGFQP0>
+[image:
+Instagram]
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.3RzUk.2ASC.bW89=
+MQ%5f%5fDFIOFQT0>
+[image:
+Twitter]
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.3RzUm.2ASC.bW89=
+MQ%5f%5fDFPCFQV0>
+[image:
+Tumbler]
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.3RzUo.2ASC.bW89=
+MSZyc0NVU1RPTV9UUkFDS0lORz11cytuZXdzMStlcmVjZWlwdHMmbXAyMDQ0Nj0xMzE5MTk0ODc=
+3CHRSLTG0>
+[image:
+Google+]
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.3RzUq.2ASC.bW89=
+MQ%5f%5fDFcKFQZ0>
+[image:
+Beautytalk]
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.3RzUs.2ASC.bW89=
+MSZyc0NVU1RPTV9UUkFDS0lORz11cytuZXdzMStlcmVjZWlwdHMmbXAyMDQ0Nj0xMzE5MTk0ODc=
+3CIQaLTK0>
+[image:
+Sephora TV]
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.3RzUu.2ASC.bW89=
+MSZyc0NVU1RPTV9UUkFDS0lORz11cytuZXdzMStlcmVjZWlwdHMmbXAyMDQ0Nj0xMzE5MTk0ODc=
+3CJAOLTM0>
+       [image:
+Add to Passbook. Add your Beauty Insider Card]  [image: to] [image: iPhone]
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.3RzUw.2ASC.bW89=
+MQ%5f%5fDGQGFQf0>
+[image:
+or] [image: iPod Touch]
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.3RzUw.2ASC.bW89=
+MQ%5f%5fDGQGFQf0>
+   [image:
+Access exclusive]  [image: Fan Friday offers]
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.3RzUy.2ASC.bW89=
+MQ%5f%5fDGWaFRB0>
+   [image:
+Try expert services]
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.3RzU%5f.2ASC.bW=
+89MSZyc0NVU1RPTV9UUkFDS0lORz11cytuZXdzMStlcmVjZWlwdHMmbXAyMDQ0Nj0xMzE5MTk0O=
+Dc3CDUSLSW0>
+ [image:
+at the Beauty Studio]    [image: Get Sephora app]  [image: app]
+[image: for] [image:
+iPhone]
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.3RzUw.2ASC.bW89=
+MQ%5f%5fDGQGFQf0>
+Passbook
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.3RzUw.2ASC.bW89=
+MQ%5f%5fDGQGFQf0>
+| Contact Us
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.3RzV0.2ASC.bW89=
+MSZyc0NVU1RPTV9UUkFDS0lORz11cytuZXdzMStlcmVjZWlwdHMmbXAyMDQ0Nj0xMzE5MTk0ODc=
+3BYNILRI0>
+| Privacy Policy
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.3RzV4.2ASC.bW89=
+MSZyc0NVU1RPTV9UUkFDS0lORz11cytuZXdzMStlcmVjZWlwdHMmbXAyMDQ0Nj0xMzE5MTk0ODc=
+3BZMQLRM0>
+ Store locator
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.3RzV6.2ASC.bW89=
+MSZyc0NVU1RPTV9UUkFDS0lORz11cytuZXdzMStlcmVjZWlwdHMmbXAyMDQ0Nj0xMzE5MTk0ODc=
+3BZcELRO0>
+| Email Preferences
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.3RzV8.2ASC.bW89=
+MSZyc0NVU1RPTV9UUkFDS0lORz11cytuZXdzMStlcmVjZWlwdHMmbXAyMDQ0Nj0xMzE5MTk0ODc=
+3Jmk9amt1Y3pla0BtYWMuY29tCHCYNSX0>
+| Privacy Policy
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.3RzV4.2ASC.bW89=
+MSZyc0NVU1RPTV9UUkFDS0lORz11cytuZXdzMStlcmVjZWlwdHMmbXAyMDQ0Nj0xMzE5MTk0ODc=
+3BZMQLRM0>
+| Contact Us
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.3RzV0.2ASC.bW89=
+MSZyc0NVU1RPTV9UUkFDS0lORz11cytuZXdzMStlcmVjZWlwdHMmbXAyMDQ0Nj0xMzE5MTk0ODc=
+3BYNILRI0>
+| Canada
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.3RzVA.2ASC.bW89=
+MSZyc0NVU1RPTV9UUkFDS0lORz11cytuZXdzMStlcmVjZWlwdHMmbXAyMDQ0Nj0xMzE5MTk0ODc=
+3Jmk9amt1Y3pla0BtYWMuY29tCJWSNTA0>
+| It Lists
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.3RzVC.2ASC.bW89=
+MSZyc0NVU1RPTV9UUkFDS0lORz11cytuZXdzMStlcmVjZWlwdHMmbXAyMDQ0Nj0xMzE5MTk0ODc=
+3BdBWLRb0>
+| Trends
+<http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.3RzVE.2ASC.bW89=
+MSZyc0NVU1RPTV9UUkFDS0lORz11cytuZXdzMStlcmVjZWlwdHMmbXAyMDQ0Nj0xMzE5MTk0ODc=
+3BdRKLRd0>
+
+ You are receiving this one-time transactional email at jkuczek@mac.com
+because you requested a digital receipt at a Sephora retail location. Add
+customerservice@cs.sephora.com to your address book to be sure you receive
+future digital receipts.
+
+=C2=A92014 Sephora USA, Inc., 525 Market Street, Suite 350, San Francisco, =
+CA
+94105. All rights reserved.
+
+
+You are receiving this one-time transactional email at jkuczek@mac.com
+because you requested a digital receipt at a Sephora retail location. Add
+customerservice@cs.sephora.com to your address book to be sure you receive
+future digital receipts.
+          ** No purchase or survey necessary. Must be at least 16 years old
+to enter. Odds depend on number of entries. See website for official rules.
+Ends 12/31/14.             Please retain a copy of your receipt and we will
+gladly return or exchange your purchase at any Sephora location.   *Sephora
+Return Policy*
+If you are not completely satisfied with your Sephora purchases, simply
+return the merchandise with your receipt to any Sephora location. We will
+be glad to credit you in the same form of payment with which your purchase
+was made.
+
+Returns made in a different country than the original purchase will be
+refunded in the local currency and at the local tax rate of the store where
+the return is made.
+
+Any check refund in excess of $50 will be issued within 10 business days
+from Sephora Corporate Offices in the form of a Sephora corporate check.
+
+For approved returns without a receipt, we offer store credit in the form
+of a Sephora merchandise credit. Our Sephora merchandise credit cards can
+only be used at Sephora Stores and are not valid for use on Sephora.com or
+Sephora catalog.
+
+Our Sephora merchandise credit cards have no expiration date, cannot be
+redeemed for cash, reloaded, transferred to others or sold and will not be
+replaced if lost or stolen.
+
+Returns without a receipt will require a valid government issued photo ID
+that will be swiped, scanned or manually entered at the time of the return.
+Information from your ID will be retained in a third party database of
+customer return activity that Sephora uses to authorize returns and prevent
+fraud. Information in this database will not be used for marketing purposes=
+.
+
+Items returned without a receipt are refunded at the current selling price
+and local tax rate. Sephora does not refund shipping & handling charges
+unless an error has been made by Sephora.
+
+Sephora stores will accept returns of Sephora.com and Sephora catalog
+purchases within 60 days of purchase date. The original Packing Slip and
+Return Form (receipt) must be presented at the time of the return.
+
+All returns are subject to validation and approval by Sephora. Sephora
+reserves the right to limit or refuse a refund. If you are not completely
+satisfied with your Sephora purchases, simply return the merchandise with
+your receipt to any Sephora location.
+
+--001a1139f97eb331bc04fddec037
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><br clear=3D"all"><div><div dir=3D"ltr"><div style=3D"colo=
+r:rgb(82,82,82);font-size:11px"><div style=3D"font-family:Times"><div style=
+=3D"color:rgb(34,34,34);font-family:arial;font-size:small"><br></div><div s=
+tyle=3D"color:rgb(34,34,34);font-family:arial;font-size:small">
+<br></div><div style=3D"color:rgb(34,34,34);font-family:arial;font-size:sma=
+ll">Cheers,</div></div><div style=3D"font-family:arial;color:rgb(34,34,34);=
+font-size:small"><br></div><div style=3D"font-family:arial;color:rgb(34,34,=
+34);font-size:small">
+Jamie</div><div style=3D"font-family:Times"><span style=3D"font-weight:bold=
+;color:rgb(10,10,10)"><br></span></div><div style=3D"font-family:Times"><sp=
+an style=3D"font-weight:bold;color:rgb(10,10,10)"><br></span></div><div><fo=
+nt face=3D"tahoma, sans-serif"><span style=3D"color:rgb(10,10,10)">JAMIE AL=
+EXANDER</span>=C2=A0/=C2=A0CHIEF TECHNICAL OFFICER</font></div>
+<div style=3D"margin-top:5px"><font face=3D"tahoma, sans-serif"><span style=
+=3D"font-size:10.5px;color:rgb(40,190,193)">E.=C2=A0</span><a href=3D"mailt=
+o:jamie@getsensibill.com" target=3D"_blank">jamie@getsensibill.com</a> /=C2=
+=A0<span style=3D"font-size:10.5px;color:rgb(40,190,193)">C.=C2=A0</span>41=
+6.201.2407</font></div>
+<div style=3D"margin-top:15px"><font face=3D"tahoma, sans-serif"><img src=
+=3D"https://www.filepicker.io/api/file/uzPXhpSpeRsg8fZD07tg/convert?w=3D150=
+&amp;h=3D55&amp;fit=3Dclip" style=3D"width:100px;vertical-align:middle">=C2=
+=A010 Dundas St. E., 6th Floor / Toronto, ON, M5B 2G9</font></div>
+</div></div></div>
+<br><br><div class=3D"gmail_quote">---------- Forwarded message ----------<=
+br>From: <b class=3D"gmail_sendername">JOANNA KUCZEK</b> <span dir=3D"ltr">=
+&lt;<a href=3D"mailto:jkuczek@mac.com">jkuczek@mac.com</a>&gt;</span><br>Da=
+te: Wed, Feb 5, 2014 at 8:29 PM<br>
+Subject: Fwd: Your receipt from Sephora<br>To: Corey Gross &lt;<a href=3D"m=
+ailto:corey@getsensibill.com">corey@getsensibill.com</a>&gt;, Jamie Alexand=
+er &lt;<a href=3D"mailto:jamie@getsensibill.com">jamie@getsensibill.com</a>=
+&gt;<br>
+<br><br><div dir=3D"auto"><div>Here is one more from Sephora ...</div><div>=
+<br>Begin forwarded message:<br><br></div><blockquote type=3D"cite"><div><b=
+>From:</b> &quot;<a href=3D"mailto:CustomerService@cs.sephora.com" target=
+=3D"_blank">CustomerService@cs.sephora.com</a>&quot; &lt;<a href=3D"mailto:=
+CustomerService@cs.sephora.com" target=3D"_blank">CustomerService@cs.sephor=
+a.com</a>&gt;<br>
+<b>Date:</b> February 5, 2014 at 8:09:36 PM EST<br><b>To:</b> <a href=3D"ma=
+ilto:jkuczek@mac.com" target=3D"_blank">jkuczek@mac.com</a><br><b>Subject:<=
+/b> <b>Your receipt from Sephora</b><br><b>Reply-To:</b> <a href=3D"mailto:=
+CustomerService@cs.sephora.com" target=3D"_blank">CustomerService@cs.sephor=
+a.com</a><br>
+<br></div></blockquote><blockquote type=3D"cite"><div>
+
+
+
+
+
+
+
+=20
+=20
+ <table bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" width=3D"100%">
+<tbody><tr>
+<td>
+<table align=3D"center" bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" width=3D"680">
+<tbody><tr>
+<td width=3D"10"><img alt=3D"" border=3D"0" height=3D"25" src=3D"http://img=
+.delivery.net/cm50content/18628/63949/spacer.gif" style=3D"display:block" w=
+idth=3D"10"></td>
+<td align=3D"left" valign=3D"middle"><font style=3D"font-size:10px;line-hei=
+ght:12px;font-family:Arial,Helvetica,sans-serif;color:#333333">Thanks for s=
+hopping Sephora. Your e-receipt is enclosed. </font></td>
+<td align=3D"right" valign=3D"middle"><font style=3D"font-size:10px;line-he=
+ight:12px;font-family:Arial,Helvetica,sans-serif;color:#333333">=C2=A0</fon=
+t></td>
+<td align=3D"left" valign=3D"middle" width=3D"10"><img alt=3D"" border=3D"0=
+" height=3D"25" src=3D"http://img.delivery.net/cm50content/18628/63949/spac=
+er.gif" style=3D"display:block" width=3D"10"></td>
+</tr>
+</tbody></table>
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"680">
+<tbody><tr>
+<td>
+<table align=3D"center" bgcolor=3D"black" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"680">
+<tbody><tr>
+<td width=3D"10"><img alt=3D"" border=3D"0" height=3D"28" src=3D"http://img=
+.delivery.net/cm50content/18628/54227/spacer.gif" style=3D"display:block" w=
+idth=3D"10"></td>
+<td align=3D"left" valign=3D"middle">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"637">
+<tbody><tr>
+<td><font style=3D"font-size:11px;line-height:13px;font-family:Arial,Helvet=
+ica,sans-serif;color:#ffffff"> Status: <a href=3D"http://shop.sephora.com/r=
+/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.2LGEI.2ASC.bW89MSZyc0NVU1RPTV9UUkFDS0lORz=
+11cytuZXdzMStlcmVjZWlwdHMmbXAyMDQ0Nj0xMzE5MTk0ODc3BLdaLPW0" style=3D"font-s=
+ize:11px;line-height:13px;font-family:Arial,Helvetica,sans-serif;color:#fff=
+fff;text-decoration:none" target=3D"_blank"><b>Beauty Insider</b></a>=C2=A0=
+=C2=A0|=C2=A0=C2=A0Point Balance: <b>115</b></font> </td>
+
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td>
+<table align=3D"center" bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" width=3D"680">
+<tbody><tr>
+<td align=3D"center" valign=3D"middle">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"680">
+<tbody><tr>
+<td width=3D"240">
+</td><td align=3D"center" width=3D"200"><a href=3D"http://shop.sephora.com/=
+r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.2LGN0.2ASC.bW89MSZyc0NVU1RPTV9UUkFDS0lOR=
+z11cytuZXdzMStlcmVjZWlwdHMmbXAyMDQ0Nj0xMzE5MTk0ODc3BIBMLPG0" target=3D"_bla=
+nk"><img alt=3D"SEPHORA" border=3D"0" height=3D"91" src=3D"http://img.deliv=
+ery.net/cm50content/18628/54221/nav_sephora.gif" style=3D"display:block" wi=
+dth=3D"179"></a></td>
+
+<td align=3D"right" valign=3D"top" width=3D"240"><a href=3D"http://shop.sep=
+hora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.2LGN2.2ASC.bW89MSZyc0NVU1RPTV9U=
+UkFDS0lORz11cytuZXdzMStlcmVjZWlwdHMmbXAyMDQ0Nj0xMzE5MTk0ODc3BIRALPI0" targe=
+t=3D"_blank"><img alt=3D"3-Day Shipping Free Over $50" border=3D"0" height=
+=3D"37" src=3D"http://img.delivery.net/cm50content/18628/54221/nav_3-dayshi=
+pping.gif" style=3D"display:block" width=3D"118"></a></td>
+
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td align=3D"center" valign=3D"middle">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"680">
+<tbody><tr height=3D"16">
+<td align=3D"center" height=3D"16" style=3D"line-height:0px;font-size:0px" =
+valign=3D"top"><a href=3D"http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.=
+PCfIUi..N.2LGN4.2ASC.bW89MSZyc0NVU1RPTV9UUkFDS0lORz11cytuZXdzMStlcmVjZWlwdH=
+MmbXAyMDQ0Nj0xMzE5MTk0ODc3BJAULPK0" target=3D"_blank"><img alt=3D"MAKEUP" b=
+order=3D"0" height=3D"15" src=3D"http://img.delivery.net/cm50content/18628/=
+54221/nav_makeup.gif" style=3D"display:block" width=3D"76"></a></td>
+
+<td align=3D"center" height=3D"16" style=3D"line-height:0px;font-size:0px" =
+valign=3D"top"><a href=3D"http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.=
+PCfIUi..N.2LGN6.2ASC.bW89MSZyc0NVU1RPTV9UUkFDS0lORz11cytuZXdzMStlcmVjZWlwdH=
+MmbXAyMDQ0Nj0xMzE5MTk0ODc3BJQILPM0" target=3D"_blank"><img alt=3D"SKINCARE"=
+ border=3D"0" height=3D"15" src=3D"http://img.delivery.net/cm50content/1862=
+8/54221/nav_skincare.gif" style=3D"display:block" width=3D"90"></a></td>
+
+<td align=3D"center" height=3D"16" style=3D"line-height:0px;font-size:0px" =
+valign=3D"top"><a href=3D"http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.=
+PCfIUi..N.2LGN8.2ASC.bW89MSZyc0NVU1RPTV9UUkFDS0lORz11cytuZXdzMStlcmVjZWlwdH=
+MmbXAyMDQ0Nj0xMzE5MTk0ODc3BJfcLPO0" target=3D"_blank"><img alt=3D"FRAGRANCE=
+" border=3D"0" height=3D"15" src=3D"http://img.delivery.net/cm50content/186=
+28/54221/nav_fragrance.gif" style=3D"display:block" width=3D"102"></a><a hr=
+ef=3D"http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.2LGNA.2ASC=
+.bW89MSZyc0NVU1RPTV9UUkFDS0lORz11cytuZXdzMStlcmVjZWlwdHMmbXAyMDQ0Nj0xMzE5MT=
+k0ODc3BMGGLPX0" target=3D"_blank"><img alt=3D"SHOP" border=3D"0" height=3D"=
+1" src=3D"http://img.delivery.net/cm50content/18628/54221/nav_shop.gif" sty=
+le=3D"display:block" width=3D"1"></a></td>
+
+<td align=3D"center" height=3D"16" style=3D"line-height:0px;font-size:0px" =
+valign=3D"top"><a href=3D"http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.=
+PCfIUi..N.2LGNC.2ASC.bW89MSZyc0NVU1RPTV9UUkFDS0lORz11cytuZXdzMStlcmVjZWlwdH=
+MmbXAyMDQ0Nj0xMzE5MTk0ODc3BMVaLPZ0" target=3D"_blank"><img alt=3D"SOLUTIONS=
+" border=3D"0" height=3D"15" src=3D"http://img.delivery.net/cm50content/186=
+28/54221/nav_solutions.gif" style=3D"display:block" width=3D"98"></a></td>
+
+<td align=3D"center" height=3D"16" style=3D"line-height:0px;font-size:0px" =
+valign=3D"top"><a href=3D"http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.=
+PCfIUi..N.2LGNG.2ASC.bW89MSZyc0NVU1RPTV9UUkFDS0lORz11cytuZXdzMStlcmVjZWlwdH=
+MmbXAyMDQ0Nj0xMzE5MTk0ODc3BNVCLPd0" target=3D"_blank"><img alt=3D"BRANDS" b=
+order=3D"0" height=3D"15" src=3D"http://img.delivery.net/cm50content/18628/=
+54221/nav_brands.gif" style=3D"display:block" width=3D"82"></a></td>
+
+<td align=3D"center" height=3D"16" style=3D"line-height:0px;font-size:0px" =
+valign=3D"top"><a href=3D"http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.=
+PCfIUi..N.2LGNK.2ASC.bW89MSZyc0NVU1RPTV9UUkFDS0lORz11cytuZXdzMStlcmVjZWlwdH=
+MmbXAyMDQ0Nj0xMzE5MTk0ODc3BOUKLQB0" target=3D"_blank"><img alt=3D"WHAT&#39;=
+S NEW" border=3D"0" height=3D"15" src=3D"http://img.delivery.net/cm50conten=
+t/18628/54221/nav_whatsnew.gif" style=3D"display:block" width=3D"86"></a></=
+td>
+
+<td align=3D"center" height=3D"16" style=3D"line-height:0px;font-size:0px" =
+valign=3D"top"><a href=3D"http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.=
+PCfIUi..N.2LGNM.2ASC.bW89MSZyc0NVU1RPTV9UUkFDS0lORz11cytuZXdzMStlcmVjZWlwdH=
+MmbXAyMDQ0Nj0xMzE5MTk0ODc3BPDeLQD0" target=3D"_blank"><img alt=3D"BEAUTY SE=
+RVICES" border=3D"0" height=3D"15" src=3D"http://img.delivery.net/cm50conte=
+nt/18628/54221/nav_beautyservices.gif" style=3D"display:block" width=3D"127=
+"></a><a href=3D"http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N=
+.2LGNI.2ASC.bW89MSZyc0NVU1RPTV9UUkFDS0lORz11cytuZXdzMStlcmVjZWlwdHMmbXAyMDQ=
+0Nj0xMzE5MTk0ODc3BOEWLPf0" target=3D"_blank"><img alt=3D"STORES" border=3D"=
+0" height=3D"1" src=3D"http://img.delivery.net/cm50content/18628/54221/nav_=
+stores.gif" style=3D"display:block" width=3D"1"></a></td>
+
+</tr>
+<tr>
+<td bgcolor=3D"#000000" style=3D"line-height:0px;font-size:0px"><img alt=3D=
+"" border=3D"0" height=3D"4" src=3D"http://img.delivery.net/cm50content/186=
+28/54221/spacer.gif" style=3D"display:block" width=3D"1"></td>
+<td bgcolor=3D"#000000" style=3D"line-height:0px;font-size:0px"><img alt=3D=
+"" border=3D"0" height=3D"1" src=3D"http://img.delivery.net/cm50content/186=
+28/54221/spacer.gif" style=3D"display:block" width=3D"1"></td>
+<td bgcolor=3D"#000000" style=3D"line-height:0px;font-size:0px"><img alt=3D=
+"" border=3D"0" height=3D"1" src=3D"http://img.delivery.net/cm50content/186=
+28/54221/spacer.gif" style=3D"display:block" width=3D"1"></td>
+<td bgcolor=3D"#000000" style=3D"line-height:0px;font-size:0px"><img alt=3D=
+"" border=3D"0" height=3D"1" src=3D"http://img.delivery.net/cm50content/186=
+28/54221/spacer.gif" style=3D"display:block" width=3D"1"></td>
+<td bgcolor=3D"#000000" style=3D"line-height:0px;font-size:0px"><img alt=3D=
+"" border=3D"0" height=3D"1" src=3D"http://img.delivery.net/cm50content/186=
+28/54221/spacer.gif" style=3D"display:block" width=3D"1"></td>
+<td bgcolor=3D"#000000" style=3D"line-height:0px;font-size:0px"><img alt=3D=
+"" border=3D"0" height=3D"1" src=3D"http://img.delivery.net/cm50content/186=
+28/54221/spacer.gif" style=3D"display:block" width=3D"1"></td>
+<td bgcolor=3D"#000000" style=3D"line-height:0px;font-size:0px"><img alt=3D=
+"" border=3D"0" height=3D"1" src=3D"http://img.delivery.net/cm50content/186=
+28/54221/spacer.gif" style=3D"display:block" width=3D"1"></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td>
+<table align=3D"center" bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" width=3D"680">
+<tbody><tr>
+<td align=3D"left" valign=3D"middle"><img alt=3D"" border=3D"0" height=3D"2=
+5" src=3D"http://img.delivery.net/cm50content/18628/55092/spacer.gif" style=
+=3D"display:block" width=3D"1"></td>
+</tr>
+<tr>
+<td align=3D"center" valign=3D"top"><font style=3D"font-size:16px;line-heig=
+ht:24px;font-family:Helvetica,Arial,sans-serif;color:#000000"><b>HI,</b><br=
+>
+
+</font> <font style=3D"font-size:14px;line-height:16px;font-family:Helvetic=
+a,Arial,sans-serif;color:#000000">Thank you for shopping at Sephora on 02/0=
+5/2014.<br>
+
+</font> <font style=3D"font-size:11px;line-height:14px;font-family:Arial,He=
+lvetica,sans-serif;color:#000000">Routes 4 &amp; 17 Space #E2, Paramus, NJ =
+07652<br>
+
+<a href=3D"tel:%28201%29%20845-7071" value=3D"+12018457071" target=3D"_blan=
+k">(201) 845-7071</a><br>
+</font><img alt=3D"" border=3D"0" height=3D"26" src=3D"http://img.delivery.=
+net/cm50content/18628/55092/addy.gif" style=3D"display:block" width=3D"25">=
+<br>
+
+ <img alt=3D"" border=3D"0" height=3D"20" src=3D"http://img.delivery.net/cm=
+50content/18628/55092/spacer.gif" style=3D"display:block" width=3D"1"><br>
+<font style=3D"font-size:12px;line-height:14px;font-family:Arial,Helvetica,=
+sans-serif;color:#000000">Your purchases are now available in your <a href=
+=3D"http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.2Kcxk.2ASC.b=
+W89MSZyc0NVU1RPTV9UUkFDS0lORz11cytuZXdzMStlcmVjZWlwdHMmbXAyMDQ0Nj0xMzE5MTk0=
+ODc3CHPKLTG0" style=3D"font-size:11px;line-height:14px;font-family:Arial,He=
+lvetica,sans-serif;color:#000000;text-decoration:underline" target=3D"_blan=
+k">BEAUTY BAG</a>=E2=80=94a new way to collect and organize your favorite b=
+eauty products.<br>
+
+
+<br>
+=20
+</font> </td>
+</tr>
+<tr>
+<td align=3D"center" valign=3D"top">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"680"><tbod=
+y><tr><td align=3D"left" bgcolor=3D"#a8a8a8" colspan=3D"7" valign=3D"top" w=
+idth=3D"680" style=3D"line-height:0px;font-size:0px"><img alt=3D"" border=
+=3D"0" height=3D"1" src=3D"http://img.delivery.net/cm50content/18628/54200/=
+spacer.gif" style=3D"display:block" width=3D"1"></td>
+</tr><tr><td align=3D"left" valign=3D"top" width=3D"20"><img alt=3D"" borde=
+r=3D"0" height=3D"38" src=3D"http://img.delivery.net/cm50content/18628/5420=
+0/spacer.gif" style=3D"display:block" width=3D"20"></td><td width=3D"120"><=
+font style=3D"font-size:11px;line-height:14px;font-family:Arial,Helvetica,s=
+ans-serif;color:#000000"><b>ITEM #</b></font></td>
+<td width=3D"10"></td><td width=3D"350"><font style=3D"font-size:11px;line-=
+height:14px;font-family:Arial,Helvetica,sans-serif;color:#000000"><b>DESCRI=
+PTION</b></font></td><td width=3D"10"></td><td width=3D"120" align=3D"right=
+"><font style=3D"font-size:11px;line-height:14px;font-family:Arial,Helvetic=
+a,sans-serif;color:#000000"><b>PRICE</b></font></td>
+<td align=3D"right" valign=3D"top" width=3D"50"><img alt=3D"" border=3D"0" =
+height=3D"15" src=3D"http://img.delivery.net/cm50content/18628/55092/spacer=
+.gif" style=3D"display:block" width=3D"50"></td></tr><tr><td align=3D"left"=
+ bgcolor=3D"#a8a8a8" colspan=3D"7" valign=3D"top" width=3D"680" style=3D"li=
+ne-height:0px;font-size:0px">
+<img alt=3D"" border=3D"0" height=3D"1" src=3D"http://img.delivery.net/cm50=
+content/18628/54200/spacer.gif" style=3D"display:block" width=3D"1"></td></=
+tr><tr>							<td align=3D"left" valign=3D"top" width=3D"20"><img style=3D"=
+display:block" src=3D"http://img.delivery.net/cm50content/18628/54200/space=
+r.gif" width=3D"20" height=3D"15" border=3D"0" alt=3D""></td>
+							<td width=3D"120"><img style=3D"display:block" src=3D"http://img.del=
+ivery.net/cm50content/18628/54200/spacer.gif" width=3D"120" height=3D"15" b=
+order=3D"0" alt=3D""></td>							<td width=3D"10"></td>							<td width=3D"=
+350"></td>							<td width=3D"10">
+</td>							<td width=3D"120"></td><td align=3D"right" valign=3D"top" width=
+=3D"50"><img alt=3D"" border=3D"0" height=3D"15" src=3D"http://img.delivery=
+.net/cm50content/18628/55092/spacer.gif" style=3D"display:block" width=3D"5=
+0"></td>						</tr>
+                       <tr>							<td align=3D"left" valign=3D"top" width=
+=3D"20"><img style=3D"display:block" src=3D"http://img.delivery.net/cm50con=
+tent/18628/54200/spacer.gif" width=3D"20" height=3D"20" border=3D"0" alt=3D=
+""></td>							<td align=3D"left" valign=3D"top" width=3D"120">
+<font style=3D"font-size:11px;line-height:14px;font-family:Arial,Helvetica,=
+sans-serif;color:#000000">1250554</font></td>							<td align=3D"left" vali=
+gn=3D"top" width=3D"10"><img style=3D"display:block" src=3D"http://img.deli=
+very.net/cm50content/18628/54200/spacer.gif" width=3D"10" height=3D"20" bor=
+der=3D"0" alt=3D""></td>
+							<td align=3D"left" valign=3D"top" width=3D"350"><font style=3D"font-=
+size:11px;line-height:14px;font-family:Arial,Helvetica,sans-serif;color:#00=
+0000"><span>VER BRT CRSYT 10ML RLBL                   </span><span>  </span=
+></font></td>
+							<td align=3D"left" valign=3D"top" width=3D"10"><img style=3D"display=
+:block" src=3D"http://img.delivery.net/cm50content/18628/54200/spacer.gif" =
+width=3D"10" height=3D"20" border=3D"0" alt=3D""></td>							<td align=3D"r=
+ight" valign=3D"top" width=3D"120">
+<font style=3D"font-size:11px;line-height:14px;font-family:Arial,Helvetica,=
+sans-serif;color:#000000">20.00 T</font></td><td align=3D"right" valign=3D"=
+top" width=3D"50"><img alt=3D"" border=3D"0" height=3D"15" src=3D"http://im=
+g.delivery.net/cm50content/18628/55092/spacer.gif" style=3D"display:block" =
+width=3D"50"></td>
+						</tr><tr>							<td align=3D"left" valign=3D"top" width=3D"20"><img s=
+tyle=3D"display:block" src=3D"http://img.delivery.net/cm50content/18628/542=
+00/spacer.gif" width=3D"20" height=3D"15" border=3D"0" alt=3D""></td>						=
+	<td width=3D"120">
+<img style=3D"display:block" src=3D"http://img.delivery.net/cm50content/186=
+28/54200/spacer.gif" width=3D"120" height=3D"15" border=3D"0" alt=3D""></td=
+>							<td width=3D"10"></td>							<td width=3D"350"></td>							<td widt=
+h=3D"10"></td>
+							<td width=3D"120"></td><td align=3D"right" valign=3D"top" width=3D"5=
+0"><img alt=3D"" border=3D"0" height=3D"15" src=3D"http://img.delivery.net/=
+cm50content/18628/55092/spacer.gif" style=3D"display:block" width=3D"50"></=
+td>						</tr>                       <tr>
+							<td align=3D"left" valign=3D"top" width=3D"20"><img style=3D"display=
+:block" src=3D"http://img.delivery.net/cm50content/18628/54200/spacer.gif" =
+width=3D"20" height=3D"20" border=3D"0" alt=3D""></td>							<td align=3D"l=
+eft" valign=3D"top" width=3D"120">
+<font style=3D"font-size:11px;line-height:14px;font-family:Arial,Helvetica,=
+sans-serif;color:#000000">730341</font></td>							<td align=3D"left" valig=
+n=3D"top" width=3D"10"><img style=3D"display:block" src=3D"http://img.deliv=
+ery.net/cm50content/18628/54200/spacer.gif" width=3D"10" height=3D"20" bord=
+er=3D"0" alt=3D""></td>
+							<td align=3D"left" valign=3D"top" width=3D"350"><font style=3D"font-=
+size:11px;line-height:14px;font-family:Arial,Helvetica,sans-serif;color:#00=
+0000"><span>NARS L/G TURKISH DELIGHT                  </span><span>  </span=
+></font></td>
+							<td align=3D"left" valign=3D"top" width=3D"10"><img style=3D"display=
+:block" src=3D"http://img.delivery.net/cm50content/18628/54200/spacer.gif" =
+width=3D"10" height=3D"20" border=3D"0" alt=3D""></td>							<td align=3D"r=
+ight" valign=3D"top" width=3D"120">
+<font style=3D"font-size:11px;line-height:14px;font-family:Arial,Helvetica,=
+sans-serif;color:#000000">25.00 T</font></td><td align=3D"right" valign=3D"=
+top" width=3D"50"><img alt=3D"" border=3D"0" height=3D"15" src=3D"http://im=
+g.delivery.net/cm50content/18628/55092/spacer.gif" style=3D"display:block" =
+width=3D"50"></td>
+						</tr><tr>							<td align=3D"left" valign=3D"top" width=3D"20"><img s=
+tyle=3D"display:block" src=3D"http://img.delivery.net/cm50content/18628/542=
+00/spacer.gif" width=3D"20" height=3D"15" border=3D"0" alt=3D""></td>						=
+	<td width=3D"120">
+<img style=3D"display:block" src=3D"http://img.delivery.net/cm50content/186=
+28/54200/spacer.gif" width=3D"120" height=3D"15" border=3D"0" alt=3D""></td=
+>							<td width=3D"10"></td>							<td width=3D"350"></td>							<td widt=
+h=3D"10"></td>
+							<td width=3D"120"></td><td align=3D"right" valign=3D"top" width=3D"5=
+0"><img alt=3D"" border=3D"0" height=3D"15" src=3D"http://img.delivery.net/=
+cm50content/18628/55092/spacer.gif" style=3D"display:block" width=3D"50"></=
+td>						</tr>                       <tr>
+							<td align=3D"left" valign=3D"top" width=3D"20"><img style=3D"display=
+:block" src=3D"http://img.delivery.net/cm50content/18628/54200/spacer.gif" =
+width=3D"20" height=3D"20" border=3D"0" alt=3D""></td>							<td align=3D"l=
+eft" valign=3D"top" width=3D"120">
+<font style=3D"font-size:11px;line-height:14px;font-family:Arial,Helvetica,=
+sans-serif;color:#000000">1552553</font></td>							<td align=3D"left" vali=
+gn=3D"top" width=3D"10"><img style=3D"display:block" src=3D"http://img.deli=
+very.net/cm50content/18628/54200/spacer.gif" width=3D"10" height=3D"20" bor=
+der=3D"0" alt=3D""></td>
+							<td align=3D"left" valign=3D"top" width=3D"350"><font style=3D"font-=
+size:11px;line-height:14px;font-family:Arial,Helvetica,sans-serif;color:#00=
+0000"><span>MJ LOVEMARC SHOUT 138                     </span><span>  </span=
+></font></td>
+							<td align=3D"left" valign=3D"top" width=3D"10"><img style=3D"display=
+:block" src=3D"http://img.delivery.net/cm50content/18628/54200/spacer.gif" =
+width=3D"10" height=3D"20" border=3D"0" alt=3D""></td>							<td align=3D"r=
+ight" valign=3D"top" width=3D"120">
+<font style=3D"font-size:11px;line-height:14px;font-family:Arial,Helvetica,=
+sans-serif;color:#000000">30.00 T</font></td><td align=3D"right" valign=3D"=
+top" width=3D"50"><img alt=3D"" border=3D"0" height=3D"15" src=3D"http://im=
+g.delivery.net/cm50content/18628/55092/spacer.gif" style=3D"display:block" =
+width=3D"50"></td>
+						</tr><tr>							<td align=3D"left" valign=3D"top" width=3D"20"><img s=
+tyle=3D"display:block" src=3D"http://img.delivery.net/cm50content/18628/542=
+00/spacer.gif" width=3D"20" height=3D"15" border=3D"0" alt=3D""></td>						=
+	<td width=3D"120">
+<img style=3D"display:block" src=3D"http://img.delivery.net/cm50content/186=
+28/54200/spacer.gif" width=3D"120" height=3D"15" border=3D"0" alt=3D""></td=
+>							<td width=3D"10"></td>							<td width=3D"350"></td>							<td widt=
+h=3D"10"></td>
+							<td width=3D"120"></td><td align=3D"right" valign=3D"top" width=3D"5=
+0"><img alt=3D"" border=3D"0" height=3D"15" src=3D"http://img.delivery.net/=
+cm50content/18628/55092/spacer.gif" style=3D"display:block" width=3D"50"></=
+td>						</tr>                       <tr>
+							<td align=3D"left" valign=3D"top" width=3D"20"><img style=3D"display=
+:block" src=3D"http://img.delivery.net/cm50content/18628/54200/spacer.gif" =
+width=3D"20" height=3D"20" border=3D"0" alt=3D""></td>							<td align=3D"l=
+eft" valign=3D"top" width=3D"120">
+<font style=3D"font-size:11px;line-height:14px;font-family:Arial,Helvetica,=
+sans-serif;color:#000000">1508761</font></td>							<td align=3D"left" vali=
+gn=3D"top" width=3D"10"><img style=3D"display:block" src=3D"http://img.deli=
+very.net/cm50content/18628/54200/spacer.gif" width=3D"10" height=3D"20" bor=
+der=3D"0" alt=3D""></td>
+							<td align=3D"left" valign=3D"top" width=3D"350"><font style=3D"font-=
+size:11px;line-height:14px;font-family:Arial,Helvetica,sans-serif;color:#00=
+0000"><span>SC REGAL LASH        </span></font></td>							<td align=3D"lef=
+t" valign=3D"top" width=3D"10">
+<img style=3D"display:block" src=3D"http://img.delivery.net/cm50content/186=
+28/54200/spacer.gif" width=3D"10" height=3D"20" border=3D"0" alt=3D""></td>=
+							<td align=3D"right" valign=3D"top" width=3D"120"><font style=3D"font=
+-size:11px;line-height:14px;font-family:Arial,Helvetica,sans-serif;color:#0=
+00000">10.00 T</font></td>
+<td align=3D"right" valign=3D"top" width=3D"50"><img alt=3D"" border=3D"0" =
+height=3D"15" src=3D"http://img.delivery.net/cm50content/18628/55092/spacer=
+.gif" style=3D"display:block" width=3D"50"></td>						</tr><tr>							<td a=
+lign=3D"left" valign=3D"top" width=3D"20">
+<img style=3D"display:block" src=3D"http://img.delivery.net/cm50content/186=
+28/54200/spacer.gif" width=3D"20" height=3D"15" border=3D"0" alt=3D""></td>=
+							<td width=3D"120"><img style=3D"display:block" src=3D"http://img.del=
+ivery.net/cm50content/18628/54200/spacer.gif" width=3D"120" height=3D"15" b=
+order=3D"0" alt=3D""></td>
+							<td width=3D"10"></td>							<td width=3D"350"></td>							<td width=
+=3D"10"></td>							<td width=3D"120"></td><td align=3D"right" valign=3D"to=
+p" width=3D"50"><img alt=3D"" border=3D"0" height=3D"15" src=3D"http://img.=
+delivery.net/cm50content/18628/55092/spacer.gif" style=3D"display:block" wi=
+dth=3D"50"></td>
+						</tr>                       <tr>							<td align=3D"left" valign=3D"t=
+op" width=3D"20"><img style=3D"display:block" src=3D"http://img.delivery.ne=
+t/cm50content/18628/54200/spacer.gif" width=3D"20" height=3D"20" border=3D"=
+0" alt=3D""></td>
+							<td align=3D"left" valign=3D"top" width=3D"120"><font style=3D"font-=
+size:11px;line-height:14px;font-family:Arial,Helvetica,sans-serif;color:#00=
+0000">1508761</font></td>							<td align=3D"left" valign=3D"top" width=3D"=
+10"><img style=3D"display:block" src=3D"http://img.delivery.net/cm50content=
+/18628/54200/spacer.gif" width=3D"10" height=3D"20" border=3D"0" alt=3D""><=
+/td>
+							<td align=3D"left" valign=3D"top" width=3D"350"><font style=3D"font-=
+size:11px;line-height:14px;font-family:Arial,Helvetica,sans-serif;color:#00=
+0000"><span>SC REGAL LASH        </span></font></td>							<td align=3D"lef=
+t" valign=3D"top" width=3D"10">
+<img style=3D"display:block" src=3D"http://img.delivery.net/cm50content/186=
+28/54200/spacer.gif" width=3D"10" height=3D"20" border=3D"0" alt=3D""></td>=
+							<td align=3D"right" valign=3D"top" width=3D"120"><font style=3D"font=
+-size:11px;line-height:14px;font-family:Arial,Helvetica,sans-serif;color:#0=
+00000">10.00 T</font></td>
+<td align=3D"right" valign=3D"top" width=3D"50"><img alt=3D"" border=3D"0" =
+height=3D"15" src=3D"http://img.delivery.net/cm50content/18628/55092/spacer=
+.gif" style=3D"display:block" width=3D"50"></td>						</tr></tbody></table>=
+=20
+</td>
+</tr>
+<tr>
+<td align=3D"center" valign=3D"top">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+<tbody><tr>
+<td align=3D"right" valign=3D"top" width=3D"540">
+</td><td align=3D"right" valign=3D"top" width=3D"90"><img alt=3D"" border=
+=3D"0" height=3D"15" src=3D"http://img.delivery.net/cm50content/18628/55092=
+/spacer.gif" style=3D"display:block" width=3D"10"></td>
+<td align=3D"right" valign=3D"top" width=3D"50"><img alt=3D"" border=3D"0" =
+height=3D"15" src=3D"http://img.delivery.net/cm50content/18628/55092/spacer=
+.gif" style=3D"display:block" width=3D"50"></td>
+</tr>
+<tr>
+<td align=3D"right" valign=3D"top" width=3D"540"><font style=3D"font-size:1=
+1px;line-height:14px;font-family:Arial,Helvetica,sans-serif;color:#000000">=
+Subtotal</font></td>
+<td align=3D"right" valign=3D"top" width=3D"90"><font style=3D"font-size:11=
+px;line-height:14px;font-family:Arial,Helvetica,sans-serif;color:#000000">$=
+95.00</font></td>
+<td align=3D"right" valign=3D"top" width=3D"50">
+</td></tr>
+<tr>
+<td align=3D"right" valign=3D"top" width=3D"540">
+</td><td align=3D"right" valign=3D"top" width=3D"90"><img alt=3D"" border=
+=3D"0" height=3D"15" src=3D"http://img.delivery.net/cm50content/18628/55092=
+/spacer.gif" style=3D"display:block" width=3D"10"></td>
+<td align=3D"right" valign=3D"top" width=3D"50"><img alt=3D"" border=3D"0" =
+height=3D"15" src=3D"http://img.delivery.net/cm50content/18628/55092/spacer=
+.gif" style=3D"display:block" width=3D"50"></td>
+</tr>
+</tbody></table>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td alig=
+n=3D"right" valign=3D"top" width=3D"540"><font style=3D"font-size:11px;line=
+-height:14px;font-family:Arial,Helvetica,sans-serif;color:#000000">Sales Ta=
+x 7.00%</font></td>
+<td align=3D"right" valign=3D"top" width=3D"90"><font style=3D"font-size:11=
+px;line-height:14px;font-family:Arial,Helvetica,sans-serif;color:#000000">$=
+6.65</font></td><td align=3D"right" valign=3D"top" width=3D"50"></td></tr><=
+tr>  <td align=3D"right" valign=3D"top" width=3D"540">
+  </td><td align=3D"right" valign=3D"top" width=3D"90"><img alt=3D"" border=
+=3D"0" height=3D"15" src=3D"http://img.delivery.net/cm50content/18628/55092=
+/spacer.gif" style=3D"display:block" width=3D"10"></td>  <td align=3D"right=
+" valign=3D"top" width=3D"50">
+<img alt=3D"" border=3D"0" height=3D"15" src=3D"http://img.delivery.net/cm5=
+0content/18628/55092/spacer.gif" style=3D"display:block" width=3D"50"></td>=
+</tr></tbody></table>=20
+<table align=3D"center" bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" width=3D"680">
+<tbody><tr>
+<td align=3D"right" valign=3D"top" width=3D"540"><font style=3D"font-size:1=
+1px;line-height:14px;font-family:Arial,Helvetica,sans-serif;color:#000000">=
+<b>Store Total</b></font></td>
+<td align=3D"right" valign=3D"top" width=3D"90"><font style=3D"font-size:11=
+px;line-height:14px;font-family:Arial,Helvetica,sans-serif;color:#000000"><=
+b>$101.65</b></font></td>
+<td align=3D"right" valign=3D"top" width=3D"50">
+</td></tr>
+<tr>
+<td align=3D"right" valign=3D"top" width=3D"540">
+</td><td align=3D"right" valign=3D"top" width=3D"90"><img alt=3D"" border=
+=3D"0" height=3D"15" src=3D"http://img.delivery.net/cm50content/18628/55092=
+/spacer.gif" style=3D"display:block" width=3D"10"></td>
+<td align=3D"right" valign=3D"top" width=3D"50"><img alt=3D"" border=3D"0" =
+height=3D"15" src=3D"http://img.delivery.net/cm50content/18628/55092/spacer=
+.gif" style=3D"display:block" width=3D"50"></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td align=3D"center" valign=3D"top"></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td>
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"680"><tbody><tr><td width=3D"240"></td><td align=3D"center" width=3D=
+"200"><img alt=3D"" border=3D"0" height=3D"20" src=3D"http://img.delivery.n=
+et/cm50content/18628/55347/spacer.gif" width=3D"1"></td>
+<td width=3D"240"></td></tr>
+<tr><td width=3D"240"></td><td align=3D"center" width=3D"200"><font style=
+=3D"font-size:11px;line-height:14px;font-family:Arial,Helvetica,sans-serif;=
+color:#000000"><b>RECEIPT #</b></font></td><td width=3D"240"></td></tr>
+<tr><td width=3D"240"></td><td align=3D"center" width=3D"200"><img alt=3D""=
+ border=3D"0" height=3D"6" src=3D"http://img.delivery.net/cm50content/18628=
+/55347/spacer.gif" width=3D"1"></td><td width=3D"240"></td></tr>
+<tr><td width=3D"240"></td><td align=3D"center" width=3D"200"><img src=3D"h=
+ttp://barcodeserver.m0.net/BarCode/DIBarcodeServlet?37383d2d060c081e465f514=
+77e742c3210141e41417f05222c344c416c7b2d3d313d313a6f747d34381b020f04464d4457=
+7830242d061a1f081a64407d38300512ecbdb1b0998e8c9892949a8eb2b0adb19b99969699b=
+49ab3" width=3D"179" height=3D"53" border=3D"0"></td>
+<td width=3D"240"></td></tr><tr><td width=3D"240"></td><td align=3D"center"=
+ width=3D"200"><font style=3D"font-size:11px;line-height:14px;font-family:A=
+rial,Helvetica,sans-serif;color:#000000">6600032002793511610603</font></td>=
+<td width=3D"240">
+</td></tr>
+<tr><td width=3D"240"></td><td align=3D"center" width=3D"200"><img alt=3D""=
+ border=3D"0" height=3D"6" src=3D"http://img.delivery.net/cm50content/18628=
+/55347/spacer.gif" width=3D"1"></td><td width=3D"240"></td></tr>
+<tr><td width=3D"240"></td><td align=3D"center" width=3D"200"><font style=
+=3D"font-size:11px;line-height:14px;font-family:Arial,Helvetica,sans-serif;=
+color:#000000"><b>TRANSACTION # 79351</b></font></td><td width=3D"240"></td=
+></tr>
+<tr><td width=3D"240"></td><td align=3D"center" width=3D"200"><img alt=3D""=
+ border=3D"0" height=3D"6" src=3D"http://img.delivery.net/cm50content/18628=
+/55347/spacer.gif" width=3D"1"></td><td width=3D"240"></td></tr>
+<tr><td width=3D"240"></td><td align=3D"center" width=3D"200"><font style=
+=3D"font-size:11px;line-height:14px;font-family:Arial,Helvetica,sans-serif;=
+color:#000000"><b>STORE # 0320</b></font></td><td width=3D"240"></td></tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td><img alt=3D"" border=3D"0" height=3D"21" src=3D"http://img.delivery.net=
+/cm50content/18628/63949/spacer.gif" style=3D"display:block" width=3D"1"></=
+td>
+</tr>
+<tr>
+<td bgcolor=3D"#000000" style=3D"line-height:0px;font-size:0px"><img alt=3D=
+"" border=3D"0" height=3D"4" src=3D"http://img.delivery.net/cm50content/186=
+28/63949/spacer.gif" style=3D"display:block" width=3D"10"></td>
+</tr>
+<tr>
+<td height=3D"52"><img alt=3D"" border=3D"0" height=3D"52" src=3D"http://im=
+g.delivery.net/cm50content/18628/63949/spacer.gif" style=3D"display:block" =
+width=3D"1"></td>
+</tr>
+<tr>
+<td><a href=3D"http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.3=
+RzUa.2ASC.bW89MQ%5f%5fDEHKFQJ0" target=3D"_blank"><img alt=3D"ENTER TO WIN =
+A $250 GIFT CARD. Tell us about your Sephora experience and you&#39;ll be e=
+ntered to win a $250 Sephora Gift Card. There=E2=80=99s a new winner each w=
+eek!** TAKE OUR SURVEY" border=3D"0" height=3D"178" src=3D"http://img.deliv=
+ery.net/cm50content/18628/63949/250_des_02v2.gif" style=3D"display:block" w=
+idth=3D"700"></a></td>
+
+</tr>
+<tr>
+<td style=3D"line-height:0px;font-size:0px">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"700">
+<tbody><tr>
+<td style=3D"line-height:0px;font-size:0px" width=3D"10">
+</td><td bgcolor=3D"#000000" style=3D"line-height:0px;font-size:0px" width=
+=3D"680"><a href=3D"http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi=
+..N.3RzUa.2ASC.bW89MQ%5f%5fDEHKFQJ0" target=3D"_blank"><img alt=3D"ENTER TO=
+ WIN A $250 GIFT CARD. Tell us about your Sephora experience and you&#39;ll=
+ be entered to win a $250 Sephora Gift Card. There&#39;s a new winner each =
+week!** TAKE OUR SURVEY" border=3D"0" height=3D"1" src=3D"http://img.delive=
+ry.net/cm50content/18628/63949/250_res_02.gif" style=3D"display:block" widt=
+h=3D"1"></a></td>
+
+<td style=3D"line-height:0px;font-size:0px" width=3D"10">
+</td></tr>
+</tbody></table></td>
+</tr>
+<tr>
+<td><img alt=3D"" border=3D"0" height=3D"23" src=3D"http://img.delivery.net=
+/cm50content/18628/63949/spacer.gif" style=3D"display:block" width=3D"1"></=
+td>
+</tr>
+<tr>
+<td>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"700"><tbod=
+y><tr><td width=3D"85"><img alt=3D"" border=3D"0" height=3D"8" src=3D"http:=
+//img.delivery.net/cm50content/18628/60528/spacer.gif" style=3D"display:blo=
+ck" width=3D"85"></td>
+<td><table bgcolor=3D"#f3f3f3" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0"><tbody><tr><td colspan=3D"3"><a href=3D"http://shop.sephora.com/r/c/=
+r?2.1.3JG.2VF.134iCm.PCfIUi..N.2wx9q.2ASC.bW89MSZyc0NVU1RPTV9UUkFDS0lORz11c=
+ytuZXdzMStlcmVjZWlwdHMmbXAyMDQ0Nj0xMzE5MTk0ODc3CJUYLTO0" target=3D"_blank">=
+<img alt=3D"VIB" border=3D"0" height=3D"60" src=3D"http://img.delivery.net/=
+cm50content/18628/60528/vib_banner_des_05.gif" width=3D"529"></a></td>
+</tr><tr><td colspan=3D"3" style=3D"line-height:0px;font-size:0px"><a href=
+=3D"http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.2wx9q.2ASC.b=
+W89MSZyc0NVU1RPTV9UUkFDS0lORz11cytuZXdzMStlcmVjZWlwdHMmbXAyMDQ0Nj0xMzE5MTk0=
+ODc3CJUYLTO0" target=3D"_blank"><img alt=3D"VIB" border=3D"0" height=3D"1" =
+src=3D"http://img.delivery.net/cm50content/18628/60528/vib_banner_res_04.gi=
+f" width=3D"1"></a></td>
+</tr><tr><td><img alt=3D"" border=3D"0" height=3D"8" src=3D"http://img.deli=
+very.net/cm50content/18628/60528/spacer.gif" style=3D"display:block" width=
+=3D"130"></td><td align=3D"center"><font style=3D"font-size:12px;line-heigh=
+t:15px;font-family:Arial,Helvetica,sans-serif;color:#000000">Unlock VIB (Ve=
+ry Important Beauty Insider) status to enjoy bigger and better benefits.<br=
+>
+
+<br>
+</font> <a href=3D"http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi.=
+.N.2wx9q.2ASC.bW89MSZyc0NVU1RPTV9UUkFDS0lORz11cytuZXdzMStlcmVjZWlwdHMmbXAyM=
+DQ0Nj0xMzE5MTk0ODc3CJUYLTO0" target=3D"_blank"><img alt=3D"Reward Yourself"=
+ border=3D"0" height=3D"21" src=3D"http://img.delivery.net/cm50content/1862=
+8/60528/reward_yourself_cta_07.gif" width=3D"189"></a></td>
+<td><img alt=3D"" border=3D"0" height=3D"8" src=3D"http://img.delivery.net/=
+cm50content/18628/60528/spacer.gif" style=3D"display:block" width=3D"130"><=
+/td></tr><tr><td></td><td align=3D"center"><img alt=3D"" border=3D"0" heigh=
+t=3D"30" src=3D"http://img.delivery.net/cm50content/18628/60528/spacer.gif"=
+ style=3D"display:block" width=3D"1"></td>
+<td></td></tr></tbody></table></td><td width=3D"86"><img alt=3D"" border=3D=
+"0" height=3D"8" src=3D"http://img.delivery.net/cm50content/18628/60528/spa=
+cer.gif" style=3D"display:block" width=3D"86"></td></tr></tbody></table>
+</td>
+</tr>
+<tr>
+<td><img alt=3D"" border=3D"0" height=3D"30" src=3D"http://img.delivery.net=
+/cm50content/18628/63949/spacer.gif" style=3D"display:block" width=3D"1"></=
+td>
+</tr>
+<tr>
+<td bgcolor=3D"#000000" style=3D"line-height:0px;font-size:0px"><img alt=3D=
+"" border=3D"0" height=3D"4" src=3D"http://img.delivery.net/cm50content/186=
+28/63949/spacer.gif" style=3D"display:block" width=3D"10"></td>
+</tr>
+<tr>
+<td>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"680">
+<tbody><tr>
+<td width=3D"119"><img alt=3D"Follow us on..." border=3D"0" height=3D"52" s=
+rc=3D"http://img.delivery.net/cm50content/18628/63949/04122013_eReceipts_08=
+_09.gif" style=3D"display:block" width=3D"119"></td>
+<td width=3D"25"><a href=3D"http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iC=
+m.PCfIUi..N.3RzUe.2ASC.bW89MQ%5f%5fDEUSFQN0" target=3D"_blank"><img alt=3D"=
+Facebook" border=3D"0" height=3D"52" src=3D"http://img.delivery.net/cm50con=
+tent/18628/63949/04122013_eReceipts_08_07.gif" style=3D"display:block" widt=
+h=3D"25"></a></td>
+
+<td width=3D"25"><a href=3D"http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iC=
+m.PCfIUi..N.3RzUg.2ASC.bW89MQ%5f%5fDEbGFQP0" target=3D"_blank"><img alt=3D"=
+Pinterest" border=3D"0" height=3D"52" src=3D"http://img.delivery.net/cm50co=
+ntent/18628/63949/04122013_eReceipts_08_07-03.gif" style=3D"display:block" =
+width=3D"25"></a></td>
+
+<td width=3D"26"><a href=3D"http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iC=
+m.PCfIUi..N.3RzUk.2ASC.bW89MQ%5f%5fDFIOFQT0" target=3D"_blank"><img alt=3D"=
+Instagram" border=3D"0" height=3D"52" src=3D"http://img.delivery.net/cm50co=
+ntent/18628/63949/04122013_eReceipts_08_10.gif" style=3D"display:block" wid=
+th=3D"26"></a></td>
+
+<td width=3D"24"><a href=3D"http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iC=
+m.PCfIUi..N.3RzUm.2ASC.bW89MQ%5f%5fDFPCFQV0" target=3D"_blank"><img alt=3D"=
+Twitter" border=3D"0" height=3D"52" src=3D"http://img.delivery.net/cm50cont=
+ent/18628/63949/04122013_eReceipts_08_11.gif" style=3D"display:block" width=
+=3D"24"></a></td>
+
+<td width=3D"25"><a href=3D"http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iC=
+m.PCfIUi..N.3RzUo.2ASC.bW89MSZyc0NVU1RPTV9UUkFDS0lORz11cytuZXdzMStlcmVjZWlw=
+dHMmbXAyMDQ0Nj0xMzE5MTk0ODc3CHRSLTG0" target=3D"_blank"><img alt=3D"Tumbler=
+" border=3D"0" height=3D"52" src=3D"http://img.delivery.net/cm50content/186=
+28/63949/04122013_eReceipts_08_12.gif" style=3D"display:block" width=3D"25"=
+></a></td>
+
+<td width=3D"24"><a href=3D"http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iC=
+m.PCfIUi..N.3RzUq.2ASC.bW89MQ%5f%5fDFcKFQZ0" target=3D"_blank"><img alt=3D"=
+Google+" border=3D"0" height=3D"52" src=3D"http://img.delivery.net/cm50cont=
+ent/18628/63949/04122013_eReceipts_08_13.gif" style=3D"display:block" width=
+=3D"24"></a></td>
+
+<td width=3D"253">
+</td><td width=3D"117"><a href=3D"http://shop.sephora.com/r/c/r?2.1.3JG.2VF=
+.134iCm.PCfIUi..N.3RzUs.2ASC.bW89MSZyc0NVU1RPTV9UUkFDS0lORz11cytuZXdzMStlcm=
+VjZWlwdHMmbXAyMDQ0Nj0xMzE5MTk0ODc3CIQaLTK0" target=3D"_blank"><img alt=3D"B=
+eautytalk" border=3D"0" height=3D"52" src=3D"http://img.delivery.net/cm50co=
+ntent/18628/63949/04122013_eReceipts_08_15.gif" style=3D"display:block" wid=
+th=3D"117"></a></td>
+
+<td width=3D"42"><a href=3D"http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iC=
+m.PCfIUi..N.3RzUu.2ASC.bW89MSZyc0NVU1RPTV9UUkFDS0lORz11cytuZXdzMStlcmVjZWlw=
+dHMmbXAyMDQ0Nj0xMzE5MTk0ODc3CJAOLTM0" target=3D"_blank"><img alt=3D"Sephora=
+ TV" border=3D"0" height=3D"52" src=3D"http://img.delivery.net/cm50content/=
+18628/63949/04122013_eReceipts_08_14.gif" style=3D"display:block" width=3D"=
+42"></a></td>
+
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td bgcolor=3D"#000000" style=3D"line-height:0px;font-size:0px"><img alt=3D=
+"" border=3D"0" height=3D"4" src=3D"http://img.delivery.net/cm50content/186=
+28/63949/spacer.gif" style=3D"display:block" width=3D"10"></td>
+</tr>
+<tr>
+<td>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"680">
+<tbody><tr>
+<td valign=3D"top" width=3D"201">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"201">
+<tbody><tr>
+<td colspan=3D"5" width=3D"201"><img alt=3D"Add to Passbook. Add your Beaut=
+y Insider Card" border=3D"0" height=3D"66" src=3D"http://img.delivery.net/c=
+m50content/18628/63949/04122013_eReceipts_08_18.gif" style=3D"display:block=
+" width=3D"201"></td>
+
+</tr>
+<tr>
+<td width=3D"24"><img alt=3D"to" border=3D"0" height=3D"19" src=3D"http://i=
+mg.delivery.net/cm50content/18628/63949/04122013_eReceipts_08_19-14.gif" st=
+yle=3D"display:block" width=3D"24"></td>
+<td width=3D"47"><a href=3D"http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iC=
+m.PCfIUi..N.3RzUw.2ASC.bW89MQ%5f%5fDGQGFQf0" target=3D"_blank"><img alt=3D"=
+iPhone" border=3D"0" height=3D"19" src=3D"http://img.delivery.net/cm50conte=
+nt/18628/63949/04122013_eReceipts_08_21-15.gif" style=3D"display:block" wid=
+th=3D"47"></a></td>
+
+<td width=3D"15"><img alt=3D"or" border=3D"0" height=3D"19" src=3D"http://i=
+mg.delivery.net/cm50content/18628/63949/04122013_eReceipts_08_24.gif" style=
+=3D"display:block" width=3D"15"></td>
+<td width=3D"73"><a href=3D"http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iC=
+m.PCfIUi..N.3RzUw.2ASC.bW89MQ%5f%5fDGQGFQf0" target=3D"_blank"><img alt=3D"=
+iPod Touch" border=3D"0" height=3D"19" src=3D"http://img.delivery.net/cm50c=
+ontent/18628/63949/04122013_eReceipts_08_23.gif" style=3D"display:block" wi=
+dth=3D"73"></a></td>
+
+<td width=3D"42"><img alt=3D"" border=3D"0" height=3D"19" src=3D"http://img=
+.delivery.net/cm50content/18628/63949/04122013_eReceipts_08_24-18.gif" styl=
+e=3D"display:block" width=3D"42"></td>
+</tr>
+</tbody></table>
+</td>
+<td valign=3D"top">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"152">
+<tbody><tr>
+<td><img alt=3D"Access exclusive" border=3D"0" height=3D"66" src=3D"http://=
+img.delivery.net/cm50content/18628/63949/04122013_eReceipts_08_19.gif" styl=
+e=3D"display:block" width=3D"152"></td>
+</tr>
+<tr>
+<td><a href=3D"http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.3=
+RzUy.2ASC.bW89MQ%5f%5fDGWaFRB0" target=3D"_blank"><img alt=3D"Fan Friday of=
+fers " border=3D"0" height=3D"31" src=3D"http://img.delivery.net/cm50conten=
+t/18628/63949/04122013_eReceipts_08_26.gif" style=3D"display:block" width=
+=3D"152"></a></td>
+
+</tr>
+</tbody></table>
+</td>
+<td valign=3D"top">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"173">
+<tbody><tr>
+<td><a href=3D"http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.3=
+RzU%5f.2ASC.bW89MSZyc0NVU1RPTV9UUkFDS0lORz11cytuZXdzMStlcmVjZWlwdHMmbXAyMDQ=
+0Nj0xMzE5MTk0ODc3CDUSLSW0" target=3D"_blank"><img alt=3D"Try expert service=
+s" border=3D"0" height=3D"67" src=3D"http://img.delivery.net/cm50content/18=
+628/63949/04122013_eReceipts_08_20.gif" style=3D"display:block" width=3D"17=
+3"></a></td>
+
+</tr>
+<tr>
+<td><img alt=3D"at the Beauty Studio" border=3D"0" height=3D"30" src=3D"htt=
+p://img.delivery.net/cm50content/18628/63949/04122013_eReceipts_08_29-24.gi=
+f" style=3D"display:block" width=3D"173"></td>
+</tr>
+</tbody></table>
+</td>
+<td valign=3D"top">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+<tbody><tr>
+<td colspan=3D"5" width=3D"154"><img alt=3D"Get Sephora app" border=3D"0" h=
+eight=3D"66" src=3D"http://img.delivery.net/cm50content/18628/63949/0412201=
+3_eReceipts_08_21.gif" style=3D"display:block" width=3D"154"></td>
+</tr>
+<tr>
+<td width=3D"48"><img alt=3D"app" border=3D"0" height=3D"19" src=3D"http://=
+img.delivery.net/cm50content/18628/63949/04122013_eReceipts_08_29.gif" styl=
+e=3D"display:block" width=3D"48"></td>
+<td width=3D"21"><img alt=3D"for" border=3D"0" height=3D"19" src=3D"http://=
+img.delivery.net/cm50content/18628/63949/04122013_eReceipts_08_31.gif" styl=
+e=3D"display:block" width=3D"21"></td>
+<td width=3D"47"><a href=3D"http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iC=
+m.PCfIUi..N.3RzUw.2ASC.bW89MQ%5f%5fDGQGFQf0" target=3D"_blank"><img alt=3D"=
+iPhone" border=3D"0" height=3D"19" src=3D"http://img.delivery.net/cm50conte=
+nt/18628/63949/04122013_eReceipts_08_32.gif" style=3D"display:block" width=
+=3D"47"></a></td>
+
+<td width=3D"38"><img alt=3D"" border=3D"0" height=3D"19" src=3D"http://img=
+.delivery.net/cm50content/18628/63949/04122013_eReceipts_08_33.gif" style=
+=3D"display:block" width=3D"38"></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td bgcolor=3D"#000000" style=3D"line-height:0px;font-size:0px"><img alt=3D=
+"" border=3D"0" height=3D"4" src=3D"http://img.delivery.net/cm50content/186=
+28/63949/spacer.gif" style=3D"display:block" width=3D"10"></td>
+</tr>
+<tr>
+<td>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"680">
+<tbody><tr>
+<td><img alt=3D"" border=3D"0" height=3D"25" src=3D"http://img.delivery.net=
+/cm50content/18628/63949/spacer.gif" style=3D"display:block" width=3D"1"></=
+td>
+<td>
+</td><td>
+</td></tr>
+<tr>
+<td><img alt=3D"" border=3D"0" height=3D"25" src=3D"http://img.delivery.net=
+/cm50content/18628/63949/spacer.gif" style=3D"display:block" width=3D"20"><=
+/td>
+<td align=3D"center">
+<div style=3D"min-height:0px;max-height:0px;max-width:0px;overflow:hidden;f=
+ont-size:0px">
+<font style=3D"color:#ffffff;font-size:0px;line-height:0px;font-family:Aria=
+l,Helvetica,sans-serif"><span><a href=3D"http://shop.sephora.com/r/c/r?2.1.=
+3JG.2VF.134iCm.PCfIUi..N.3RzUw.2ASC.bW89MQ%5f%5fDGQGFQf0" style=3D"color:#f=
+fffff;text-decoration:none" target=3D"_blank">Passbook</a> | <a href=3D"htt=
+p://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.3RzV0.2ASC.bW89MSZy=
+c0NVU1RPTV9UUkFDS0lORz11cytuZXdzMStlcmVjZWlwdHMmbXAyMDQ0Nj0xMzE5MTk0ODc3BYN=
+ILRI0" style=3D"color:#ffffff;text-decoration:none" target=3D"_blank">Conta=
+ct Us</a> | <a href=3D"http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCf=
+IUi..N.3RzV4.2ASC.bW89MSZyc0NVU1RPTV9UUkFDS0lORz11cytuZXdzMStlcmVjZWlwdHMmb=
+XAyMDQ0Nj0xMzE5MTk0ODc3BZMQLRM0" style=3D"color:#ffffff;text-decoration:non=
+e" target=3D"_blank">Privacy Policy</a></span></font>=20
+</div><font style=3D"font-size:11px;line-height:12px;font-family:Arial,Helv=
+etica,sans-serif;color:#333333">
+<span>
+<a href=3D"http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.3RzV6=
+.2ASC.bW89MSZyc0NVU1RPTV9UUkFDS0lORz11cytuZXdzMStlcmVjZWlwdHMmbXAyMDQ0Nj0xM=
+zE5MTk0ODc3BZcELRO0" style=3D"color:#333333;text-decoration:none" target=3D=
+"_blank">Store locator</a> | <a href=3D"http://shop.sephora.com/r/c/r?2.1.3=
+JG.2VF.134iCm.PCfIUi..N.3RzV8.2ASC.bW89MSZyc0NVU1RPTV9UUkFDS0lORz11cytuZXdz=
+MStlcmVjZWlwdHMmbXAyMDQ0Nj0xMzE5MTk0ODc3Jmk9amt1Y3pla0BtYWMuY29tCHCYNSX0" s=
+tyle=3D"color:#333333;text-decoration:none" target=3D"_blank">Email Prefere=
+nces</a> | <a href=3D"http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfI=
+Ui..N.3RzV4.2ASC.bW89MSZyc0NVU1RPTV9UUkFDS0lORz11cytuZXdzMStlcmVjZWlwdHMmbX=
+AyMDQ0Nj0xMzE5MTk0ODc3BZMQLRM0" style=3D"color:#333333;text-decoration:none=
+" target=3D"_blank">Privacy Policy</a> | <a href=3D"http://shop.sephora.com=
+/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.3RzV0.2ASC.bW89MSZyc0NVU1RPTV9UUkFDS0lO=
+Rz11cytuZXdzMStlcmVjZWlwdHMmbXAyMDQ0Nj0xMzE5MTk0ODc3BYNILRI0" style=3D"colo=
+r:#333333;text-decoration:none" target=3D"_blank">Contact Us</a> | <a href=
+=3D"http://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.3RzVA.2ASC.b=
+W89MSZyc0NVU1RPTV9UUkFDS0lORz11cytuZXdzMStlcmVjZWlwdHMmbXAyMDQ0Nj0xMzE5MTk0=
+ODc3Jmk9amt1Y3pla0BtYWMuY29tCJWSNTA0" style=3D"color:#333333;text-decoratio=
+n:none" target=3D"_blank">Canada</a> | <a href=3D"http://shop.sephora.com/r=
+/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.3RzVC.2ASC.bW89MSZyc0NVU1RPTV9UUkFDS0lORz=
+11cytuZXdzMStlcmVjZWlwdHMmbXAyMDQ0Nj0xMzE5MTk0ODc3BdBWLRb0" style=3D"color:=
+#333333;text-decoration:none" target=3D"_blank">It Lists</a> | <a href=3D"h=
+ttp://shop.sephora.com/r/c/r?2.1.3JG.2VF.134iCm.PCfIUi..N.3RzVE.2ASC.bW89MS=
+Zyc0NVU1RPTV9UUkFDS0lORz11cytuZXdzMStlcmVjZWlwdHMmbXAyMDQ0Nj0xMzE5MTk0ODc3B=
+dRKLRd0" style=3D"color:#333333;text-decoration:none" target=3D"_blank">Tre=
+nds</a></span>=20
+<span><br>
+<br>
+</span>=20
+<span>You are receiving this one-time transactional email at <a href=3D"mai=
+lto:jkuczek@mac.com" target=3D"_blank">jkuczek@mac.com</a> because you requ=
+ested a digital receipt at a Sephora retail location. Add <a href=3D"mailto=
+:customerservice@cs.sephora.com" target=3D"_blank">customerservice@cs.sepho=
+ra.com</a> to your address book to be sure you receive future digital=C2=A0=
+receipts.</span>=20
+<br>
+<br>
+
+=C2=A92014 Sephora USA, Inc., 525 Market Street, Suite 350, San Francisco, =
+CA 94105. All rights reserved.=20
+</font>=20
+<div style=3D"min-height:0px;max-height:0px;max-width:0px;overflow:hidden;f=
+ont-size:0px">
+<font style=3D"color:#ffffff;font-size:0px;line-height:0px;font-family:Aria=
+l,Helvetica,sans-serif"><span>
+<br>
+<br>
+
+You are receiving this one-time transactional email at <a href=3D"mailto:jk=
+uczek@mac.com" target=3D"_blank">jkuczek@mac.com</a> because you requested =
+a digital receipt at a Sephora retail location. Add <a href=3D"mailto:custo=
+merservice@cs.sephora.com" target=3D"_blank">customerservice@cs.sephora.com=
+</a> to your address book to be sure you receive future digital=C2=A0receip=
+ts.=20
+</span></font></div>
+</td>
+<td><img alt=3D"" border=3D"0" height=3D"25" src=3D"http://img.delivery.net=
+/cm50content/18628/63949/spacer.gif" style=3D"display:block" width=3D"20"><=
+/td>
+</tr>
+</tbody></table>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"680">
+<tbody><tr>
+<td><img alt=3D"" border=3D"0" height=3D"25" src=3D"http://img.delivery.net=
+/cm50content/18628/63949/spacer.gif" style=3D"display:block" width=3D"1"></=
+td>
+<td>
+</td><td>
+</td></tr>
+<tr><td colspan=3D"3" valign=3D"top"><img alt=3D"" border=3D"0" height=3D"1=
+" src=3D"http://img.delivery.net/cm50content/18628/63949/dotsH700-100.gif" =
+style=3D"display:block" width=3D"700"></td></tr>
+<tr>
+<td><img alt=3D"" border=3D"0" height=3D"25" src=3D"http://img.delivery.net=
+/cm50content/18628/63949/spacer.gif" style=3D"display:block" width=3D"1"></=
+td>
+<td>
+</td><td>
+</td></tr>
+</tbody></table>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"680">
+<tbody><tr>
+<td><img alt=3D"" border=3D"0" height=3D"25" src=3D"http://img.delivery.net=
+/cm50content/18628/63949/spacer.gif" style=3D"display:block" width=3D"80"><=
+/td>
+<td align=3D"center"><font style=3D"font-size:11px;line-height:12px;font-fa=
+mily:Arial,Helvetica,sans-serif;color:#333333">** No purchase or survey nec=
+essary. Must be at least 16 years old to enter. Odds depend on number of en=
+tries. See website for official rules. Ends 12/31/14.=20
+</font></td>
+<td><img alt=3D"" border=3D"0" height=3D"25" src=3D"http://img.delivery.net=
+/cm50content/18628/63949/spacer.gif" style=3D"display:block" width=3D"80"><=
+/td>
+</tr>
+</tbody></table>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"680">
+<tbody><tr>
+<td><img alt=3D"" border=3D"0" height=3D"25" src=3D"http://img.delivery.net=
+/cm50content/18628/63949/spacer.gif" style=3D"display:block" width=3D"1"></=
+td>
+<td>
+</td><td>
+</td></tr>
+<tr><td colspan=3D"3" valign=3D"top"><img alt=3D"" border=3D"0" height=3D"1=
+" src=3D"http://img.delivery.net/cm50content/18628/63949/dotsH700-100.gif" =
+style=3D"display:block" width=3D"700"></td></tr>
+<tr>
+<td><img alt=3D"" border=3D"0" height=3D"30" src=3D"http://img.delivery.net=
+/cm50content/18628/63949/spacer.gif" style=3D"display:block" width=3D"1"></=
+td>
+<td>
+</td><td>
+</td></tr>
+<tr>
+<td>
+</td><td>
+</td><td>
+</td></tr>
+<tr>
+<td><img alt=3D"" border=3D"0" height=3D"25" src=3D"http://img.delivery.net=
+/cm50content/18628/63949/spacer.gif" style=3D"display:block" width=3D"20"><=
+/td>
+<td align=3D"center"><font style=3D"font-size:11px;line-height:12px;font-fa=
+mily:Arial,Helvetica,sans-serif;color:#333333">
+Please retain a copy of your receipt and we will gladly return or exchange =
+your purchase at any Sephora location.=20
+</font></td>
+<td><img alt=3D"" border=3D"0" height=3D"25" src=3D"http://img.delivery.net=
+/cm50content/18628/63949/spacer.gif" style=3D"display:block" width=3D"20"><=
+/td>
+</tr>
+</tbody></table>
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"680"><tbod=
+y><tr><td><img alt=3D"" border=3D"0" height=3D"20" src=3D"http://img.delive=
+ry.net/cm50content/18628/61035/spacer.gif" style=3D"display:block" width=3D=
+"1"></td><td></td>
+<td></td></tr><tr><td><img alt=3D"" border=3D"0" height=3D"25" src=3D"http:=
+//img.delivery.net/cm50content/18628/61035/spacer.gif" style=3D"display:blo=
+ck" width=3D"5"></td><td align=3D"left" valign=3D"top"><font style=3D"font-=
+size:11px;line-height:12px;font-family:Arial,Helvetica,sans-serif;color:#33=
+3333"><b>Sephora Return Policy</b><br>
+
+ If you are not completely satisfied with your Sephora purchases, simply re=
+turn the merchandise with your receipt to any Sephora location. We will be =
+glad to credit you in the same form of payment with which your purchase was=
+ made.<br>
+
+<br>
+Returns made in a different country than the original purchase will be refu=
+nded in the local currency and at the local tax rate of the store where the=
+ return is made.<br>
+<br>
+Any check refund in excess of $50 will be issued within 10 business days fr=
+om Sephora Corporate Offices in the form of a Sephora corporate check.<br>
+<br>
+For approved returns without a receipt, we offer store credit in the form o=
+f a Sephora merchandise credit. Our Sephora merchandise credit cards can on=
+ly be used at Sephora Stores and are not valid for use on <a href=3D"http:/=
+/Sephora.com" target=3D"_blank">Sephora.com</a> or Sephora catalog.<br>
+
+<br>
+Our Sephora merchandise credit cards have no expiration date, cannot be red=
+eemed for cash, reloaded, transferred to others or sold and will not be rep=
+laced if lost or stolen.<br>
+<br>
+Returns without a receipt will require a valid government issued photo ID t=
+hat will be swiped, scanned or manually entered at the time of the return. =
+Information from your ID will be retained in a third party database of cust=
+omer return activity that Sephora uses to authorize returns and prevent fra=
+ud. Information in this database will not be used for marketing purposes.<b=
+r>
+
+<br>
+Items returned without a receipt are refunded at the current selling price =
+and local tax rate. Sephora does not refund shipping &amp; handling charges=
+ unless an error has been made by Sephora.<br>
+<br>
+Sephora stores will accept returns of <a href=3D"http://Sephora.com" target=
+=3D"_blank">Sephora.com</a> and Sephora catalog purchases within 60 days of=
+ purchase date. The original Packing Slip and Return Form (receipt) must be=
+ presented at the time of the return.<br>
+
+<br>
+All returns are subject to validation and approval by Sephora. Sephora rese=
+rves the right to limit or refuse a refund. If you are not completely satis=
+fied with your Sephora purchases, simply return the merchandise with your r=
+eceipt to any Sephora location.=20
+</font> </td><td><img alt=3D"" border=3D"0" height=3D"25" src=3D"http://img=
+.delivery.net/cm50content/18628/61035/spacer.gif" style=3D"display:block" w=
+idth=3D"5"></td></tr></tbody></table>
+=20
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"680">
+<tbody><tr>
+<td><img alt=3D"" border=3D"0" height=3D"30" src=3D"http://img.delivery.net=
+/cm50content/18628/63949/spacer.gif" style=3D"display:block" width=3D"1"></=
+td>
+<td>
+</td><td>
+</td></tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+=20
+
+<br>
+<br>
+<br>
+<font color=3D"#666666" face=3D"Verdana,Helvetica" size=3D"1"></font><br>
+<img width=3D"1" height=3D"1" src=3D"http://open.delivery.net/o?2.2.3JG.2VF=
+.134iCm.PCfIUi..N..2ASC.ZD0xMDM3OSZtbz0xKVcFYa00" alt=3D" ">
+
+
+</div></blockquote></div></div><br></div>
+
+--001a1139f97eb331bc04fddec037--

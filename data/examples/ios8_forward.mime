@@ -1,0 +1,78 @@
+Delivered-To: brad@getsensibill.com
+Received: by 10.64.251.5 with SMTP id zg5csp731820iec;
+        Thu, 25 Sep 2014 15:08:54 -0700 (PDT)
+X-Received: by 10.70.125.163 with SMTP id mr3mr28514011pdb.24.1411682934414;
+        Thu, 25 Sep 2014 15:08:54 -0700 (PDT)
+Return-Path: <corey@getsensibill.com>
+Received: from mail-pd0-f174.google.com (mail-pd0-f174.google.com [209.85.192.174])
+        by mx.google.com with ESMTPS id sp2si5811619pac.210.2014.09.25.15.08.54
+        for <brad@getsensibill.com>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Thu, 25 Sep 2014 15:08:54 -0700 (PDT)
+Received-SPF: softfail (google.com: domain of transitioning corey@getsensibill.com does not designate 209.85.192.174 as permitted sender) client-ip=209.85.192.174;
+Authentication-Results: mx.google.com;
+       spf=softfail (google.com: domain of transitioning corey@getsensibill.com does not designate 209.85.192.174 as permitted sender) smtp.mail=corey@getsensibill.com
+Received: by mail-pd0-f174.google.com with SMTP id g10so11064479pdj.33
+        for <brad@getsensibill.com>; Thu, 25 Sep 2014 15:08:53 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:subject:references:from:content-type:message-id
+         :date:to:content-transfer-encoding:mime-version;
+        bh=1QSq/UshEq+yTy4L7Trs1lVNemJYOPP7J7IaCl2du7E=;
+        b=KdyHw0IINRTesg9yBGMBvjm9Val64EvZIjJfSV0OLjPs8B4Cx0JGgWkor3WRRTedSu
+         OiOo+HIjThNsUJ6zpPOKDxZVz7Xm0TB5xzTKj1a7AD46A3r8mOVpEVH6Dx1FmiFA0Pca
+         3qKemAiW2t3Cymo/Dj43GqxLG+NyRkHKDXoXLRHALRj+ItYlFuwI5jQiXTBUIizcHSnT
+         4zYrhDkHd6vDipat6qd022w9G0O9eGb5fNXe191X71HgjhGvNLIP7ImkWu7ONCYedhgR
+         wYCPoZALzQIHQBuEbvFDpvhJXmcoXGs0eDQ2NtTmlDerZgYdq2PI2WVH6+fcaPG/tyYq
+         5QGg==
+X-Gm-Message-State: ALoCoQm6YwvlJSzXapo/rMsACDsp4Yf4nBjwSYffy482jGB8ZkAeWI8CKKJtIPmbOGBsE74NKIgo
+X-Received: by 10.70.118.38 with SMTP id kj6mr12132681pdb.167.1411682933655;
+        Thu, 25 Sep 2014 15:08:53 -0700 (PDT)
+Return-Path: <corey@getsensibill.com>
+Received: from [25.248.163.48] ([24.114.38.195])
+        by mx.google.com with ESMTPSA id n2sm3097696pdh.30.2014.09.25.15.08.52
+        for <brad@getsensibill.com>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Thu, 25 Sep 2014 15:08:52 -0700 (PDT)
+Subject: Fwd: Forward this back to me using ios8
+References: <CAEhDVdz51QhOfKHpacQ1WYrb92BWZkHBHPbDDtBro=WJosxn-g@mail.gmail.com>
+From: Corey Gross <corey@getsensibill.com>
+Content-Type: multipart/alternative;
+	boundary=Apple-Mail-39415A54-212A-4D8C-B9FF-290286EE37DA
+X-Mailer: iPhone Mail (12A365)
+Message-Id: <65307C5C-E639-4E48-8955-BC10711619E4@getsensibill.com>
+Date: Thu, 25 Sep 2014 18:08:51 -0400
+To: Bradley Arsenault <brad@getsensibill.com>
+Content-Transfer-Encoding: 7bit
+Mime-Version: 1.0 (1.0)
+
+
+--Apple-Mail-39415A54-212A-4D8C-B9FF-290286EE37DA
+Content-Type: text/plain;
+	charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+
+
+--
+Corey Gross
+
+Sent from my iPhone
+
+Begin forwarded message:
+
+> From: Bradley Arsenault <brad@getsensibill.com>
+> Date: September 25, 2014 at 6:05:25 PM EDT
+> To: Corey Gross <corey@getsensibill.com>
+> Subject: Forward this back to me using ios8
+>
+> Forward me back this email. I will then be able to get the pattern.
+
+--Apple-Mail-39415A54-212A-4D8C-B9FF-290286EE37DA
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html><head><meta http-equiv="content-type" content="text/html; charset=utf-8"></head><body dir="auto"><div><br><br>--<div>Corey Gross</div><div><br></div><div>Sent from my iPhone</div></div><div><br>Begin forwarded message:<br><br></div><blockquote type="cite"><div><b>From:</b> Bradley Arsenault &lt;<a href="mailto:brad@getsensibill.com">brad@getsensibill.com</a>&gt;<br><b>Date:</b> September 25, 2014 at 6:05:25 PM EDT<br><b>To:</b> Corey Gross &lt;<a href="mailto:corey@getsensibill.com">corey@getsensibill.com</a>&gt;<br><b>Subject:</b> <b>Forward this back to me using ios8</b><br><br></div></blockquote><blockquote type="cite"><div><p dir="ltr">Forward me back this email. I will then be able to get the pattern.</p>
+</div></blockquote></body></html>
+--Apple-Mail-39415A54-212A-4D8C-B9FF-290286EE37DA--

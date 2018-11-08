@@ -1,0 +1,775 @@
+Authentication-Results: apiserver;
+Received: from mail-ob0-f176.google.com ([10.183.253.48])
+	by apiserver (Haraka/2.5.0) with ESMTP id F5EE37A7-4FC7-4B50-8FA3-E4A712E82097.1
+	envelope-from <johnny.patterson@gmail.com>;
+	Mon, 14 Jul 2014 03:46:03 +0000
+Received: by mail-ob0-f176.google.com with SMTP id wo20so3558733obc.7
+        for <jp@billpass.ca>; Sun, 13 Jul 2014 20:46:23 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        bh=qZgXQLQVM6eXi4RFNC/4MvMQ8ETIZ7dQR2ZvsGrU8HE=;
+        b=g4/EHtzGCD9cUnaGXEldUbAI0P5WAInYD3QUn27lLWcuBTJXC4ajqtOZxSUmL3V9z1
+         IdeLRgoFvmrjoNp4A24KZDDEZfB1zIE1uHcbQ5Z0kPK8/BpQ02EN9SHANuJxyPdudswt
+         FB1SCgeiAPrU5PgIVRuAfHyhlNUFxJ8NNDc9nr7lEW2l9odEFzBW0pWXwC89sJTXGn1N
+         WjLHZUqHYliWGJAgUnVLoiJJ8T3qbHvQSNAd10befliQmAetoZ7PaG66wRm2xwLSevqJ
+         Z+w9BjyV60VjpVChUAbM6B19lPskxrucVclvrufJA8sr8O1apI1DoJXIG1NprI8bFxSo
+         TXNw==
+MIME-Version: 1.0
+X-Received: by 10.60.97.66 with SMTP id dy2mr15173655oeb.50.1405309583551;
+ Sun, 13 Jul 2014 20:46:23 -0700 (PDT)
+Received: by 10.76.83.231 with HTTP; Sun, 13 Jul 2014 20:46:23 -0700 (PDT)
+In-Reply-To: <BAY405-EAS1140120E6276641F2A58C9EAB690@phx.gbl>
+References: <1091611117.235228915.1396748878668.JavaMail.rocketman@rocketman11.snc1>
+	<BAY405-EAS1140120E6276641F2A58C9EAB690@phx.gbl>
+Date: Sun, 13 Jul 2014 23:46:23 -0400
+Message-ID: <CAO8dce+6g2ywcgHibTdQOC1gFo7kBzB-Z5QKPqKZfoJBPH=3Hg@mail.gmail.com>
+Subject: Fwd: Purchase Confirmed: Thank you for your purchase!
+From: Johnny Patterson <johnny.patterson@gmail.com>
+To: jp@billpass.ca
+Content-Type: multipart/alternative; boundary=089e011774d186f17504fe1f2207
+
+--089e011774d186f17504fe1f2207
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+---------- Forwarded message ----------
+From: Melissa Glassco <mglassc@hotmail.com>
+Date: Sat, Apr 5, 2014 at 9:48 PM
+Subject: Fwd: Purchase Confirmed: Thank you for your purchase!
+To: Johnny Patterson <johnny.patterson@gmail.com>
+
+
+
+
+Sent from my iPhone
+
+Begin forwarded message:
+
+*From:* Groupon <orders@r.groupon.com>
+*Date:* April 5, 2014 at 9:47:58 PM EDT
+*To:* mglassc@hotmail.com
+*Subject:* *Purchase Confirmed: Thank you for your purchase!*
+
+      [image: GROUPON]
+<http://www.groupon.com/?utm_source=3Dgroupon_transaction_succeeded&utm_med=
+ium=3Demail&sid=3Dfb6b750d-1602-4285-9075-39f4b127013e&user=3D742c5a0cddd59=
+c446afa7631efc56a8d5c14d2b8182348e5c7591f1ab6d1c876&date=3D20140405&s=3Dhea=
+der&c=3Dlogo&d=3Dindex&utm_campaign=3Dfb6b750d-1602-4285-9075-39f4b127013e>
+<http://www.groupon.com/?utm_source=3Dgroupon_transaction_succeeded&utm_med=
+ium=3Demail&sid=3Dfb6b750d-1602-4285-9075-39f4b127013e&user=3D742c5a0cddd59=
+c446afa7631efc56a8d5c14d2b8182348e5c7591f1ab6d1c876&date=3D20140405&s=3Dhea=
+der&c=3Dlogo&d=3Dindex&utm_campaign=3Dfb6b750d-1602-4285-9075-39f4b127013e>
+      Your
+Groupons are Ready!  Hi Melissa,  Your Groupon is already in your pocket.
+Just tap the Mobile App
+<http://www.groupon.com/mobile/download?grpn_dl=3Dpurch:email:US_DT_EML_PUR=
+CH_JPG_TTT_EM_NBP_CH1_NBR&touchpage=3Dfalse&utm_source=3Dgroupon_transactio=
+n_succeeded&utm_medium=3Demail&sid=3Dfb6b750d-1602-4285-9075-39f4b127013e&u=
+ser=3D742c5a0cddd59c446afa7631efc56a8d5c14d2b8182348e5c7591f1ab6d1c876&date=
+=3D20140405&s=3Dbody&c=3Dlink&d=3DGroupon_mobile&utm_campaign=3Dfb6b750d-16=
+02-4285-9075-39f4b127013e>
+to redeem on the go, or print it from My Groupons
+<http://www.groupon.com/mygroupons?utm_source=3Dgroupon_transaction_succeed=
+ed&utm_medium=3Demail&sid=3Dfb6b750d-1602-4285-9075-39f4b127013e&user=3D742=
+c5a0cddd59c446afa7631efc56a8d5c14d2b8182348e5c7591f1ab6d1c876&date=3D201404=
+05&s=3Dbody&c=3Dlink&d=3Dmy_groupons&utm_campaign=3Dfb6b750d-1602-4285-9075=
+-39f4b127013e>
+anytime. It=E2=80=99s easier than a one-piece jigsaw puzzle.  *Your order n=
+umber is
+252728711
+<http://www.groupon.com/mygroupons?utm_source=3Dgroupon_transaction_succeed=
+ed&utm_medium=3Demail&sid=3Dfb6b750d-1602-4285-9075-39f4b127013e&user=3D742=
+c5a0cddd59c446afa7631efc56a8d5c14d2b8182348e5c7591f1ab6d1c876&date=3D201404=
+05&s=3Dbody&c=3Dlink&d=3Dmy_groupons&utm_campaign=3Dfb6b750d-1602-4285-9075=
+-39f4b127013e>*
+(placed on April 5, 2014)       Order summary:  Your order placed on April
+5, 2014  5 Adult/Children Muay Thai Kick-Boxing Classes =E2=80=94 Toronto
+Kickboxing & Muay Thai Academy   (x2) $25.00   Subtotal $50.00    Total $50=
+..00
+    Billed to:  Master ending in ****-0015      [image: Get your Groupon
+ready]
+<http://www.groupon.com/mygroupons?utm_source=3Dgroupon_transaction_succeed=
+ed&utm_medium=3Demail&sid=3Dfb6b750d-1602-4285-9075-39f4b127013e&user=3D742=
+c5a0cddd59c446afa7631efc56a8d5c14d2b8182348e5c7591f1ab6d1c876&date=3D201404=
+05&s=3Dbody&c=3Dlink&d=3Dmy_groupons&utm_campaign=3Dfb6b750d-1602-4285-9075=
+-39f4b127013e>
+ Get
+your Groupon ready  Redeem on the Mobile App
+<http://www.groupon.com/mobile/download?grpn_dl=3Dpurch:email:US_DT_EML_PUR=
+CH_JPG_TTT_EM_NBP_CH1_NBR&touchpage=3Dfalse&utm_source=3Dgroupon_transactio=
+n_succeeded&utm_medium=3Demail&sid=3Dfb6b750d-1602-4285-9075-39f4b127013e&u=
+ser=3D742c5a0cddd59c446afa7631efc56a8d5c14d2b8182348e5c7591f1ab6d1c876&date=
+=3D20140405&s=3Dbody&c=3Dlink&d=3DGroupon_mobile&utm_campaign=3Dfb6b750d-16=
+02-4285-9075-39f4b127013e>
+OR print in My Groupons
+<http://www.groupon.com/mygroupons?utm_source=3Dgroupon_transaction_succeed=
+ed&utm_medium=3Demail&sid=3Dfb6b750d-1602-4285-9075-39f4b127013e&user=3D742=
+c5a0cddd59c446afa7631efc56a8d5c14d2b8182348e5c7591f1ab6d1c876&date=3D201404=
+05&s=3Dbody&c=3Dlink&d=3Dmy_groupons&utm_campaign=3Dfb6b750d-1602-4285-9075=
+-39f4b127013e>
+    One
+good deal deserves another:    [image: $45 Off Painting Party from Paint
+Nite]
+<http://www.groupon.com/deals/paint-nite-11?p=3D1&utm_source=3Dgroupon_tran=
+saction_succeeded&utm_medium=3Demail&sid=3Dfb6b750d-1602-4285-9075-39f4b127=
+013e&user=3D742c5a0cddd59c446afa7631efc56a8d5c14d2b8182348e5c7591f1ab6d1c87=
+6&date=3D20140405&s=3Dbody&c=3Dlink&d=3Ddeal-page&utm_campaign=3Dfb6b750d-1=
+602-4285-9075-39f4b127013e>
+ $45 Off
+Painting Party from Paint Nite
+<http://www.groupon.com/deals/paint-nite-11?p=3D1&utm_source=3Dgroupon_tran=
+saction_succeeded&utm_medium=3Demail&sid=3Dfb6b750d-1602-4285-9075-39f4b127=
+013e&user=3D742c5a0cddd59c446afa7631efc56a8d5c14d2b8182348e5c7591f1ab6d1c87=
+6&date=3D20140405&s=3Dbody&c=3Dlink&d=3Ddeal-page&utm_campaign=3Dfb6b750d-1=
+602-4285-9075-39f4b127013e>
+    [image:
+89%=EF=BB=BF Off Dance Classes at OIP Dance Centre]
+<http://www.groupon.com/deals/oip-dance-centre?p=3D2&utm_source=3Dgroupon_t=
+ransaction_succeeded&utm_medium=3Demail&sid=3Dfb6b750d-1602-4285-9075-39f4b=
+127013e&user=3D742c5a0cddd59c446afa7631efc56a8d5c14d2b8182348e5c7591f1ab6d1=
+c876&date=3D20140405&s=3Dbody&c=3Dlink&d=3Ddeal-page&utm_campaign=3Dfb6b750=
+d-1602-4285-9075-39f4b127013e>
+ 89%=EF=BB=BF
+Off Dance Classes at OIP Dance Centre
+<http://www.groupon.com/deals/oip-dance-centre?p=3D2&utm_source=3Dgroupon_t=
+ransaction_succeeded&utm_medium=3Demail&sid=3Dfb6b750d-1602-4285-9075-39f4b=
+127013e&user=3D742c5a0cddd59c446afa7631efc56a8d5c14d2b8182348e5c7591f1ab6d1=
+c876&date=3D20140405&s=3Dbody&c=3Dlink&d=3Ddeal-page&utm_campaign=3Dfb6b750=
+d-1602-4285-9075-39f4b127013e>
+    Paint
+Nite  On Location View  >
+<http://www.groupon.com/deals/paint-nite-11?p=3D1&utm_source=3Dgroupon_tran=
+saction_succeeded&utm_medium=3Demail&sid=3Dfb6b750d-1602-4285-9075-39f4b127=
+013e&user=3D742c5a0cddd59c446afa7631efc56a8d5c14d2b8182348e5c7591f1ab6d1c87=
+6&date=3D20140405&s=3Dbody&c=3Dlink&d=3Ddeal-page&utm_campaign=3Dfb6b750d-1=
+602-4285-9075-39f4b127013e>
+   OIP
+Dance Centre  Downtown Toronto View  >
+<http://www.groupon.com/deals/oip-dance-centre?p=3D2&utm_source=3Dgroupon_t=
+ransaction_succeeded&utm_medium=3Demail&sid=3Dfb6b750d-1602-4285-9075-39f4b=
+127013e&user=3D742c5a0cddd59c446afa7631efc56a8d5c14d2b8182348e5c7591f1ab6d1=
+c876&date=3D20140405&s=3Dbody&c=3Dlink&d=3Ddeal-page&utm_campaign=3Dfb6b750=
+d-1602-4285-9075-39f4b127013e>
+        Refer
+a friend and earn $10 in Groupon Bucks!* You can earn $10 in Groupon Bucks
+whenever you refer a friend to Groupon and they buy their first deal. Learn
+More
+<http://www.groupon.com/visitor_referral?utm_source=3Dgroupon_transaction_s=
+ucceeded&utm_medium=3Demail&sid=3Dfb6b750d-1602-4285-9075-39f4b127013e&user=
+=3D742c5a0cddd59c446afa7631efc56a8d5c14d2b8182348e5c7591f1ab6d1c876&date=3D=
+20140405&s=3Dbody&c=3Dlink&d=3Drefer_a_friend&utm_campaign=3Dfb6b750d-1602-=
+4285-9075-39f4b127013e>
+*Subject
+to full terms and conditions  [image: Refer friends and get $10 in Groupon
+Bucks!]
+<http://www.groupon.com/visitor_referral?utm_source=3Dgroupon_transaction_s=
+ucceeded&utm_medium=3Demail&sid=3Dfb6b750d-1602-4285-9075-39f4b127013e&user=
+=3D742c5a0cddd59c446afa7631efc56a8d5c14d2b8182348e5c7591f1ab6d1c876&date=3D=
+20140405&s=3Dbody&c=3Dlink&d=3Drefer_a_friend&utm_campaign=3Dfb6b750d-1602-=
+4285-9075-39f4b127013e>
+       Need
+help? Contact Groupon
+<https://www.groupon.com/helpcenter?utm_source=3Dgroupon_transaction_succee=
+ded&utm_medium=3Demail&sid=3Dfb6b750d-1602-4285-9075-39f4b127013e&user=3D74=
+2c5a0cddd59c446afa7631efc56a8d5c14d2b8182348e5c7591f1ab6d1c876&date=3D20140=
+405&s=3Dcontact-block&c=3Dtext-link&d=3Dcontact-groupon&utm_campaign=3Dfb6b=
+750d-1602-4285-9075-39f4b127013e>
+  Delivered
+by Groupon Inc. 600 W. Chicago Avenue, Suite 400 Chicago, IL, 60654, USA  T=
+his
+email confirmation was sent to mglassc@hotmail.com because you recently
+made a purchase on Groupon. If you=E2=80=99d like to modify your promotiona=
+l email
+subscriptions, click here
+<https://www.groupon.com/subscription_center/742c5a0cddd59c446afa7631efc56a=
+8d5c14d2b8182348e5c7591f1ab6d1c876?mobile=3Dfalse&utm_source=3Dgroupon_tran=
+saction_succeeded&utm_medium=3Demail&sid=3Dfb6b750d-1602-4285-9075-39f4b127=
+013e&user=3D742c5a0cddd59c446afa7631efc56a8d5c14d2b8182348e5c7591f1ab6d1c87=
+6&date=3D20140405&s=3Dfooter&c=3Dlink&d=3Dsubs-center&utm_campaign=3Dfb6b75=
+0d-1602-4285-9075-39f4b127013e>
+to access your subscription center. Please don=E2=80=99t reply to this emai=
+l =E2=80=94
+there are better ways to get in touch with us, like renting the billboard
+outside our office or emailing customer service here
+<http://www.groupon.com/customer_support?utm_source=3Dgroupon_transaction_s=
+ucceeded&utm_medium=3Demail&sid=3Dfb6b750d-1602-4285-9075-39f4b127013e&user=
+=3D742c5a0cddd59c446afa7631efc56a8d5c14d2b8182348e5c7591f1ab6d1c876&date=3D=
+20140405&s=3Dfooter&c=3Dlink&d=3Dsupport-form&utm_campaign=3Dfb6b750d-1602-=
+4285-9075-39f4b127013e>.
+Be sure to add us to your address book or safe sender list so our emails
+get to your inbox. Learn how
+<http://www.groupon.com/pages/whitelist?utm_source=3Dgroupon_transaction_su=
+cceeded&utm_medium=3Demail&sid=3Dfb6b750d-1602-4285-9075-39f4b127013e&user=
+=3D742c5a0cddd59c446afa7631efc56a8d5c14d2b8182348e5c7591f1ab6d1c876&date=3D=
+20140405&s=3Dfooter&c=3Dlink&d=3Dgroupon_whitelist&utm_campaign=3Dfb6b750d-=
+1602-4285-9075-39f4b127013e>
+ [image:
+GROUPON]
+<http://www.groupon.com?utm_source=3Dgroupon_transaction_succeeded&utm_medi=
+um=3Demail&sid=3Dfb6b750d-1602-4285-9075-39f4b127013e&user=3D742c5a0cddd59c=
+446afa7631efc56a8d5c14d2b8182348e5c7591f1ab6d1c876&date=3D20140405&s=3Dfoot=
+er&c=3Dlogo&d=3Dindex&utm_campaign=3Dfb6b750d-1602-4285-9075-39f4b127013e>
+
+--089e011774d186f17504fe1f2207
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><br><br><div class=3D"gmail_quote">---------- Forwarded me=
+ssage ----------<br>From: <b class=3D"gmail_sendername">Melissa Glassco</b>=
+ <span dir=3D"ltr">&lt;<a href=3D"mailto:mglassc@hotmail.com">mglassc@hotma=
+il.com</a>&gt;</span><br>
+Date: Sat, Apr 5, 2014 at 9:48 PM<br>Subject: Fwd: Purchase Confirmed: Than=
+k you for your purchase!<br>To: Johnny Patterson &lt;<a href=3D"mailto:john=
+ny.patterson@gmail.com">johnny.patterson@gmail.com</a>&gt;<br><br><br><div =
+dir=3D"auto">
+<div><br><br>Sent from my iPhone</div><div><br>Begin forwarded message:<br>=
+<br></div><blockquote type=3D"cite"><div><b>From:</b> Groupon &lt;<a href=
+=3D"mailto:orders@r.groupon.com" target=3D"_blank">orders@r.groupon.com</a>=
+&gt;<br>
+<b>Date:</b> April 5, 2014 at 9:47:58 PM EDT<br><b>To:</b> <a href=3D"mailt=
+o:mglassc@hotmail.com" target=3D"_blank">mglassc@hotmail.com</a><br><b>Subj=
+ect:</b> <b>Purchase Confirmed: Thank you for your purchase!</b><br><br></d=
+iv>
+</blockquote><blockquote type=3D"cite"><div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+ =20
+   =20
+   =20
+ =20
+ =20
+<img src=3D"http://www.groupon.com/analytic/track.gif?p=3D1&amp;utm_domain=
+=3Dhotmail.com&amp;utm_campaign=3Dfb6b750d-1602-4285-9075-39f4b127013e&amp;=
+utm_source=3Dgroupon_transaction_succeeded&amp;utm_medium=3Demail&amp;sid=
+=3Dfb6b750d-1602-4285-9075-39f4b127013e&amp;user=3D742c5a0cddd59c446afa7631=
+efc56a8d5c14d2b8182348e5c7591f1ab6d1c876&amp;date=3D20140405" height=3D"1" =
+width=3D"1">    <table cellpadding=3D"0" cellspacing=3D"0" style=3D"font-fa=
+mily:Arial,Helvetica,sans-serif;font-size:14px;line-height:19px;color:#333;=
+width:100%;background:#89b556" bgcolor=3D"#89B556" valign=3D"top" align=3D"=
+center">
+
+      <tbody><tr>
+        <td style=3D"width:33%" valign=3D"top">=C2=A0</td>
+        <td style=3D"width:33%;padding:0 25px 40px 25px" valign=3D"top" ali=
+gn=3D"center">
+          <table cellpadding=3D"0" cellspacing=3D"0" style=3D"font-family:A=
+rial,Helvetica,sans-serif;font-size:14px;line-height:19px;color:#333" width=
+=3D"600" align=3D"center">
+            <tbody><tr>
+              <td style=3D"padding:0 0 0 10px" align=3D"left" valign=3D"bot=
+tom">
+                <a href=3D"http://www.groupon.com/?utm_source=3Dgroupon_tra=
+nsaction_succeeded&amp;utm_medium=3Demail&amp;sid=3Dfb6b750d-1602-4285-9075=
+-39f4b127013e&amp;user=3D742c5a0cddd59c446afa7631efc56a8d5c14d2b8182348e5c7=
+591f1ab6d1c876&amp;date=3D20140405&amp;s=3Dheader&amp;c=3Dlogo&amp;d=3Dinde=
+x&amp;utm_campaign=3Dfb6b750d-1602-4285-9075-39f4b127013e" target=3D"_blank=
+"><img src=3D"http://s3.grouponcdn.com/email/images/global_images/logo_pg_t=
+op.png" style=3D"display:block;border:none;color:#fff;font-size:22px;font-w=
+eight:bold" alt=3D"GROUPON" title=3D"GROUPON"></a>
+              </td>
+            </tr>
+            <tr>
+              <td style=3D"border-radius:4px 4px 0 0;background:#fff;paddin=
+g:0 0 0 10px" align=3D"left" valign=3D"top"><a href=3D"http://www.groupon.c=
+om/?utm_source=3Dgroupon_transaction_succeeded&amp;utm_medium=3Demail&amp;s=
+id=3Dfb6b750d-1602-4285-9075-39f4b127013e&amp;user=3D742c5a0cddd59c446afa76=
+31efc56a8d5c14d2b8182348e5c7591f1ab6d1c876&amp;date=3D20140405&amp;s=3Dhead=
+er&amp;c=3Dlogo&amp;d=3Dindex&amp;utm_campaign=3Dfb6b750d-1602-4285-9075-39=
+f4b127013e" target=3D"_blank"><img src=3D"http://s3.grouponcdn.com/email/im=
+ages/global_images/logo_pg_bottom.gif" style=3D"display:block;border:none;c=
+olor:#fff;font-size:22px;font-weight:bold" alt=3D"" title=3D""></a></td>
+
+            </tr>
+            <tr>
+              <td style=3D"background:#fff">
+                <table cellpadding=3D"0" cellspacing=3D"0" style=3D"font-fa=
+mily:Arial,Helvetica,sans-serif;font-size:14px;line-height:19px;color:#333;=
+width:100%" align=3D"center">
+                 <tbody><tr>
+                   <td><table cellpadding=3D"0" cellspacing=3D"0" style=3D"=
+font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:19px;colo=
+r:#333;width:100%" align=3D"center">
+  <tbody><tr>
+    <td style=3D"padding:20px 0 0 0">
+
+
+
+
+
+<table cellpadding=3D"0" cellspacing=3D"0" style=3D"font-family:Arial,Helve=
+tica,sans-serif;font-size:14px;line-height:19px;color:#333;width:100%;text-=
+align:left">
+  <tbody><tr>
+    <td style=3D"padding:0 40px 0 40px">
+      <table cellpadding=3D"0" cellspacing=3D"0" style=3D"font-family:Arial=
+,Helvetica,sans-serif;font-size:14px;line-height:19px;color:#333;font-weigh=
+t:100">
+        <tbody><tr>
+          <td style=3D"font-size:22px;color:#82b548;padding:20px 0 30px 0;f=
+ont-weight:bold;line-height:28px">Your Groupons are Ready!</td>
+        </tr>
+        <tr>
+          <td>Hi Melissa,</td>
+        </tr>
+        <tr>
+          <td style=3D"padding:15px 0 0 0"><span style=3D"font-weight:bold"=
+>Your Groupon is already in your pocket.</span> Just tap the <a href=3D"htt=
+p://www.groupon.com/mobile/download?grpn_dl=3Dpurch:email:US_DT_EML_PURCH_J=
+PG_TTT_EM_NBP_CH1_NBR&amp;touchpage=3Dfalse&amp;utm_source=3Dgroupon_transa=
+ction_succeeded&amp;utm_medium=3Demail&amp;sid=3Dfb6b750d-1602-4285-9075-39=
+f4b127013e&amp;user=3D742c5a0cddd59c446afa7631efc56a8d5c14d2b8182348e5c7591=
+f1ab6d1c876&amp;date=3D20140405&amp;s=3Dbody&amp;c=3Dlink&amp;d=3DGroupon_m=
+obile&amp;utm_campaign=3Dfb6b750d-1602-4285-9075-39f4b127013e" style=3D"col=
+or:#0185c6;text-decoration:none" target=3D"_blank">Mobile App</a> to redeem=
+ on the go, or print it from <a href=3D"http://www.groupon.com/mygroupons?u=
+tm_source=3Dgroupon_transaction_succeeded&amp;utm_medium=3Demail&amp;sid=3D=
+fb6b750d-1602-4285-9075-39f4b127013e&amp;user=3D742c5a0cddd59c446afa7631efc=
+56a8d5c14d2b8182348e5c7591f1ab6d1c876&amp;date=3D20140405&amp;s=3Dbody&amp;=
+c=3Dlink&amp;d=3Dmy_groupons&amp;utm_campaign=3Dfb6b750d-1602-4285-9075-39f=
+4b127013e" style=3D"color:#0185c6;text-decoration:none" target=3D"_blank">M=
+y Groupons</a> anytime.  It=E2=80=99s easier than a one-piece jigsaw puzzle=
+..</td>
+
+        </tr>
+        <tr>
+          <td style=3D"padding:10px 0 15px 0"><strong>Your order number is =
+<a href=3D"http://www.groupon.com/mygroupons?utm_source=3Dgroupon_transacti=
+on_succeeded&amp;utm_medium=3Demail&amp;sid=3Dfb6b750d-1602-4285-9075-39f4b=
+127013e&amp;user=3D742c5a0cddd59c446afa7631efc56a8d5c14d2b8182348e5c7591f1a=
+b6d1c876&amp;date=3D20140405&amp;s=3Dbody&amp;c=3Dlink&amp;d=3Dmy_groupons&=
+amp;utm_campaign=3Dfb6b750d-1602-4285-9075-39f4b127013e" style=3D"color:#01=
+85c6;text-decoration:none" target=3D"_blank">252728711</a></strong> (placed=
+ on April 5, 2014)</td>
+
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+
+
+
+
+
+
+
+
+
+
+<table cellpadding=3D"0" cellspacing=3D"0" style=3D"font-family:Arial,Helve=
+tica,sans-serif;font-size:14px;line-height:19px;color:#333;width:100%;font-=
+weight:100" align=3D"center">
+  <tbody><tr>
+    <td style=3D"padding:0 20px 20px 20px">
+      <table cellpadding=3D"0" cellspacing=3D"0" style=3D"font-family:Arial=
+,Helvetica,sans-serif;font-size:14px;line-height:19px;color:#333;background=
+:#fcf6d7;width:100%;text-align:left" align=3D"center">
+        <tbody><tr>
+          <td style=3D"padding:20px 20px 20px 20px">
+            <table cellpadding=3D"0" cellspacing=3D"0" style=3D"font-family=
+:Arial,Helvetica,sans-serif;font-size:14px;line-height:19px;color:#333;font=
+-weight:100;width:100%" align=3D"left">
+              <tbody><tr>
+                <td style=3D"font-weight:bold">Order summary:</td>
+              </tr>
+              <tr>
+                <td style=3D"padding:10px 0 5px 20px">Your order placed on =
+April 5, 2014</td>
+              </tr>
+              <tr>
+                <td style=3D"padding:0 0 5px 20px"><span style=3D"font-weig=
+ht:bold">5 Adult/Children Muay Thai Kick-Boxing Classes =E2=80=94
+                 Toronto Kickboxing &amp; Muay Thai Academy
+                </span>=C2=A0=C2=A0(x2) $25.00</td>
+              </tr>
+              <tr>
+                <td style=3D"padding:5px 0 0 20px">
+                  <table cellpadding=3D"0" cellspacing=3D"0" style=3D"font-=
+family:Arial,Helvetica,sans-serif;font-size:14px;line-height:19px;color:#33=
+3;font-weight:100">
+                    <tbody><tr>
+                      <td style=3D"width:200px;padding:0 0 5px 0">Subtotal<=
+/td>
+                      <td style=3D"text-align:right;padding:0 0 5px 0">$50.=
+00</td>
+                      <td>=C2=A0</td>
+                    </tr>
+                    <tr>
+                      <td style=3D"width:200px;font-weight:bold">Total</td>
+                      <td style=3D"text-align:right;font-weight:bold">$50.0=
+0 </td>
+                      <td>=C2=A0</td>
+                    </tr>
+                  </tbody></table>
+                </td>
+              </tr>
+                <tr>
+                  <td style=3D"padding:15px 0 5px 0;font-weight:bold">Bille=
+d to:</td>
+                </tr>
+                <tr>
+                  <td style=3D"padding:0 0 0 20px">Master ending in ****-00=
+15</td>
+                </tr>
+            </tbody></table>
+          </td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+<table cellpadding=3D"0" cellspacing=3D"0" style=3D"font-family:Arial,Helve=
+tica,sans-serif;font-size:14px;line-height:19px;color:#333;border-top:1px s=
+olid #cfe1bc;font-weight:100;width:100%">
+    <tbody><tr>
+      <td style=3D"padding:20px 0 20px 40px"><a href=3D"http://www.groupon.=
+com/mygroupons?utm_source=3Dgroupon_transaction_succeeded&amp;utm_medium=3D=
+email&amp;sid=3Dfb6b750d-1602-4285-9075-39f4b127013e&amp;user=3D742c5a0cddd=
+59c446afa7631efc56a8d5c14d2b8182348e5c7591f1ab6d1c876&amp;date=3D20140405&a=
+mp;s=3Dbody&amp;c=3Dlink&amp;d=3Dmy_groupons&amp;utm_campaign=3Dfb6b750d-16=
+02-4285-9075-39f4b127013e" style=3D"color:#0185c6;text-decoration:none" tar=
+get=3D"_blank"><img src=3D"http://s3.grouponcdn.com/email/images/transactio=
+nal_email/transaction_succeeded/groupon_ready.gif" style=3D"display:block;b=
+order:none" alt=3D"Get your Groupon ready" title=3D"Get your Groupon ready"=
+></a></td>
+
+      <td style=3D"padding:20px 0 20px 0">
+        <table cellpadding=3D"0" cellspacing=3D"0" style=3D"font-family:Ari=
+al,Helvetica,sans-serif;font-size:14px;line-height:19px;color:#333;font-wei=
+ght:100;width:100%" align=3D"left">
+          <tbody><tr>
+            <td style=3D"font-weight:bold;font-size:16px">Get your Groupon =
+ready</td>
+          </tr>
+          <tr>
+            <td style=3D"font-size:12px">Redeem on the <a href=3D"http://ww=
+w.groupon.com/mobile/download?grpn_dl=3Dpurch:email:US_DT_EML_PURCH_JPG_TTT=
+_EM_NBP_CH1_NBR&amp;touchpage=3Dfalse&amp;utm_source=3Dgroupon_transaction_=
+succeeded&amp;utm_medium=3Demail&amp;sid=3Dfb6b750d-1602-4285-9075-39f4b127=
+013e&amp;user=3D742c5a0cddd59c446afa7631efc56a8d5c14d2b8182348e5c7591f1ab6d=
+1c876&amp;date=3D20140405&amp;s=3Dbody&amp;c=3Dlink&amp;d=3DGroupon_mobile&=
+amp;utm_campaign=3Dfb6b750d-1602-4285-9075-39f4b127013e" style=3D"color:#01=
+85c6;text-decoration:none" target=3D"_blank">Mobile App</a> OR print in <a =
+href=3D"http://www.groupon.com/mygroupons?utm_source=3Dgroupon_transaction_=
+succeeded&amp;utm_medium=3Demail&amp;sid=3Dfb6b750d-1602-4285-9075-39f4b127=
+013e&amp;user=3D742c5a0cddd59c446afa7631efc56a8d5c14d2b8182348e5c7591f1ab6d=
+1c876&amp;date=3D20140405&amp;s=3Dbody&amp;c=3Dlink&amp;d=3Dmy_groupons&amp=
+;utm_campaign=3Dfb6b750d-1602-4285-9075-39f4b127013e" style=3D"color:#0185c=
+6;text-decoration:none" target=3D"_blank">My Groupons</a>
+            </td>
+          </tr>
+        </tbody></table>
+      </td>
+    </tr>
+</tbody></table>
+
+
+
+
+
+<table cellpadding=3D"0" cellspacing=3D"0" style=3D"font-family:Arial,Helve=
+tica,sans-serif;font-size:14px;line-height:19px;color:#333;border-top:1px s=
+olid #cfe1bc;width:100%" align=3D"center">
+  <tbody><tr>
+    <td style=3D"padding:20px 30px 30px 30px;font-size:20px;font-weight:100=
+;text-align:left">One good deal deserves another:
+      <table cellpadding=3D"0" cellspacing=3D"0" style=3D"font-family:Arial=
+,Helvetica,sans-serif;font-size:14px;line-height:19px;color:#333;width:100%=
+">
+        <tbody><tr>
+  <td style=3D"width:33%" valign=3D"top">
+    <table cellpadding=3D"0" cellspacing=3D"0" style=3D"font-family:Arial,H=
+elvetica,sans-serif;font-size:14px;line-height:19px;color:#333;width:100%;b=
+ackground:#ffffff">
+      <tbody><tr>
+        <td style=3D"padding:20px 0 0 0" valign=3D"top">
+          <a href=3D"http://www.groupon.com/deals/paint-nite-11?p=3D1&amp;u=
+tm_source=3Dgroupon_transaction_succeeded&amp;utm_medium=3Demail&amp;sid=3D=
+fb6b750d-1602-4285-9075-39f4b127013e&amp;user=3D742c5a0cddd59c446afa7631efc=
+56a8d5c14d2b8182348e5c7591f1ab6d1c876&amp;date=3D20140405&amp;s=3Dbody&amp;=
+c=3Dlink&amp;d=3Ddeal-page&amp;utm_campaign=3Dfb6b750d-1602-4285-9075-39f4b=
+127013e" style=3D"color:#0185c6;text-decoration:none" target=3D"_blank"><im=
+g src=3D"https://img.grouponcdn.com/deal/hcxUoNjHb61LDtp1vJPU/u3-700x420/v1=
+/t300x182.jpg" style=3D"display:block;border:none;width:257px;background:#6=
+66666" alt=3D"$45=C2=A0Off Painting Party from Paint Nite" title=3D"$45=C2=
+=A0Off Painting Party from Paint Nite" width=3D"257" height=3D"156"></a></t=
+d>
+
+      </tr>
+      <tr>
+        <td valign=3D"top" align=3D"left" style=3D"color:#0185c6;text-decor=
+ation:none;padding:10px 0 0 0;font-size:12px;font-weight:bold;line-height:1=
+7px"><a style=3D"color:#0185c6;text-decoration:none" href=3D"http://www.gro=
+upon.com/deals/paint-nite-11?p=3D1&amp;utm_source=3Dgroupon_transaction_suc=
+ceeded&amp;utm_medium=3Demail&amp;sid=3Dfb6b750d-1602-4285-9075-39f4b127013=
+e&amp;user=3D742c5a0cddd59c446afa7631efc56a8d5c14d2b8182348e5c7591f1ab6d1c8=
+76&amp;date=3D20140405&amp;s=3Dbody&amp;c=3Dlink&amp;d=3Ddeal-page&amp;utm_=
+campaign=3Dfb6b750d-1602-4285-9075-39f4b127013e" target=3D"_blank">$45=C2=
+=A0Off Painting Party from Paint Nite</a></td>
+
+      </tr>
+    </tbody></table>
+  </td>
+                  <td style=3D"width:33%" valign=3D"top">
+  </td><td style=3D"width:33%" valign=3D"top">
+    <table cellpadding=3D"0" cellspacing=3D"0" style=3D"font-family:Arial,H=
+elvetica,sans-serif;font-size:14px;line-height:19px;color:#333;width:100%;b=
+ackground:#ffffff">
+      <tbody><tr>
+        <td style=3D"padding:20px 0 0 0" valign=3D"top">
+          <a href=3D"http://www.groupon.com/deals/oip-dance-centre?p=3D2&am=
+p;utm_source=3Dgroupon_transaction_succeeded&amp;utm_medium=3Demail&amp;sid=
+=3Dfb6b750d-1602-4285-9075-39f4b127013e&amp;user=3D742c5a0cddd59c446afa7631=
+efc56a8d5c14d2b8182348e5c7591f1ab6d1c876&amp;date=3D20140405&amp;s=3Dbody&a=
+mp;c=3Dlink&amp;d=3Ddeal-page&amp;utm_campaign=3Dfb6b750d-1602-4285-9075-39=
+f4b127013e" style=3D"color:#0185c6;text-decoration:none" target=3D"_blank">=
+<img src=3D"https://img.grouponcdn.com/deal/2FHAbUN6LRLrmkGB8GEJ/iY-1176x70=
+6/v1/t300x182.jpg" style=3D"display:block;border:none;width:257px;backgroun=
+d:#666666" alt=3D"89%=EF=BB=BF Off Dance Classes at OIP Dance Centre" title=
+=3D"89%=EF=BB=BF Off Dance Classes at OIP Dance Centre" width=3D"257" heigh=
+t=3D"156"></a></td>
+
+      </tr>
+      <tr>
+        <td valign=3D"top" align=3D"left" style=3D"color:#0185c6;text-decor=
+ation:none;padding:10px 0 0 0;font-size:12px;font-weight:bold;line-height:1=
+7px"><a style=3D"color:#0185c6;text-decoration:none" href=3D"http://www.gro=
+upon.com/deals/oip-dance-centre?p=3D2&amp;utm_source=3Dgroupon_transaction_=
+succeeded&amp;utm_medium=3Demail&amp;sid=3Dfb6b750d-1602-4285-9075-39f4b127=
+013e&amp;user=3D742c5a0cddd59c446afa7631efc56a8d5c14d2b8182348e5c7591f1ab6d=
+1c876&amp;date=3D20140405&amp;s=3Dbody&amp;c=3Dlink&amp;d=3Ddeal-page&amp;u=
+tm_campaign=3Dfb6b750d-1602-4285-9075-39f4b127013e" target=3D"_blank">89%=
+=EF=BB=BF Off Dance Classes at OIP Dance Centre</a></td>
+
+      </tr>
+    </tbody></table>
+  </td>
+        </tr>
+        <tr>
+  <td style=3D"width:33%" valign=3D"bottom">
+    <table cellpadding=3D"0" cellspacing=3D"0" style=3D"font-family:Arial,H=
+elvetica,sans-serif;font-size:14px;line-height:19px;color:#333;width:100%;l=
+ine-height:17px">
+      <tbody><tr>
+        <td align=3D"left" colspan=3D"2" style=3D"font-size:12px;font-weigh=
+t:normal;padding:5px 0 0 0">Paint Nite</td>
+      </tr>
+      <tr>
+        <td align=3D"left" style=3D"padding:1px 0 0 0;font-size:12px;color:=
+#666666;font-weight:normal;line-height:17px">On Location</td>
+        <td align=3D"right"><a href=3D"http://www.groupon.com/deals/paint-n=
+ite-11?p=3D1&amp;utm_source=3Dgroupon_transaction_succeeded&amp;utm_medium=
+=3Demail&amp;sid=3Dfb6b750d-1602-4285-9075-39f4b127013e&amp;user=3D742c5a0c=
+ddd59c446afa7631efc56a8d5c14d2b8182348e5c7591f1ab6d1c876&amp;date=3D2014040=
+5&amp;s=3Dbody&amp;c=3Dlink&amp;d=3Ddeal-page&amp;utm_campaign=3Dfb6b750d-1=
+602-4285-9075-39f4b127013e" style=3D"color:#0185c6;text-decoration:none;fon=
+t-size:12px;font-weight:bold;line-height:17px" target=3D"_blank">View=C2=A0=
+=C2=A0&gt;</a></td>
+
+      </tr>
+    </tbody></table>
+  </td>
+                  <td style=3D"width:33%" valign=3D"top">
+  </td><td style=3D"width:33%" valign=3D"bottom">
+    <table cellpadding=3D"0" cellspacing=3D"0" style=3D"font-family:Arial,H=
+elvetica,sans-serif;font-size:14px;line-height:19px;color:#333;width:100%;l=
+ine-height:17px">
+      <tbody><tr>
+        <td align=3D"left" colspan=3D"2" style=3D"font-size:12px;font-weigh=
+t:normal;padding:5px 0 0 0">OIP Dance Centre</td>
+      </tr>
+      <tr>
+        <td align=3D"left" style=3D"padding:1px 0 0 0;font-size:12px;color:=
+#666666;font-weight:normal;line-height:17px">Downtown Toronto</td>
+        <td align=3D"right"><a href=3D"http://www.groupon.com/deals/oip-dan=
+ce-centre?p=3D2&amp;utm_source=3Dgroupon_transaction_succeeded&amp;utm_medi=
+um=3Demail&amp;sid=3Dfb6b750d-1602-4285-9075-39f4b127013e&amp;user=3D742c5a=
+0cddd59c446afa7631efc56a8d5c14d2b8182348e5c7591f1ab6d1c876&amp;date=3D20140=
+405&amp;s=3Dbody&amp;c=3Dlink&amp;d=3Ddeal-page&amp;utm_campaign=3Dfb6b750d=
+-1602-4285-9075-39f4b127013e" style=3D"color:#0185c6;text-decoration:none;f=
+ont-size:12px;font-weight:bold;line-height:17px" target=3D"_blank">View=C2=
+=A0=C2=A0&gt;</a></td>
+
+      </tr>
+    </tbody></table>
+  </td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>=20
+</tbody></table>
+    </td>
+  </tr>
+  <tr>
+      <td style=3D"background:#eeeeee;padding:20px 20px 20px 20px;border-to=
+p:1px solid #ccc">
+<table cellpadding=3D"0" cellspacing=3D"0" style=3D"font-family:Arial,Helve=
+tica,sans-serif;font-size:14px;line-height:19px;color:#333;font-weight:100"=
+ align=3D"center">
+  <tbody><tr>
+    <td>
+      <table cellpadding=3D"0" cellspacing=3D"0" style=3D"font-family:Arial=
+,Helvetica,sans-serif;font-size:14px;line-height:19px;color:#333;font-weigh=
+t:100">
+        <tbody><tr><td style=3D"font-size:18px;font-weight:bold;padding:0 0=
+ 10px 0">Refer a friend and earn $10 in Groupon Bucks!*</td></tr>
+        <tr><td>You can earn $10 in Groupon Bucks whenever you refer a frie=
+nd to Groupon and they buy their first deal.</td></tr>
+        <tr><td style=3D"padding:10px 0 10px 0"><a href=3D"http://www.group=
+on.com/visitor_referral?utm_source=3Dgroupon_transaction_succeeded&amp;utm_=
+medium=3Demail&amp;sid=3Dfb6b750d-1602-4285-9075-39f4b127013e&amp;user=3D74=
+2c5a0cddd59c446afa7631efc56a8d5c14d2b8182348e5c7591f1ab6d1c876&amp;date=3D2=
+0140405&amp;s=3Dbody&amp;c=3Dlink&amp;d=3Drefer_a_friend&amp;utm_campaign=
+=3Dfb6b750d-1602-4285-9075-39f4b127013e" style=3D"color:#0185c6;text-decora=
+tion:none;font-weight:bold" target=3D"_blank">Learn More</a></td>
+</tr>
+        <tr><td style=3D"font-size:10px;padding:10px 0 0 0">*Subject to ful=
+l terms and conditions</td></tr>
+      </tbody></table>
+    </td>
+    <td valign=3D"top">
+      <a href=3D"http://www.groupon.com/visitor_referral?utm_source=3Dgroup=
+on_transaction_succeeded&amp;utm_medium=3Demail&amp;sid=3Dfb6b750d-1602-428=
+5-9075-39f4b127013e&amp;user=3D742c5a0cddd59c446afa7631efc56a8d5c14d2b81823=
+48e5c7591f1ab6d1c876&amp;date=3D20140405&amp;s=3Dbody&amp;c=3Dlink&amp;d=3D=
+refer_a_friend&amp;utm_campaign=3Dfb6b750d-1602-4285-9075-39f4b127013e" tar=
+get=3D"_blank"><img src=3D"http://s3.grouponcdn.com/email/images/ad_widget/=
+make_it_rain.gif" style=3D"display:block;border:none" alt=3D"Refer friends =
+and get $10 in Groupon Bucks!" title=3D"Refer friends and get $10 in Groupo=
+n Bucks!"></a>
+    </td>
+  </tr>
+</tbody></table>
+      </td>
+  </tr>
+</tbody></table>
+</td>
+                 </tr>
+                </tbody></table>
+              </td>
+            </tr>
+          </tbody></table>
+          <table cellpadding=3D"0" cellspacing=3D"0" style=3D"font-family:A=
+rial,Helvetica,sans-serif;font-size:14px;line-height:19px;color:#333;width:=
+600px;border-top:1px solid #7a9e32;text-align:center" width=3D"600" backgro=
+und=3D"#14534b97cbc3df87_ddeacf" bgcolor=3D"#ddeacf" align=3D"center">
+
+            <tbody><tr>
+              <td style=3D"padding:10px 30px 10px 30px;color:#666;font-fami=
+ly:Arial,Helvetica,sans-serif;font-weight:bold" align=3D"center">
+
+Need help? <span style=3D"color:#0185c6;text-decoration:none"><a href=3D"ht=
+tps://www.groupon.com/helpcenter?utm_source=3Dgroupon_transaction_succeeded=
+&amp;utm_medium=3Demail&amp;sid=3Dfb6b750d-1602-4285-9075-39f4b127013e&amp;=
+user=3D742c5a0cddd59c446afa7631efc56a8d5c14d2b8182348e5c7591f1ab6d1c876&amp=
+;date=3D20140405&amp;s=3Dcontact-block&amp;c=3Dtext-link&amp;d=3Dcontact-gr=
+oupon&amp;utm_campaign=3Dfb6b750d-1602-4285-9075-39f4b127013e" style=3D"col=
+or:#0185c6;text-decoration:none" target=3D"_blank">Contact Groupon</a></spa=
+n>
+              </td>
+            </tr>
+          </tbody></table>
+          <table cellpadding=3D"0" cellspacing=3D"0" style=3D"font-family:A=
+rial,Helvetica,sans-serif;font-size:14px;line-height:19px;color:#333;backgr=
+ound:#eff5e7;width:600px;border-radius:0 0 4px 4px" align=3D"center" width=
+=3D"600">
+
+            <tbody><tr>
+              <td style=3D"padding:10px 0 10px 0;font-size:10px;text-align:=
+center">Delivered by Groupon Inc. 600 W. Chicago Avenue, Suite 400 Chicago,=
+ IL, 60654, USA</td>
+            </tr>
+            <tr>
+              <td style=3D"padding:0 20px 0 20px;font-size:10px;line-height=
+:14px;color:#666666;text-align:left" valign=3D"top">
+
+
+
+
+
+    This email confirmation was sent to <a href=3D"mailto:mglassc@hotmail.c=
+om" target=3D"_blank">mglassc@hotmail.com</a> because you recently made a p=
+urchase on Groupon. If you=E2=80=99d like to modify your promotional email =
+subscriptions, <a href=3D"https://www.groupon.com/subscription_center/742c5=
+a0cddd59c446afa7631efc56a8d5c14d2b8182348e5c7591f1ab6d1c876?mobile=3Dfalse&=
+amp;utm_source=3Dgroupon_transaction_succeeded&amp;utm_medium=3Demail&amp;s=
+id=3Dfb6b750d-1602-4285-9075-39f4b127013e&amp;user=3D742c5a0cddd59c446afa76=
+31efc56a8d5c14d2b8182348e5c7591f1ab6d1c876&amp;date=3D20140405&amp;s=3Dfoot=
+er&amp;c=3Dlink&amp;d=3Dsubs-center&amp;utm_campaign=3Dfb6b750d-1602-4285-9=
+075-39f4b127013e" style=3D"color:#0185c6;text-decoration:none" target=3D"_b=
+lank">click here</a> to access your subscription center. Please don=E2=80=
+=99t reply to this email =E2=80=94 there are better ways to get in touch wi=
+th us, like renting the billboard outside our office or emailing customer s=
+ervice <a href=3D"http://www.groupon.com/customer_support?utm_source=3Dgrou=
+pon_transaction_succeeded&amp;utm_medium=3Demail&amp;sid=3Dfb6b750d-1602-42=
+85-9075-39f4b127013e&amp;user=3D742c5a0cddd59c446afa7631efc56a8d5c14d2b8182=
+348e5c7591f1ab6d1c876&amp;date=3D20140405&amp;s=3Dfooter&amp;c=3Dlink&amp;d=
+=3Dsupport-form&amp;utm_campaign=3Dfb6b750d-1602-4285-9075-39f4b127013e" st=
+yle=3D"color:#0185c6;text-decoration:none" target=3D"_blank">here</a>. Be s=
+ure to add us to your address book or safe sender list so our emails get to=
+ your inbox. <a href=3D"http://www.groupon.com/pages/whitelist?utm_source=
+=3Dgroupon_transaction_succeeded&amp;utm_medium=3Demail&amp;sid=3Dfb6b750d-=
+1602-4285-9075-39f4b127013e&amp;user=3D742c5a0cddd59c446afa7631efc56a8d5c14=
+d2b8182348e5c7591f1ab6d1c876&amp;date=3D20140405&amp;s=3Dfooter&amp;c=3Dlin=
+k&amp;d=3Dgroupon_whitelist&amp;utm_campaign=3Dfb6b750d-1602-4285-9075-39f4=
+b127013e" style=3D"color:#0185c6;text-decoration:none" target=3D"_blank">Le=
+arn how</a>
+
+              </td>
+            </tr>
+            <tr>
+              <td align=3D"center" style=3D"padding:20px 0 20px 0"><a href=
+=3D"http://www.groupon.com?utm_source=3Dgroupon_transaction_succeeded&amp;u=
+tm_medium=3Demail&amp;sid=3Dfb6b750d-1602-4285-9075-39f4b127013e&amp;user=
+=3D742c5a0cddd59c446afa7631efc56a8d5c14d2b8182348e5c7591f1ab6d1c876&amp;dat=
+e=3D20140405&amp;s=3Dfooter&amp;c=3Dlogo&amp;d=3Dindex&amp;utm_campaign=3Df=
+b6b750d-1602-4285-9075-39f4b127013e" target=3D"_blank"><img src=3D"http://s=
+3.grouponcdn.com/email/images/global_images/footer_pg_ico.gif" style=3D"dis=
+play:block;border:none" alt=3D"GROUPON" title=3D"GROUPON"></a></td>
+
+            </tr>
+          </tbody></table>
+        </td>
+        <td style=3D"width:33%" valign=3D"top">=C2=A0</td>
+      </tr>
+    </tbody></table>
+<img src=3D"http://www.groupon.com/analytic/track.gif?p=3D2&amp;utm_domain=
+=3Dhotmail.com&amp;utm_campaign=3Dfb6b750d-1602-4285-9075-39f4b127013e&amp;=
+utm_source=3Dgroupon_transaction_succeeded&amp;utm_medium=3Demail&amp;sid=
+=3Dfb6b750d-1602-4285-9075-39f4b127013e&amp;user=3D742c5a0cddd59c446afa7631=
+efc56a8d5c14d2b8182348e5c7591f1ab6d1c876&amp;date=3D20140405" height=3D"1" =
+width=3D"1"> =20
+
+</div></blockquote></div></div><br></div>
+
+--089e011774d186f17504fe1f2207--

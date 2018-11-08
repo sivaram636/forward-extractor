@@ -1,0 +1,592 @@
+Authentication-Results: apiserver;
+Received: from mail-ig0-f178.google.com ([10.183.253.48])
+	by apiserver (Haraka/2.5.0) with ESMTP id 0754E8DE-3C3E-457C-BFC7-0B938DED04F2.1
+	envelope-from <corey@getsensibill.com>;
+	Wed, 16 Jul 2014 00:02:49 +0000
+Received: by mail-ig0-f178.google.com with SMTP id uq10so261709igb.5
+        for <corey@billpass.ca>; Tue, 15 Jul 2014 17:03:12 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:from:content-type:subject:date:references:to
+         :message-id:mime-version;
+        bh=UidZXPXQ5AuWMcbBtQRlqJLCYIFkJ45Bj0ag8kfs2Vc=;
+        b=gbj4LI/gF3rC1Un/ydhSSBmaaGjiBUBmIhn96GMRZFyoGO4hdM6VTmux0YUrwZZCwj
+         pGxjux2GSr9K4Eg3L8tAxCf79pO3NKjkUsMVq92vACP2CJ2Mluzh0+WFxjCJeydCgSRs
+         C10SH0smG97Qz0ApTZELe2KixaWI5PJ1eJ4eRQ2AzE1cUSRqYN8KrEz7k8sKprEb3lu1
+         EXsGe+q+5UoIKKoqKt0DrR7PXYKGN1e4s+3BFxAlhyP5mH/1/Mgr9fSRj0orIcG2/Ugq
+         0o3hRnuDJfai+Zh1f9tz2O+824BXLO7jmZBCugvUFgZ+H+dB89c9tknv1BXvFM/iuKrk
+         7FLQ==
+X-Gm-Message-State: ALoCoQnFQhJoHsRGeGwJDxwfG/hdjyT4lud7SFMBdbawGyhoUvmgx9glgIMdh7otMy4fUIfZY8Qc
+X-Received: by 10.43.64.77 with SMTP id xh13mr14929159icb.68.1405468992137;
+        Tue, 15 Jul 2014 17:03:12 -0700 (PDT)
+Received: from [10.16.145.163] ([141.117.116.109])
+        by mx.google.com with ESMTPSA id vl4sm1569844igb.3.2014.07.15.17.03.11
+        for <corey@billpass.ca>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Tue, 15 Jul 2014 17:03:11 -0700 (PDT)
+From: Corey Gross <corey@getsensibill.com>
+Content-Type: multipart/alternative; boundary="Apple-Mail=_83634E44-DB88-4CB7-8860-814868CF07DB"
+Subject: Fwd: Your receipt from Microsoft
+Date: Tue, 15 Jul 2014 20:03:10 -0400
+References: <fc1db90b4689.539b43f2@ryerson.ca>
+To: corey@billpass.ca
+Message-Id: <1D62590B-4CAA-43DC-B2A4-1A6CB18A8805@getsensibill.com>
+Mime-Version: 1.0 (Mac OS X Mail 7.3 \(1878.2\))
+X-Mailer: Apple Mail (2.1878.2)
+
+
+--Apple-Mail=_83634E44-DB88-4CB7-8860-814868CF07DB
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain;
+	charset=us-ascii
+
+
+______________
+
+COREY GROSS / CHIEF EXECUTIVE OFFICER
+E. corey@getsensibill.com / C. 416.892.8310
+ 10 Dundas St. E., 6th Floor / Toronto, ON, M5B 2G9
+This email may contain privileged and confidential material and its =
+transmission is not a waiver of that privilege. It is intended for the =
+use of the individual or entity to which it is addressed. If the reader =
+is not the intended recipient or the employee or agent responsible for =
+the delivery of the message to the intended recipient, you are hereby =
+notified that any dissemination, distribution or copying of the =
+communication is strictly prohibited. if you have received this =
+communication in error, please notify us immediately.
+
+Begin forwarded message:
+
+> From: Shahad Mahdi <shahad.mahdi@ryerson.ca>
+> Subject: Fwd: Your receipt from Microsoft
+> Date: June 13, 2014 at 6:33:22 PM EDT
+> To: Corey Gross <corey@getsensibill.com>
+>=20
+>=20
+> From: Microsoft Store <microsoftstore@microsoftstoreemail.com>
+> Subject: Your receipt from Microsoft
+> Date: June 13, 2014 at 1:45:39 PM EDT
+> To: shahad.mahdi@ryerson.ca
+>=20
+>=20
+> Details of your Microsoft purchase=09
+> 	View in a browser
+>=20
+> =09
+> 							=09
+>=20
+>=20
+>=20
+>=20
+> CUSTOMER NAME:
+> Shahad Mahdi
+> ASSOCIATE NAME:
+> David
+> DATE PURCHASED: 06/13/2014
+> ORDER NUMBER: 0000064857
+>=20
+> SKULLCANDY INK'D MIC'D 2.0 BLACK/RED
+> Product sku: DCF-00086
+> Price: $29.95
+> Quantity: -1
+>=20
+> CANADA PERSONAL/PORTABLE ONTARIO
+> Product sku: FEE-ONT19
+> Price: $.75
+> Quantity: -1
+>=20
+> Subtotal: -$30.70
+> Tax: -$3.89
+> Total: -$34.59
+>=20
+> AMOUNT PAID: $34.60
+> METHOD: Cash
+>=20
+> See exchange/return info
+>=20
+>=20
+>=20
+> Thanks again for your purchase at
+> Toronto, ON	3401, Dufferin Street, Unit 305=20
+> Toronto, ON M6A 3A1
+> Hours, events, and more (647) 777-4580
+> 		=09
+> This email was automatically generated. Please do not reply.=20
+>=20
+> Tax ID: 837106905 RT 0001
+> Share your enthusiasm and join our team. View all careers at the =
+Microsoft retail store.=20
+>=20
+> Microsoft respects your privacy. Please view our online Privacy =
+Statement. To set your contact preferences for other Microsoft =
+communications, see the communications preferences section of the =
+Microsoft Privacy Statement.
+>=20
+> Microsoft Corporation
+> One Microsoft Way
+> Redmond, WA 98052 USA
+>  =20
+
+
+--Apple-Mail=_83634E44-DB88-4CB7-8860-814868CF07DB
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html;
+	charset=us-ascii
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html =
+charset=3Dus-ascii"></head><body style=3D"word-wrap: break-word; =
+-webkit-nbsp-mode: space; -webkit-line-break: =
+after-white-space;"><br><div>
+<span style=3D"color: rgb(10, 10, 10); font-family: Gotham-Light; =
+font-size: 11px;">______________</span><br><div style=3D"color: rgb(82, =
+82, 82); font-size: 11px;"><div style=3D"font-family: 'Gotham Book', =
+Times;"><div><span style=3D"font-weight: bold; color: rgb(10, 10, =
+10);"><br></span></div><div style=3D"font-family: Helvetica; font-size: =
+12px;"><span style=3D"color: rgb(10, 10, 10); font-size: 11px;"><font =
+face=3D"Gotham">COREY GROSS</font></span><font face=3D"Gotham-Light"><span=
+ style=3D"font-size: 11px;">&nbsp;/&nbsp;CHIEF EXECUTIVE =
+OFFICER</span></font></div><div style=3D"font-family: Helvetica; =
+margin-top: 5px;"><font face=3D"Gotham-Light"><span style=3D"font-size: =
+10.5px; color: rgb(40, 190, 193);">E.&nbsp;</span><a =
+href=3D"mailto:corey@getsensibill.com" target=3D"_blank" =
+style=3D"text-decoration: none; color: =
+inherit;">corey@getsensibill.com</a>&nbsp;/&nbsp;<span style=3D"font-size:=
+ 10.5px; color: rgb(40, 190, =
+193);">C.&nbsp;</span>416.892.8310</font></div><div style=3D"font-family: =
+Helvetica; margin-top: 15px;"><font face=3D"Gotham-Light"><span =
+style=3D"width: 100px; vertical-align: middle; margin-bottom: 3px; =
+padding-right: 5px;"><img =
+src=3D"http://sensibill.jit.su/images/sensibill-logo-teal.png" =
+style=3D"width: 100px; vertical-align: middle; margin-bottom: 3px; =
+padding-right: 5px;"></span>&nbsp;10 Dundas St. E., 6th Floor / Toronto, =
+ON, M5B 2G9</font></div><div style=3D"font-family: Helvetica; =
+margin-top: 15px;"><span style=3D"color: rgb(0, 0, 0); font-size: =
+8px;"><font face=3D"Gotham-Light">This email may =
+contain&nbsp;</font></span><font face=3D"Gotham-Light" style=3D"font-size:=
+ 12px; color: rgb(0, 0, 0);"><span style=3D"font-size: 9px;">privileged =
+and confidential material and its transmission is not a waiver of that =
+privilege. It is intended for the use of the individual or entity to =
+which it is addressed. If the reader is not the intended recipient or =
+the employee or agent responsible for the delivery of the message to the =
+intended recipient, you are hereby notified that any dissemination, =
+distribution or copying of the communication is strictly prohibited. if =
+you have received this communication in error, please notify us =
+immediately.</span></font></div></div></div>
+</div>
+<div style=3D""><br><div>Begin forwarded message:</div><br =
+class=3D"Apple-interchange-newline"><blockquote type=3D"cite"><div =
+style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; =
+margin-left: 0px;"><span style=3D"font-family:'Helvetica'; color:rgba(0, =
+0, 0, 1.0);"><b>From: </b></span><span =
+style=3D"font-family:'Helvetica';">Shahad Mahdi &lt;<a =
+href=3D"mailto:shahad.mahdi@ryerson.ca">shahad.mahdi@ryerson.ca</a>&gt;<br=
+></span></div><div style=3D"margin-top: 0px; margin-right: 0px; =
+margin-bottom: 0px; margin-left: 0px;"><span =
+style=3D"font-family:'Helvetica'; color:rgba(0, 0, 0, 1.0);"><b>Subject: =
+</b></span><span style=3D"font-family:'Helvetica';"><b>Fwd: Your receipt =
+from Microsoft</b><br></span></div><div style=3D"margin-top: 0px; =
+margin-right: 0px; margin-bottom: 0px; margin-left: 0px;"><span =
+style=3D"font-family:'Helvetica'; color:rgba(0, 0, 0, 1.0);"><b>Date: =
+</b></span><span style=3D"font-family:'Helvetica';">June 13, 2014 at =
+6:33:22 PM EDT<br></span></div><div style=3D"margin-top: 0px; =
+margin-right: 0px; margin-bottom: 0px; margin-left: 0px;"><span =
+style=3D"font-family:'Helvetica'; color:rgba(0, 0, 0, 1.0);"><b>To: =
+</b></span><span style=3D"font-family:'Helvetica';">Corey Gross &lt;<a =
+href=3D"mailto:corey@getsensibill.com">corey@getsensibill.com</a>&gt;<br><=
+/span></div><br><div><div style=3D"font-family: Helvetica; font-size: =
+12px; font-style: normal; font-variant: normal; font-weight: normal; =
+letter-spacing: normal; line-height: normal; orphans: auto; text-align: =
+start; text-indent: 0px; text-transform: none; white-space: normal; =
+widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; margin: =
+0px;"><span style=3D"font-family: Helvetica; color: rgb(127, 127, =
+127);"><b><br class=3D"Apple-interchange-newline">From:<span =
+class=3D"Apple-converted-space">&nbsp;</span></b></span><span =
+style=3D"font-family: Helvetica;">Microsoft Store &lt;<a =
+href=3D"mailto:microsoftstore@microsoftstoreemail.com">microsoftstore@micr=
+osoftstoreemail.com</a>&gt;<br></span></div><div style=3D"font-family: =
+Helvetica; font-size: 12px; font-style: normal; font-variant: normal; =
+font-weight: normal; letter-spacing: normal; line-height: normal; =
+orphans: auto; text-align: start; text-indent: 0px; text-transform: =
+none; white-space: normal; widows: auto; word-spacing: 0px; =
+-webkit-text-stroke-width: 0px; margin: 0px;"><span style=3D"font-family: =
+Helvetica; color: rgb(127, 127, 127);"><b>Subject:<span =
+class=3D"Apple-converted-space">&nbsp;</span></b></span><span =
+style=3D"font-family: Helvetica;"><b>Your receipt from =
+Microsoft</b><br></span></div><div style=3D"font-family: Helvetica; =
+font-size: 12px; font-style: normal; font-variant: normal; font-weight: =
+normal; letter-spacing: normal; line-height: normal; orphans: auto; =
+text-align: start; text-indent: 0px; text-transform: none; white-space: =
+normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; =
+margin: 0px;"><span style=3D"font-family: Helvetica; color: rgb(127, =
+127, 127);"><b>Date:<span =
+class=3D"Apple-converted-space">&nbsp;</span></b></span><span =
+style=3D"font-family: Helvetica;">June 13, 2014 at 1:45:39 PM =
+EDT<br></span></div><div style=3D"font-family: Helvetica; font-size: =
+12px; font-style: normal; font-variant: normal; font-weight: normal; =
+letter-spacing: normal; line-height: normal; orphans: auto; text-align: =
+start; text-indent: 0px; text-transform: none; white-space: normal; =
+widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; margin: =
+0px;"><span style=3D"font-family: Helvetica; color: rgb(127, 127, =
+127);"><b>To:<span =
+class=3D"Apple-converted-space">&nbsp;</span></b></span><span =
+style=3D"font-family: Helvetica;"><a =
+href=3D"mailto:shahad.mahdi@ryerson.ca">shahad.mahdi@ryerson.ca</a><br></s=
+pan></div><br style=3D"font-family: Helvetica; font-size: 12px; =
+font-style: normal; font-variant: normal; font-weight: normal; =
+letter-spacing: normal; line-height: normal; orphans: auto; text-align: =
+start; text-indent: 0px; text-transform: none; white-space: normal; =
+widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px;"><br =
+style=3D"font-family: Helvetica; font-size: 12px; font-style: normal; =
+font-variant: normal; font-weight: normal; letter-spacing: normal; =
+line-height: normal; orphans: auto; text-align: start; text-indent: 0px; =
+text-transform: none; white-space: normal; widows: auto; word-spacing: =
+0px; -webkit-text-stroke-width: 0px;"><table border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0" width=3D"740" style=3D"font-family: =
+Helvetica; letter-spacing: normal; orphans: auto; text-indent: 0px; =
+text-transform: none; widows: auto; word-spacing: 0px; =
+-webkit-text-stroke-width: 0px;"><tbody><tr><td valign=3D"top" =
+style=3D"padding: 20px; background-color: rgb(255, 255, 255);"><table =
+border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"100%"><tbody><tr><td valign=3D"top"><table border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0" width=3D"100%"><tbody><tr><td =
+valign=3D"top"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"100%"><tbody><tr><td valign=3D"top"><span style=3D"font-family: =
+Arial; font-size: 11px; color: rgb(114, 114, 113);">Details of your =
+Microsoft purchase</span></td><td valign=3D"top" align=3D"right"><table =
+border=3D"0" cellspacing=3D"0" cellpadding=3D"0"><tbody><tr><td =
+valign=3D"middle" width=3D"25"><a =
+href=3D"http://click.email.microsoftemail.com/?qs=3D96c99e25699a219a05f5f2=
+3e4596effa786a254d4dcc4b9938f46424eca9b4a5aebc1da58388c503"><img =
+src=3D"http://image.microsoftstoreemail.com/lib/fef81377706004/i/2/a7c4531=
+d-7.jpg" width=3D"18" height=3D"18" alt=3D"" style=3D"display: block; =
+border: none;"></a></td><td valign=3D"middle"><span style=3D"font-family: =
+Arial; font-size: 11px; color: rgb(114, 114, 113);"><a =
+href=3D"http://click.email.microsoftemail.com/?qs=3D96c99e25699a219a05f5f2=
+3e4596effa786a254d4dcc4b9938f46424eca9b4a5aebc1da58388c503" =
+style=3D"color: rgb(114, 114, 113); text-decoration: underline;">View in =
+a =
+browser</a></span></td></tr></tbody></table></td></tr></tbody></table></td=
+></tr><tr><td><img =
+src=3D"http://image.microsoftstoreemail.com/lib/fef81377706004/i/3/5c7fffc=
+0-c.gif" width=3D"700" height=3D"28" alt=3D"" style=3D"display: block; =
+border: none;"></td></tr><tr><td valign=3D"top"><table border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0" width=3D"100%"><tbody><tr><td =
+valign=3D"top" width=3D"188"><a =
+href=3D"http://click.email.microsoftemail.com/?qs=3D3e069e7be34900253bc323=
+6ea3a63d65c1d9e74c8410f1ac400a51e8e15fc070dd200ab3d717117acb14b2a9411e9045=
+"><img =
+src=3D"http://image.microsoftstoreemail.com/lib/fef81377706004/i/2/e417a47=
+9-6.gif" width=3D"142" height=3D"30" alt=3D"Microsoft" style=3D"display: =
+block; border: none;"></a></td><td valign=3D"top" align=3D"right"><img =
+src=3D"http://image.microsoftstoreemail.com/lib/fef81377706004/i/2/3e07c96=
+b-5.gif" alt=3D"Free shipping every day" style=3D"display: block; =
+border: none;"></td></tr></tbody></table></td></tr><tr><td =
+valign=3D"top"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"100%"><tbody><tr><td valign=3D"top"><a =
+href=3D"http://click.email.microsoftemail.com/?qs=3D3e069e7be349002592cf8e=
+c07d3cdcc7b2ece59f9b5ee2ade667271820e31f4485072c466ea19d8e0c59c6fb67bf9e3d=
+"><img =
+src=3D"http://image.microsoftstoreemail.com/lib/fef81377706004/i/4/4ac8e00=
+e-d.gif" width=3D"56" height=3D"40" alt=3D"Surface" style=3D"display: =
+block; border: none;"></a></td><td valign=3D"top"><a =
+href=3D"http://click.email.microsoftemail.com/?qs=3D3e069e7be34900251de356=
+63163606b27fc177b9735ca95b7878b4046f555a20be788ddcb37c3e053d776f02343374d4=
+"><img =
+src=3D"http://image.microsoftstoreemail.com/lib/fef81377706004/i/4/67c0600=
+f-b.gif" width=3D"59" height=3D"40" alt=3D"Office" style=3D"display: =
+block; border: none;"></a></td><td valign=3D"top"><a =
+href=3D"http://click.email.microsoftemail.com/?qs=3D3e069e7be3490025e0a7fa=
+7b0519e985d5035d314bc400cd097af913a81b4ceb373814ce7d9a7e83b1f4d50587568b86=
+"><img =
+src=3D"http://image.microsoftstoreemail.com/lib/fef81377706004/i/4/0bbffec=
+5-9.gif" width=3D"75" height=3D"40" alt=3D"Windows" style=3D"display: =
+block; border: none;"></a></td><td valign=3D"top"><a =
+href=3D"http://click.email.microsoftemail.com/?qs=3D3e069e7be34900257eac2d=
+61c6f1e35da363e07e1df8049252c538d45de353b724b84f7c5dd095b969c665be97c58df0=
+"><img =
+src=3D"http://image.microsoftstoreemail.com/lib/fef81377706004/i/4/f63f791=
+0-f.gif" width=3D"58" height=3D"40" alt=3D"Xbox" style=3D"display: =
+block; border: none;"></a></td><td valign=3D"top"><a =
+href=3D"http://click.email.microsoftemail.com/?qs=3D3e069e7be349002569b54e=
+730f300aedf16011ae4a99803c12f147fb053d52bd3fc5da0781f0973aa3c18b17e42abd73=
+"><img =
+src=3D"http://image.microsoftstoreemail.com/lib/fef81377706004/i/4/b60c68d=
+5-8.gif" width=3D"85" height=3D"40" alt=3D"Computers" style=3D"display: =
+block; border: none;"></a></td><td valign=3D"top"><a =
+href=3D"http://click.email.microsoftemail.com/?qs=3D3e069e7be3490025c9851a=
+008636ae80f7b58adee724a20dc0e7aead3cee2fdbc35ac08480af59bd7b1dcb6d91119d24=
+"><img =
+src=3D"http://image.microsoftstoreemail.com/lib/fef81377706004/i/4/648208a=
+c-f.gif" width=3D"74" height=3D"40" alt=3D"Software" style=3D"display: =
+block; border: none;"></a></td><td valign=3D"top"><a =
+href=3D"http://click.email.microsoftemail.com/?qs=3D3e069e7be3490025bdf61b=
+d0452de2ef71c8fb4a92f2db2968914e1c2e536c39fe54a7d4ec4dc318afc84762aa18f492=
+"><img =
+src=3D"http://image.microsoftstoreemail.com/lib/fef81377706004/i/4/79e7ae6=
+2-1.gif" width=3D"96" height=3D"40" alt=3D"Accessories" style=3D"display: =
+block; border: none;"></a></td><td valign=3D"top"><a =
+href=3D"http://click.email.microsoftemail.com/?qs=3D3e069e7be34900254652f2=
+8332f3f9509c5e50799086b88a649a8b3226380f067bd2b8daa2c4885d01bc1161866a53fe=
+"><img =
+src=3D"http://image.microsoftstoreemail.com/lib/fef81377706004/i/4/95d65be=
+8-f.gif" width=3D"114" height=3D"40" alt=3D"Windows Phone" =
+style=3D"display: block; border: none;"></a></td><td valign=3D"top"><a =
+href=3D"http://click.email.microsoftemail.com/?qs=3D0416676a83c47f82e0c837=
+55c3a38927f7b07c751bc7e1e19dbbcd00745b66708fd32ba91e4420c4ddb3cfaa282a15a1=
+"><img =
+src=3D"http://image.microsoftstoreemail.com/lib/fef81377706004/i/4/b42e043=
+f-1.gif" width=3D"83" height=3D"40" alt=3D"Answer Desk" style=3D"display: =
+block; border: none;"></a></td></tr></tbody></table></td></tr><tr><td =
+valign=3D"top" style=3D"padding-bottom: 20px;"><table border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0" width=3D"100%"><tbody><tr><td =
+valign=3D"top"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"100%"><tbody><tr><td valign=3D"top" style=3D"padding: 1px 1px =
+0px; background-color: rgb(223, 223, 223);"><table border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0" width=3D"100%"><tbody><tr><td =
+valign=3D"top" style=3D"background-color: rgb(245, 245, 245); padding: =
+30px 15px;"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"100%"><tbody><tr><td valign=3D"top" style=3D"padding-bottom: =
+5px;"><img =
+src=3D"http://image.microsoftstoreemail.com/lib/fef81377706004/i/2/9be32ad=
+d-c.jpg" width=3D"343" height=3D"32" alt=3D"Thanks for shopping with us" =
+style=3D"display: block; border: none;"></td></tr><tr><td =
+valign=3D"top"><img =
+src=3D"http://image.microsoftstoreemail.com/lib/fef81377706004/i/4/ba82d55=
+4-4.jpg" width=3D"544" height=3D"34" alt=3D"We hope you love everything =
+about your recent purchase and if you ever need any help, we are here =
+for you." style=3D"display: block; border: =
+none;"></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbo=
+dy></table></td></tr><tr><td valign=3D"top" style=3D"padding-bottom: =
+20px;"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"100%"><tbody><tr><td valign=3D"top" width=3D"220"><table =
+border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"100%"><tbody><tr><td valign=3D"top" style=3D"padding: 0px 1px =
+1px; background-color: rgb(223, 223, 223);"><table border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0" width=3D"100%"><tbody><tr><td =
+valign=3D"top" style=3D"background-color: rgb(255, 255, 255);"><table =
+border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"100%"><tbody><tr><td valign=3D"top"><img =
+src=3D"http://image.microsoftstoreemail.com/lib/fef81377706004/i/2/c0b5fe2=
+6-0.gif" width=3D"218" height=3D"21" alt=3D"" style=3D"display: block; =
+border: none;"></td></tr><tr><td valign=3D"top"><table border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0" width=3D"100%"><tbody><tr><td =
+valign=3D"top" style=3D"padding: 18px 4px 25px 15px;"><table border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0" width=3D"100%"><tbody><tr><td =
+valign=3D"top" style=3D"padding-bottom: 10px;"><img =
+src=3D"http://image.microsoftstoreemail.com/lib/fef81377706004/i/2/5e7288f=
+0-1.gif" width=3D"131" height=3D"15" alt=3D"Your order details" =
+style=3D"display: block; border: none;"></td></tr><tr><td =
+valign=3D"top"><span style=3D"font-family: Arial; font-size: 12px; =
+color: rgb(51, 51, 51);"><strong>CUSTOMER NAME:</strong><br>Shahad =
+Mahdi<br><strong>ASSOCIATE NAME:</strong><br>David</span></td></tr><tr =
+xmlns:fo=3D"http://www.w3.org/1999/XSL/Format"><td valign=3D"top" =
+style=3D"padding-bottom: 15px;"><span style=3D"font-family: Arial; =
+font-size: 12px; color: rgb(51, 51, 51);"><strong>DATE PURCHASED:<span =
+class=3D"Apple-converted-space">&nbsp;</span></strong>06/13/2014<br><stron=
+g>ORDER NUMBER:<span =
+class=3D"Apple-converted-space">&nbsp;</span></strong>0000064857</span></t=
+d></tr><tr xmlns:fo=3D"http://www.w3.org/1999/XSL/Format"><td =
+valign=3D"top" style=3D"padding-bottom: 15px;"><img =
+src=3D"http://image.microsoftstoreemail.com/lib/fef81377706004/i/2/8a0106d=
+6-5.gif" width=3D"185" height=3D"1" alt=3D"" style=3D"display: block; =
+border: none;"></td></tr><tr =
+xmlns:fo=3D"http://www.w3.org/1999/XSL/Format"><td valign=3D"top" =
+style=3D"padding-bottom: 15px;"><span style=3D"font-family: Arial; =
+font-size: 11px; color: rgb(51, 51, 51);"><strong style=3D"text-transform:=
+ uppercase;">SKULLCANDY INK'D MIC'D 2.0 BLACK/RED</strong><br>Product =
+sku: DCF-00086<br>Price: $29.95<br>Quantity: -1</span></td></tr><tr =
+xmlns:fo=3D"http://www.w3.org/1999/XSL/Format"><td valign=3D"top" =
+style=3D"padding-bottom: 15px;"><img =
+src=3D"http://image.microsoftstoreemail.com/lib/fef81377706004/i/2/8a0106d=
+6-5.gif" width=3D"185" height=3D"1" alt=3D"" style=3D"display: block; =
+border: none;"></td></tr><tr =
+xmlns:fo=3D"http://www.w3.org/1999/XSL/Format"><td valign=3D"top" =
+style=3D"padding-bottom: 15px;"><span style=3D"font-family: Arial; =
+font-size: 11px; color: rgb(51, 51, 51);"><strong style=3D"text-transform:=
+ uppercase;">CANADA PERSONAL/PORTABLE ONTARIO</strong><br>Product sku: =
+FEE-ONT19<br>Price: $.75<br>Quantity: -1</span></td></tr><tr =
+xmlns:fo=3D"http://www.w3.org/1999/XSL/Format"><td valign=3D"top" =
+style=3D"padding-bottom: 15px;"><img =
+src=3D"http://image.microsoftstoreemail.com/lib/fef81377706004/i/2/8a0106d=
+6-5.gif" width=3D"185" height=3D"1" alt=3D"" style=3D"display: block; =
+border: none;"></td></tr><tr =
+xmlns:fo=3D"http://www.w3.org/1999/XSL/Format"><td valign=3D"top" =
+style=3D"padding-bottom: 15px;"><span style=3D"font-family: Arial; =
+font-size: 11px; color: rgb(51, 51, 51);">Subtotal: -$30.70<br>Tax: =
+-$3.89<br>Total: -$34.59</span></td></tr><tr =
+xmlns:fo=3D"http://www.w3.org/1999/XSL/Format"><td valign=3D"top" =
+style=3D"padding-bottom: 15px;"><img =
+src=3D"http://image.microsoftstoreemail.com/lib/fef81377706004/i/2/8a0106d=
+6-5.gif" width=3D"185" height=3D"1" alt=3D"" style=3D"display: block; =
+border: none;"></td></tr><tr =
+xmlns:fo=3D"http://www.w3.org/1999/XSL/Format"><td valign=3D"top"><span =
+style=3D"font-family: Arial; font-size: 11px; color: rgb(51, 51, =
+51);"><strong style=3D"text-transform: uppercase;">AMOUNT PAID:<span =
+class=3D"Apple-converted-space">&nbsp;</span></strong>$34.60<br><strong =
+style=3D"text-transform: uppercase;">METHOD:<span =
+class=3D"Apple-converted-space">&nbsp;</span></strong>Cash<br><br><a =
+href=3D"http://www.microsoftstore.com/store/msca/en_CA/DisplayHelpReturnsR=
+efundsPage/?WT.mc_id=3DTransactionalEmail_Receipt_CA_nav_returns" =
+style=3D"color: rgb(0, 118, 191);">See exchange/return =
+info</a></span></td></tr></tbody></table></td></tr></tbody></table></td></=
+tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></t=
+d><td valign=3D"top"><table border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"100%"><tbody><tr><td valign=3D"top" =
+style=3D"padding-top: 1px; background-color: rgb(223, 223, 223);"><table =
+border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"100%"><tbody><tr><td valign=3D"top" style=3D"background-color: =
+rgb(255, 255, 255); padding: 19px 0px 0px 19px;"><table border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0" width=3D"100%"><tbody><tr><td =
+valign=3D"top"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"100%"><tbody><tr><td valign=3D"top" style=3D"padding: 1px; =
+background-color: rgb(223, 223, 223);"><table border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0" width=3D"100%"><tbody><tr><td =
+valign=3D"top"><img =
+src=3D"http://image.microsoftstoreemail.com/lib/fef81377706004/i/4/498549e=
+1-a.gif" width=3D"460" height=3D"88" alt=3D"Have any questions about =
+your purchase? Get in touch with customer service at 877-696-7786." =
+style=3D"display: block; border: =
+none;"></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbo=
+dy></table></td></tr></tbody></table></td></tr></tbody></table></td></tr><=
+/tbody></table></td></tr><tr><td valign=3D"top"><table border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0" width=3D"100%"><tbody><tr><td =
+valign=3D"top" style=3D"padding: 1px; background-color: rgb(223, 223, =
+223);"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"100%"><tbody><tr><td valign=3D"top" style=3D"background-color: =
+rgb(255, 255, 255); padding: 20px 15px;"><table border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0" width=3D"100%"><tbody><tr><td =
+valign=3D"top" width=3D"225" style=3D"border-right-width: 1px; =
+border-right-style: solid; border-right-color: rgb(223, 223, =
+223);"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"100%"><tbody><tr><td valign=3D"top" style=3D"padding-bottom: =
+10px;"><img =
+src=3D"http://image.microsoftstoreemail.com/lib/fef81377706004/i/4/647bff5=
+4-e.gif" width=3D"189" height=3D"82" alt=3D"Your order barcode. If you =
+need to return an item, printing this barcode and bringing it to your =
+local store can help expedite the process." style=3D"display: block; =
+border: none;"></td></tr></tbody></table></td><td valign=3D"top" =
+align=3D"center"><table border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0"><tbody><tr><td valign=3D"top"><img height=3D"50" =
+src=3D"http://barcode.store.microsoft.com/?code=3D003210010000064857" =
+alt=3D""></td></tr></tbody></table></td></tr></tbody></table></td></tr></t=
+body></table></td></tr></tbody></table></td></tr></tbody></table></td></tr=
+><tr><td valign=3D"top" style=3D"padding-bottom: 20px;"><table =
+border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"100%"><tbody><tr><td valign=3D"top" style=3D"padding: 1px; =
+background-color: rgb(223, 223, 223);"><table border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0" width=3D"100%"><tbody><tr><td =
+valign=3D"top" style=3D"background-color: rgb(255, 255, 255); padding: =
+5px 10px;"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"100%"><tbody><tr><td valign=3D"top" width=3D"230"><span =
+style=3D"font-family: Arial; font-size: 12px; color: rgb(102, 102, =
+102);">Thanks again for your purchase at</span><br><span =
+style=3D"font-family: Arial; font-size: 14px; color: rgb(0, 118, =
+191);">Toronto, ON</span></td><td valign=3D"top" align=3D"right"><span =
+style=3D"font-family: Arial; font-size: 11px; color: rgb(153, 153, =
+153);">3401, Dufferin Street, Unit 305<span =
+class=3D"Apple-converted-space">&nbsp;</span><br>Toronto, ON M6A =
+3A1<br><a =
+href=3D"http://click.email.microsoftemail.com/?qs=3D0416676a83c47f82b56693=
+e7d6d6dbc3d78cb63d0c0d64347fda5e0941ad0cb981f3467357fc46372be5865c0f7ec613=
+" style=3D"color: rgb(4, 114, 191);">Hours, events, and more</a><span =
+class=3D"Apple-converted-space">&nbsp;</span>(647) =
+777-4580</span></td></tr></tbody></table></td></tr></tbody></table></td></=
+tr></tbody></table></td></tr><tr><td valign=3D"top"><table border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0" width=3D"100%"><tbody><tr><td =
+valign=3D"top"><a =
+href=3D"http://click.email.microsoftemail.com/?qs=3D0416676a83c47f82d4ef83=
+7f2e8220b8a0d597f0cc8be9137fae2f97c97b588e018abcc0dd567e36753b5c1fbe27db9d=
+"><img =
+src=3D"http://image.microsoftstoreemail.com/lib/fef81377706004/i/3/135c4dd=
+0-a.gif" width=3D"170" height=3D"57" alt=3D"Sign up for email" =
+style=3D"display: block; border: none;"></a></td><td valign=3D"top"><a =
+href=3D"http://click.email.microsoftemail.com/?qs=3D0416676a83c47f82da695a=
+bea4d0262de3131cf8ed189772464bc14ceb8fa234a4070e63e2d7d6b3a5692b47b892e00f=
+"><img =
+src=3D"http://image.microsoftstoreemail.com/lib/fef81377706004/i/3/b87283e=
+7-7.gif" width=3D"200" height=3D"57" alt=3D"Like us on Facebook" =
+style=3D"display: block; border: none;"></a></td><td valign=3D"top"><a =
+href=3D"http://click.email.microsoftemail.com/?qs=3D0416676a83c47f82f792a7=
+a4f1708f3bae53dd637a030da85b7a6739a26f0845a70b5f13f497019f1dde43ddc97167b0=
+"><img =
+src=3D"http://image.microsoftstoreemail.com/lib/fef81377706004/i/3/030be06=
+7-9.gif" width=3D"210" height=3D"57" alt=3D"Follow us on Twitter" =
+style=3D"display: block; border: none;"></a></td><td valign=3D"top"><a =
+href=3D"http://click.email.microsoftemail.com/?qs=3D0416676a83c47f82a98942=
+ac46417ce00e7f86e77fdd62ee8cbb89bff3fc3e18e469dbf70930a3c826954bf96c0d01c0=
+"><img =
+src=3D"http://image.microsoftstoreemail.com/lib/fef81377706004/i/3/4a06f75=
+2-b.gif" width=3D"120" height=3D"57" alt=3D"Visit a store" =
+style=3D"display: block; border: =
+none;"></a></td></tr></tbody></table></td></tr><tr><td valign=3D"top" =
+style=3D"padding: 15px 0px; border-bottom-width: 1px; =
+border-bottom-style: solid; border-bottom-color: rgb(231, 231, =
+231);"><span style=3D"font-family: Arial; font-size: 9px; color: =
+rgb(114, 114, 113);">This email was automatically generated. Please do =
+not reply.<span class=3D"Apple-converted-space">&nbsp;</span><br><br>Tax =
+ID: 837106905 RT 0001</span></td></tr><tr><td valign=3D"top" =
+style=3D"padding: 15px 0px;"><span style=3D"font-family: Arial; =
+font-size: 9px; color: rgb(114, 114, 113);">Share your enthusiasm and =
+join our team.<span class=3D"Apple-converted-space">&nbsp;</span><a =
+href=3D"http://click.email.microsoftemail.com/?qs=3De2c8cc42f9c836d6ea1390=
+3a2f3286de069241379543635498a7851da3d2120df11d3aca9ed90bbac2973cae55448c33=
+" style=3D"color: rgb(114, 114, 113); text-decoration: underline;">View =
+all careers</a><span class=3D"Apple-converted-space">&nbsp;</span>at the =
+Microsoft retail store.<span =
+class=3D"Apple-converted-space">&nbsp;</span><br><br>Microsoft respects =
+your privacy. Please view our online<span =
+class=3D"Apple-converted-space">&nbsp;</span><a =
+href=3D"http://click.email.microsoftemail.com/?qs=3De2c8cc42f9c836d6daa8fe=
+94f20a0870aa0edcf740358a5e60f4718982c13a20cb9af9f8ab567ab6d793f0f8299e34db=
+" style=3D"color: rgb(114, 114, 113); text-decoration: =
+underline;">Privacy Statement</a>. To set your contact preferences for =
+other Microsoft communications, see the communications preferences =
+section of the<span class=3D"Apple-converted-space">&nbsp;</span><a =
+href=3D"http://click.email.microsoftemail.com/?qs=3De2c8cc42f9c836d68e3749=
+8714bf29a8762045a2cfd22041d6346c063f2c23a24f3f2ba0ec23e32106b1e79643c25d31=
+" style=3D"color: rgb(114, 114, 113); text-decoration: =
+underline;">Microsoft Privacy Statement</a>.<br><br>Microsoft =
+Corporation<br>One Microsoft Way<br>Redmond, WA 98052 =
+USA</span></td></tr></tbody></table></td></tr></tbody></table></td></tr></=
+tbody></table><img =
+src=3D"http://click.email.microsoftemail.com/open.aspx?ffcb10-fe8916787267=
+06757d-fe1a1272736d0c78731077-fe60157076610d7b7513-feb21c787d670d74-fe2a1c=
+727161047e751c77-ff221d78716c&amp;d=3D10040" width=3D"1" height=3D"1" =
+style=3D"font-family: Helvetica; font-size: 12px; font-style: normal; =
+font-variant: normal; font-weight: normal; letter-spacing: normal; =
+line-height: normal; orphans: auto; text-align: start; text-indent: 0px; =
+text-transform: none; white-space: normal; widows: auto; word-spacing: =
+0px; -webkit-text-stroke-width: 0px;"><span style=3D"font-family: =
+Helvetica; font-size: 12px; font-style: normal; font-variant: normal; =
+font-weight: normal; letter-spacing: normal; line-height: normal; =
+orphans: auto; text-align: start; text-indent: 0px; text-transform: =
+none; white-space: normal; widows: auto; word-spacing: 0px; =
+-webkit-text-stroke-width: 0px; float: none; display: inline =
+!important;">&nbsp;</span><img =
+src=3D"http://microsoftwindows.112.2o7.net/b/ss/msstores1-us-prod,msstores=
+1-global-prod/1/H.21.1/33A64858A321002?pageName=3DBM_Receipt&amp;cc=3DUSD&=
+amp;ev=3Devent27:33A64858A321002&amp;v49=3D0&amp;v50=3D0032&amp;v51=3D33A6=
+4858A321002&amp;ns=3Dmicrosoftwindows" alt=3D"" height=3D"1" width=3D"1" =
+style=3D"font-family: Helvetica; font-size: 12px; font-style: normal; =
+font-variant: normal; font-weight: normal; letter-spacing: normal; =
+line-height: normal; orphans: auto; text-align: start; text-indent: 0px; =
+text-transform: none; white-space: normal; widows: auto; word-spacing: =
+0px; -webkit-text-stroke-width: 0px;"><span style=3D"font-family: =
+Helvetica; font-size: 12px; font-style: normal; font-variant: normal; =
+font-weight: normal; letter-spacing: normal; line-height: normal; =
+orphans: auto; text-align: start; text-indent: 0px; text-transform: =
+none; white-space: normal; widows: auto; word-spacing: 0px; =
+-webkit-text-stroke-width: 0px; float: none; display: inline =
+!important;">&nbsp;</span><img =
+src=3D"http://tags.bluekai.com/site/4847?phint=3Demailtype%3Dbmreceipt&amp=
+;phint=3Dstoreid%3D0032&amp;phint=3Dbmcat%3D0&amp;phint=3Ddebugval%3D33A64=
+858A321002" alt=3D"" height=3D"1" width=3D"1" style=3D"font-family: =
+Helvetica; font-size: 12px; font-style: normal; font-variant: normal; =
+font-weight: normal; letter-spacing: normal; line-height: normal; =
+orphans: auto; text-align: start; text-indent: 0px; text-transform: =
+none; white-space: normal; widows: auto; word-spacing: 0px; =
+-webkit-text-stroke-width: =
+0px;"></div></blockquote></div><br></body></html>=
+
+--Apple-Mail=_83634E44-DB88-4CB7-8860-814868CF07DB--
+.

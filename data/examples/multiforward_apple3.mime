@@ -1,0 +1,327 @@
+Authentication-Results: apiserver;
+Received: from mail-ie0-f170.google.com ([10.183.253.48])
+	by apiserver (Haraka/2.5.0) with ESMTP id FA6CDC2B-D627-48BC-BB62-FCD876D8624F.1
+	envelope-from <johnny@getsensibill.com>;
+	Sun, 13 Jul 2014 08:38:46 +0000
+Received: by mail-ie0-f170.google.com with SMTP id rl12so986890iec.29
+        for <jp@billpass.ca>; Sun, 13 Jul 2014 01:39:04 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:from:to:content-type;
+        bh=JAWHnC3rRTuj4c2ULmvUMUuoIRivP9jmWGlpuZXTiP8=;
+        b=kUGN32sS6kfyD2UYZ8+11FX+sPSpQCtAbvw3IH/wAKP+4oUvLiCC66p5NhkeH5VECf
+         5o5eL+vel9EoHVz8ypAEuK/01VUxG+FBqoxZBvjRJIW7Y0A8gDWN6+TMBVTxDG3gq89d
+         3m8haIyS6XJQcjK2LM/tItZ0RDZw+lawatq/KItkjTWleSK90mF8uKRkAe/4UdxYHK/3
+         HyCW0yp8YsWXwfIF0ey1TLYIer0DAqVkvRi1hDyEuR/HDkTW1qYe3UfuffFmrtcw7IAB
+         EPfNh1xesNo0RKDqeB7cLEaLG+/BcmuPJm0g6rbvMBZw2yp/uLCJcDzvP0vOuKuLsrGB
+         FOww==
+X-Gm-Message-State: ALoCoQkUMDlDbWKdTzoMdePNdLIKY8iSe5iOYXfUtY5Uhg2cUQ9xqf6lOVV93+DwW2RvnCIJxL/R
+MIME-Version: 1.0
+X-Received: by 10.50.18.82 with SMTP id u18mr7941662igd.46.1405240744511; Sun,
+ 13 Jul 2014 01:39:04 -0700 (PDT)
+Received: by 10.64.138.232 with HTTP; Sun, 13 Jul 2014 01:39:04 -0700 (PDT)
+In-Reply-To: <CAMzEB+2-yx1n_ha5=GnX_ot+V+vngw2atWE8EBJgvsw9_GHjRg@mail.gmail.com>
+References: <300895388.2725481401470814318.JavaMail.nexusp@nwk-nexusp-lapp37.corp.apple.com>
+	<50E66C65-1F48-4DFD-9D4F-E8FFD6DDC556@getsensibill.com>
+	<CAMzEB+2-yx1n_ha5=GnX_ot+V+vngw2atWE8EBJgvsw9_GHjRg@mail.gmail.com>
+Date: Sun, 13 Jul 2014 04:39:04 -0400
+Message-ID: <CAMzEB+2DuFnJt6urp035eEytzz+XaT_LNgfH6tJrnLBypZWEqA@mail.gmail.com>
+Subject: Fwd: Your receipt from Apple Store, Eaton Centre / Votre facture de
+ Apple Store, Eaton Centre
+From: Johnny Patterson <johnny@getsensibill.com>
+To: jp@billpass.ca
+Content-Type: multipart/mixed; boundary=089e0149510666cda304fe0f1b1c
+
+--089e0149510666cda304fe0f1b1c
+Content-Type: multipart/alternative; boundary=089e0149510666cd9f04fe0f1b1a
+
+--089e0149510666cd9f04fe0f1b1a
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Regards,
+
+Johnny
+
+
+JOHNNY PATTERSON / SENIOR TECHNICAL LEAD
+E. johnny@getsensibill.com / C. 416.436.9104
+ 10 Dundas St. E., 6th Floor / Toronto, ON, M5B 2G9
+
+_______________________________________________________________________
+
+This email may be privileged and/or confidential, and the sender does not
+waive any related rights and obligations. Any distribution, use or copying
+of this email or the information it contains by other than an intended
+recipient is unauthorized. If you received this email in error, please
+advise the sender (by return email or otherwise) immediately. You have
+consented to receive the attached electronically at the above-noted email
+address; please retain a copy of this confirmation for future reference.
+
+Ce courriel est confidentiel et prot=C3=A9g=C3=A9. L'exp=C3=A9diteur ne ren=
+once pas aux
+droits et obligations qui s'y rapportent. Toute diffusion, utilisation ou
+copie de ce courriel ou des renseignements qu'il contient par une personne
+autre que le (les) destinataire(s) d=C3=A9sign=C3=A9(s) est interdite. Si v=
+ous
+recevez ce courriel par erreur, veuillez en aviser l'exp=C3=A9diteur
+imm=C3=A9diatement, par retour de courriel ou par un autre moyen. Vous avez
+accept=C3=A9 de recevoir le(s) document(s) ci-joint(s) par voie =C3=A9lectr=
+onique =C3=A0
+l'adresse courriel indiqu=C3=A9e ci-dessus; veuillez conserver une copie de
+cette confirmation pour les fins de reference future.
+
+
+---------- Forwarded message ----------
+From: Johnny Patterson <johnny@getsensibill.com>
+Date: Fri, Jul 11, 2014 at 1:48 PM
+Subject: Fwd: Your receipt from Apple Store, Eaton Centre / Votre facture
+de Apple Store, Eaton Centre
+To: jp@billpass.ca
+
+
+
+Regards,
+
+Johnny
+
+
+JOHNNY PATTERSON / SENIOR TECHNICAL LEAD
+E. johnny@getsensibill.com / C. 416.436.9104
+ 10 Dundas St. E., 6th Floor / Toronto, ON, M5B 2G9
+
+_______________________________________________________________________
+
+This email may be privileged and/or confidential, and the sender does not
+waive any related rights and obligations. Any distribution, use or copying
+of this email or the information it contains by other than an intended
+recipient is unauthorized. If you received this email in error, please
+advise the sender (by return email or otherwise) immediately. You have
+consented to receive the attached electronically at the above-noted email
+address; please retain a copy of this confirmation for future reference.
+
+Ce courriel est confidentiel et prot=C3=A9g=C3=A9. L'exp=C3=A9diteur ne ren=
+once pas aux
+droits et obligations qui s'y rapportent. Toute diffusion, utilisation ou
+copie de ce courriel ou des renseignements qu'il contient par une personne
+autre que le (les) destinataire(s) d=C3=A9sign=C3=A9(s) est interdite. Si v=
+ous
+recevez ce courriel par erreur, veuillez en aviser l'exp=C3=A9diteur
+imm=C3=A9diatement, par retour de courriel ou par un autre moyen. Vous avez
+accept=C3=A9 de recevoir le(s) document(s) ci-joint(s) par voie =C3=A9lectr=
+onique =C3=A0
+l'adresse courriel indiqu=C3=A9e ci-dessus; veuillez conserver une copie de
+cette confirmation pour les fins de reference future.
+
+
+---------- Forwarded message ----------
+From: Corey Gross <corey@getsensibill.com>
+Date: Thu, Jul 10, 2014 at 10:51 AM
+Subject: Fwd: Your receipt from Apple Store, Eaton Centre / Votre facture
+de Apple Store, Eaton Centre
+To: Johnny Patterson <johnny@getsensibill.com>
+
+
+
+
+Begin forwarded message:
+
+*From: *eatoncentre@apple.com
+*Subject: **Your receipt from Apple Store, Eaton Centre / Votre facture de
+Apple Store, Eaton Centre*
+*Date: *May 30, 2014 at 1:26:54 PM EDT
+*To: *corey@getsensibill.com
+*Cc: *eatoncentre@apple.com
+*Reply-To: *Do_not_reply@apple.com
+
+Thank you for shopping at the Apple Store. / Merci de magasiner au Apple
+Store.
+
+To tell us about your experience, click here
+<http://survey.medallia.com/?appleretail&rn=3DR1215424281&date=3D20140530&s=
+m=3D3&rt=3DF>.
+/ Afin de partager votre exp=C3=A9rience avec nous, cliquez ici
+<http://survey.medallia.com/?appleretail&rn=3DR1215424281&date=3D20140530&s=
+m=3D3&rt=3DF&lang=3Dfr_CA>
+..
+
+--089e0149510666cd9f04fe0f1b1a
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><br clear=3D"all"><div><div dir=3D"ltr"><div><div><div dir=
+=3D"ltr"><div dir=3D"ltr"><div style=3D"color:rgb(82,82,82);font-size:11px"=
+><div style=3D"font-family:Times"><div style=3D"font-family:arial;color:rgb=
+(34,34,34);font-size:small">
+Regards,</div></div><div style=3D"font-family:arial;color:rgb(34,34,34);fon=
+t-size:small"><br></div><div style=3D"font-family:arial;color:rgb(34,34,34)=
+;font-size:small">Johnny</div><div style=3D"font-family:Times"><span style=
+=3D"color:rgb(10,10,10);font-weight:bold"><br>
+</span></div><div style=3D"font-family:Times"><span style=3D"color:rgb(10,1=
+0,10);font-weight:bold"><br></span></div><div><font face=3D"tahoma, sans-se=
+rif"><span style=3D"color:rgb(10,10,10)">JOHNNY PATTERSON</span>=C2=A0/=C2=
+=A0SENIOR TECHNICAL LEAD</font></div>
+<div style=3D"margin-top:5px"><font face=3D"tahoma, sans-serif"><span style=
+=3D"color:rgb(40,190,193);font-size:10px">E.=C2=A0</span><a href=3D"mailto:=
+johnny@getsensibill.com" style=3D"color:rgb(17,85,204)" target=3D"_blank">j=
+ohnny@getsensibill.com</a>=C2=A0/=C2=A0<span style=3D"color:rgb(40,190,193)=
+;font-size:10px">C.=C2=A0</span><a value=3D"+14162012407" style=3D"color:rg=
+b(17,85,204)">416.436.9104</a></font></div>
+<div style=3D"margin-top:15px"><font face=3D"tahoma, sans-serif"><img src=
+=3D"https://www.filepicker.io/api/file/uzPXhpSpeRsg8fZD07tg/convert?w=3D150=
+&amp;h=3D55&amp;fit=3Dclip" style=3D"width:100px;vertical-align:middle">=C2=
+=A010 Dundas St. E., 6th Floor / Toronto, ON, M5B 2G9</font></div>
+</div></div></div></div></div><p><font style=3D"font-size:9px">____________=
+___________________________________________________________</font></p><p><f=
+ont style=3D"font-size:9px">This email may be privileged and/or confidentia=
+l, and the sender does not waive any related rights and obligations. Any di=
+stribution, use or copying of this email or the information it contains by =
+other than an intended recipient is unauthorized. If you received this emai=
+l in error, please advise the sender (by return email or otherwise) immedia=
+tely. You have consented to receive the attached electronically at the abov=
+e-noted email address; please retain a copy of this confirmation for future=
+ reference.</font></p>
+<p><font style=3D"font-size:9px">Ce courriel est confidentiel et prot=C3=A9=
+g=C3=A9. L&#39;exp=C3=A9diteur ne renonce pas aux droits et obligations qui=
+ s&#39;y rapportent. Toute diffusion, utilisation ou copie de ce courriel o=
+u des renseignements qu&#39;il contient par une personne autre que le (les)=
+ destinataire(s) d=C3=A9sign=C3=A9(s) est interdite. Si vous recevez ce cou=
+rriel par erreur, veuillez en aviser l&#39;exp=C3=A9diteur imm=C3=A9diateme=
+nt, par retour de courriel ou par un autre moyen. Vous avez accept=C3=A9 de=
+ recevoir le(s) document(s) ci-joint(s) par voie =C3=A9lectronique =C3=A0 l=
+&#39;adresse courriel indiqu=C3=A9e ci-dessus; veuillez conserver une copie=
+ de cette confirmation pour les fins de reference future.</font></p>
+</div></div>
+<br><br><div class=3D"gmail_quote">---------- Forwarded message ----------<=
+br>From: <b class=3D"gmail_sendername">Johnny Patterson</b> <span dir=3D"lt=
+r">&lt;<a href=3D"mailto:johnny@getsensibill.com">johnny@getsensibill.com</=
+a>&gt;</span><br>
+Date: Fri, Jul 11, 2014 at 1:48 PM<br>Subject: Fwd: Your receipt from Apple=
+ Store, Eaton Centre / Votre facture de Apple Store, Eaton Centre<br>To: <a=
+ href=3D"mailto:jp@billpass.ca">jp@billpass.ca</a><br><br><br><div dir=3D"l=
+tr">
+<div class=3D""><br clear=3D"all"><div><div dir=3D"ltr"><div><div><div dir=
+=3D"ltr"><div dir=3D"ltr"><div style=3D"color:rgb(82,82,82);font-size:11px"=
+><div style=3D"font-family:Times"><div style=3D"font-family:arial;color:rgb=
+(34,34,34);font-size:small">
+
+Regards,</div></div><div style=3D"font-family:arial;color:rgb(34,34,34);fon=
+t-size:small"><br></div><div style=3D"font-family:arial;color:rgb(34,34,34)=
+;font-size:small">Johnny</div><div style=3D"font-family:Times"><span style=
+=3D"color:rgb(10,10,10);font-weight:bold"><br>
+
+</span></div><div style=3D"font-family:Times"><span style=3D"color:rgb(10,1=
+0,10);font-weight:bold"><br></span></div><div><font face=3D"tahoma, sans-se=
+rif"><span style=3D"color:rgb(10,10,10)">JOHNNY PATTERSON</span>=C2=A0/=C2=
+=A0SENIOR TECHNICAL LEAD</font></div>
+
+<div style=3D"margin-top:5px"><font face=3D"tahoma, sans-serif"><span style=
+=3D"color:rgb(40,190,193);font-size:10px">E.=C2=A0</span><a href=3D"mailto:=
+johnny@getsensibill.com" style=3D"color:rgb(17,85,204)" target=3D"_blank">j=
+ohnny@getsensibill.com</a>=C2=A0/=C2=A0<span style=3D"color:rgb(40,190,193)=
+;font-size:10px">C.=C2=A0</span><a value=3D"+14162012407" style=3D"color:rg=
+b(17,85,204)">416.436.9104</a></font></div>
+
+<div style=3D"margin-top:15px"><font face=3D"tahoma, sans-serif"><img src=
+=3D"https://www.filepicker.io/api/file/uzPXhpSpeRsg8fZD07tg/convert?w=3D150=
+&amp;h=3D55&amp;fit=3Dclip" style=3D"width:100px;vertical-align:middle">=C2=
+=A010 Dundas St. E., 6th Floor / Toronto, ON, M5B 2G9</font></div>
+
+</div></div></div></div></div><p><font style=3D"font-size:9px">____________=
+___________________________________________________________</font></p><p><f=
+ont style=3D"font-size:9px">This email may be privileged and/or confidentia=
+l, and the sender does not waive any related rights and obligations. Any di=
+stribution, use or copying of this email or the information it contains by =
+other than an intended recipient is unauthorized. If you received this emai=
+l in error, please advise the sender (by return email or otherwise) immedia=
+tely. You have consented to receive the attached electronically at the abov=
+e-noted email address; please retain a copy of this confirmation for future=
+ reference.</font></p>
+
+<p><font style=3D"font-size:9px">Ce courriel est confidentiel et prot=C3=A9=
+g=C3=A9. L&#39;exp=C3=A9diteur ne renonce pas aux droits et obligations qui=
+ s&#39;y rapportent. Toute diffusion, utilisation ou copie de ce courriel o=
+u des renseignements qu&#39;il contient par une personne autre que le (les)=
+ destinataire(s) d=C3=A9sign=C3=A9(s) est interdite. Si vous recevez ce cou=
+rriel par erreur, veuillez en aviser l&#39;exp=C3=A9diteur imm=C3=A9diateme=
+nt, par retour de courriel ou par un autre moyen. Vous avez accept=C3=A9 de=
+ recevoir le(s) document(s) ci-joint(s) par voie =C3=A9lectronique =C3=A0 l=
+&#39;adresse courriel indiqu=C3=A9e ci-dessus; veuillez conserver une copie=
+ de cette confirmation pour les fins de reference future.</font></p>
+
+</div></div>
+<br><br></div><div class=3D"gmail_quote"><div class=3D"">---------- Forward=
+ed message ----------<br>From: <b class=3D"gmail_sendername">Corey Gross</b=
+> <span dir=3D"ltr">&lt;<a href=3D"mailto:corey@getsensibill.com" target=3D=
+"_blank">corey@getsensibill.com</a>&gt;</span><br>
+
+Date: Thu, Jul 10, 2014 at 10:51 AM<br></div><div><div class=3D"h5">Subject=
+: Fwd: Your receipt from Apple Store, Eaton Centre / Votre facture de Apple=
+ Store, Eaton Centre<br>To: Johnny Patterson &lt;<a href=3D"mailto:johnny@g=
+etsensibill.com" target=3D"_blank">johnny@getsensibill.com</a>&gt;<br>
+
+<br><br><div style=3D"word-wrap:break-word"><br>
+<div><br><div>Begin forwarded message:</div><br><blockquote type=3D"cite"><=
+div style=3D"margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:=
+0px"><span style=3D"font-family:&#39;Helvetica&#39;;color:rgba(0,0,0,1.0)">=
+<b>From: </b></span><span style=3D"font-family:&#39;Helvetica&#39;"><a href=
+=3D"mailto:eatoncentre@apple.com" target=3D"_blank">eatoncentre@apple.com</=
+a><br>
+
+</span></div><div style=3D"margin-top:0px;margin-right:0px;margin-bottom:0p=
+x;margin-left:0px"><span style=3D"font-family:&#39;Helvetica&#39;;color:rgb=
+a(0,0,0,1.0)"><b>Subject: </b></span><span style=3D"font-family:&#39;Helvet=
+ica&#39;"><b>Your receipt from Apple Store, Eaton Centre / Votre facture de=
+ Apple Store, Eaton Centre</b><br>
+
+</span></div><div style=3D"margin-top:0px;margin-right:0px;margin-bottom:0p=
+x;margin-left:0px"><span style=3D"font-family:&#39;Helvetica&#39;;color:rgb=
+a(0,0,0,1.0)"><b>Date: </b></span><span style=3D"font-family:&#39;Helvetica=
+&#39;">May 30, 2014 at 1:26:54 PM EDT<br>
+
+</span></div><div style=3D"margin-top:0px;margin-right:0px;margin-bottom:0p=
+x;margin-left:0px"><span style=3D"font-family:&#39;Helvetica&#39;;color:rgb=
+a(0,0,0,1.0)"><b>To: </b></span><span style=3D"font-family:&#39;Helvetica&#=
+39;"><a href=3D"mailto:corey@getsensibill.com" target=3D"_blank">corey@gets=
+ensibill.com</a><br>
+
+</span></div><div style=3D"margin-top:0px;margin-right:0px;margin-bottom:0p=
+x;margin-left:0px"><span style=3D"font-family:&#39;Helvetica&#39;;color:rgb=
+a(0,0,0,1.0)"><b>Cc: </b></span><span style=3D"font-family:&#39;Helvetica&#=
+39;"><a href=3D"mailto:eatoncentre@apple.com" target=3D"_blank">eatoncentre=
+@apple.com</a><br>
+
+</span></div><div style=3D"margin-top:0px;margin-right:0px;margin-bottom:0p=
+x;margin-left:0px"><span style=3D"font-family:&#39;Helvetica&#39;;color:rgb=
+a(0,0,0,1.0)"><b>Reply-To: </b></span><span style=3D"font-family:&#39;Helve=
+tica&#39;"><a href=3D"mailto:Do_not_reply@apple.com" target=3D"_blank">Do_n=
+ot_reply@apple.com</a><br>
+
+</span></div><br><div>Thank you for shopping at the Apple Store. / Merci de=
+ magasiner au Apple Store.<br><br>
+
+To tell us about your experience, <a href=3D"http://survey.medallia.com/?ap=
+pleretail&amp;rn=3DR1215424281&amp;date=3D20140530&amp;sm=3D3&amp;rt=3DF" t=
+arget=3D"_blank">click here</a>. / Afin de partager votre exp=C3=A9rience a=
+vec nous, <a href=3D"http://survey.medallia.com/?appleretail&amp;rn=3DR1215=
+424281&amp;date=3D20140530&amp;sm=3D3&amp;rt=3DF&amp;lang=3Dfr_CA" target=
+=3D"_blank">cliquez ici</a>.<br>
+
+<br>
+
+</div></blockquote></div></div><br><div style=3D"word-wrap:break-word"><div=
+><blockquote type=3D"cite"><div></div></blockquote></div><br></div><br></di=
+v></div></div><br></div>
+</div><br></div>
+
+--089e0149510666cd9f04fe0f1b1a--
+--089e0149510666cda304fe0f1b1c
+Content-Type: application/pdf; name="emailreceipt_20140530R1215424281.pdf"
+Content-Disposition: attachment;
+	filename="emailreceipt_20140530R1215424281.pdf"
+Content-Transfer-Encoding: base64
+X-Attachment-Id: f20bd4cf6b084572_0.1.1
+
+
+--089e0149510666cda304fe0f1b1c--

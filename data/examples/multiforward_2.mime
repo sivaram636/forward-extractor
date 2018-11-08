@@ -1,0 +1,811 @@
+Authentication-Results: apiserver; 
+Received: from mail-ig0-f181.google.com (mail-ig0-f181.google.com [209.85.213.181])
+	by apiserver (Haraka/2.4.0) with ESMTP id CF37F7D5-E719-42A6-BCB6-8C43EE7F6B20.1
+	envelope-from <johnny@getsensibill.com>;
+	Thu, 07 Aug 2014 18:42:20 +0000
+Received: by mail-ig0-f181.google.com with SMTP id h3so4947784igd.8
+        for <jp@billpass.net>; Thu, 07 Aug 2014 11:42:17 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:from:to:content-type;
+        bh=H/dHlubSpbcO8/5knBvDi0B2E7sYkUwXwoU1URTefTs=;
+        b=OR5cGfpsnA0zB81N0A9ZFR8ZaHaQxcdgJvF178GZ+fYMFGRHFRSPvtTtZm+ZN1mnc8
+         DKOmWnovN0lXX3H+e/lv6ANwaoPG0147OBq6z6RnfkEwAOIm+0UfbZn3jV8X3umAsUiD
+         8LqVjxHi2OSe7QGkz5UZ1nS9AT5zZjWVHwwC3HZvbNaczUAuzt3KFlVwO8qX7T1SaIv3
+         UB5WsVyYaiWLSw99l2s/nJ5Q08p+50I6OC1NABhWfAWE2v8kMvxuU3QC4EoHLwVIf2dy
+         d66cJADX05+2HJbRv3444BIRBtt1GeEydoNMVpWMdLILWYbL7XS9leTgfI/kVJtinntO
+         ELuw==
+X-Gm-Message-State: ALoCoQnyQ1VPyLKEOhAKdbAiyubnm4m6u4TuwkBYlA1cR1rk6OxESwM7kUqwJK7qPxVBfXsgC/bJ
+MIME-Version: 1.0
+X-Received: by 10.43.63.15 with SMTP id xc15mr6553916icb.66.1407436937675;
+ Thu, 07 Aug 2014 11:42:17 -0700 (PDT)
+Received: by 10.64.21.105 with HTTP; Thu, 7 Aug 2014 11:42:17 -0700 (PDT)
+In-Reply-To: <7E2F89FA-76CC-49EF-88F1-4BFA4DC03C80@getsensibill.com>
+References: <fbcfa4cc6241.539b4347@ryerson.ca>
+	<7E2F89FA-76CC-49EF-88F1-4BFA4DC03C80@getsensibill.com>
+Date: Thu, 7 Aug 2014 14:42:17 -0400
+Message-ID: <CAMzEB+2NL-at37f6hCF_OCmedeoN9Aj+12GaadHdttEDKH7K2A@mail.gmail.com>
+Subject: Fwd: With our thanks, here's your Fossil receipt!
+From: Johnny Patterson <johnny@getsensibill.com>
+To: jp@billpass.net
+Content-Type: multipart/alternative; boundary=bcaec51d2a34b6e02105000e7292
+
+--bcaec51d2a34b6e02105000e7292
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Regards,
+
+Johnny
+
+
+JOHNNY PATTERSON / SENIOR TECHNICAL LEAD
+E. johnny@getsensibill.com / C. 416.436.9104
+ 10 Dundas St. E., 6th Floor / Toronto, ON, M5B 2G9
+
+_______________________________________________________________________
+
+This email may be privileged and/or confidential, and the sender does not
+waive any related rights and obligations. Any distribution, use or copying
+of this email or the information it contains by other than an intended
+recipient is unauthorized. If you received this email in error, please
+advise the sender (by return email or otherwise) immediately. You have
+consented to receive the attached electronically at the above-noted email
+address; please retain a copy of this confirmation for future reference.
+
+Ce courriel est confidentiel et prot=C3=A9g=C3=A9. L'exp=C3=A9diteur ne ren=
+once pas aux
+droits et obligations qui s'y rapportent. Toute diffusion, utilisation ou
+copie de ce courriel ou des renseignements qu'il contient par une personne
+autre que le (les) destinataire(s) d=C3=A9sign=C3=A9(s) est interdite. Si v=
+ous
+recevez ce courriel par erreur, veuillez en aviser l'exp=C3=A9diteur
+imm=C3=A9diatement, par retour de courriel ou par un autre moyen. Vous avez
+accept=C3=A9 de recevoir le(s) document(s) ci-joint(s) par voie =C3=A9lectr=
+onique =C3=A0
+l'adresse courriel indiqu=C3=A9e ci-dessus; veuillez conserver une copie de
+cette confirmation pour les fins de reference future.
+
+
+---------- Forwarded message ----------
+From: Corey Gross <corey@getsensibill.com>
+Date: Wed, Jul 16, 2014 at 12:38 PM
+Subject: Fwd: With our thanks, here's your Fossil receipt!
+To: Johnny Patterson <johnny@getsensibill.com>
+
+
+
+______________
+
+COREY GROSS / CHIEF EXECUTIVE OFFICER
+E. corey@getsensibill.com / C. 416.892.8310
+ 10 Dundas St. E., 6th Floor / Toronto, ON, M5B 2G9
+This email may contain privileged and confidential material and its
+transmission is not a waiver of that privilege. It is intended for the use
+of the individual or entity to which it is addressed. If the reader is not
+the intended recipient or the employee or agent responsible for the
+delivery of the message to the intended recipient, you are hereby notified
+that any dissemination, distribution or copying of the communication is
+strictly prohibited. if you have received this communication in error,
+please notify us immediately.
+
+Begin forwarded message:
+
+*From: *Shahad Mahdi <shahad.mahdi@ryerson.ca>
+*Subject: **Fwd: With our thanks, here's your Fossil receipt!*
+*Date: *June 13, 2014 at 6:30:31 PM EDT
+*To: *Corey Gross <corey@getsensibill.com>
+
+
+*From: *Fossil <eReceipts@shop.fossil.com>
+*Subject: **With our thanks, here's your Fossil receipt!*
+*Date: *June 13, 2014 at 12:29:52 PM EDT
+*To: *shahad.mahdi@ryerson.ca
+*Reply-To: *Fossil <eServices@shop.fossil.com>
+
+
+ [image: Shop All Fossil]
+<https://email.rsys5.net/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGnkzcToqvqzbHj=
+ERfPiDwKW3kN3RAau7zf1LnzaVXtpKX%3DTTSUY&_ei_=3DEolaGGF4SNMvxFF7KucKuWMAS_Qd=
+O3PVtiO7MP8N7fRQX7dNfbQ5-SZvrUAzFSUb8eYUVli2GqwkPK4wKLCMbPqvFPzCK-B-6RKgIkC=
+KFg.>[image:
+Women] <http://www.fossil.com/en_US/shop/women.html?>[image: Men]
+<http://www.fossil.com/en_US/shop/men.html?>[image: Watches]
+<https://email.rsys5.net/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGnkzcToqvqzbHj=
+ERfPiDwKW3kN3RAau7zf1LnzaVXtpKX%3DTTSYY&_ei_=3DEolaGGF4SNMvxFF7KucKuWMAS_Qd=
+O3PVtiO7MP8N7fRQX7dNfbQ5-SZvrUAzFSUb8eYUVli2GqwkPK4wKLCMbPqvFPzCK-B-6RKgIkC=
+KFg.>[image:
+Bags]
+<https://email.rsys5.net/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGnkzcToqvqzbHj=
+ERfPiDwKW3kN3RAau7zf1LnzaVXtpKX%3DTTSBY&_ei_=3DEolaGGF4SNMvxFF7KucKuWMAS_Qd=
+O3PVtiO7MP8N7fRQX7dNfbQ5-SZvrUAzFSUb8eYUVli2GqwkPK4wKLCMbPqvFPzCK-B-6RKgIkC=
+KFg.>[image:
+Jewelry]
+<http://www.fossil.com/webapp/wcs/stores/servlet/ContentView?langId=3D-1&st=
+oreId=3D12052&catalogId=3D25005&page=3Djewelry_landing>
+ Join the Fossil Community
+By joining our community, you'll receive emails with early access to new
+collections,
+a first look at our favorite gifts and most importantly, sales and
+promotions![image: Sign Up Now]
+<https://email.rsys5.net/pub/sf/ResponseForm?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQG=
+pgzdssGCJjoWRzgbbzbpmf5g7v0zcrTVXMtX%3DWQpglLjHJlYQGhr5Knt6w46BzcBT6gOMAjm7=
+E0Ooze&_ei_=3DEr1dKJ9xzWM_i9drinTCo8o>
+
+
+       Y o r k d a l e   # 5 9 0 1
+
+        3401 Dufferin St. Unit #97
+
+         North York, ON  M6A 2T9
+
+              (416) 781-9826
+
+
+HALE SLM CC FPW   DA 762346291503  36.00 H
+
+
+SUBTOTAL                           $36.00
+
+HST 13% RT865495485                 $4.68
+
+T O T A L                          $40.68
+
+C A S H                            $50.00
+
+ROUNDED AMOUNT                      $0.02
+
+CHANGE                              $9.30
+
+
+
+
+
+ITEMS 1
+
+13-06-14  12:29:40   5901 02 41179 9289
+
+
+            Long Live Vintage.
+
+
+
+
+
+   [image: Facebook]
+<https://email.rsys5.net/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGnkzcToqvqzbHj=
+ERfPiDwKW3kN3RAau7zf1LnzaVXtpKX%3DTTSDY&_ei_=3DEolaGGF4SNMvxFF7KucKuWMAS_Qd=
+O3PVtiO7MP8N7fRQX7dNfbQ5-SZvrUAzFSUb8eYUVli2GqwkPK4wKLCMbPqvFPzCK-B-6RKgIkC=
+KFg.>[image:
+Twitter]
+<https://email.rsys5.net/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGnkzcToqvqzbHj=
+ERfPiDwKW3kN3RAau7zf1LnzaVXtpKX%3DTTTSY&_ei_=3DEolaGGF4SNMvxFF7KucKuWMAS_Qd=
+O3PVtiO7MP8N7fRQX7dNfbQ5-SZvrUAzFSUb8eYUVli2GqwkPK4wKLCMbPqvFPzCK-B-6RKgIkC=
+KFg.>[image:
+YouTube]
+<https://email.rsys5.net/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGnkzcToqvqzbHj=
+ERfPiDwKW3kN3RAau7zf1LnzaVXtpKX%3DTTTUY&_ei_=3DEolaGGF4SNMvxFF7KucKuWMAS_Qd=
+O3PVtiO7MP8N7fRQX7dNfbQ5-SZvrUAzFSUb8eYUVli2GqwkPK4wKLCMbPqvFPzCK-B-6RKgIkC=
+KFg.>[image:
+Pinterest]
+<https://email.rsys5.net/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGnkzcToqvqzbHj=
+ERfPiDwKW3kN3RAau7zf1LnzaVXtpKX%3DTTTYY&_ei_=3DEolaGGF4SNMvxFF7KucKuWMAS_Qd=
+O3PVtiO7MP8N7fRQX7dNfbQ5-SZvrUAzFSUb8eYUVli2GqwkPK4wKLCMbPqvFPzCK-B-6RKgIkC=
+KFg.>[image:
+Tumblr] <http://fossil.tumblr.com/?>[image: Blog]
+<https://email.rsys5.net/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGnkzcToqvqzbHj=
+ERfPiDwKW3kN3RAau7zf1LnzaVXtpKX%3DTTTBY&_ei_=3DEolaGGF4SNMvxFF7KucKuWMAS_Qd=
+O3PVtiO7MP8N7fRQX7dNfbQ5-SZvrUAzFSUb8eYUVli2GqwkPK4wKLCMbPqvFPzCK-B-6RKgIkC=
+KFg.>
+
+This email was sent to shahad.mahdi@ryerson.ca. To unsubscribe, click here
+<https://email.rsys5.net/pub/sf/ResponseForm?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQG=
+sTEqUuvd7Jm8qiSql97AY7BzbDzgzfVXMtX%3DWQpglLjHJlYQGoF3kJUKwGuNzfhrYutjXbT6G=
+JlXk&_ei_=3DEri4yMoK5YCKYGhSxjSkH7c>
+..
+Fossil respects the privacy of its customers. To view our privacy policy,
+please click here
+<https://responsys.hs.llnwd.net/i5/responsysimages/content/fossil/canada_pr=
+ivacy_en.html>
+..
+Shop Fossil in person! Visit us at storelocator.fossil.com
+<https://email.rsys5.net/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGnkzcToqvqzbHj=
+ERfPiDwKW3kN3RAau7zf1LnzaVXtpKX%3DTTUSY&_ei_=3DEolaGGF4SNMvxFF7KucKuWMAS_Qd=
+O3PVtiO7MP8N7fRQX7dNfbQ5-SZvrUAzFSUb8eYUVli2GqwkPK4wKLCMbPqvFPzCK-B-6RKgIkC=
+KFg.>
+..
+
+Fossil Direct
+Customer Care: 1-800-449-3056
+901 S. Central Expressway, Richardson, TX 75080
+
+=C2=A9 2014 Fossil, Inc. All rights reserved.
+
+--bcaec51d2a34b6e02105000e7292
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><br clear=3D"all"><div><div dir=3D"ltr"><div><div><div dir=
+=3D"ltr"><div dir=3D"ltr"><div style=3D"color:rgb(82,82,82);font-size:11px"=
+><div style=3D"font-family:Times"><div style=3D"font-family:arial;color:rgb=
+(34,34,34);font-size:small">
+Regards,</div></div><div style=3D"font-family:arial;color:rgb(34,34,34);fon=
+t-size:small"><br></div><div style=3D"font-family:arial;color:rgb(34,34,34)=
+;font-size:small">Johnny</div><div style=3D"font-family:Times"><span style=
+=3D"color:rgb(10,10,10);font-weight:bold"><br>
+</span></div><div style=3D"font-family:Times"><span style=3D"color:rgb(10,1=
+0,10);font-weight:bold"><br></span></div><div><font face=3D"tahoma, sans-se=
+rif"><span style=3D"color:rgb(10,10,10)">JOHNNY PATTERSON</span>=C2=A0/=C2=
+=A0SENIOR TECHNICAL LEAD</font></div>
+<div style=3D"margin-top:5px"><font face=3D"tahoma, sans-serif"><span style=
+=3D"color:rgb(40,190,193);font-size:10px">E.=C2=A0</span><a href=3D"mailto:=
+johnny@getsensibill.com" style=3D"color:rgb(17,85,204)" target=3D"_blank">j=
+ohnny@getsensibill.com</a>=C2=A0/=C2=A0<span style=3D"color:rgb(40,190,193)=
+;font-size:10px">C.=C2=A0</span><a value=3D"+14162012407" style=3D"color:rg=
+b(17,85,204)">416.436.9104</a></font></div>
+<div style=3D"margin-top:15px"><font face=3D"tahoma, sans-serif"><img src=
+=3D"https://www.filepicker.io/api/file/uzPXhpSpeRsg8fZD07tg/convert?w=3D150=
+&amp;h=3D55&amp;fit=3Dclip" style=3D"width:100px;vertical-align:middle">=C2=
+=A010 Dundas St. E., 6th Floor / Toronto, ON, M5B 2G9</font></div>
+</div></div></div></div></div><p><font style=3D"font-size:9px">____________=
+___________________________________________________________</font></p><p><f=
+ont style=3D"font-size:9px">This email may be privileged and/or confidentia=
+l, and the sender does not waive any related rights and obligations. Any di=
+stribution, use or copying of this email or the information it contains by =
+other than an intended recipient is unauthorized. If you received this emai=
+l in error, please advise the sender (by return email or otherwise) immedia=
+tely. You have consented to receive the attached electronically at the abov=
+e-noted email address; please retain a copy of this confirmation for future=
+ reference.</font></p>
+<p><font style=3D"font-size:9px">Ce courriel est confidentiel et prot=C3=A9=
+g=C3=A9. L&#39;exp=C3=A9diteur ne renonce pas aux droits et obligations qui=
+ s&#39;y rapportent. Toute diffusion, utilisation ou copie de ce courriel o=
+u des renseignements qu&#39;il contient par une personne autre que le (les)=
+ destinataire(s) d=C3=A9sign=C3=A9(s) est interdite. Si vous recevez ce cou=
+rriel par erreur, veuillez en aviser l&#39;exp=C3=A9diteur imm=C3=A9diateme=
+nt, par retour de courriel ou par un autre moyen. Vous avez accept=C3=A9 de=
+ recevoir le(s) document(s) ci-joint(s) par voie =C3=A9lectronique =C3=A0 l=
+&#39;adresse courriel indiqu=C3=A9e ci-dessus; veuillez conserver une copie=
+ de cette confirmation pour les fins de reference future.</font></p>
+</div></div>
+<br><br><div class=3D"gmail_quote">---------- Forwarded message ----------<=
+br>From: <b class=3D"gmail_sendername">Corey Gross</b> <span dir=3D"ltr">&l=
+t;<a href=3D"mailto:corey@getsensibill.com">corey@getsensibill.com</a>&gt;<=
+/span><br>
+Date: Wed, Jul 16, 2014 at 12:38 PM<br>Subject: Fwd: With our thanks, here&=
+#39;s your Fossil receipt!<br>To: Johnny Patterson &lt;<a href=3D"mailto:jo=
+hnny@getsensibill.com">johnny@getsensibill.com</a>&gt;<br><br><br><div styl=
+e=3D"word-wrap:break-word">
+<div class=3D""><br><div>
+<span style=3D"color:rgb(10,10,10);font-family:Gotham-Light;font-size:11px"=
+>______________</span><br><div style=3D"color:rgb(82,82,82);font-size:11px"=
+><div style=3D"font-family:&#39;Gotham Book&#39;,Times"><div><span style=3D=
+"font-weight:bold;color:rgb(10,10,10)"><br>
+</span></div><div style=3D"font-family:Helvetica;font-size:12px"><span styl=
+e=3D"color:rgb(10,10,10);font-size:11px"><font face=3D"Gotham">COREY GROSS<=
+/font></span><font face=3D"Gotham-Light"><span style=3D"font-size:11px">=C2=
+=A0/=C2=A0CHIEF EXECUTIVE OFFICER</span></font></div>
+<div style=3D"font-family:Helvetica;margin-top:5px"><font face=3D"Gotham-Li=
+ght"><span style=3D"font-size:10.5px;color:rgb(40,190,193)">E.=C2=A0</span>=
+<a href=3D"mailto:corey@getsensibill.com" style=3D"text-decoration:none;col=
+or:inherit" target=3D"_blank">corey@getsensibill.com</a>=C2=A0/=C2=A0<span =
+style=3D"font-size:10.5px;color:rgb(40,190,193)">C.=C2=A0</span><a href=3D"=
+tel:416.892.8310" value=3D"+14168928310" target=3D"_blank">416.892.8310</a>=
+</font></div>
+<div style=3D"font-family:Helvetica;margin-top:15px"><font face=3D"Gotham-L=
+ight"><span style=3D"width:100px;vertical-align:middle;margin-bottom:3px;pa=
+dding-right:5px"><img src=3D"http://sensibill.jit.su/images/sensibill-logo-=
+teal.png" style=3D"width:100px;vertical-align:middle;margin-bottom:3px;padd=
+ing-right:5px"></span>=C2=A010 Dundas St. E., 6th Floor / Toronto, ON, M5B =
+2G9</font></div>
+<div style=3D"font-family:Helvetica;margin-top:15px"><span style=3D"color:r=
+gb(0,0,0);font-size:8px"><font face=3D"Gotham-Light">This email may contain=
+=C2=A0</font></span><font face=3D"Gotham-Light" style=3D"font-size:12px;col=
+or:rgb(0,0,0)"><span style=3D"font-size:9px">privileged and confidential ma=
+terial and its transmission is not a waiver of that privilege. It is intend=
+ed for the use of the individual or entity to which it is addressed. If the=
+ reader is not the intended recipient or the employee or agent responsible =
+for the delivery of the message to the intended recipient, you are hereby n=
+otified that any dissemination, distribution or copying of the communicatio=
+n is strictly prohibited. if you have received this communication in error,=
+ please notify us immediately.</span></font></div>
+</div></div>
+</div>
+</div><div><br><div>Begin forwarded message:</div><br><blockquote type=3D"c=
+ite"><div class=3D""><div style=3D"margin-top:0px;margin-right:0px;margin-b=
+ottom:0px;margin-left:0px"><span style=3D"font-family:&#39;Helvetica&#39;;c=
+olor:rgba(0,0,0,1.0)"><b>From: </b></span><span style=3D"font-family:&#39;H=
+elvetica&#39;">Shahad Mahdi &lt;<a href=3D"mailto:shahad.mahdi@ryerson.ca" =
+target=3D"_blank">shahad.mahdi@ryerson.ca</a>&gt;<br>
+</span></div><div style=3D"margin-top:0px;margin-right:0px;margin-bottom:0p=
+x;margin-left:0px"><span style=3D"font-family:&#39;Helvetica&#39;;color:rgb=
+a(0,0,0,1.0)"><b>Subject: </b></span><span style=3D"font-family:&#39;Helvet=
+ica&#39;"><b>Fwd: With our thanks, here&#39;s your Fossil receipt!</b><br>
+</span></div></div><div style=3D"margin-top:0px;margin-right:0px;margin-bot=
+tom:0px;margin-left:0px"><span style=3D"font-family:&#39;Helvetica&#39;;col=
+or:rgba(0,0,0,1.0)"><b>Date: </b></span><span style=3D"font-family:&#39;Hel=
+vetica&#39;">June 13, 2014 at 6:30:31 PM EDT<br>
+</span></div><div style=3D"margin-top:0px;margin-right:0px;margin-bottom:0p=
+x;margin-left:0px"><span style=3D"font-family:&#39;Helvetica&#39;;color:rgb=
+a(0,0,0,1.0)"><b>To: </b></span><span style=3D"font-family:&#39;Helvetica&#=
+39;">Corey Gross &lt;<a href=3D"mailto:corey@getsensibill.com" target=3D"_b=
+lank">corey@getsensibill.com</a>&gt;<br>
+</span></div><br><div><div class=3D""><div style=3D"font-family:Helvetica;f=
+ont-size:12px;font-style:normal;font-variant:normal;font-weight:normal;lett=
+er-spacing:normal;line-height:normal;text-align:start;text-indent:0px;text-=
+transform:none;white-space:normal;word-spacing:0px;margin:0px">
+<span style=3D"font-family:Helvetica;color:rgb(127,127,127)"><b><br>From:<s=
+pan>=C2=A0</span></b></span><span style=3D"font-family:Helvetica">Fossil &l=
+t;<a href=3D"mailto:eReceipts@shop.fossil.com" target=3D"_blank">eReceipts@=
+shop.fossil.com</a>&gt;<br>
+</span></div><div style=3D"font-family:Helvetica;font-size:12px;font-style:=
+normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-he=
+ight:normal;text-align:start;text-indent:0px;text-transform:none;white-spac=
+e:normal;word-spacing:0px;margin:0px">
+<span style=3D"font-family:Helvetica;color:rgb(127,127,127)"><b>Subject:<sp=
+an>=C2=A0</span></b></span><span style=3D"font-family:Helvetica"><b>With ou=
+r thanks, here&#39;s your Fossil receipt!</b><br></span></div></div><div st=
+yle=3D"font-family:Helvetica;font-size:12px;font-style:normal;font-variant:=
+normal;font-weight:normal;letter-spacing:normal;line-height:normal;text-ali=
+gn:start;text-indent:0px;text-transform:none;white-space:normal;word-spacin=
+g:0px;margin:0px">
+<span style=3D"font-family:Helvetica;color:rgb(127,127,127)"><b>Date:<span>=
+=C2=A0</span></b></span><span style=3D"font-family:Helvetica">June 13, 2014=
+ at 12:29:52 PM EDT<br></span></div><div class=3D""><div style=3D"font-fami=
+ly:Helvetica;font-size:12px;font-style:normal;font-variant:normal;font-weig=
+ht:normal;letter-spacing:normal;line-height:normal;text-align:start;text-in=
+dent:0px;text-transform:none;white-space:normal;word-spacing:0px;margin:0px=
+">
+<span style=3D"font-family:Helvetica;color:rgb(127,127,127)"><b>To:<span>=
+=C2=A0</span></b></span><span style=3D"font-family:Helvetica"><a href=3D"ma=
+ilto:shahad.mahdi@ryerson.ca" target=3D"_blank">shahad.mahdi@ryerson.ca</a>=
+<br></span></div>
+<div style=3D"font-family:Helvetica;font-size:12px;font-style:normal;font-v=
+ariant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;t=
+ext-align:start;text-indent:0px;text-transform:none;white-space:normal;word=
+-spacing:0px;margin:0px">
+<span style=3D"font-family:Helvetica;color:rgb(127,127,127)"><b>Reply-To:<s=
+pan>=C2=A0</span></b></span><span style=3D"font-family:Helvetica">Fossil &l=
+t;<a href=3D"mailto:eServices@shop.fossil.com" target=3D"_blank">eServices@=
+shop.fossil.com</a>&gt;<br>
+</span></div><br style=3D"font-family:Helvetica;font-size:12px;font-style:n=
+ormal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-hei=
+ght:normal;text-align:start;text-indent:0px;text-transform:none;white-space=
+:normal;word-spacing:0px">
+<br style=3D"font-family:Helvetica;font-size:12px;font-style:normal;font-va=
+riant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;te=
+xt-align:start;text-indent:0px;text-transform:none;white-space:normal;word-=
+spacing:0px">
+</div><table bgcolor=3D"#FFFFFF" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" align=3D"center" style=3D"letter-spacing:normal;text-indent:0px;text=
+-transform:none;word-spacing:0px;background-color:rgb(255,255,255);font-fam=
+ily:Helvetica,Arial,sans-serif;padding-left:75px;padding-right:75px">
+<tbody><tr><td><table align=3D"center" bgcolor=3D"#ffffff" border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" width=3D"640"><tbody><tr><td align=3D"cent=
+er" bgcolor=3D"#ffffff" width=3D"640"><table border=3D"0" cellspacing=3D"0"=
+ cellpadding=3D"0"><tbody><tr>
+<td width=3D"15" height=3D"30"></td><td bgcolor=3D"#ffffff" height=3D"30" w=
+idth=3D"625" align=3D"left" valign=3D"middle" style=3D"font-family:Arial,He=
+lvetica,sans-serif;font-size:9px;color:rgb(45,45,45)">=C2=A0</td></tr></tbo=
+dy></table></td></tr>
+<tr><td bgcolor=3D"#ffffff" width=3D"640" height=3D"95"><table bgcolor=3D"#=
+ffffff" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"640"><tbo=
+dy><tr><td width=3D"125" height=3D"95"><a href=3D"https://email.rsys5.net/p=
+ub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGnkzcToqvqzbHjERfPiDwKW3kN3RAau7zf1LnzaV=
+XtpKX%3DTTSUY&amp;_ei_=3DEolaGGF4SNMvxFF7KucKuWMAS_QdO3PVtiO7MP8N7fRQX7dNfb=
+Q5-SZvrUAzFSUb8eYUVli2GqwkPK4wKLCMbPqvFPzCK-B-6RKgIkCKFg." style=3D"outline=
+:none" target=3D"_blank"><img src=3D"https://responsys.hs.llnwd.net/i5/resp=
+onsysimages/fossil/contentlibrary/fossil/adminonly/templates/ereceipt/heade=
+r/fos_ca/eReceiptHeader_FOS_CA/images/FOS_logo.gif" width=3D"125" height=3D=
+"95" alt=3D"Shop All Fossil" title=3D"Shop All Fossil" style=3D"display:blo=
+ck;outline:none;border:0px"></a></td>
+<td width=3D"93" height=3D"95"><a href=3D"http://www.fossil.com/en_US/shop/=
+women.html?" style=3D"outline:none" target=3D"_blank"><img src=3D"https://r=
+esponsys.hs.llnwd.net/i5/responsysimages/fossil/contentlibrary/fossil/admin=
+only/templates/ereceipt/header/fos_ca/eReceiptHeader_FOS_CA/images/women.gi=
+f" width=3D"93" height=3D"95" alt=3D"Women" title=3D"Women" style=3D"displa=
+y:block;outline:none;border:0px"></a></td>
+<td width=3D"65" height=3D"95"><a href=3D"http://www.fossil.com/en_US/shop/=
+men.html?" style=3D"outline:none" target=3D"_blank"><img src=3D"https://res=
+ponsys.hs.llnwd.net/i5/responsysimages/fossil/contentlibrary/fossil/adminon=
+ly/templates/ereceipt/header/fos_ca/eReceiptHeader_FOS_CA/images/men.gif" w=
+idth=3D"65" height=3D"95" alt=3D"Men" title=3D"Men" style=3D"display:block;=
+outline:none;border:0px"></a></td>
+<td width=3D"101" height=3D"95"><a href=3D"https://email.rsys5.net/pub/cc?_=
+ri_=3DX0Gzc2X%3DWQpglLjHJlYQGnkzcToqvqzbHjERfPiDwKW3kN3RAau7zf1LnzaVXtpKX%3=
+DTTSYY&amp;_ei_=3DEolaGGF4SNMvxFF7KucKuWMAS_QdO3PVtiO7MP8N7fRQX7dNfbQ5-SZvr=
+UAzFSUb8eYUVli2GqwkPK4wKLCMbPqvFPzCK-B-6RKgIkCKFg." style=3D"outline:none" =
+target=3D"_blank"><img src=3D"https://responsys.hs.llnwd.net/i5/responsysim=
+ages/fossil/contentlibrary/fossil/adminonly/templates/ereceipt/header/fos_c=
+a/eReceiptHeader_FOS_CA/images/watches.gif" width=3D"101" height=3D"95" alt=
+=3D"Watches" title=3D"Watches" style=3D"display:block;outline:none;border:0=
+px"></a></td>
+<td width=3D"79" height=3D"95"><a href=3D"https://email.rsys5.net/pub/cc?_r=
+i_=3DX0Gzc2X%3DWQpglLjHJlYQGnkzcToqvqzbHjERfPiDwKW3kN3RAau7zf1LnzaVXtpKX%3D=
+TTSBY&amp;_ei_=3DEolaGGF4SNMvxFF7KucKuWMAS_QdO3PVtiO7MP8N7fRQX7dNfbQ5-SZvrU=
+AzFSUb8eYUVli2GqwkPK4wKLCMbPqvFPzCK-B-6RKgIkCKFg." style=3D"outline:none" t=
+arget=3D"_blank"><img src=3D"https://responsys.hs.llnwd.net/i5/responsysima=
+ges/fossil/contentlibrary/fossil/adminonly/templates/ereceipt/header/fos_ca=
+/eReceiptHeader_FOS_CA/images/bags.gif" width=3D"79" height=3D"95" alt=3D"B=
+ags" title=3D"Bags" style=3D"display:block;outline:none;border:0px"></a></t=
+d>
+<td width=3D"97" height=3D"95"><a href=3D"http://www.fossil.com/webapp/wcs/=
+stores/servlet/ContentView?langId=3D-1&amp;storeId=3D12052&amp;catalogId=3D=
+25005&amp;page=3Djewelry_landing" style=3D"outline:none" target=3D"_blank">=
+<img src=3D"https://responsys.hs.llnwd.net/i5/responsysimages/fossil/conten=
+tlibrary/fossil/adminonly/templates/ereceipt/header/fos_ca/eReceiptHeader_F=
+OS_CA/images/jewelry.gif" width=3D"97" height=3D"95" alt=3D"Jewelry" title=
+=3D"Jewelry" style=3D"display:block;outline:none;border:0px"></a></td>
+<td width=3D"80" height=3D"95" bgcolor=3D"#FFFFFF">=C2=A0</td></tr></tbody>=
+</table></td></tr><tr><td bgcolor=3D"#226673" width=3D"640" height=3D"90" s=
+tyle=3D"font-family:Tahoma,Arial,Helvetica,sans-serif;font-size:13px;font-w=
+eight:300;color:rgb(255,255,255);text-align:center">
+<span style=3D"font-size:20px;font-weight:300">Join the Fossil Community</s=
+pan><br>By joining our community, you&#39;ll receive emails with early acce=
+ss to new collections,<br>a first look at our favorite gifts and most impor=
+tantly, sales and promotions!</td>
+</tr><tr><td bgcolor=3D"#226673" width=3D"640" height=3D"44" valign=3D"top"=
+ style=3D"text-align:center"><a href=3D"https://email.rsys5.net/pub/sf/Resp=
+onseForm?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGpgzdssGCJjoWRzgbbzbpmf5g7v0zcrTVXMtX=
+%3DWQpglLjHJlYQGhr5Knt6w46BzcBT6gOMAjm7E0Ooze&amp;_ei_=3DEr1dKJ9xzWM_i9drin=
+TCo8o" style=3D"outline:none" target=3D"_blank"><img name=3D"147400a846d6ea=
+79_signup" src=3D"https://responsys.hs.llnwd.net/i5/responsysimages/fossil/=
+contentlibrary/fossil/adminonly/templates/ereceipt/header/fos_ca/eReceiptHe=
+ader_FOS_CA/images/signup_btn.gif" width=3D"128" height=3D"25" alt=3D"Sign =
+Up Now" title=3D"Sign Up Now" style=3D"border:0px"></a></td>
+</tr></tbody></table><table align=3D"center" bgcolor=3D"#ffffff" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"640" style=3D"border-left-width:1px;bord=
+er-left-style:solid;border-left-color:rgb(153,153,153);border-right-width:1=
+px;border-right-style:solid;border-right-color:rgb(153,153,153)">
+<tbody><tr><td bgcolor=3D"#ffffff" width=3D"640" height=3D"20">=C2=A0</td><=
+/tr></tbody></table></td></tr><tr><td><div class=3D""><table align=3D"cente=
+r" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"640" style=3D"=
+border-left-width:1px;border-left-style:solid;border-left-color:rgb(153,153=
+,153);border-right-width:1px;border-right-style:solid;border-right-color:rg=
+b(153,153,153)">
+<tbody><tr><td align=3D"center" width=3D"275" style=3D"font-family:Arial,He=
+lvetica,sans-serif;font-size:13px"><p style=3D"margin-top:5px;margin-bottom=
+:5px">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0Y=C2=A0o=C2=A0r=C2=A0k=C2=
+=A0d=C2=A0a=C2=A0l=C2=A0e=C2=A0=C2=A0=C2=A0#=C2=A05=C2=A09=C2=A00=C2=A01=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0</p></td></tr></tbody></table>=
+<table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" wi=
+dth=3D"640" style=3D"border-left-width:1px;border-left-style:solid;border-l=
+eft-color:rgb(153,153,153);border-right-width:1px;border-right-style:solid;=
+border-right-color:rgb(153,153,153)">
+<tbody><tr><td align=3D"center" width=3D"275" style=3D"font-family:Arial,He=
+lvetica,sans-serif;font-size:13px"><p style=3D"margin-top:5px;margin-bottom=
+:5px">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A03401=C2=A0Dufferin=C2=
+=A0St.=C2=A0Unit=C2=A0#97=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0</=
+p></td></tr></tbody></table><table align=3D"center" border=3D"0" cellspacin=
+g=3D"0" cellpadding=3D"0" width=3D"640" style=3D"border-left-width:1px;bord=
+er-left-style:solid;border-left-color:rgb(153,153,153);border-right-width:1=
+px;border-right-style:solid;border-right-color:rgb(153,153,153)">
+<tbody><tr><td align=3D"center" width=3D"275" style=3D"font-family:Arial,He=
+lvetica,sans-serif;font-size:13px"><p style=3D"margin-top:5px;margin-bottom=
+:5px">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0North=C2=A0York=
+,=C2=A0ON=C2=A0=C2=A0M6A=C2=A02T9=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0</p></td></tr></tbody></table><table align=3D"center" bor=
+der=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"640" style=3D"border=
+-left-width:1px;border-left-style:solid;border-left-color:rgb(153,153,153);=
+border-right-width:1px;border-right-style:solid;border-right-color:rgb(153,=
+153,153)">
+<tbody><tr><td align=3D"center" width=3D"275" style=3D"font-family:Arial,He=
+lvetica,sans-serif;font-size:13px"><p style=3D"margin-top:5px;margin-bottom=
+:5px">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0<a href=3D"tel:%28416%29%C2%A0781-9826" value=3D"+1416781982=
+6" target=3D"_blank">(416)=C2=A0781-9826</a>=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0</p>
+</td></tr></tbody></table><table align=3D"center" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" width=3D"640" style=3D"border-left-width:1px;borde=
+r-left-style:solid;border-left-color:rgb(153,153,153);border-right-width:1p=
+x;border-right-style:solid;border-right-color:rgb(153,153,153)">
+<tbody><tr><td align=3D"center" width=3D"275" style=3D"font-family:Arial,He=
+lvetica,sans-serif;font-size:13px"><div style=3D"margin-top:5px;margin-bott=
+om:5px">=C2=A0<br></div></td></tr></tbody></table></div><table align=3D"cen=
+ter" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"640" style=
+=3D"border-left-width:1px;border-left-style:solid;border-left-color:rgb(153=
+,153,153);border-right-width:1px;border-right-style:solid;border-right-colo=
+r:rgb(153,153,153)">
+<tbody><tr><td align=3D"center" width=3D"275" style=3D"font-family:Arial,He=
+lvetica,sans-serif;font-size:13px"><p style=3D"margin-top:5px;margin-bottom=
+:5px">HALE=C2=A0SLM=C2=A0CC=C2=A0FPW=C2=A0=C2=A0=C2=A0DA=C2=A0762346291503=
+=C2=A0=C2=A036.00=C2=A0H</p></td></tr></tbody></table><div class=3D"">
+<table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" wi=
+dth=3D"640" style=3D"border-left-width:1px;border-left-style:solid;border-l=
+eft-color:rgb(153,153,153);border-right-width:1px;border-right-style:solid;=
+border-right-color:rgb(153,153,153)">
+<tbody><tr><td align=3D"center" width=3D"275" style=3D"font-family:Arial,He=
+lvetica,sans-serif;font-size:13px"><div style=3D"margin-top:5px;margin-bott=
+om:5px">=C2=A0<br></div></td></tr></tbody></table><table align=3D"center" b=
+order=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"640" style=3D"bord=
+er-left-width:1px;border-left-style:solid;border-left-color:rgb(153,153,153=
+);border-right-width:1px;border-right-style:solid;border-right-color:rgb(15=
+3,153,153)">
+<tbody><tr><td align=3D"center" width=3D"275" style=3D"font-family:Arial,He=
+lvetica,sans-serif;font-size:13px"><p style=3D"margin-top:5px;margin-bottom=
+:5px">SUBTOTAL=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0$36.00=C2=A0</p></td></tr></tbody></table><table=
+ align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D=
+"640" style=3D"border-left-width:1px;border-left-style:solid;border-left-co=
+lor:rgb(153,153,153);border-right-width:1px;border-right-style:solid;border=
+-right-color:rgb(153,153,153)">
+<tbody><tr><td align=3D"center" width=3D"275" style=3D"font-family:Arial,He=
+lvetica,sans-serif;font-size:13px"><p style=3D"margin-top:5px;margin-bottom=
+:5px">HST=C2=A013%=C2=A0RT865495485=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0$4.68=C2=A0<=
+/p></td></tr></tbody></table><table align=3D"center" border=3D"0" cellspaci=
+ng=3D"0" cellpadding=3D"0" width=3D"640" style=3D"border-left-width:1px;bor=
+der-left-style:solid;border-left-color:rgb(153,153,153);border-right-width:=
+1px;border-right-style:solid;border-right-color:rgb(153,153,153)">
+<tbody><tr><td align=3D"center" width=3D"275" style=3D"font-family:Arial,He=
+lvetica,sans-serif;font-size:13px"><p style=3D"margin-top:5px;margin-bottom=
+:5px">T=C2=A0O=C2=A0T=C2=A0A=C2=A0L=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0$40.68=C2=A0</p></td></tr></tbody=
+></table></div>
+<table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" wi=
+dth=3D"640" style=3D"border-left-width:1px;border-left-style:solid;border-l=
+eft-color:rgb(153,153,153);border-right-width:1px;border-right-style:solid;=
+border-right-color:rgb(153,153,153)">
+<tbody><tr><td align=3D"center" width=3D"275" style=3D"font-family:Arial,He=
+lvetica,sans-serif;font-size:13px"><p style=3D"margin-top:5px;margin-bottom=
+:5px">C=C2=A0A=C2=A0S=C2=A0H=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0$50.00=C2=A0</p></td></tr><=
+/tbody></table><table align=3D"center" border=3D"0" cellspacing=3D"0" cellp=
+adding=3D"0" width=3D"640" style=3D"border-left-width:1px;border-left-style=
+:solid;border-left-color:rgb(153,153,153);border-right-width:1px;border-rig=
+ht-style:solid;border-right-color:rgb(153,153,153)">
+<tbody><tr><td align=3D"center" width=3D"275" style=3D"font-family:Arial,He=
+lvetica,sans-serif;font-size:13px"><p style=3D"margin-top:5px;margin-bottom=
+:5px">ROUNDED=C2=A0AMOUNT=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0$0.02=C2=A0</p></td></tr></tbody></table><table align=3D"center" b=
+order=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"640" style=3D"bord=
+er-left-width:1px;border-left-style:solid;border-left-color:rgb(153,153,153=
+);border-right-width:1px;border-right-style:solid;border-right-color:rgb(15=
+3,153,153)">
+<tbody><tr><td align=3D"center" width=3D"275" style=3D"font-family:Arial,He=
+lvetica,sans-serif;font-size:13px"><p style=3D"margin-top:5px;margin-bottom=
+:5px">CHANGE=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0$9.30=C2=A0</p></td></tr></tbody>=
+</table><table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"640" style=3D"border-left-width:1px;border-left-style:solid=
+;border-left-color:rgb(153,153,153);border-right-width:1px;border-right-sty=
+le:solid;border-right-color:rgb(153,153,153)">
+<tbody><tr><td align=3D"center" width=3D"275" style=3D"font-family:Arial,He=
+lvetica,sans-serif;font-size:13px"><div style=3D"margin-top:5px;margin-bott=
+om:5px"><br></div></td></tr></tbody></table><table align=3D"center" border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"640" style=3D"border-le=
+ft-width:1px;border-left-style:solid;border-left-color:rgb(153,153,153);bor=
+der-right-width:1px;border-right-style:solid;border-right-color:rgb(153,153=
+,153)">
+<tbody><tr><td align=3D"center" width=3D"275" style=3D"font-family:Arial,He=
+lvetica,sans-serif;font-size:13px"><div style=3D"margin-top:5px;margin-bott=
+om:5px">=C2=A0<br></div></td></tr></tbody></table><table align=3D"center" b=
+order=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"640" style=3D"bord=
+er-left-width:1px;border-left-style:solid;border-left-color:rgb(153,153,153=
+);border-right-width:1px;border-right-style:solid;border-right-color:rgb(15=
+3,153,153)">
+<tbody><tr><td align=3D"center" width=3D"275" style=3D"font-family:Arial,He=
+lvetica,sans-serif;font-size:13px"><p class=3D"MsoNormal" style=3D"text-ali=
+gn:center;margin-top:5px;margin-bottom:5px"><img alt=3D"" border=3D"0" heig=
+ht=3D"77" width=3D"178" src=3D"http://email.rsys5.net/bca/z/image?bh=3D1&am=
+p;bc=3D985901020411799289162343" style=3D"display:block;margin:0px auto"></=
+p>
+</td></tr></tbody></table><table align=3D"center" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" width=3D"640" style=3D"border-left-width:1px;borde=
+r-left-style:solid;border-left-color:rgb(153,153,153);border-right-width:1p=
+x;border-right-style:solid;border-right-color:rgb(153,153,153)">
+<tbody><tr><td align=3D"center" width=3D"275" style=3D"font-family:Arial,He=
+lvetica,sans-serif;font-size:13px"><div style=3D"margin-top:5px;margin-bott=
+om:5px">=C2=A0<br></div></td></tr></tbody></table><table align=3D"center" b=
+order=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"640" style=3D"bord=
+er-left-width:1px;border-left-style:solid;border-left-color:rgb(153,153,153=
+);border-right-width:1px;border-right-style:solid;border-right-color:rgb(15=
+3,153,153)">
+<tbody><tr><td align=3D"center" width=3D"275" style=3D"font-family:Arial,He=
+lvetica,sans-serif;font-size:13px"><p style=3D"margin-top:5px;margin-bottom=
+:5px">ITEMS=C2=A01=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0</p></td></tr></tbody></table><table align=3D"center" border=3D"0" cells=
+pacing=3D"0" cellpadding=3D"0" width=3D"640" style=3D"border-left-width:1px=
+;border-left-style:solid;border-left-color:rgb(153,153,153);border-right-wi=
+dth:1px;border-right-style:solid;border-right-color:rgb(153,153,153)">
+<tbody><tr><td align=3D"center" width=3D"275" style=3D"font-family:Arial,He=
+lvetica,sans-serif;font-size:13px"><p style=3D"margin-top:5px;margin-bottom=
+:5px">13-06-14=C2=A0=C2=A012:29:40=C2=A0=C2=A0=C2=A05901=C2=A002=C2=A041179=
+=C2=A09289</p></td></tr></tbody></table><table align=3D"center" border=3D"0=
+" cellspacing=3D"0" cellpadding=3D"0" width=3D"640" style=3D"border-left-wi=
+dth:1px;border-left-style:solid;border-left-color:rgb(153,153,153);border-r=
+ight-width:1px;border-right-style:solid;border-right-color:rgb(153,153,153)=
+">
+<tbody><tr><td align=3D"center" width=3D"275" style=3D"font-family:Arial,He=
+lvetica,sans-serif;font-size:13px"><div style=3D"margin-top:5px;margin-bott=
+om:5px">=C2=A0<br></div></td></tr></tbody></table><table align=3D"center" b=
+order=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"640" style=3D"bord=
+er-left-width:1px;border-left-style:solid;border-left-color:rgb(153,153,153=
+);border-right-width:1px;border-right-style:solid;border-right-color:rgb(15=
+3,153,153)">
+<tbody><tr><td align=3D"center" width=3D"275" style=3D"font-family:Arial,He=
+lvetica,sans-serif;font-size:13px"><p style=3D"margin-top:5px;margin-bottom=
+:5px">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0Long=C2=A0Live=C2=A0Vintage.=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0</p></td></tr></tbody></table><table align=3D=
+"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"640" sty=
+le=3D"border-left-width:1px;border-left-style:solid;border-left-color:rgb(1=
+53,153,153);border-right-width:1px;border-right-style:solid;border-right-co=
+lor:rgb(153,153,153)">
+<tbody><tr><td align=3D"center" width=3D"275" style=3D"font-family:Arial,He=
+lvetica,sans-serif;font-size:13px"><div style=3D"margin-top:5px;margin-bott=
+om:5px">=C2=A0<br></div></td></tr></tbody></table><table align=3D"center" b=
+order=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"640" style=3D"bord=
+er-left-width:1px;border-left-style:solid;border-left-color:rgb(153,153,153=
+);border-right-width:1px;border-right-style:solid;border-right-color:rgb(15=
+3,153,153)">
+<tbody><tr><td align=3D"center" width=3D"275" style=3D"font-family:Arial,He=
+lvetica,sans-serif;font-size:13px"><div style=3D"margin-top:5px;margin-bott=
+om:5px">=C2=A0<br></div></td></tr></tbody></table><table align=3D"center" b=
+order=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"640" style=3D"bord=
+er-left-width:1px;border-left-style:solid;border-left-color:rgb(153,153,153=
+);border-right-width:1px;border-right-style:solid;border-right-color:rgb(15=
+3,153,153)">
+<tbody><tr><td align=3D"center" width=3D"275" style=3D"font-family:Arial,He=
+lvetica,sans-serif;font-size:13px"><div style=3D"margin-top:5px;margin-bott=
+om:5px">=C2=A0<br></div></td></tr></tbody></table><table align=3D"center" b=
+order=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"640" style=3D"bord=
+er-left-width:1px;border-left-style:solid;border-left-color:rgb(153,153,153=
+);border-right-width:1px;border-right-style:solid;border-right-color:rgb(15=
+3,153,153)">
+<tbody><tr><td align=3D"center" width=3D"275" style=3D"font-family:Arial,He=
+lvetica,sans-serif;font-size:13px"><div style=3D"margin-top:5px;margin-bott=
+om:5px">=C2=A0<br></div></td></tr></tbody></table><table align=3D"center" b=
+order=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"640" style=3D"bord=
+er-left-width:1px;border-left-style:solid;border-left-color:rgb(153,153,153=
+);border-right-width:1px;border-right-style:solid;border-right-color:rgb(15=
+3,153,153)">
+<tbody><tr><td align=3D"center" width=3D"275" style=3D"font-family:Arial,He=
+lvetica,sans-serif;font-size:13px"><div style=3D"margin-top:5px;margin-bott=
+om:5px">=C2=A0<br></div></td></tr></tbody></table></td></tr><tr><td><table =
+width=3D"485" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"cen=
+ter">
+</table><table align=3D"center" bgcolor=3D"#ffffff" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"640" style=3D"border-left-width:1px;bord=
+er-left-style:solid;border-left-color:rgb(153,153,153);border-right-width:1=
+px;border-right-style:solid;border-right-color:rgb(153,153,153);border-bott=
+om-width:1px;border-bottom-style:solid;border-bottom-color:rgb(153,153,153)=
+">
+<tbody><tr><td bgcolor=3D"#ffffff" width=3D"638" height=3D"20">=C2=A0</td><=
+/tr></tbody></table><table align=3D"center" bgcolor=3D"#ffffff" border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" width=3D"640"><tbody><tr><td bgcolor=
+=3D"#ffffff" height=3D"15" width=3D"640">
+=C2=A0</td></tr><tr><td><table bgcolor=3D"#ffffff" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"640"><tbody><tr><td bgcolor=3D"#ffffff" w=
+idth=3D"229" height=3D"20">=C2=A0</td><td width=3D"22" height=3D"20"><a hre=
+f=3D"https://email.rsys5.net/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGnkzcToqvq=
+zbHjERfPiDwKW3kN3RAau7zf1LnzaVXtpKX%3DTTSDY&amp;_ei_=3DEolaGGF4SNMvxFF7KucK=
+uWMAS_QdO3PVtiO7MP8N7fRQX7dNfbQ5-SZvrUAzFSUb8eYUVli2GqwkPK4wKLCMbPqvFPzCK-B=
+-6RKgIkCKFg." style=3D"outline:none" target=3D"_blank"><img src=3D"https://=
+responsys.hs.llnwd.net/i5/responsysimages/fossil/contentlibrary/fossil/admi=
+nonly/templates/ereceipt/footer/fos_ca/eReceiptFooter_FOS_CA/images/faceboo=
+k.gif" width=3D"22" height=3D"20" alt=3D"Facebook" title=3D"Facebook" style=
+=3D"display:block;outline:none;border:0px"></a></td>
+<td width=3D"28" height=3D"20"><a href=3D"https://email.rsys5.net/pub/cc?_r=
+i_=3DX0Gzc2X%3DWQpglLjHJlYQGnkzcToqvqzbHjERfPiDwKW3kN3RAau7zf1LnzaVXtpKX%3D=
+TTTSY&amp;_ei_=3DEolaGGF4SNMvxFF7KucKuWMAS_QdO3PVtiO7MP8N7fRQX7dNfbQ5-SZvrU=
+AzFSUb8eYUVli2GqwkPK4wKLCMbPqvFPzCK-B-6RKgIkCKFg." style=3D"outline:none" t=
+arget=3D"_blank"><img src=3D"https://responsys.hs.llnwd.net/i5/responsysima=
+ges/fossil/contentlibrary/fossil/adminonly/templates/ereceipt/footer/fos_ca=
+/eReceiptFooter_FOS_CA/images/twitter.gif" width=3D"28" height=3D"20" alt=
+=3D"Twitter" title=3D"Twitter" style=3D"display:block;outline:none;border:0=
+px"></a></td>
+<td width=3D"36" height=3D"20"><a href=3D"https://email.rsys5.net/pub/cc?_r=
+i_=3DX0Gzc2X%3DWQpglLjHJlYQGnkzcToqvqzbHjERfPiDwKW3kN3RAau7zf1LnzaVXtpKX%3D=
+TTTUY&amp;_ei_=3DEolaGGF4SNMvxFF7KucKuWMAS_QdO3PVtiO7MP8N7fRQX7dNfbQ5-SZvrU=
+AzFSUb8eYUVli2GqwkPK4wKLCMbPqvFPzCK-B-6RKgIkCKFg." style=3D"outline:none" t=
+arget=3D"_blank"><img src=3D"https://responsys.hs.llnwd.net/i5/responsysima=
+ges/fossil/contentlibrary/fossil/adminonly/templates/ereceipt/footer/fos_ca=
+/eReceiptFooter_FOS_CA/images/youtube.gif" width=3D"36" height=3D"20" alt=
+=3D"YouTube" title=3D"YouTube" style=3D"display:block;outline:none;border:0=
+px"></a></td>
+<td width=3D"30" height=3D"20"><a href=3D"https://email.rsys5.net/pub/cc?_r=
+i_=3DX0Gzc2X%3DWQpglLjHJlYQGnkzcToqvqzbHjERfPiDwKW3kN3RAau7zf1LnzaVXtpKX%3D=
+TTTYY&amp;_ei_=3DEolaGGF4SNMvxFF7KucKuWMAS_QdO3PVtiO7MP8N7fRQX7dNfbQ5-SZvrU=
+AzFSUb8eYUVli2GqwkPK4wKLCMbPqvFPzCK-B-6RKgIkCKFg." style=3D"outline:none" t=
+arget=3D"_blank"><img src=3D"https://responsys.hs.llnwd.net/i5/responsysima=
+ges/fossil/contentlibrary/fossil/adminonly/templates/ereceipt/footer/fos_ca=
+/eReceiptFooter_FOS_CA/images/pinterest.gif" width=3D"30" height=3D"20" alt=
+=3D"Pinterest" title=3D"Pinterest" style=3D"display:block;outline:none;bord=
+er:0px"></a></td>
+<td width=3D"18" height=3D"20"><a href=3D"http://fossil.tumblr.com/?" style=
+=3D"outline:none" target=3D"_blank"><img src=3D"https://responsys.hs.llnwd.=
+net/i5/responsysimages/fossil/contentlibrary/fossil/adminonly/templates/ere=
+ceipt/footer/fos_ca/eReceiptFooter_FOS_CA/images/tumblr.gif" width=3D"18" h=
+eight=3D"20" alt=3D"Tumblr" title=3D"Tumblr" style=3D"display:block;outline=
+:none;border:0px"></a></td>
+<td width=3D"50" height=3D"20"><a href=3D"https://email.rsys5.net/pub/cc?_r=
+i_=3DX0Gzc2X%3DWQpglLjHJlYQGnkzcToqvqzbHjERfPiDwKW3kN3RAau7zf1LnzaVXtpKX%3D=
+TTTBY&amp;_ei_=3DEolaGGF4SNMvxFF7KucKuWMAS_QdO3PVtiO7MP8N7fRQX7dNfbQ5-SZvrU=
+AzFSUb8eYUVli2GqwkPK4wKLCMbPqvFPzCK-B-6RKgIkCKFg." style=3D"outline:none" t=
+arget=3D"_blank"><img src=3D"https://responsys.hs.llnwd.net/i5/responsysima=
+ges/fossil/contentlibrary/fossil/adminonly/templates/ereceipt/footer/fos_ca=
+/eReceiptFooter_FOS_CA/images/blog.gif" width=3D"50" height=3D"20" alt=3D"B=
+log" title=3D"Blog" style=3D"display:block;outline:none;border:0px"></a></t=
+d>
+<td bgcolor=3D"#ffffff" width=3D"227" height=3D"20">=C2=A0</td></tr></tbody=
+></table></td></tr><tr><td bgcolor=3D"#ffffff" height=3D"23" width=3D"640">=
+=C2=A0</td></tr></tbody></table></td></tr></tbody></table><div class=3D""><=
+table align=3D"center" bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"640" style=3D"font-family:Helvetica;letter-spacin=
+g:normal;text-indent:0px;text-transform:none;word-spacing:0px;background-co=
+lor:rgb(255,255,255)">
+<tbody><tr><td colspan=3D"2" bgcolor=3D"#FFFFFF" width=3D"640" height=3D"20=
+"></td></tr><tr><td colspan=3D"2" align=3D"center" valign=3D"top" bgcolor=
+=3D"#FFFFFF" style=3D"font-family:Arial,Helvetica,sans-serif;font-size:11px=
+;color:rgb(163,152,134)">
+<span>This email was sent to <a href=3D"mailto:shahad.mahdi@ryerson.ca" tar=
+get=3D"_blank">shahad.mahdi@ryerson.ca</a>. To unsubscribe,<span>=C2=A0</sp=
+an><a href=3D"https://email.rsys5.net/pub/sf/ResponseForm?_ri_=3DX0Gzc2X%3D=
+WQpglLjHJlYQGsTEqUuvd7Jm8qiSql97AY7BzbDzgzfVXMtX%3DWQpglLjHJlYQGoF3kJUKwGuN=
+zfhrYutjXbT6GJlXk&amp;_ei_=3DEri4yMoK5YCKYGhSxjSkH7c" style=3D"color:rgb(15=
+8,156,157)" target=3D"_blank">click here</a>.<br>
+Fossil respects the privacy of its customers. To view our privacy policy, p=
+lease<span>=C2=A0</span><a href=3D"https://responsys.hs.llnwd.net/i5/respon=
+sysimages/content/fossil/canada_privacy_en.html" style=3D"color:rgb(165,163=
+,164)" target=3D"_blank">click here</a>.<br>
+Shop Fossil in person! Visit us at<span>=C2=A0</span><a href=3D"https://ema=
+il.rsys5.net/pub/cc?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGnkzcToqvqzbHjERfPiDwKW3kN=
+3RAau7zf1LnzaVXtpKX%3DTTUSY&amp;_ei_=3DEolaGGF4SNMvxFF7KucKuWMAS_QdO3PVtiO7=
+MP8N7fRQX7dNfbQ5-SZvrUAzFSUb8eYUVli2GqwkPK4wKLCMbPqvFPzCK-B-6RKgIkCKFg." st=
+yle=3D"color:rgb(163,161,162)" target=3D"_blank">storelocator.fossil.com</a=
+>.<br>
+<br>Fossil Direct<br>Customer Care: <a href=3D"tel:1-800-449-3056" value=3D=
+"+18004493056" target=3D"_blank">1-800-449-3056</a><br>901 S. Central Expre=
+ssway, Richardson, TX 75080<br><br>=C2=A9 2014 Fossil, Inc. All rights rese=
+rved.</span></td>
+</tr><tr><td colspan=3D"2" bgcolor=3D"#FFFFFF" width=3D"640" height=3D"20">=
+</td></tr></tbody></table><br style=3D"font-family:Helvetica;font-size:12px=
+;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:no=
+rmal;line-height:normal;text-align:start;text-indent:0px;text-transform:non=
+e;white-space:normal;word-spacing:0px">
+<img border=3D"0" width=3D"3" height=3D"3" src=3D"https://email.rsys5.net/p=
+ub/as?_ri_=3DX0Gzc2X%3DWQpglLjHJlYQGnkzcToqvqzbHjERfPiDwKW3kN3RAau7zf1LnzaV=
+XHkMX%3Dw&amp;_ei_=3DEolaGGF4SNMvxFF7KucKuWMAS_QdO3PVtiO7MP8N7fRQX7dNfbQ5-S=
+ZvrUAzFSUb8eYUVli2GqwkPK4wKLCMbPqvFPzCK-B-6RKgIkCKFg." style=3D"font-family=
+:Helvetica;font-size:12px;font-style:normal;font-variant:normal;font-weight=
+:normal;letter-spacing:normal;line-height:normal;text-align:start;text-inde=
+nt:0px;text-transform:none;white-space:normal;word-spacing:0px"><span style=
+=3D"font-family:Helvetica;font-size:12px;font-style:normal;font-variant:nor=
+mal;font-weight:normal;letter-spacing:normal;line-height:normal;text-align:=
+start;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0=
+px;background-color:rgb(255,255,255);float:none;display:inline!important"><=
+span>=C2=A0</span></span><br style=3D"font-family:Helvetica;font-size:12px;=
+font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:nor=
+mal;line-height:normal;text-align:start;text-indent:0px;text-transform:none=
+;white-space:normal;word-spacing:0px">
+<img border=3D"0" width=3D"3" height=3D"3" src=3D"http://ib.adnxs.com/getui=
+d?http://a.adrsp.net/dsp/ci/2/EdGtP3ETQsjuvvWZh3TwK51Rnu6xnY7aoOlWfiQZOX0H5=
+bz2L0v9O32V51fjTYeQhtRW2rJN8P1YmJC9Bw/%24UID" style=3D"font-family:Helvetic=
+a;font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;l=
+etter-spacing:normal;line-height:normal;text-align:start;text-indent:0px;te=
+xt-transform:none;white-space:normal;word-spacing:0px"><span style=3D"font-=
+family:Helvetica;font-size:12px;font-style:normal;font-variant:normal;font-=
+weight:normal;letter-spacing:normal;line-height:normal;text-align:start;tex=
+t-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;backgr=
+ound-color:rgb(255,255,255);float:none;display:inline!important"><span>=C2=
+=A0</span></span><br style=3D"font-family:Helvetica;font-size:12px;font-sty=
+le:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line=
+-height:normal;text-align:start;text-indent:0px;text-transform:none;white-s=
+pace:normal;word-spacing:0px">
+<br style=3D"font-family:Helvetica;font-size:12px;font-style:normal;font-va=
+riant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;te=
+xt-align:start;text-indent:0px;text-transform:none;white-space:normal;word-=
+spacing:0px">
+</div></div></blockquote></div><br></div></div><br></div>
+
+--bcaec51d2a34b6e02105000e7292--
+.

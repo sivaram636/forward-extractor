@@ -1,0 +1,124 @@
+Authentication-Results: apiserver;
+Received: from mail-ob0-f175.google.com ([10.183.253.48])
+	by apiserver (Haraka/2.5.0) with ESMTP id 232434DE-46C4-4CC2-A1F9-99CBB4BACFA6.1
+	envelope-from <johnny.patterson@gmail.com>;
+	Sun, 13 Jul 2014 08:34:38 +0000
+Received: by mail-ob0-f175.google.com with SMTP id wp18so2980601obc.20
+        for <jp@billpass.ca>; Sun, 13 Jul 2014 01:34:56 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        bh=rwIDjI8WCrYPmk0kiZuU7qDA8urjiRdL0sVaZ5eUGKU=;
+        b=AymzeBJI+7L7OPFWhOxnetTOQHiM31vrg1SjnXdD3eEZ5w9Y7/ugyUUjMDO55BEiq/
+         BlsOmA6MqA0R0abGmyKi050qmwclULRU5xzeYFRn4y516rZxQu7SS3LQUpkjjbmFEPck
+         do789NG0zfdEjOek9negSL1M2NRROsVPzUqbaFC1MM58LKtOz8fJRsM/s34mtJ6LZak6
+         7+mmyERBa/GsXF24E9s9oaj20SZzExlpRrgko7SO1oMiwkN1nCfK/CusUYfIWQzdudBK
+         70OXZjIymUkaMENr4op7hA/6WnPVDmMqVT1itSvBbVWjAaSLqaZzyrf9mlV6dY2iKdvH
+         gv/g==
+MIME-Version: 1.0
+X-Received: by 10.182.121.170 with SMTP id ll10mr10563926obb.58.1405240496148;
+ Sun, 13 Jul 2014 01:34:56 -0700 (PDT)
+Received: by 10.76.83.231 with HTTP; Sun, 13 Jul 2014 01:34:54 -0700 (PDT)
+In-Reply-To: <BAY182-W1060B1E21F0F87808E5213AB0C0@phx.gbl>
+References: <4F06F9C6-EC0B-43BC-8332-72944F963F4C@ClubMonaco.com>
+	<BAY182-W1060B1E21F0F87808E5213AB0C0@phx.gbl>
+Date: Sun, 13 Jul 2014 04:34:54 -0400
+Message-ID: <CAO8dce+KJCxxQP2EgsAvgTv1WyPUYTBeac6wY7wmopJrmbNNow@mail.gmail.com>
+Subject: Fwd: FW: Club Monoco Purchase
+From: Johnny Patterson <johnny.patterson@gmail.com>
+To: jp@billpass.ca
+Content-Type: multipart/mixed; boundary=089e01536a5a998cc404fe0f0ca0
+
+--089e01536a5a998cc404fe0f0ca0
+Content-Type: multipart/alternative; boundary=089e01536a5a998cbf04fe0f0c9e
+
+--089e01536a5a998cbf04fe0f0c9e
+Content-Type: text/plain; charset=UTF-8
+
+---------- Forwarded message ----------
+From: Melissa Glassco <mglassc@hotmail.com>
+Date: Tue, Jul 8, 2014 at 5:46 PM
+Subject: FW: Club Monoco Purchase
+To: "johnny.patterson@gmail.com" <johnny.patterson@gmail.com>
+
+
+I do have one! I knew it :)
+Hope this helps,
+Melissa
+
+> From: TorontoEatonCenter1247@ClubMonaco.com
+> To: mglassc@hotmail.com
+> CC: cms01247@ClubMonaco.com
+> Subject: Club Monoco Purchase
+> Date: Fri, 2 May 2014 00:05:46 +0000
+>
+>
+>
+>
+> This message and any attached documents contain information which may be
+confidential, subject to privilege or exempt from disclosure under
+applicable law. These materials are intended only for the use of the
+intended recipient. If you are not the intended recipient of this
+transmission you are hereby notified that any distribution, disclosure,
+printing, copying, storage, modification or the taking of any action in
+reliance upon this transmission is strictly prohibited. Delivery of this
+message to any person other than the intended recipient shall not
+compromise or waive such confidentiality, privilege or exemption from
+disclosure as to this communication. If you have received this
+communication in error, please immediately notify the sender and delete the
+message from your system.
+>
+>
+
+--089e01536a5a998cbf04fe0f0c9e
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><br><br><div class=3D"gmail_quote">---------- Forwarded me=
+ssage ----------<br>From: <b class=3D"gmail_sendername">Melissa Glassco</b>=
+ <span dir=3D"ltr">&lt;<a href=3D"mailto:mglassc@hotmail.com">mglassc@hotma=
+il.com</a>&gt;</span><br>
+Date: Tue, Jul 8, 2014 at 5:46 PM<br>Subject: FW: Club Monoco Purchase<br>T=
+o: &quot;<a href=3D"mailto:johnny.patterson@gmail.com">johnny.patterson@gma=
+il.com</a>&quot; &lt;<a href=3D"mailto:johnny.patterson@gmail.com">johnny.p=
+atterson@gmail.com</a>&gt;<br>
+<br><br>
+
+
+<div><div dir=3D"ltr">I do have one! I knew it :)<br>Hope this helps,<br>Me=
+lissa<br>=C2=A0<br><div>&gt; From: TorontoEatonCenter1247@ClubMonaco.com<br=
+>&gt; To: <a href=3D"mailto:mglassc@hotmail.com" target=3D"_blank">mglassc@=
+hotmail.com</a><br>
+&gt; CC: cms01247@ClubMonaco.com<br>&gt; Subject: Club Monoco Purchase<br>&=
+gt; Date: Fri, 2 May 2014 00:05:46 +0000<br>&gt; <br>&gt; <br>&gt; <br>&gt;=
+ <br>&gt; This message and any attached documents contain information which=
+ may be confidential, subject to privilege or exempt from disclosure under =
+applicable law. These materials are intended only for the use of the intend=
+ed recipient. If you are not the intended recipient of this transmission yo=
+u are hereby notified that any distribution, disclosure, printing, copying,=
+ storage, modification or the taking of any action in reliance upon this tr=
+ansmission is strictly prohibited. Delivery of this message to any person o=
+ther than the intended recipient shall not compromise or waive such confide=
+ntiality, privilege or exemption from disclosure as to this communication. =
+If you have received this communication in error, please immediately notify=
+ the sender and delete the message from your system.<br>
+&gt; <br>&gt; <br></div> 		 	   		  </div></div>
+</div><br></div>
+
+--089e01536a5a998cbf04fe0f0c9e--
+--089e01536a5a998cc404fe0f0ca0
+Content-Type: text/plain; charset=US-ASCII; name="ATT00001.txt"
+Content-Disposition: attachment; filename="ATT00001.txt"
+Content-Transfer-Encoding: base64
+X-Attachment-Id: 91e96a9f99a0010c_0.2
+
+DQoNCg0KTWVuJ3MgU2hvcA0KQ2x1YiBNb25hY28=
+--089e01536a5a998cc404fe0f0ca0
+Content-Type: image/png; name="photo.PNG"
+Content-Disposition: attachment; filename="photo.PNG"
+Content-Transfer-Encoding: base64
+X-Attachment-Id: 91e96a9f99a0010c_0.1
+
+
+--089e01536a5a998cc404fe0f0ca0--

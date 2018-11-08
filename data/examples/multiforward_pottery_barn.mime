@@ -1,0 +1,462 @@
+X-Mailgun-Dkim-Check-Result: Pass
+X-Mailgun-Spf: SoftFail
+X-Mailgun-Sscore: 1.0
+X-Mailgun-Sflag: No
+X-Mailgun-Incoming: Yes
+X-Envelope-From: <izabella@getsensibill.com>
+Received: from mail-vk0-f52.google.com (mail-vk0-f52.google.com [209.85.213.52])
+ by mxa.mailgun.org with ESMTP id 56cb3667.7fdb85f43fb0-in1;
+ Mon, 22 Feb 2016 16:25:11 -0000 (UTC)
+Received: by mail-vk0-f52.google.com with SMTP id e185so134131675vkb.1
+        for <izzy@billpass.ca>; Mon, 22 Feb 2016 08:25:11 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=getsensibill-com.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:references:in-reply-to:from:date:message-id:subject:to
+         :content-type;
+        bh=lfNSkU4YLMrkzVd2K100vJppc6s2K9lbpZRvPx82nbY=;
+        b=Lz7jpmDHYmHPctU9Wlm/tuLQPQXMYnfLonLN/VX8NHehCcMK2Ekvsp3SDA/ca6WLH1
+         EKVgVPuDn+egsVQi5HoFwkVwd/ccOf2Zwgy6kIWuJcdAF56o27rR8tOCceQ/N7SXCkju
+         qyfd8xHmxi6eZO28G4ya1KvhHzATFGUfXvcFwpwJhteEvChMPvJv4fVhYRDXoUFORJ8B
+         9dQrOldPkW04CKmQEjskJrEiMMudR3aWFuc1G2XUo27c6Qq4nYtrZQ26uBm13V0lHyax
+         hWmh8H6E/ipNS1+sJflWU5rgX/wlz74TbN14FveLM0YdGom36R6SvEiOYmZbdnhAIcoq
+         txeg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:references:in-reply-to:from:date
+         :message-id:subject:to:content-type;
+        bh=lfNSkU4YLMrkzVd2K100vJppc6s2K9lbpZRvPx82nbY=;
+        b=YG0ShMnA92DEDFaa87ELXJ/J9O5a4Z6XErtVdCRvKmuESb1JZ6yLu8eAu9Vw1ey9vD
+         PefIUZFzh3XlBUoSzWtocxFZnPtY/2AMDFgHcc+60mHUKpqcKkglZxO7hxtntGTX92nK
+         zDZ9KesCT8uuzeLcS+TrXRbMdQ3QfXMvtsAp917JgVLw4Oddl6H9U9DcOYK5s70V8emO
+         bHi+acDvzt3ZCm0gH4rxiA9i8AjDjUZpFwpHUE/WHHQZcg0EB0lSHCYKuaPjX4Lb2UgQ
+         0J/kx68OBv8BRah7obZLvsRydflJX0KU6uYEVF/BVu+1fSlbwjnQRDXqCn1JsXObRnTD
+         MX6A==
+X-Gm-Message-State: AG10YOSgU9n9DUxNou1Ts01dlrqBwwVKv/bwKbxlPWoSAr1WRfgtQpFQ06oWKmMvW2h1Zki0PaELH9eHqRqhjQ==
+X-Received: by 10.31.134.4 with SMTP id i4mr23615113vkd.153.1456158310502;
+ Mon, 22 Feb 2016 08:25:10 -0800 (PST)
+MIME-Version: 1.0
+References: <1308370461.1455829942159.JavaMail.appservice@NJ-task> <CACvEjGAP4kHRqjTNZCFLNjnS7v0Rn_eh4+iSDJKAZPpQWLCRNw@mail.gmail.com>
+In-Reply-To: <CACvEjGAP4kHRqjTNZCFLNjnS7v0Rn_eh4+iSDJKAZPpQWLCRNw@mail.gmail.com>
+From: Izabella Gabowicz <izabella@getsensibill.com>
+Date: Mon, 22 Feb 2016 16:25:00 +0000
+Message-ID: <CAO099VqK_7_5hW3rwwmuOC4NMCDvdK4MJV=Dtn+1we0=pWH+PQ@mail.gmail.com>
+Subject: Fwd: Your potterybarnkids.com order has been received
+To: "izzy@billpass.ca" <izzy@billpass.ca>
+Content-Type: multipart/alternative; boundary=001a11440cb4d5a556052c5e46b3
+
+--001a11440cb4d5a556052c5e46b3
+Content-Type: text/plain; charset=UTF-8
+
+---------- Forwarded message ---------
+From: Jaclyn Bell <jaclyn@getsensibill.com>
+Date: Mon, Feb 22, 2016 at 10:26 AM
+Subject: Fwd: Your potterybarnkids.com order has been received
+To: Izabella Gabowicz <izabella@getsensibill.com>
+
+
+fyi - receipt for baby gift for Abhay
+
+
+---------------
+*JACLYN BELL*
+OPERATIONS COORDINATOR
+jaclyn@getsensibill.com <izabella@getsensibill.com>
+416.319.7270
+
+
+<https://ca.linkedin.com/in/jaclyncbell> jaclyncbell |
+<https://twitter.com/getsensibill> getsensibill
+
+
+---------- Forwarded message ----------
+From: Borderfree <orders@borderfree.com>
+Date: Thu, Feb 18, 2016 at 4:12 PM
+Subject: Your potterybarnkids.com order has been received
+To: jaclyn@getsensibill.com
+
+
+
+
+Order Received
+
+Thank you for shopping with potterybarnkids.com.
+
+We have received your order. We will update you when your order has been
+processed.
+
+If you have any questions, please call +80015003333 or email
+international@potterybarnkids.com.
+
+Canadian customers, please call 855-860-1080 for customer support.
+------------------------------
+
+Your Billing & Shipping Information
+*Billing Address:* *Shipping Address:* *Payment Method:*
+Corey Gross
+530R Richmond Street West
+3rd Floor
+Toronto, ON, M5V1Y4
+Canada Jaclyn Bell
+530R Richmond Street West
+3rd Floor
+Toronto, ON, M5V1Y4
+Canada Visa: 1809
+------------------------------
+
+Your Order Summary
+
+*Order Date:* February 18, 2016
+* Order Number:* 060495093862
+Item Price Quantity Total
+Seersucker Bath Wraps, Blue
+6160787 CAD 75.41 1 CAD 75.41
+
+*Item Subtotal:* CAD 75.41
+*Shipping:* CAD 33.22
+*Duties & Taxes:* CAD 8.10
+*Order Discount:* CAD 0.00
+*Total:* CAD 116.73
+
+------------------------------
+
+By placing an order with Borderfree, you have agreed to our purchase Terms
+& Conditions <http://shop.borderfree.com/consumer-terms>.
+
+
+
+--
+---------------
+*IZABELLA GABOWICZ*
+VP DELIVERY & OPERATIONS
+izabella@getsensibill.com
+416.518.8509
+
+
+<https://ca.linkedin.com/in/izabellagabowicz> izabellagabowicz |
+<https://twitter.com/getsensibill> getsensibill
+
+--001a11440cb4d5a556052c5e46b3
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><br><br><div class=3D"gmail_quote"><div dir=3D"ltr">------=
+---- Forwarded message ---------<br>From: Jaclyn Bell &lt;<a href=3D"mailto=
+:jaclyn@getsensibill.com">jaclyn@getsensibill.com</a>&gt;<br>Date: Mon, Feb=
+ 22, 2016 at 10:26 AM<br>Subject: Fwd: Your <a href=3D"http://potterybarnki=
+ds.com">potterybarnkids.com</a> order has been received<br>To: Izabella Gab=
+owicz &lt;<a href=3D"mailto:izabella@getsensibill.com">izabella@getsensibil=
+l.com</a>&gt;<br></div><br><br><div dir=3D"ltr">fyi - receipt for baby gift=
+ for Abhay<br clear=3D"all"><div><div><div dir=3D"ltr"><div><div dir=3D"ltr=
+"><div><div dir=3D"ltr"><div><div dir=3D"ltr"><div><div dir=3D"ltr"><div><d=
+iv dir=3D"ltr"><div><div dir=3D"ltr"><div><br></div><span><font color=3D"#8=
+88888"><div dir=3D"ltr"><br></div><div dir=3D"ltr"><span><div><font face=3D=
+"Gotham"><span>---------------</span></font></div><div><b><font face=3D"ari=
+al,helvetica,sans-serif">JACLYN BELL</font></b></div><div><font face=3D"ari=
+al,helvetica,sans-serif">OPERATIONS COORDINATOR</font></div><div><font colo=
+r=3D"#1155cc" face=3D"arial,helvetica,sans-serif"><a href=3D"mailto:izabell=
+a@getsensibill.com" target=3D"_blank">jaclyn@getsensibill.com</a></font></d=
+iv><div><font color=3D"#1155cc" face=3D"arial,helvetica,sans-serif"><a href=
+=3D"tel:416.319.7270" value=3D"+14165188509" target=3D"_blank">416.319.7270=
+</a></font></div><div><font color=3D"#1155cc"></font><br></div><div><img wi=
+dth=3D"96" height=3D"18" src=3D"https://docs.google.com/a/getsensibill.com/=
+uc?id=3D0B3T9KH3sYBirUnBEUkxBeDJkXzg&amp;export=3Ddownload"><font color=3D"=
+#1155cc"></font><br></div><div><div><a href=3D"https://ca.linkedin.com/in/j=
+aclyncbell" target=3D"_blank"><img alt=3D"" src=3D"http://beta.getsensibill=
+.com/img/icons/icon-linkedin-blue.png"></a><span>=C2=A0jaclyncbell</span><s=
+pan>=C2=A0|</span>=C2=A0<a href=3D"https://twitter.com/getsensibill" target=
+=3D"_blank"><img src=3D"http://beta.getsensibill.com/img/icons/icon-twitter=
+-blue.png"></a><span>=C2=A0getsensibill</span></div></div><div></div></span=
+><div></div><div></div></div></font></span><br></div></div></div></div></di=
+v></div></div></div></div></div></div></div></div></div></div>
+<br><div class=3D"gmail_quote">---------- Forwarded message ----------<br>F=
+rom: <b class=3D"gmail_sendername">Borderfree</b> <span dir=3D"ltr">&lt;<a =
+href=3D"mailto:orders@borderfree.com" target=3D"_blank">orders@borderfree.c=
+om</a>&gt;</span><br>Date: Thu, Feb 18, 2016 at 4:12 PM<br>Subject: Your <a=
+ href=3D"http://potterybarnkids.com" target=3D"_blank">potterybarnkids.com<=
+/a> order has been received<br>To: <a href=3D"mailto:jaclyn@getsensibill.co=
+m" target=3D"_blank">jaclyn@getsensibill.com</a><br><br><br>=20
+
+<u></u>
+
+
+
+
+
+
+<div style=3D"background-color:#ffffff;margin-left:0px;margin-top:0px;margi=
+n-right:0px;margin-bottom:0px;font-family:Arial,Helvetica,sans-serif;font-s=
+ize:11px">
+<div align=3D"center">
+<p>=C2=A0</p>
+<table width=3D"589" style=3D"border-color:#999999;border-style:solid;borde=
+r-width:1px" cellspacing=3D"0" cellpadding=3D"0">
+<tbody><tr>
+  <td width=3D"100%" align=3D"left" valign=3D"middle" style=3D"border-botto=
+m-color:#999999;border-bottom-style:solid;border-bottom-width:1px"><div ali=
+gn=3D"center"><img alt=3D"" src=3D"https://services.fiftyone.com/emailpics/=
+Production/2462/PK_Transaction_Emails.GIF?hash=3DThu+Feb+18+21:11:41+GMT+20=
+16"></div></td>
+</tr>
+<tr>
+<td width=3D"100%" style=3D"font-family:Arial,Helvetica,sans-serif;font-siz=
+e:11px">
+<table width=3D"100%" style=3D"background-color:#ffffff" border=3D"0" cells=
+pacing=3D"0" cellpadding=3D"0">
+<tbody><tr>
+  <td align=3D"left" valign=3D"top" style=3D"font-family:Arial,Helvetica,sa=
+ns-serif;font-size:11px"><table width=3D"100%" border=3D"0" cellspacing=3D"=
+0" cellpadding=3D"5">
+      <tbody><tr height=3D"10"><td></td></tr>
+      <tr>
+        <td style=3D"font-family:Arial,Helvetica,sans-serif;font-size:11px"=
+>
+          <p style=3D"font-size:18px;color:#000000">Order Received</p>
+          <p style=3D"font-family:Arial,Helvetica,sans-serif;font-size:11px=
+;color:#000000">
+                                            Thank you for shopping with <a =
+href=3D"http://potterybarnkids.com" target=3D"_blank">potterybarnkids.com</=
+a>.<br><br>We have received your order. We will update you when your order =
+has been processed.<br><br>If you have any questions, please call <a href=
+=3D"tel:%2B80015003333" value=3D"+80015003333" target=3D"_blank">+800150033=
+33</a> or email <a href=3D"mailto:international@potterybarnkids.com" target=
+=3D"_blank">international@potterybarnkids.com</a>.<br><br>Canadian customer=
+s, please call <a href=3D"tel:855-860-1080" value=3D"+18558601080" target=
+=3D"_blank">855-860-1080</a> for customer support.=20
+                                  </p>
+          <div align=3D"center"><hr width=3D"98%" style=3D"color:#999999;mi=
+n-height:1px"></div>
+        </td>
+      </tr>
+      <tr>
+                    </tr><tr>
+    <td style=3D"font-family:Arial,Helvetica,sans-serif;font-size:11px">
+        <p style=3D"font-size:18px;margin-top:0;color:#000000">Your Billing=
+ &amp; Shipping Information</p>
+
+        <table width=3D"100%" align=3D"center" style=3D"font-family:Arial,H=
+elvetica,sans-serif;font-size:11px;color:#000000" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"5">
+            <tbody><tr>
+                <td align=3D"left" valign=3D"top" style=3D"font-family:Aria=
+l,Helvetica,sans-serif;font-size:11px">
+                    <strong>Billing Address:</strong></td>
+                <td align=3D"left" valign=3D"top" style=3D"font-family:Aria=
+l,Helvetica,sans-serif;font-size:11px">
+                    <strong>Shipping Address:</strong></td>
+                <td align=3D"left" valign=3D"top" style=3D"font-family:Aria=
+l,Helvetica,sans-serif;font-size:11px">
+                    <strong>Payment Method:</strong></td>
+            </tr>
+            <tr>
+                                <td align=3D"left" valign=3D"top" style=3D"=
+font-family:Arial,Helvetica,sans-serif;font-size:11px">Corey Gross<br>
+                    530R Richmond Street West<br>
+                                            3rd Floor<br>
+                                                                           =
+         Toronto, ON, M5V1Y4<br>
+                                        Canada</td>
+                                <td align=3D"left" valign=3D"top" style=3D"=
+font-family:Arial,Helvetica,sans-serif;font-size:11px">Jaclyn Bell<br>
+                    530R Richmond Street West<br>
+                                            3rd Floor<br>
+                                                                           =
+         Toronto, ON, M5V1Y4<br>
+                                        Canada</td>
+                    <td align=3D"left" valign=3D"top" style=3D"font-family:=
+Arial,Helvetica,sans-serif;font-size:11px">
+
+                                                                        Vis=
+a: 1809
+                                                                </td>
+
+            </tr>
+        </tbody></table>
+        <br>
+
+        <div align=3D"center">
+            <hr width=3D"98%" style=3D"color:#999999;min-height:1px">
+        </div>
+    </td>
+</tr>          <tr>
+    <td style=3D"font-family:Arial,Helvetica,sans-serif;font-size:11px">
+               =20
+        <p style=3D"font-size:18px;color:#000000">Your Order Summary</p>
+
+        <p style=3D"font-family:Arial,Helvetica,sans-serif;font-size:11px;c=
+olor:#000000">
+            <strong>Order Date:</strong> February 18, 2016
+            <br>
+                            <strong> Order Number:</strong> 060495093862
+                    </p>
+        <table width=3D"85%" align=3D"center" border=3D"0">
+            <tbody><tr>
+                <td>
+                    <table width=3D"500" align=3D"right" style=3D"border-co=
+lor:#999999;border-width:1px;border-style:solid" cellspacing=3D"0" cellpadd=
+ing=3D"5">
+    <tbody><tr valign=3D"bottom">
+        <td width=3D"58" align=3D"left" style=3D"font-family:Arial,Helvetic=
+a,sans-serif;font-size:11px;border-color:#999999;border-width:1px;border-st=
+yle:solid"><span style=3D"color:#000000;font-weight:bold">Item</span>
+        </td>
+        <td width=3D"58" align=3D"left" style=3D"font-family:Arial,Helvetic=
+a,sans-serif;font-size:11px;border-color:#999999;border-width:1px;border-st=
+yle:solid"><span style=3D"color:#000000;font-weight:bold">Price</span>
+        </td>
+        <td width=3D"58" align=3D"left" style=3D"font-family:Arial,Helvetic=
+a,sans-serif;font-size:11px;border-color:#999999;border-width:1px;border-st=
+yle:solid"><span style=3D"color:#000000;font-weight:bold">Quantity</span>
+        </td>
+        <td width=3D"58" align=3D"left" style=3D"font-family:Arial,Helvetic=
+a,sans-serif;font-size:11px;border-color:#999999;border-width:1px;border-st=
+yle:solid"><span style=3D"color:#000000;font-weight:bold">Total</span>
+        </td>
+    </tr>
+                <tr>
+            <td align=3D"left" valign=3D"top" style=3D"border-color:#999999=
+;border-width:1px;border-style:solid" bgcolor=3D"#cccccc">Seersucker Bath W=
+raps, Blue<br>6160787</td>
+            <td align=3D"left" valign=3D"top" style=3D"border-color:#999999=
+;border-width:1px;border-style:solid" bgcolor=3D"#cccccc">CAD=C2=A075.41</t=
+d>
+            <td align=3D"left" valign=3D"top" style=3D"border-color:#999999=
+;border-width:1px;border-style:solid" bgcolor=3D"#cccccc">1</td>
+            <td width=3D"58" align=3D"left" valign=3D"top" style=3D"border-=
+color:#999999;border-width:1px;border-style:solid" bgcolor=3D"#cccccc">CAD=
+=C2=A075.41</td>
+        </tr>
+                    </tbody></table>                </td>
+            </tr>
+            <tr>
+                <td height=3D"10">=C2=A0</td>
+            </tr>
+                        <tr>
+                <td>
+                    <table width=3D"500" align=3D"right" border=3D"0" cells=
+pacing=3D"0" cellpadding=3D"0">
+                        <tbody><tr>
+                            <td style=3D"font-family:Arial,Helvetica,sans-s=
+erif;font-size:11px">
+                                <table width=3D"250" align=3D"right" style=
+=3D"border-color:#999999;border-width:1px;border-style:solid" cellspacing=
+=3D"0" cellpadding=3D"5">
+                                                                        <tb=
+ody><tr>
+                                        <td width=3D"116" align=3D"left" va=
+lign=3D"top" style=3D"background-color:#ffffff;font-family:Arial,Helvetica,=
+sans-serif;font-size:11px;color:#000000;border-color:#999999;border-width:1=
+px;border-style:solid">
+                                            <strong>Item Subtotal:</strong>=
+</td>
+                                        <td width=3D"58" align=3D"right" va=
+lign=3D"top" style=3D"background-color:#ffffff;font-family:Arial,Helvetica,=
+sans-serif;font-size:11px;color:#000000;border-color:#999999;border-width:1=
+px;border-style:solid">CAD=C2=A075.41</td>
+                                    </tr>
+                                                                         <t=
+r>
+                                        <td width=3D"116" align=3D"left" va=
+lign=3D"top" style=3D"background-color:#cccccc;font-family:Arial,Helvetica,=
+sans-serif;font-size:11px;color:#000000;border-color:#999999;border-width:1=
+px;border-style:solid">
+                                            <strong>Shipping:</strong></td>
+                                        <td width=3D"58" align=3D"right" va=
+lign=3D"top" style=3D"background-color:#cccccc;font-family:Arial,Helvetica,=
+sans-serif;font-size:11px;color:#000000;border-color:#999999;border-width:1=
+px;border-style:solid"> CAD=C2=A033.22 </td>
+                                    </tr>
+
+                                   =20
+                                                                           =
+                                          <tr>
+                                            <td width=3D"116" align=3D"left=
+" valign=3D"top" style=3D"background-color:#ffffff;font-family:Arial,Helvet=
+ica,sans-serif;font-size:11px;color:#000000;border-color:#999999;border-wid=
+th:1px;border-style:solid">
+                                                <strong>Duties &amp; Taxes:=
+</strong></td>
+                                            <td width=3D"58" align=3D"right=
+" valign=3D"top" style=3D"background-color:#ffffff;font-family:Arial,Helvet=
+ica,sans-serif;font-size:11px;color:#000000;border-color:#999999;border-wid=
+th:1px;border-style:solid"> CAD=C2=A08.10 </td>
+                                        </tr>
+                                                                           =
+                                =20
+                                                                         <t=
+r>
+                                        <td width=3D"116" align=3D"left" va=
+lign=3D"top" style=3D"background-color:#cccccc;font-family:Arial,Helvetica,=
+sans-serif;font-size:11px;color:#000000;border-color:#999999;border-width:1=
+px;border-style:solid">
+                                            <strong>Order Discount:</strong=
+></td>
+                                        <td width=3D"58" align=3D"right" va=
+lign=3D"top" style=3D"background-color:#cccccc;font-family:Arial,Helvetica,=
+sans-serif;font-size:11px;color:#000000;border-color:#999999;border-width:1=
+px;border-style:solid"> CAD=C2=A00.00</td>
+                                    </tr>
+                                                                         <t=
+r>
+                                        <td width=3D"116" align=3D"left" va=
+lign=3D"top" style=3D"background-color:#ffffff;font-family:Arial,Helvetica,=
+sans-serif;font-size:11px;color:#000000;border-color:#999999;border-width:1=
+px;border-style:solid">
+                                            <strong>Total:</strong></td>
+                                        <td width=3D"58" align=3D"right" va=
+lign=3D"top" style=3D"background-color:#ffffff;font-family:Arial,Helvetica,=
+sans-serif;font-size:11px;color:#000000;border-color:#999999;border-width:1=
+px;border-style:solid">CAD=C2=A0116.73</td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+        </tbody></table>
+    </td>
+</tr>
+     =20
+     =20
+     =20
+      <tr>
+        <td align=3D"center" style=3D"font-family:Arial,Helvetica,sans-seri=
+f;font-size:11px">
+            <div align=3D"center"><hr width=3D"98%" style=3D"color:#999999;=
+min-height:1px"></div><br>
+            <span style=3D"color:#999999;font-size:9px">By placing an order=
+ with Borderfree, you have agreed to our purchase <a href=3D"http://shop.bo=
+rderfree.com/consumer-terms" target=3D"_blank">Terms &amp; Conditions</a>.<=
+/span><br><br>
+            <div align=3D"center"><img alt=3D"" src=3D"https://embassy.fift=
+yone.com/pix/mail/poweredByEmail200pix.gif"></div>
+</td>
+      </tr>
+    </tbody></table></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+<p>=C2=A0</p>
+</div>
+</div>
+
+
+</div><br></div>
+</div></div><div dir=3D"ltr">-- <br></div><div dir=3D"ltr"><span><div><font=
+ face=3D"Gotham"><span>---------------</span></font></div><div><font face=
+=3D"Gotham"><span><b>IZABELLA GABOWICZ</b></span></font></div><div><font fa=
+ce=3D"Gotham"><span>VP DELIVERY &amp; OPERATIONS</span></font></div><div><f=
+ont face=3D"Gotham"><span><a href=3D"mailto:izabella@getsensibill.com">izab=
+ella@getsensibill.com</a></span></font></div><div><font face=3D"Gotham"><sp=
+an>416.518.8509</span></font></div><div><br></div><div><img width=3D"96" he=
+ight=3D"18" src=3D"https://docs.google.com/a/getsensibill.com/uc?id=3D0B3T9=
+KH3sYBirUnBEUkxBeDJkXzg&amp;export=3Ddownload"><br></div><div><div><a href=
+=3D"https://ca.linkedin.com/in/izabellagabowicz"><img src=3D"http://beta.ge=
+tsensibill.com/img/icons/icon-linkedin-blue.png"></a><span>=C2=A0izabellaga=
+bowicz</span>=C2=A0<span>|</span>=C2=A0<a href=3D"https://twitter.com/getse=
+nsibill"><img src=3D"http://beta.getsensibill.com/img/icons/icon-twitter-bl=
+ue.png"></a><span>=C2=A0getsensibill</span></div></div></span></div>
+
+--001a11440cb4d5a556052c5e46b3--

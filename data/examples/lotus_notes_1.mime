@@ -1,0 +1,216 @@
+Delivered-To: brad@getsensibill.com
+Received: by 10.112.31.164 with SMTP id b4csp535885lbi;
+        Thu, 11 Sep 2014 08:25:59 -0700 (PDT)
+X-Received: by 10.42.231.9 with SMTP id jo9mr2975515icb.12.1410449158453;
+        Thu, 11 Sep 2014 08:25:58 -0700 (PDT)
+Return-Path: <prvs=32404deb2=colin.schofield@scotiabank.com>
+Received: from mxw32.scotiabank.com (mxw32.scotiabank.com. [199.166.13.125])
+        by mx.google.com with ESMTPS id w2si5269332igl.29.2014.09.11.08.25.57
+        for <brad@getsensibill.com>
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Thu, 11 Sep 2014 08:25:58 -0700 (PDT)
+Received-SPF: pass (google.com: domain of prvs=32404deb2=colin.schofield@scotiabank.com designates 199.166.13.125 as permitted sender) client-ip=199.166.13.125;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of prvs=32404deb2=colin.schofield@scotiabank.com designates 199.166.13.125 as permitted sender) smtp.mail=prvs=32404deb2=colin.schofield@scotiabank.com
+X-IronPort-AV: E=Sophos;i="5.04,506,1406606400";
+   d="scan'208,217";a="162390406"
+Received: from unknown (HELO iscip370w2o1.security.bns) ([192.168.188.121])
+  by iscip670w3i1.security.bns with ESMTP; 11 Sep 2014 11:25:32 -0400
+X-IronPort-AV: E=Sophos;i="5.04,506,1406606400";
+   d="scan'208,217";a="219093747"
+Received: from iscesgw3.security.bns (HELO emaildlp.security.bns) ([192.168.184.190])
+  by iscip370w2i1.security.bns with ESMTP; 11 Sep 2014 11:25:32 -0400
+Received: from sbcs2mlr10.scotia-capital.com (unknown [10.56.39.58])
+	by Websense Email Security Gateway with ESMTPS id 1D07CDD48C2
+	for <brad@getsensibill.com>; Thu, 11 Sep 2014 11:25:25 -0400 (EDT)
+Received: from cs2eon01.bns (bnsml01.bns [10.56.3.36])
+	by sbcs2mlr10.scotia-capital.com (Sentrion-MTA-4.3.1/Sentrion-MTA-4.3.1) with ESMTP id s8BFPUNo003534
+	for <brad@getsensibill.com>; Thu, 11 Sep 2014 11:25:30 -0400
+To: "Bradley Arsenault" <brad@getsensibill.com>
+Subject: Fw: forward this back to me using lotus notes
+MIME-Version: 1.0
+X-KeepSent: 00FA5B7E:66F61CF8-85257D50:0054B161;
+ type=4; name=$KeepSent
+X-Mailer: IBM Notes Release 9.0.1 October 14, 2013
+Message-ID: <OF00FA5B7E.66F61CF8-ON85257D50.0054B161-85257D50.0054BBFB@scotiabank.com>
+From: Colin Schofield <colin.schofield@scotiabank.com>
+Date: Thu, 11 Sep 2014 11:25:29 -0400
+X-MIMETrack: Serialize by Router on BNSML01/M/ScotiabankGroup(Release 8.5.3FP5HF333 | October
+ 31, 2013) at 09/11/2014 11:25:29,
+	Serialize complete at 09/11/2014 11:25:29
+Content-Type: multipart/alternative; boundary="=_alternative 0054BBF885257D50_="
+
+--=_alternative 0054BBF885257D50_=
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Done.
+=20
+Colin Schofield | Team Lead | External Contractor
+_____________________________________________________=20
+Scotiabank   | Mobile Systems and Solutions=20
+225 King Street West, 14th floor, Toronto, ON, M5V 3M2=20
+T 416.825.7666=20
+colin.schofield@scotiabank.com=20
+scotiabank.com
+Scotiabank is a business name used by The Bank of Nova Scotia=20
+=20
+=20
+
+----- Forwarded by Colin Schofield/Operations/ScotiabankGroup on=20
+2014/09/11 11:25 AM -----
+
+Bradley Arsenault <brad@getsensibill.com>=20
+2014/09/11 11:23 AM
+
+To
+Colin Schofield <colin.schofield@scotiabank.com>
+cc
+
+Subject
+forward this back to me using lotus notes
+
+
+
+
+
+
+I just need you to forward this email back. That way i can get the pattern=
+=20
+and implement it in the unforwarding tool.
+
+
+
+BRADLEY ARSENAULT / SOFTWARE DEVELOPER
+E. brad@getsensibill.com / C. 647.261.0462
+ 10 Dundas St. E., 6th Floor / Toronto, ON, M5B 2G9
+To unsubscribe from receiving further commercial electronic messages from T=
+he Bank of Nova Scotia in Canada, please click here: https://unsubscribe.sc=
+otiabank.com?entid=3DBNS&buid=3DSBNK
+
+To unsubscribe from receiving further commercial electronic messages from c=
+ertain other senders set out in the attached list, please click here: https=
+://www.unsubscribe.gwi.scotiabank.com?page=3Dgwi=20
+
+This email may contain confidential information the use of which by an unin=
+tended recipient is unauthorized. This email may also contain important dis=
+closure information for the records of the intended recipient(s).  For deta=
+ils please click here: http://www.scotiabank.com/email_disclaimer/email_eng=
+lish.html
+
+Pour vous d=E9sabonner et cesser de recevoir des messages =E9lectroniques c=
+ommerciaux de La Banque de Nouvelle-=C9cosse, veuillez cliquer ici : https:=
+//desabonnement.banquescotia.com?entid=3DBNS&buid=3DSBNK
+
+Pour vous d=E9sabonner et cesser de recevoir des messages =E9lectroniques c=
+ommerciaux de certains autres exp=E9diteurs figurant dans la liste ci-joint=
+e, veuillez cliquer ici : https://www.unsubscribe.gwi.scotiabank.com?page=
+=3Dgwi=20
+
+Cette transmission peut contenir de l'information confidentielle et son uti=
+lisation par toute personne autre que la personne =E0 laquelle cette transm=
+ission est destin=E9e est interdite. Le pr=E9sent courriel peut aussi conte=
+nir des renseignements importants pour les dossiers du ou des destinataires=
+ pr=E9vus.  Pour plus de d=E9tails, veuillez vous diriger vers: http://www.=
+scotiabank.com/email_disclaimer/email_francais.html
+
+Para dejar de recibir mensajes electr=F3nicos comerciales de The Bank of No=
+va Scotia en Canad=E1, haga clic aqu=ED: https://cancelarsuscripcion.scotia=
+bank.com?entid=3DBNS&buid=3DSBNK
+
+Para dejar de recibir mensajes electr=F3nicos comerciales de otras entidade=
+s incluidas en la lista adjunta, haga clic aqu=ED: https://www.unsubscribe.=
+gwi.scotiabank.com?page=3Dgwi=20
+
+Este correo electr=F3nico puede contener informaci=F3n confidencial cuyo us=
+o por parte de personas distintas de los destinatarios del mismo est=E1 pro=
+hibido. El mensaje puede tener tambi=E9n datos importantes para los archivo=
+s   del(de los) destinatario(s) a quien(es) est=E1 dirigido.  Para m=E1s de=
+talles, por favor dirigirse a: http://www.scotiabank.com/email_disclaimer/e=
+mail_espanol.html
+--=_alternative 0054BBF885257D50_=
+Content-Type: text/html; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+
+<font size=2 face="sans-serif">Done.</font>
+<br><font size=3>&nbsp; </font>
+<br><font size=1 face="Arial"><b>Colin Schofield</b></font><font size=3>
+</font><font size=1 color=#5f5f5f face="Arial">| Team Lead | External Contractor<br>
+_____________________________________________________</font><font size=3>
+</font>
+<br><font size=1 color=red face="Arial"><b>Scotiabank</b></font><font size=3 color=red>
+</font><font size=1 color=#808080 face="Arial">&nbsp;</font><font size=3 color=red>
+</font><font size=1 color=#5f5f5f face="Arial">| <b>Mobile Systems and
+Solutions </b></font>
+<br><font size=1 color=#5f5f5f face="Arial">225 King Street West, 14th
+floor, Toronto, ON, M5V 3M2</font><font size=3 color=#5f5f5f> </font>
+<br><font size=1 color=#5f5f5f face="Arial">T 416.825.7666 </font><font size=1 color=blue face="Arial"><u><br>
+</u></font><a href=mailto:chris.baluschak@scotiabank.com><font size=1 color=blue face="Arial"><u>colin.schofield@scotiabank.com</u></font></a><font size=1 color=blue face="Arial">
+</font><font size=1 color=#5f5f5f face="Arial"><br>
+scotiabank.com<br>
+Scotiabank is a business name used by The Bank of Nova Scotia </font>
+<br><font size=3 color=#5f5f5f>&nbsp; </font>
+<br><font size=3 color=#5f5f5f>&nbsp;</font><font size=2 face="sans-serif"><br>
+</font>
+<br><font size=1 color=#800080 face="sans-serif">----- Forwarded by Colin
+Schofield/Operations/ScotiabankGroup on 2014/09/11 11:25 AM -----</font>
+<br>
+<table width=100% style="border-collapse:collapse;">
+<tr valign=top height=8>
+<td width=40% style="border-style:none none none none;border-color:#000000;border-width:0px 0px 0px 0px;padding:0px 0px;"><font size=1 face="sans-serif"><b>Bradley
+Arsenault &lt;brad@getsensibill.com&gt;</b> </font>
+<p><font size=1 face="sans-serif">2014/09/11 11:23 AM</font>
+<td width=59% style="border-style:none none none none;border-color:#000000;border-width:0px 0px 0px 0px;padding:0px 0px;">
+<table width=100% style="border-collapse:collapse;">
+<tr valign=top height=21>
+<td width=57 style="border-style:none none none none;border-color:#000000;border-width:0px 0px 0px 0px;padding:0px 0px;">
+<div align=right><font size=1 face="sans-serif">To</font></div>
+<td style="border-style:none none none none;border-color:#000000;border-width:0px 0px 0px 0px;padding:0px 0px;"><font size=1 face="sans-serif">Colin
+Schofield &lt;colin.schofield@scotiabank.com&gt;</font>
+<tr valign=top height=21>
+<td width=57 style="border-style:none none none none;border-color:#000000;border-width:0px 0px 0px 0px;padding:0px 0px;">
+<div align=right><font size=1 face="sans-serif">cc</font></div>
+<td style="border-style:none none none none;border-color:#000000;border-width:0px 0px 0px 0px;padding:0px 0px;">
+<tr valign=top height=21>
+<td width=57 style="border-style:none none none none;border-color:#000000;border-width:0px 0px 0px 0px;padding:0px 0px;">
+<div align=right><font size=1 face="sans-serif">Subject</font></div>
+<td style="border-style:none none none none;border-color:#000000;border-width:0px 0px 0px 0px;padding:0px 0px;"><font size=1 face="sans-serif">forward
+this back to me using lotus notes</font></table>
+<br>
+<table width=393 style="border-collapse:collapse;">
+<tr valign=top height=8>
+<td width=57 style="border-style:none none none none;border-color:#000000;border-width:0px 0px 0px 0px;padding:0px 0px;">
+<td width=336 style="border-style:none none none none;border-color:#000000;border-width:0px 0px 0px 0px;padding:0px 0px;"></table>
+<br></table>
+<br>
+<br>
+<br><font size=3>I just need you to forward this email back. That way i
+can get the pattern and implement it in the unforwarding tool.</font>
+<br>
+<br>
+<hr>
+<br>
+<br><font size=1 face="Tahoma">BRADLEY ARSENAULT</font><font size=1 color=#4f4f4f face="Tahoma">&nbsp;/&nbsp;SOFTWARE
+DEVELOPER</font>
+<br><font size=1 color=#00c1c2 face="Tahoma">E.&nbsp;</font><a href=mailto:brad@getsensibill.com target=_blank><font size=1 color=blue face="Tahoma">brad@getsensibill.com</font></a><font size=1 color=#4f4f4f face="Tahoma">
+/&nbsp;</font><font size=1 color=#00c1c2 face="Tahoma">C.&nbsp;</font><font size=1 color=#4f4f4f face="Tahoma">647.261.0462</font>
+<br><font size=1 color=#4f4f4f face="Tahoma">&nbsp;10 Dundas St. E., 6th
+Floor / Toronto, ON, M5B 2G9</font><br>
+To unsubscribe from receiving further commercial electronic messages from The Bank of Nova Scotia in Canada, please click here: https://unsubscribe.scotiabank.com?entid=BNS&amp;buid=SBNK<br>
+<br>
+To unsubscribe from receiving further commercial electronic messages from certain other senders set out in the attached list, please click here: https://www.unsubscribe.gwi.scotiabank.com?page=gwi <br>
+<br>
+This email may contain confidential information the use of which by an unintended recipient is unauthorized. This email may also contain important disclosure information for the records of the intended recipient(s).  For details please click here: http://www.scotiabank.com/email_disclaimer/email_english.html<br>
+<br>
+Pour vous d&eacute;sabonner et cesser de recevoir des messages &eacute;lectroniques commerciaux de La Banque de Nouvelle-&Eacute;cosse, veuillez cliquer ici : https://desabonnement.banquescotia.com?entid=BNS&amp;buid=SBNK<br>
+<br>
+Pour vous d&eacute;sabonner et cesser de recevoir des messages &eacute;lectroniques commerciaux de certains autres exp&eacute;diteurs figurant dans la liste ci-jointe, veuillez cliquer ici : https://www.unsubscribe.gwi.scotiabank.com?page=gwi <br>
+<br>
+Cette transmission peut contenir de l&#39;information confidentielle et son utilisation par toute personne autre que la personne &agrave; laquelle cette transmission est destin&eacute;e est interdite. Le pr&eacute;sent courriel peut aussi contenir des renseignements importants pour les dossiers du ou des destinataires pr&eacute;vus.  Pour plus de d&eacute;tails, veuillez vous diriger vers: http://www.scotiabank.com/email_disclaimer/email_francais.html<br>
+<br>
+Para dejar de recibir mensajes electr&oacute;nicos comerciales de The Bank of Nova Scotia en Canad&aacute;, haga clic aqu&iacute;: https://cancelarsuscripcion.scotiabank.com?entid=BNS&amp;buid=SBNK<br>
+<br>
+Para dejar de recibir mensajes electr&oacute;nicos comerciales de otras entidades incluidas en la lista adjunta, haga clic aqu&iacute;: https://www.unsubscribe.gwi.scotiabank.com?page=gwi <br>
+<br>
+Este correo electr&oacute;nico puede contener informaci&oacute;n confidencial cuyo uso por parte de personas distintas de los destinatarios del mismo est&aacute; prohibido. El mensaje puede tener tambi&eacute;n datos importantes para los archivos   del(de los) destinatario(s) a quien(es) est&aacute; dirigido.  Para m&aacute;s detalles, por favor dirigirse a: http://www.scotiabank.com/email_disclaimer/email_espanol.html
+--=_alternative 0054BBF885257D50_=--

@@ -1,0 +1,381 @@
+X-Mailgun-Spf: Neutral
+X-Mailgun-Sscore: 0.0
+X-Mailgun-Sflag: No
+X-Mailgun-Incoming: Yes
+X-Envelope-From: <isaackim92@gmail.com>
+Received: from mail-io0-f174.google.com (mail-io0-f174.google.com [209.85.223.174])
+ by mxa.mailgun.org with ESMTP id 56b2522a.7f480a573370-in03;
+ Wed, 03 Feb 2016 19:16:58 -0000 (UTC)
+Received: by mail-io0-f174.google.com with SMTP id d63so67303971ioj.2
+        for <isaac@billpass.ca>; Wed, 03 Feb 2016 11:16:58 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:references:in-reply-to:from:date:message-id:subject:to
+         :content-type;
+        bh=n/4JfGtA7KVH3+usenSuL2Wcfm0iq+bKFyjr+maUagU=;
+        b=KvvdM7hiUtaY1GHvz+BE9q9RYIMsFTLaQdKYhKvPfXYO8Ka/m+m6pR+NZh4B+18ycv
+         GZx1W1ZzvsqrDOSH9laJlLZYyEyrY4Cuzr+FWhAJmxRmFxf6uGuiWuYmhqeh6P2J3Uiu
+         kMD9VDSZiQfYGMbA0E+YbXOvFgbngIwG1kJTLiqQvPzmfkd7c2ImlnNilwpK8cNCIzHK
+         gM+hCmKVW9Jo9WdjkNPJdQCcVsR/BURVUWV2eAskze/BdxlaNn1czvNUFIhnuIrJxSo8
+         C+ODWHMv1rB4w3Q1db1bbdMbQzHSMyJTZRM4JmiEgZucHEws7G6UtXj28o3GCHCueUM6
+         88nQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:references:in-reply-to:from:date
+         :message-id:subject:to:content-type;
+        bh=n/4JfGtA7KVH3+usenSuL2Wcfm0iq+bKFyjr+maUagU=;
+        b=cOL/+foYBhg7PgA4zTg975K1dQVDQuesV9BO4CUMv53H5H0DSItaq8ONLutVPEBVMy
+         w1PtHj0RWS11+DBMG2b0P04BTWA4k5+eTmcN2uWUEICCdxmjN+jKQPbZN+5le/8oJhEP
+         z5FCVFtwr1ot3IzC0q0G5HL2xn1cnw64UlHBjV97fobnX1sGCWP0Op9MwHkRGCbxG6VC
+         K/Ajm503CbFFx1l5+P6GZVJIGU4Iv7LE8tWB1iew4lMI585550AQ4juy1URZnSWEkyzR
+         WCH2efdHzTgQZeWD5SpTQct1XBuKKcgXpLONu0pcPyjkCkVafN06Xmg+CptrxmfHe/Te
+         Gi6g==
+X-Gm-Message-State: AG10YOQ2xucsBIHCjiM44Mtz8XY62knEEZPwE2ysKF0V4fBxTnQ72gq2wymlSSyAOkWOvqLbh7HxAkRnYeWm0g==
+X-Received: by 10.107.14.199 with SMTP id 190mr5127531ioo.54.1454527017941;
+ Wed, 03 Feb 2016 11:16:57 -0800 (PST)
+MIME-Version: 1.0
+References: <994467518.1454526681215.JavaMail.appservice@NJ-task>
+In-Reply-To: <994467518.1454526681215.JavaMail.appservice@NJ-task>
+From: Isaac Kim <isaackim92@gmail.com>
+Date: Wed, 03 Feb 2016 19:16:48 +0000
+Message-ID: <CANfSo7MBaLJaGPgE6JAiRijVoWhxnoVcfV=fYrV+c+cKeAGs4g@mail.gmail.com>
+Subject: Fwd: Your williams-sonoma.com order has been received
+To: "isaac@billpass.ca" <isaac@billpass.ca>
+Content-Type: multipart/alternative; boundary=001a113fd22c387fb9052ae2763e
+
+--001a113fd22c387fb9052ae2763e
+Content-Type: text/plain; charset=UTF-8
+
+---------- Forwarded message ---------
+From: Borderfree <orders@borderfree.com>
+Date: Wed, 3 Feb 2016 at 14:11
+Subject: Your williams-sonoma.com order has been received
+To: <isaackim92@gmail.com>
+
+
+
+
+Order Received
+
+Thank you for shopping with williams-sonoma.com.
+
+We have received your order. We will update you when your order has been
+processed.
+
+If you have any questions, please call +80015005555 or email
+international@williams-sonoma.com.
+
+Canadian customers, please call 855-860-1081 for customer support.
+------------------------------
+
+Your Billing & Shipping Information
+*Billing Address:* *Shipping Address:* *Payment Method:*
+Isaac Kim
+530 Richmond Street West
+REAR-3rd floor
+Toronto, ON, M5V 1Y4
+Canada Isaac Kim
+530 Richmond Street West
+REAR-3rd floor
+Toronto, ON, M5V 1Y4
+Canada Visa: 1809
+------------------------------
+
+Your Order Summary
+
+*Order Date:* February 3, 2016
+* Order Number:* 060345872952
+Item Price Quantity Total
+Williams-Sonoma Goldtouch Nonstick 4-Piece Holiday Bakeware Set
+1017099 CAD 109.36 1 CAD 109.36
+
+*Item Subtotal:* CAD 109.36
+*Shipping:* CAD 20.01
+*Duties & Taxes:* CAD 12.36
+*Order Discount:* CAD 0.00
+*Total:* CAD 141.73
+
+------------------------------
+
+By placing an order with Borderfree, you have agreed to our purchase Terms
+& Conditions <http://shop.borderfree.com/consumer-terms>.
+
+--001a113fd22c387fb9052ae2763e
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><br><br><div class=3D"gmail_quote"><div dir=3D"ltr">------=
+---- Forwarded message ---------<br>From: Borderfree &lt;<a href=3D"mailto:=
+orders@borderfree.com">orders@borderfree.com</a>&gt;<br>Date: Wed, 3 Feb 20=
+16 at 14:11<br>Subject: Your <a href=3D"http://williams-sonoma.com">william=
+s-sonoma.com</a> order has been received<br>To:  &lt;<a href=3D"mailto:isaa=
+ckim92@gmail.com">isaackim92@gmail.com</a>&gt;<br></div><br><br>=20
+
+<u></u>
+
+
+
+
+
+
+<div style=3D"background-color:#ffffff;margin-left:0px;margin-top:0px;margi=
+n-right:0px;margin-bottom:0px;font-family:Arial,Helvetica,sans-serif;font-s=
+ize:11px">
+<div align=3D"center">
+<p>=C2=A0</p>
+<table width=3D"589" cellspacing=3D"0" cellpadding=3D"0" style=3D"border-co=
+lor:#999999;border-style:solid;border-width:1px">
+<tbody><tr>
+  <td width=3D"100%" align=3D"left" valign=3D"middle" style=3D"border-botto=
+m-color:#999999;border-bottom-style:solid;border-bottom-width:1px"><div ali=
+gn=3D"center"><img src=3D"https://sandbox.fiftyone.com/emailpics/Staging/26=
+89/WS_Gif_Header.GIF?hash=3DWed+Feb+03+19:07:16+GMT+2016" alt=3D""></div></=
+td>
+</tr>
+<tr>
+<td style=3D"font-family:Arial,Helvetica,sans-serif;font-size:11px" width=
+=3D"100%">
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" styl=
+e=3D"background-color:#ffffff">
+<tbody><tr>
+  <td style=3D"font-family:Arial,Helvetica,sans-serif;font-size:11px" align=
+=3D"left" valign=3D"top"><table width=3D"100%" border=3D"0" cellspacing=3D"=
+0" cellpadding=3D"5">
+      <tbody><tr height=3D"10"><td></td></tr>
+      <tr>
+        <td style=3D"font-family:Arial,Helvetica,sans-serif;font-size:11px"=
+>
+          <p style=3D"font-size:18px;color:#000000">Order Received</p>
+          <p style=3D"font-family:Arial,Helvetica,sans-serif;font-size:11px=
+;color:#000000">
+                                            Thank you for shopping with <a =
+href=3D"http://williams-sonoma.com" target=3D"_blank">williams-sonoma.com</=
+a>.<br><br>We have received your order. We will update you when your order =
+has been processed.<br><br>If you have any questions, please call +80015005=
+555 or email <a href=3D"mailto:international@williams-sonoma.com" target=3D=
+"_blank">international@williams-sonoma.com</a>.<br><br>Canadian customers, =
+please call 855-860-1081 for customer support.
+                                  </p>
+          <div align=3D"center"><hr style=3D"color:#999999;min-height:1px" =
+width=3D"98%"></div>
+        </td>
+      </tr>
+      <tr>
+                    </tr><tr>
+    <td style=3D"font-family:Arial,Helvetica,sans-serif;font-size:11px">
+        <p style=3D"font-size:18px;margin-top:0;color:#000000">Your Billing=
+ &amp; Shipping Information</p>
+
+        <table width=3D"100%" border=3D"0" align=3D"center" cellpadding=3D"=
+5" cellspacing=3D"0" style=3D"font-family:Arial,Helvetica,sans-serif;font-s=
+ize:11px;color:#000000">
+            <tbody><tr>
+                <td style=3D"font-family:Arial,Helvetica,sans-serif;font-si=
+ze:11px" align=3D"left" valign=3D"top">
+                    <strong>Billing Address:</strong></td>
+                <td style=3D"font-family:Arial,Helvetica,sans-serif;font-si=
+ze:11px" align=3D"left" valign=3D"top">
+                    <strong>Shipping Address:</strong></td>
+                <td style=3D"font-family:Arial,Helvetica,sans-serif;font-si=
+ze:11px" align=3D"left" valign=3D"top">
+                    <strong>Payment Method:</strong></td>
+            </tr>
+            <tr>
+                                <td style=3D"font-family:Arial,Helvetica,sa=
+ns-serif;font-size:11px" align=3D"left" valign=3D"top">Isaac Kim<br>
+                    530 Richmond Street West<br>
+                                            REAR-3rd floor<br>
+                                                                           =
+         Toronto, ON, M5V 1Y4<br>
+                                        Canada</td>
+                                <td style=3D"font-family:Arial,Helvetica,sa=
+ns-serif;font-size:11px" align=3D"left" valign=3D"top">Isaac Kim<br>
+                    530 Richmond Street West<br>
+                                            REAR-3rd floor<br>
+                                                                           =
+         Toronto, ON, M5V 1Y4<br>
+                                        Canada</td>
+                    <td style=3D"font-family:Arial,Helvetica,sans-serif;fon=
+t-size:11px" align=3D"left" valign=3D"top">
+
+                                                                        Vis=
+a: 1809
+                                                                </td>
+
+            </tr>
+        </tbody></table>
+        <br>
+
+        <div align=3D"center">
+            <hr style=3D"color:#999999;min-height:1px" width=3D"98%">
+        </div>
+    </td>
+</tr>          <tr>
+    <td style=3D"font-family:Arial,Helvetica,sans-serif;font-size:11px">
+               =20
+        <p style=3D"font-size:18px;color:#000000">Your Order Summary</p>
+
+        <p style=3D"font-family:Arial,Helvetica,sans-serif;font-size:11px;c=
+olor:#000000">
+            <strong>Order Date:</strong> February 3, 2016
+            <br>
+                            <strong> Order Number:</strong> 060345872952
+                    </p>
+        <table border=3D"0" width=3D"85%" align=3D"center">
+            <tbody><tr>
+                <td>
+                    <table width=3D"500" align=3D"right" cellpadding=3D"5" =
+cellspacing=3D"0" style=3D"border-color:#999999;border-width:1px;border-sty=
+le:solid">
+    <tbody><tr valign=3D"bottom">
+        <td style=3D"font-family:Arial,Helvetica,sans-serif;font-size:11px;=
+border-color:#999999;border-width:1px;border-style:solid" width=3D"58" alig=
+n=3D"left"><span style=3D"color:#000000;font-weight:bold">Item</span>
+        </td>
+        <td style=3D"font-family:Arial,Helvetica,sans-serif;font-size:11px;=
+border-color:#999999;border-width:1px;border-style:solid" width=3D"58" alig=
+n=3D"left"><span style=3D"color:#000000;font-weight:bold">Price</span>
+        </td>
+        <td style=3D"font-family:Arial,Helvetica,sans-serif;font-size:11px;=
+border-color:#999999;border-width:1px;border-style:solid" width=3D"58" alig=
+n=3D"left"><span style=3D"color:#000000;font-weight:bold">Quantity</span>
+        </td>
+        <td style=3D"font-family:Arial,Helvetica,sans-serif;font-size:11px;=
+border-color:#999999;border-width:1px;border-style:solid" width=3D"58" alig=
+n=3D"left"><span style=3D"color:#000000;font-weight:bold">Total</span>
+        </td>
+    </tr>
+                <tr>
+            <td align=3D"left" valign=3D"top" bgcolor=3D"#CCCCCC" style=3D"=
+border-color:#999999;border-width:1px;border-style:solid">Williams-Sonoma G=
+oldtouch Nonstick 4-Piece Holiday Bakeware Set<br>1017099</td>
+            <td align=3D"left" valign=3D"top" bgcolor=3D"#CCCCCC" style=3D"=
+border-color:#999999;border-width:1px;border-style:solid">CAD=C2=A0109.36</=
+td>
+            <td align=3D"left" valign=3D"top" bgcolor=3D"#CCCCCC" style=3D"=
+border-color:#999999;border-width:1px;border-style:solid">1</td>
+            <td width=3D"58" align=3D"left" valign=3D"top" bgcolor=3D"#CCCC=
+CC" style=3D"border-color:#999999;border-width:1px;border-style:solid">CAD=
+=C2=A0109.36</td>
+        </tr>
+                    </tbody></table>                </td>
+            </tr>
+            <tr>
+                <td height=3D"10">=C2=A0</td>
+            </tr>
+                        <tr>
+                <td>
+                    <table width=3D"500" border=3D"0" align=3D"right" cellp=
+adding=3D"0" cellspacing=3D"0">
+                        <tbody><tr>
+                            <td style=3D"font-family:Arial,Helvetica,sans-s=
+erif;font-size:11px">
+                                <table width=3D"250" align=3D"right" cellpa=
+dding=3D"5" cellspacing=3D"0" style=3D"border-color:#999999;border-width:1p=
+x;border-style:solid">
+                                                                        <tb=
+ody><tr>
+                                        <td width=3D"116" align=3D"left" va=
+lign=3D"top" style=3D"background-color:#ffffff;font-family:Arial,Helvetica,=
+sans-serif;font-size:11px;color:#000000;border-color:#999999;border-width:1=
+px;border-style:solid">
+                                            <strong>Item Subtotal:</strong>=
+</td>
+                                        <td width=3D"58" align=3D"right" va=
+lign=3D"top" style=3D"background-color:#ffffff;font-family:Arial,Helvetica,=
+sans-serif;font-size:11px;color:#000000;border-color:#999999;border-width:1=
+px;border-style:solid">CAD=C2=A0109.36</td>
+                                    </tr>
+                                                                         <t=
+r>
+                                        <td width=3D"116" align=3D"left" va=
+lign=3D"top" style=3D"background-color:#cccccc;font-family:Arial,Helvetica,=
+sans-serif;font-size:11px;color:#000000;border-color:#999999;border-width:1=
+px;border-style:solid">
+                                            <strong>Shipping:</strong></td>
+                                        <td width=3D"58" align=3D"right" va=
+lign=3D"top" style=3D"background-color:#cccccc;font-family:Arial,Helvetica,=
+sans-serif;font-size:11px;color:#000000;border-color:#999999;border-width:1=
+px;border-style:solid"> CAD=C2=A020.01 </td>
+                                    </tr>
+
+                                   =20
+                                                                           =
+                                          <tr>
+                                            <td width=3D"116" align=3D"left=
+" valign=3D"top" style=3D"background-color:#ffffff;font-family:Arial,Helvet=
+ica,sans-serif;font-size:11px;color:#000000;border-color:#999999;border-wid=
+th:1px;border-style:solid">
+                                                <strong>Duties &amp; Taxes:=
+</strong></td>
+                                            <td width=3D"58" align=3D"right=
+" valign=3D"top" style=3D"background-color:#ffffff;font-family:Arial,Helvet=
+ica,sans-serif;font-size:11px;color:#000000;border-color:#999999;border-wid=
+th:1px;border-style:solid"> CAD=C2=A012.36 </td>
+                                        </tr>
+                                                                           =
+                                =20
+                                                                         <t=
+r>
+                                        <td width=3D"116" align=3D"left" va=
+lign=3D"top" style=3D"background-color:#cccccc;font-family:Arial,Helvetica,=
+sans-serif;font-size:11px;color:#000000;border-color:#999999;border-width:1=
+px;border-style:solid">
+                                            <strong>Order Discount:</strong=
+></td>
+                                        <td width=3D"58" align=3D"right" va=
+lign=3D"top" style=3D"background-color:#cccccc;font-family:Arial,Helvetica,=
+sans-serif;font-size:11px;color:#000000;border-color:#999999;border-width:1=
+px;border-style:solid"> CAD=C2=A00.00</td>
+                                    </tr>
+                                                                         <t=
+r>
+                                        <td width=3D"116" align=3D"left" va=
+lign=3D"top" style=3D"background-color:#ffffff;font-family:Arial,Helvetica,=
+sans-serif;font-size:11px;color:#000000;border-color:#999999;border-width:1=
+px;border-style:solid">
+                                            <strong>Total:</strong></td>
+                                        <td width=3D"58" align=3D"right" va=
+lign=3D"top" style=3D"background-color:#ffffff;font-family:Arial,Helvetica,=
+sans-serif;font-size:11px;color:#000000;border-color:#999999;border-width:1=
+px;border-style:solid">CAD=C2=A0141.73</td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+        </tbody></table>
+    </td>
+</tr>
+     =20
+     =20
+     =20
+      <tr>
+        <td style=3D"font-family:Arial,Helvetica,sans-serif;font-size:11px"=
+ align=3D"center">
+            <div align=3D"center"><hr style=3D"color:#999999;min-height:1px=
+" width=3D"98%"></div><br>
+            <span style=3D"color:#999999;font-size:9px">By placing an order=
+ with Borderfree, you have agreed to our purchase <a href=3D"http://shop.bo=
+rderfree.com/consumer-terms" target=3D"_blank">Terms &amp; Conditions</a>.<=
+/span><br><br>
+            <div align=3D"center"><img src=3D"https://embassy.fiftyone.com/=
+pix/mail/poweredByEmail200pix.gif" alt=3D""></div>
+</td>
+      </tr>
+    </tbody></table></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+<p>=C2=A0</p>
+</div>
+</div>
+
+
+</div></div>
+
+--001a113fd22c387fb9052ae2763e--

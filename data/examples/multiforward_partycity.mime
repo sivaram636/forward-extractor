@@ -1,0 +1,944 @@
+Authentication-Results: apiserver;
+Received: from mail-qa0-f48.google.com ([10.183.253.48])
+	by apiserver (Haraka/2.5.0) with ESMTP id 79B3C8D7-B079-4FD5-B484-4F0F939BDEE8.1
+	envelope-from <corey@getsensibill.com>;
+	Tue, 15 Jul 2014 17:24:28 +0000
+Received: by mail-qa0-f48.google.com with SMTP id m5so2714820qaj.7
+        for <corey@billpass.ca>; Tue, 15 Jul 2014 10:24:50 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:from:content-type:subject:date:references:to
+         :message-id:mime-version;
+        bh=z1YIh33Xz9M5zcu85H0qYfmHXaek73h9eWxLTYIY8RQ=;
+        b=DVpo9xGKSG99h8HTzEnmG7pEUeBI2rgKOyIfzyMcSoq94avv/7KJZAv0ZphZFtm23P
+         uzV6ATXHgv9cPfTh+XFfKy1iGmd58uHmwns50vVf5YZKnwXgyGn+3+mkgMCly48CPJ4d
+         IaFNV+aSh2GiWhdtlXEOSC606wU0k4bhefNvr52x3RRF6GzFFvg2upBNZi/SArHo1Qx+
+         KRMYaI0E7szMGfUJ4RRq2DeTcTwcGw2mIhPm9sz9BZiNrf1TjpFKwLFt/gFOGA2hYI7Z
+         6K7lFpPqDHc9W1Ak21abKW6q1BRCSBI9khupg5xa1RXPEC72T59aqcpU3iTtxY/REQLD
+         PA6g==
+X-Gm-Message-State: ALoCoQl9/kbeuQZpv8upQnEpHFXElH6TR/bw9a1BUl3YZF+1pyXf0jkBIMtEfQqla0Cj1Ed7vzjT
+X-Received: by 10.140.48.75 with SMTP id n69mr35900364qga.107.1405445090546;
+        Tue, 15 Jul 2014 10:24:50 -0700 (PDT)
+Received: from [192.168.1.212] ([96.45.202.230])
+        by mx.google.com with ESMTPSA id b9sm26948257qae.4.2014.07.15.10.24.49
+        for <corey@billpass.ca>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Tue, 15 Jul 2014 10:24:50 -0700 (PDT)
+From: Corey Gross <corey@getsensibill.com>
+Content-Type: multipart/alternative; boundary="Apple-Mail=_E341D0CA-39FC-428F-8065-C7536415B735"
+Subject: Fwd: Party City e-Receipt
+Date: Tue, 15 Jul 2014 13:24:47 -0400
+References: <fbd3a49f7e2f.53a1b8fb@ryerson.ca>
+To: corey@billpass.ca
+Message-Id: <89110186-1A9F-4AA6-B914-B61836E9C7FB@getsensibill.com>
+Mime-Version: 1.0 (Mac OS X Mail 7.3 \(1878.2\))
+X-Mailer: Apple Mail (2.1878.2)
+
+
+--Apple-Mail=_E341D0CA-39FC-428F-8065-C7536415B735
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain;
+	charset=us-ascii
+
+
+______________
+
+COREY GROSS / CHIEF EXECUTIVE OFFICER
+E. corey@getsensibill.com / C. 416.892.8310
+ 10 Dundas St. E., 6th Floor / Toronto, ON, M5B 2G9
+This email may contain privileged and confidential material and its =
+transmission is not a waiver of that privilege. It is intended for the =
+use of the individual or entity to which it is addressed. If the reader =
+is not the intended recipient or the employee or agent responsible for =
+the delivery of the message to the intended recipient, you are hereby =
+notified that any dissemination, distribution or copying of the =
+communication is strictly prohibited. if you have received this =
+communication in error, please notify us immediately.
+
+Begin forwarded message:
+
+> From: Shahad Mahdi <shahad.mahdi@ryerson.ca>
+> Subject: Fwd: Party City e-Receipt
+> Date: June 18, 2014 at 4:06:19 PM EDT
+> To: Corey Gross <corey@getsensibill.com>
+>=20
+> I bought a couple of things from party city for my sisters birthday, =
+and they offered email receipts, so i thought i should forward it to =
+you.
+> thank you for your time
+>=20
+> From: Party City <partycity@e.partycity.ca>
+> Subject: Party City e-Receipt
+> Date: June 18, 2014 at 1:18:05 PM EDT
+> To: shahad.mahdi@ryerson.ca
+> Reply-To: PartyCity.6r8lzc11zk.d52b@e.partycity.ca
+>=20
+>=20
+>=20
+> 	=09
+> 29 WILLIAM KITCHEN RD
+> SCARBOROUGH, ON M1P5B7
+> (416) 293-2339
+> 			=09
+>=20
+> Thank you for shopping at Party City in SCARBOROUGH
+>=20
+> ** BALLOON ORDER **
+>=20
+> Customer Name:	ZINAH HUSSEIN
+> Phone:	(416) 893-2727
+>=20
+> PICKUP DATE: 06-21-2014 03:00 PM
+> ORDER NOTES:
+> 1 F (that already has been picked up ) &8 L ,
+>=20
+> 080518125617	256 R JMB HL	$12.99	T
+> 256 R JMB HLOGRPHC BDAYCELBRTN
+> 10 OFF 65		$1.18	-
+> 809801344531	LTX SOLID BU	$12.72	T
+> LTX SOLID BULK BLLN
+> 8 @ $1.59
+> 10 OFF 65		$1.14	-
+> 040004045157	SUPER BOUQUE	$0.00	T
+> SUPER BOUQUET
+> 048419650867	MYLAR WEIGHT	$1.49	T
+> MYLAR WEIGHT PNK
+> 10 OFF 65		$0.13	-
+> 048419877882	20CT PNK PC	$0.99	T
+> 20CT PNK PC PL FORK VAL
+> 10 OFF 65		$0.08	-
+> 048419877936	20CT PNK PC	$0.99	T
+> 20CT PNK PC PL SPOON VAL
+> 10 OFF 65		$0.08	-
+> 048419689263	AIR HORN AMS	$8.99	T
+> SPORT AIR HORN
+> 10 OFF 65		$0.82	-
+> 048419651758	NEW PNK TISS	$0.99	T
+> NEW PNK TISSUE PPR
+> 10 OFF 65		$0.08	-
+> 013051389758	NEW PNK POLK	$1.49	T
+> NEW PNK POLKA DOT BAGS
+> 10 OFF 65		$0.13	-
+> 021505196708	ICE CREAM CO	$19.99	T
+> ICE CREAM CONE PINATA
+> 10 OFF 65		$1.81	-
+> 048419968139	5PC 6IN BRT	$2.99	T
+> 5PC 6IN BRT PNK DECO MINI FAN
+> 10 OFF 65		$0.26	-
+> 799626022182	500FTX1.75IN	$4.99	T
+> 500FTx1.75IN NEW PNK STRMR
+> 10 OFF 65		$0.46	-
+> 048419968016	3PC 16IN BRT	$8.99	T
+> 3PC 16IN BRT PNK DECO FLUFFY
+> 10 OFF 65		$0.82	-
+> 048419757078	6.5X4FT BNR	$7.99	T
+> 6.5x4FT BNR HPY BDAY GNT
+> 10 OFF 65		$0.73	-
+> 013051313395	SWEET STUFF	$4.99	T
+> SWEET STUFF SWIRL DECO
+> 10 OFF 65		$0.46	-
+> 048419627951	FLIP FLOP KE	$3.99	T
+> FLIP FLOP KEYCHAIN
+> 10 OFF 65		$0.35	-
+> 048419891703	GLTTR EMERY	$4.13	T
+> GLTTR EMERY BOARD
+> 7 @ $0.59
+> 10 OFF 65		$0.37	-
+> 013051322755	MINI BUBBLE	$2.45	T
+> MINI BUBBLE WAND
+> 7 @ $0.35
+> 10 OFF 65		$0.22	-
+> 009138377435	TEENY TWISTE	$2.73	T
+> TEENY TWISTER
+> 7 @ $0.39
+> 10 OFF 65		$0.24	-
+> 809801047487	15 FOR A DOL	$11.55	T
+> 15 FOR A DOLLAR
+> 165 @ $0.07
+> 15/1.00		$0.55	-
+> 013051296551	ZEBRA BDAY L	$6.99	T
+> ZEBRA BDAY LTX
+> 10 OFF 65		$0.64	-
+> 809801387859	COUPON	$0.00=09
+> CND EMAIL SIGN UP
+> =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D
+> SUBTOTAL	$111.88=09
+> HST	$14.54=09
+> TOTAL	$126.42=09
+> CASH	$140.00=09
+> CHANGE	-$13.58=09
+> ITEMS =3D 211	YOU SAVED $10.55=09
+> =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D
+> CUSTOMER COPY
+> HST #866821945
+> STORE 2007 TRN 18 REG 1
+> 06-18-2014 01:09:28 PM
+>=20
+>=20
+> Return Policy
+> Returns must be made within 30 days of purchase. Receipt must =
+accompany each return. Only unopened packages may be returned. Seasonal =
+items may be returned up to 7 days prior to holiday. Merchandise credits =
+are only redeemable at issuing stores.=20
+>=20
+> Unsubscribe from future messages.
+> Party City | 25 Green Pond Road | Rockaway, NJ 07866 | United States
+>=20
+>=20
+> 			=09
+>=20
+>=20
+>=20
+
+
+--Apple-Mail=_E341D0CA-39FC-428F-8065-C7536415B735
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html;
+	charset=us-ascii
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html =
+charset=3Dus-ascii"></head><body style=3D"word-wrap: break-word; =
+-webkit-nbsp-mode: space; -webkit-line-break: =
+after-white-space;"><br><div>
+<span style=3D"color: rgb(10, 10, 10); font-family: Gotham-Light; =
+font-size: 11px;">______________</span><br><div style=3D"color: rgb(82, =
+82, 82); font-size: 11px;"><div style=3D"font-family: 'Gotham Book', =
+Times;"><div><span style=3D"font-weight: bold; color: rgb(10, 10, =
+10);"><br></span></div><div style=3D"font-family: Helvetica; font-size: =
+12px;"><span style=3D"color: rgb(10, 10, 10); font-size: 11px;"><font =
+face=3D"Gotham">COREY GROSS</font></span><font face=3D"Gotham-Light"><span=
+ style=3D"font-size: 11px;">&nbsp;/&nbsp;CHIEF EXECUTIVE =
+OFFICER</span></font></div><div style=3D"font-family: Helvetica; =
+margin-top: 5px;"><font face=3D"Gotham-Light"><span style=3D"font-size: =
+10.5px; color: rgb(40, 190, 193);">E.&nbsp;</span><a =
+href=3D"mailto:corey@getsensibill.com" target=3D"_blank" =
+style=3D"text-decoration: none; color: =
+inherit;">corey@getsensibill.com</a>&nbsp;/&nbsp;<span style=3D"font-size:=
+ 10.5px; color: rgb(40, 190, =
+193);">C.&nbsp;</span>416.892.8310</font></div><div style=3D"font-family: =
+Helvetica; margin-top: 15px;"><font face=3D"Gotham-Light"><span =
+style=3D"width: 100px; vertical-align: middle; margin-bottom: 3px; =
+padding-right: 5px;"><img =
+src=3D"http://sensibill.jit.su/images/sensibill-logo-teal.png" =
+style=3D"width: 100px; vertical-align: middle; margin-bottom: 3px; =
+padding-right: 5px;"></span>&nbsp;10 Dundas St. E., 6th Floor / Toronto, =
+ON, M5B 2G9</font></div><div style=3D"font-family: Helvetica; =
+margin-top: 15px;"><span style=3D"color: rgb(0, 0, 0); font-size: =
+8px;"><font face=3D"Gotham-Light">This email may =
+contain&nbsp;</font></span><font face=3D"Gotham-Light" style=3D"font-size:=
+ 12px; color: rgb(0, 0, 0);"><span style=3D"font-size: 9px;">privileged =
+and confidential material and its transmission is not a waiver of that =
+privilege. It is intended for the use of the individual or entity to =
+which it is addressed. If the reader is not the intended recipient or =
+the employee or agent responsible for the delivery of the message to the =
+intended recipient, you are hereby notified that any dissemination, =
+distribution or copying of the communication is strictly prohibited. if =
+you have received this communication in error, please notify us =
+immediately.</span></font></div></div></div>
+</div>
+<div style=3D""><br><div>Begin forwarded message:</div><br =
+class=3D"Apple-interchange-newline"><blockquote type=3D"cite"><div =
+style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; =
+margin-left: 0px;"><span style=3D"font-family:'Helvetica'; color:rgba(0, =
+0, 0, 1.0);"><b>From: </b></span><span =
+style=3D"font-family:'Helvetica';">Shahad Mahdi &lt;<a =
+href=3D"mailto:shahad.mahdi@ryerson.ca">shahad.mahdi@ryerson.ca</a>&gt;<br=
+></span></div><div style=3D"margin-top: 0px; margin-right: 0px; =
+margin-bottom: 0px; margin-left: 0px;"><span =
+style=3D"font-family:'Helvetica'; color:rgba(0, 0, 0, 1.0);"><b>Subject: =
+</b></span><span style=3D"font-family:'Helvetica';"><b>Fwd: Party City =
+e-Receipt</b><br></span></div><div style=3D"margin-top: 0px; =
+margin-right: 0px; margin-bottom: 0px; margin-left: 0px;"><span =
+style=3D"font-family:'Helvetica'; color:rgba(0, 0, 0, 1.0);"><b>Date: =
+</b></span><span style=3D"font-family:'Helvetica';">June 18, 2014 at =
+4:06:19 PM EDT<br></span></div><div style=3D"margin-top: 0px; =
+margin-right: 0px; margin-bottom: 0px; margin-left: 0px;"><span =
+style=3D"font-family:'Helvetica'; color:rgba(0, 0, 0, 1.0);"><b>To: =
+</b></span><span style=3D"font-family:'Helvetica';">Corey Gross &lt;<a =
+href=3D"mailto:corey@getsensibill.com">corey@getsensibill.com</a>&gt;<br><=
+/span></div><br><div><div bgcolor=3D"#FFFFFF" leftmargin=3D"0" =
+marginheight=3D"0" marginwidth=3D"0" topmargin=3D"0" style=3D"line-height:=
+ 17px; font-family: Helvetica; font-size: 12px; font-style: normal; =
+font-variant: normal; font-weight: normal; letter-spacing: normal; =
+orphans: auto; text-align: start; text-indent: 0px; text-transform: =
+none; white-space: normal; widows: auto; word-spacing: 0px; =
+-webkit-text-stroke-width: 0px;">I bought a couple of things from party =
+city for my sisters birthday, and they offered email receipts, so i =
+thought i should forward it to you.<br style=3D"line-height: =
+17px;">thank you for your time<br style=3D"line-height: 17px;"><br =
+style=3D"line-height: 17px;"><div style=3D"line-height: 17px; margin: =
+0px;"><span style=3D"line-height: 17px; font-family: Helvetica; color: =
+rgb(127, 127, 127);"><b style=3D"line-height: 17px;">From:<span =
+class=3D"Apple-converted-space">&nbsp;</span></b></span><span =
+style=3D"line-height: 17px; font-family: Helvetica;">Party City &lt;<a =
+href=3D"mailto:partycity@e.partycity.ca" style=3D"line-height: =
+17px;">partycity@e.partycity.ca</a>&gt;<br style=3D"line-height: =
+17px;"></span></div><div style=3D"line-height: 17px; margin: 0px;"><span =
+style=3D"line-height: 17px; font-family: Helvetica; color: rgb(127, 127, =
+127);"><b style=3D"line-height: 17px;">Subject:<span =
+class=3D"Apple-converted-space">&nbsp;</span></b></span><span =
+style=3D"line-height: 17px; font-family: Helvetica;"><b =
+style=3D"line-height: 17px;">Party City e-Receipt</b><br =
+style=3D"line-height: 17px;"></span></div><div style=3D"line-height: =
+17px; margin: 0px;"><span style=3D"line-height: 17px; font-family: =
+Helvetica; color: rgb(127, 127, 127);"><b style=3D"line-height: =
+17px;">Date:<span =
+class=3D"Apple-converted-space">&nbsp;</span></b></span><span =
+style=3D"line-height: 17px; font-family: Helvetica;">June 18, 2014 at =
+1:18:05 PM EDT<br style=3D"line-height: 17px;"></span></div><div =
+style=3D"line-height: 17px; margin: 0px;"><span style=3D"line-height: =
+17px; font-family: Helvetica; color: rgb(127, 127, 127);"><b =
+style=3D"line-height: 17px;">To:<span =
+class=3D"Apple-converted-space">&nbsp;</span></b></span><span =
+style=3D"line-height: 17px; font-family: Helvetica;"><a =
+href=3D"mailto:shahad.mahdi@ryerson.ca" style=3D"line-height: =
+17px;">shahad.mahdi@ryerson.ca</a><br style=3D"line-height: =
+17px;"></span></div><div style=3D"line-height: 17px; margin: 0px;"><span =
+style=3D"line-height: 17px; font-family: Helvetica; color: rgb(127, 127, =
+127);"><b style=3D"line-height: 17px;">Reply-To:<span =
+class=3D"Apple-converted-space">&nbsp;</span></b></span><span =
+style=3D"line-height: 17px; font-family: Helvetica;"><a =
+href=3D"mailto:PartyCity.6r8lzc11zk.d52b@e.partycity.ca" =
+style=3D"line-height: =
+17px;">PartyCity.6r8lzc11zk.d52b@e.partycity.ca</a><br =
+style=3D"line-height: 17px;"></span></div><br style=3D"line-height: =
+17px;"><br style=3D"line-height: 17px;"><img =
+src=3D"http://link.partycity.com/1x1.dyn?10EGbjsxh8Almh6ofEjX5em_W=3D0" =
+width=3D"1" height=3D"1" border=3D"0" style=3D"line-height: =
+17px;"><table bgcolor=3D"white" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" width=3D"100%" style=3D"line-height: 17px;"><tbody =
+style=3D"line-height: 17px;"><tr style=3D"line-height: 17px;"><td =
+align=3D"center" style=3D"line-height: 17px;"><table align=3D"center" =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600" =
+style=3D"line-height: 17px;"><tbody style=3D"line-height: 17px;"><tr =
+style=3D"line-height: 17px;"><td height=3D"8" style=3D"line-height: =
+17px;"></td></tr><tr style=3D"line-height: 17px;"><td align=3D"center" =
+valign=3D"top" width=3D"600" style=3D"line-height: 17px;"><table =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"596" =
+align=3D"center" style=3D"line-height: 17px;"><tbody style=3D"line-height:=
+ 17px;"><tr style=3D"line-height: 17px;"><td align=3D"left" height=3D"78" =
+valign=3D"top" width=3D"234" style=3D"line-height: 17px;"><a =
+href=3D"http://link.partycity.com/u.d?IYGvEUP9wsyt0IfXHp18k=3D581" =
+target=3D"_blank" style=3D"line-height: 17px;"><img border=3D"0" =
+src=3D"http://media.4at5.net/email_domains/pay/134649/images/logoCA2.jpg" =
+style=3D"line-height: 17px;"></a></td><td width=3D"10" =
+style=3D"line-height: 17px;"></td><td align=3D"right" valign=3D"bottom" =
+style=3D"line-height: 19px; font-size: 14px; text-align: right; =
+vertical-align: bottom; text-transform: uppercase; padding-bottom: =
+5px;"><span id=3D"STOREADDRESS" style=3D"line-height: 19px;"><table =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"line-height: =
+17px;"><tbody style=3D"line-height: 17px;"><tr style=3D"line-height: =
+17px;"><td style=3D"line-height: 14px; font-family: Arial; font-size: =
+10px; font-weight: bold; text-align: right;">29 WILLIAM KITCHEN =
+RD</td></tr><tr style=3D"line-height: 17px;"><td style=3D"line-height: =
+14px; font-family: Arial; font-size: 10px; font-weight: bold; =
+text-align: right;">SCARBOROUGH, ON M1P5B7</td></tr><tr =
+style=3D"line-height: 17px;"><td style=3D"line-height: 14px; =
+font-family: Arial; font-size: 10px; font-weight: bold; text-align: =
+right;">(416) =
+293-2339</td></tr></tbody></table></span></td></tr></tbody></table><table =
+width=3D"596" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+align=3D"center" style=3D"line-height: 17px;"><tbody style=3D"line-height:=
+ 17px;"><tr style=3D"line-height: 17px;"><td width=3D"135" height=3D"47" =
+style=3D"line-height: 17px;"><a =
+href=3D"http://link.partycity.com/u.d?F4GvEUP9wsyt0IfXHp18h=3D591" =
+style=3D"line-height: 17px;"><img =
+src=3D"http://images.postdirect.com/master/9/1005214/tm_1.jpg" =
+width=3D"135" height=3D"47" border=3D"0" alt=3D"All Party Supplies" =
+style=3D"line-height: 17px; display: block;"></a></td><td width=3D"120" =
+height=3D"47" style=3D"line-height: 17px;"><a =
+href=3D"http://link.partycity.com/u.d?YYGvEUP9wsyt0IfXHp18q=3D601" =
+style=3D"line-height: 17px;"><img =
+src=3D"http://images.postdirect.com/master/9/1005214/tm2.jpg" =
+width=3D"120" height=3D"47" border=3D"0" alt=3D"Birthday Party" =
+style=3D"line-height: 17px; display: block;"></a></td><td width=3D"119" =
+height=3D"47" style=3D"line-height: 17px;"><a =
+href=3D"http://link.partycity.com/u.d?TYGvEUP9wsyt0IfXHp183=3D611" =
+style=3D"line-height: 17px;"><img =
+src=3D"http://images.postdirect.com/master/9/1005214/tm3.jpg" =
+width=3D"119" height=3D"47" border=3D"0" alt=3D"Theme Party" =
+style=3D"line-height: 17px; display: block;"></a></td><td width=3D"120" =
+height=3D"47" style=3D"line-height: 17px;"><a =
+href=3D"http://link.partycity.com/u.d?MYGvEUP9wsyt0IfXHp18w=3D621" =
+style=3D"line-height: 17px;"><img =
+src=3D"http://images.postdirect.com/master/9/1005214/tm4.jpg" =
+width=3D"120" height=3D"47" border=3D"0" alt=3D"Costumes" =
+style=3D"line-height: 17px; display: block;"></a></td><td width=3D"102" =
+height=3D"47" style=3D"line-height: 17px;"><a =
+href=3D"http://link.partycity.com/u.d?BYGvEUP9wsyt0IfXHp19G=3D641" =
+style=3D"line-height: 17px;"><img =
+src=3D"http://images.postdirect.com/master/9/1005214/tm5.jpg" =
+width=3D"102" height=3D"47" border=3D"0" alt=3D"Solid Colour" =
+style=3D"line-height: 17px; display: =
+block;"></a></td></tr></tbody></table><table border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"596" style=3D"line-height: =
+17px;"><tbody style=3D"line-height: 17px;"><tr style=3D"line-height: =
+17px;"><td align=3D"center" style=3D"line-height: 17px;"><br =
+style=3D"line-height: 17px;"><span style=3D"line-height: 22px; =
+font-family: 'Courier New'; font-size: 16px; color: rgb(134, 124, 218); =
+font-weight: bold; text-align: center;">Thank you for shopping at Party =
+City in SCARBOROUGH</span><br style=3D"line-height: 17px;"><br =
+style=3D"line-height: 17px;"><table style=3D"line-height: 17px;"><tbody =
+style=3D"line-height: 17px;"><tr style=3D"line-height: 17px;"><td =
+style=3D"line-height: 17px;"><span id=3D"RECEIPTBODY" =
+style=3D"line-height: 17px;"><div style=3D"line-height: 25px; =
+font-family: Arial; font-size: 18px; font-weight: bold; width: 310px; =
+text-align: center;">** BALLOON ORDER **</div><br style=3D"line-height: =
+17px;"><table style=3D"line-height: 10px; width: 310px; table-layout: =
+fixed; empty-cells: show; font-family: Arial; font-size: 10px; =
+font-weight: bold;"><tbody style=3D"line-height: 14px;"><tr =
+style=3D"line-height: 14px;"><td style=3D"line-height: 14px; width: =
+142px; height: 12px; text-align: left; white-space: nowrap;">Customer =
+Name:</td><td style=3D"line-height: 14px; width: 142px; height: 12px; =
+text-align: left; white-space: nowrap;">ZINAH HUSSEIN</td></tr><tr =
+style=3D"line-height: 14px;"><td style=3D"line-height: 14px; width: =
+142px; height: 12px; text-align: left; white-space: =
+nowrap;">Phone:</td><td style=3D"line-height: 14px; width: 142px; =
+height: 12px; text-align: left; white-space: nowrap;">(416) =
+893-2727</td></tr></tbody></table><br style=3D"line-height: =
+17px;"><table style=3D"line-height: 10px; width: 310px; table-layout: =
+fixed; empty-cells: show; font-family: Arial; font-size: 10px; =
+font-weight: bold;"><tbody style=3D"line-height: 14px;"><tr =
+style=3D"line-height: 14px;"><td style=3D"line-height: 14px; height: =
+12px; text-align: left; white-space: nowrap;">PICKUP DATE: 06-21-2014 =
+03:00 PM</td></tr><tr style=3D"line-height: 14px;"><td =
+style=3D"line-height: 14px; height: 12px; text-align: left; white-space: =
+nowrap;">ORDER NOTES:</td></tr><tr style=3D"line-height: 14px;"><td =
+style=3D"line-height: 14px; height: 12px; text-align: left;">1 F (that =
+already has been picked up ) &amp;8 L ,</td></tr></tbody></table><br =
+style=3D"line-height: 17px;"><table style=3D"line-height: 10px; width: =
+310px; table-layout: fixed; empty-cells: show; font-family: Arial; =
+font-size: 10px; font-weight: normal;"><tbody style=3D"line-height: =
+14px;"><tr style=3D"line-height: 14px;"><td style=3D"line-height: 14px; =
+width: 100px; height: 12px; text-align: left; white-space: =
+nowrap;">080518125617</td><td style=3D"line-height: 14px; width: 92px; =
+height: 12px; text-align: left; white-space: nowrap;">256 R JMB =
+HL</td><td style=3D"line-height: 14px; width: 78px; height: 12px; =
+text-align: right; white-space: nowrap;">$12.99</td><td =
+style=3D"line-height: 14px; width: 14px; height: 12px; text-align: =
+right; white-space: nowrap;">T</td></tr><tr style=3D"line-height: =
+14px;"><td colspan=3D"4" style=3D"line-height: 14px; height: 12px; =
+text-align: left; white-space: nowrap;">256 R JMB HLOGRPHC =
+BDAYCELBRTN</td></tr><tr style=3D"line-height: 14px;"><td =
+style=3D"line-height: 14px; width: 100px; height: 12px; text-align: =
+left; font-weight: bold; white-space: nowrap;">10 OFF 65</td><td =
+style=3D"line-height: 14px; width: 92px; height: 12px; text-align: left; =
+white-space: nowrap;"></td><td style=3D"line-height: 14px; width: 78px; =
+height: 12px; text-align: right; font-weight: bold; white-space: =
+nowrap;">$1.18</td><td style=3D"line-height: 14px; width: 14px; height: =
+12px; text-align: right; font-weight: bold; white-space: =
+nowrap;">-</td></tr><tr style=3D"line-height: 14px;"><td =
+style=3D"line-height: 14px; width: 100px; height: 12px; text-align: =
+left; white-space: nowrap;">809801344531</td><td style=3D"line-height: =
+14px; width: 92px; height: 12px; text-align: left; white-space: =
+nowrap;">LTX SOLID BU</td><td style=3D"line-height: 14px; width: 78px; =
+height: 12px; text-align: right; white-space: nowrap;">$12.72</td><td =
+style=3D"line-height: 14px; width: 14px; height: 12px; text-align: =
+right; white-space: nowrap;">T</td></tr><tr style=3D"line-height: =
+14px;"><td colspan=3D"4" style=3D"line-height: 14px; height: 12px; =
+text-align: left; white-space: nowrap;">LTX SOLID BULK BLLN</td></tr><tr =
+style=3D"line-height: 14px;"><td colspan=3D"2" style=3D"line-height: =
+14px; height: 12px; text-align: left; text-indent: 8px; white-space: =
+nowrap;">8 @ $1.59</td></tr><tr style=3D"line-height: 14px;"><td =
+style=3D"line-height: 14px; width: 100px; height: 12px; text-align: =
+left; font-weight: bold; white-space: nowrap;">10 OFF 65</td><td =
+style=3D"line-height: 14px; width: 92px; height: 12px; text-align: left; =
+white-space: nowrap;"></td><td style=3D"line-height: 14px; width: 78px; =
+height: 12px; text-align: right; font-weight: bold; white-space: =
+nowrap;">$1.14</td><td style=3D"line-height: 14px; width: 14px; height: =
+12px; text-align: right; font-weight: bold; white-space: =
+nowrap;">-</td></tr><tr style=3D"line-height: 14px;"><td =
+style=3D"line-height: 14px; width: 100px; height: 12px; text-align: =
+left; white-space: nowrap;">040004045157</td><td style=3D"line-height: =
+14px; width: 92px; height: 12px; text-align: left; white-space: =
+nowrap;">SUPER BOUQUE</td><td style=3D"line-height: 14px; width: 78px; =
+height: 12px; text-align: right; white-space: nowrap;">$0.00</td><td =
+style=3D"line-height: 14px; width: 14px; height: 12px; text-align: =
+right; white-space: nowrap;">T</td></tr><tr style=3D"line-height: =
+14px;"><td colspan=3D"4" style=3D"line-height: 14px; height: 12px; =
+text-align: left; white-space: nowrap;">SUPER BOUQUET</td></tr><tr =
+style=3D"line-height: 14px;"><td style=3D"line-height: 14px; width: =
+100px; height: 12px; text-align: left; white-space: =
+nowrap;">048419650867</td><td style=3D"line-height: 14px; width: 92px; =
+height: 12px; text-align: left; white-space: nowrap;">MYLAR =
+WEIGHT</td><td style=3D"line-height: 14px; width: 78px; height: 12px; =
+text-align: right; white-space: nowrap;">$1.49</td><td =
+style=3D"line-height: 14px; width: 14px; height: 12px; text-align: =
+right; white-space: nowrap;">T</td></tr><tr style=3D"line-height: =
+14px;"><td colspan=3D"4" style=3D"line-height: 14px; height: 12px; =
+text-align: left; white-space: nowrap;">MYLAR WEIGHT PNK</td></tr><tr =
+style=3D"line-height: 14px;"><td style=3D"line-height: 14px; width: =
+100px; height: 12px; text-align: left; font-weight: bold; white-space: =
+nowrap;">10 OFF 65</td><td style=3D"line-height: 14px; width: 92px; =
+height: 12px; text-align: left; white-space: nowrap;"></td><td =
+style=3D"line-height: 14px; width: 78px; height: 12px; text-align: =
+right; font-weight: bold; white-space: nowrap;">$0.13</td><td =
+style=3D"line-height: 14px; width: 14px; height: 12px; text-align: =
+right; font-weight: bold; white-space: nowrap;">-</td></tr><tr =
+style=3D"line-height: 14px;"><td style=3D"line-height: 14px; width: =
+100px; height: 12px; text-align: left; white-space: =
+nowrap;">048419877882</td><td style=3D"line-height: 14px; width: 92px; =
+height: 12px; text-align: left; white-space: nowrap;">20CT PNK =
+PC</td><td style=3D"line-height: 14px; width: 78px; height: 12px; =
+text-align: right; white-space: nowrap;">$0.99</td><td =
+style=3D"line-height: 14px; width: 14px; height: 12px; text-align: =
+right; white-space: nowrap;">T</td></tr><tr style=3D"line-height: =
+14px;"><td colspan=3D"4" style=3D"line-height: 14px; height: 12px; =
+text-align: left; white-space: nowrap;">20CT PNK PC PL FORK =
+VAL</td></tr><tr style=3D"line-height: 14px;"><td style=3D"line-height: =
+14px; width: 100px; height: 12px; text-align: left; font-weight: bold; =
+white-space: nowrap;">10 OFF 65</td><td style=3D"line-height: 14px; =
+width: 92px; height: 12px; text-align: left; white-space: =
+nowrap;"></td><td style=3D"line-height: 14px; width: 78px; height: 12px; =
+text-align: right; font-weight: bold; white-space: =
+nowrap;">$0.08</td><td style=3D"line-height: 14px; width: 14px; height: =
+12px; text-align: right; font-weight: bold; white-space: =
+nowrap;">-</td></tr><tr style=3D"line-height: 14px;"><td =
+style=3D"line-height: 14px; width: 100px; height: 12px; text-align: =
+left; white-space: nowrap;">048419877936</td><td style=3D"line-height: =
+14px; width: 92px; height: 12px; text-align: left; white-space: =
+nowrap;">20CT PNK PC</td><td style=3D"line-height: 14px; width: 78px; =
+height: 12px; text-align: right; white-space: nowrap;">$0.99</td><td =
+style=3D"line-height: 14px; width: 14px; height: 12px; text-align: =
+right; white-space: nowrap;">T</td></tr><tr style=3D"line-height: =
+14px;"><td colspan=3D"4" style=3D"line-height: 14px; height: 12px; =
+text-align: left; white-space: nowrap;">20CT PNK PC PL SPOON =
+VAL</td></tr><tr style=3D"line-height: 14px;"><td style=3D"line-height: =
+14px; width: 100px; height: 12px; text-align: left; font-weight: bold; =
+white-space: nowrap;">10 OFF 65</td><td style=3D"line-height: 14px; =
+width: 92px; height: 12px; text-align: left; white-space: =
+nowrap;"></td><td style=3D"line-height: 14px; width: 78px; height: 12px; =
+text-align: right; font-weight: bold; white-space: =
+nowrap;">$0.08</td><td style=3D"line-height: 14px; width: 14px; height: =
+12px; text-align: right; font-weight: bold; white-space: =
+nowrap;">-</td></tr><tr style=3D"line-height: 14px;"><td =
+style=3D"line-height: 14px; width: 100px; height: 12px; text-align: =
+left; white-space: nowrap;">048419689263</td><td style=3D"line-height: =
+14px; width: 92px; height: 12px; text-align: left; white-space: =
+nowrap;">AIR HORN AMS</td><td style=3D"line-height: 14px; width: 78px; =
+height: 12px; text-align: right; white-space: nowrap;">$8.99</td><td =
+style=3D"line-height: 14px; width: 14px; height: 12px; text-align: =
+right; white-space: nowrap;">T</td></tr><tr style=3D"line-height: =
+14px;"><td colspan=3D"4" style=3D"line-height: 14px; height: 12px; =
+text-align: left; white-space: nowrap;">SPORT AIR HORN</td></tr><tr =
+style=3D"line-height: 14px;"><td style=3D"line-height: 14px; width: =
+100px; height: 12px; text-align: left; font-weight: bold; white-space: =
+nowrap;">10 OFF 65</td><td style=3D"line-height: 14px; width: 92px; =
+height: 12px; text-align: left; white-space: nowrap;"></td><td =
+style=3D"line-height: 14px; width: 78px; height: 12px; text-align: =
+right; font-weight: bold; white-space: nowrap;">$0.82</td><td =
+style=3D"line-height: 14px; width: 14px; height: 12px; text-align: =
+right; font-weight: bold; white-space: nowrap;">-</td></tr><tr =
+style=3D"line-height: 14px;"><td style=3D"line-height: 14px; width: =
+100px; height: 12px; text-align: left; white-space: =
+nowrap;">048419651758</td><td style=3D"line-height: 14px; width: 92px; =
+height: 12px; text-align: left; white-space: nowrap;">NEW PNK =
+TISS</td><td style=3D"line-height: 14px; width: 78px; height: 12px; =
+text-align: right; white-space: nowrap;">$0.99</td><td =
+style=3D"line-height: 14px; width: 14px; height: 12px; text-align: =
+right; white-space: nowrap;">T</td></tr><tr style=3D"line-height: =
+14px;"><td colspan=3D"4" style=3D"line-height: 14px; height: 12px; =
+text-align: left; white-space: nowrap;">NEW PNK TISSUE PPR</td></tr><tr =
+style=3D"line-height: 14px;"><td style=3D"line-height: 14px; width: =
+100px; height: 12px; text-align: left; font-weight: bold; white-space: =
+nowrap;">10 OFF 65</td><td style=3D"line-height: 14px; width: 92px; =
+height: 12px; text-align: left; white-space: nowrap;"></td><td =
+style=3D"line-height: 14px; width: 78px; height: 12px; text-align: =
+right; font-weight: bold; white-space: nowrap;">$0.08</td><td =
+style=3D"line-height: 14px; width: 14px; height: 12px; text-align: =
+right; font-weight: bold; white-space: nowrap;">-</td></tr><tr =
+style=3D"line-height: 14px;"><td style=3D"line-height: 14px; width: =
+100px; height: 12px; text-align: left; white-space: =
+nowrap;">013051389758</td><td style=3D"line-height: 14px; width: 92px; =
+height: 12px; text-align: left; white-space: nowrap;">NEW PNK =
+POLK</td><td style=3D"line-height: 14px; width: 78px; height: 12px; =
+text-align: right; white-space: nowrap;">$1.49</td><td =
+style=3D"line-height: 14px; width: 14px; height: 12px; text-align: =
+right; white-space: nowrap;">T</td></tr><tr style=3D"line-height: =
+14px;"><td colspan=3D"4" style=3D"line-height: 14px; height: 12px; =
+text-align: left; white-space: nowrap;">NEW PNK POLKA DOT =
+BAGS</td></tr><tr style=3D"line-height: 14px;"><td style=3D"line-height: =
+14px; width: 100px; height: 12px; text-align: left; font-weight: bold; =
+white-space: nowrap;">10 OFF 65</td><td style=3D"line-height: 14px; =
+width: 92px; height: 12px; text-align: left; white-space: =
+nowrap;"></td><td style=3D"line-height: 14px; width: 78px; height: 12px; =
+text-align: right; font-weight: bold; white-space: =
+nowrap;">$0.13</td><td style=3D"line-height: 14px; width: 14px; height: =
+12px; text-align: right; font-weight: bold; white-space: =
+nowrap;">-</td></tr><tr style=3D"line-height: 14px;"><td =
+style=3D"line-height: 14px; width: 100px; height: 12px; text-align: =
+left; white-space: nowrap;">021505196708</td><td style=3D"line-height: =
+14px; width: 92px; height: 12px; text-align: left; white-space: =
+nowrap;">ICE CREAM CO</td><td style=3D"line-height: 14px; width: 78px; =
+height: 12px; text-align: right; white-space: nowrap;">$19.99</td><td =
+style=3D"line-height: 14px; width: 14px; height: 12px; text-align: =
+right; white-space: nowrap;">T</td></tr><tr style=3D"line-height: =
+14px;"><td colspan=3D"4" style=3D"line-height: 14px; height: 12px; =
+text-align: left; white-space: nowrap;">ICE CREAM CONE =
+PINATA</td></tr><tr style=3D"line-height: 14px;"><td style=3D"line-height:=
+ 14px; width: 100px; height: 12px; text-align: left; font-weight: bold; =
+white-space: nowrap;">10 OFF 65</td><td style=3D"line-height: 14px; =
+width: 92px; height: 12px; text-align: left; white-space: =
+nowrap;"></td><td style=3D"line-height: 14px; width: 78px; height: 12px; =
+text-align: right; font-weight: bold; white-space: =
+nowrap;">$1.81</td><td style=3D"line-height: 14px; width: 14px; height: =
+12px; text-align: right; font-weight: bold; white-space: =
+nowrap;">-</td></tr><tr style=3D"line-height: 14px;"><td =
+style=3D"line-height: 14px; width: 100px; height: 12px; text-align: =
+left; white-space: nowrap;">048419968139</td><td style=3D"line-height: =
+14px; width: 92px; height: 12px; text-align: left; white-space: =
+nowrap;">5PC 6IN BRT</td><td style=3D"line-height: 14px; width: 78px; =
+height: 12px; text-align: right; white-space: nowrap;">$2.99</td><td =
+style=3D"line-height: 14px; width: 14px; height: 12px; text-align: =
+right; white-space: nowrap;">T</td></tr><tr style=3D"line-height: =
+14px;"><td colspan=3D"4" style=3D"line-height: 14px; height: 12px; =
+text-align: left; white-space: nowrap;">5PC 6IN BRT PNK DECO MINI =
+FAN</td></tr><tr style=3D"line-height: 14px;"><td style=3D"line-height: =
+14px; width: 100px; height: 12px; text-align: left; font-weight: bold; =
+white-space: nowrap;">10 OFF 65</td><td style=3D"line-height: 14px; =
+width: 92px; height: 12px; text-align: left; white-space: =
+nowrap;"></td><td style=3D"line-height: 14px; width: 78px; height: 12px; =
+text-align: right; font-weight: bold; white-space: =
+nowrap;">$0.26</td><td style=3D"line-height: 14px; width: 14px; height: =
+12px; text-align: right; font-weight: bold; white-space: =
+nowrap;">-</td></tr><tr style=3D"line-height: 14px;"><td =
+style=3D"line-height: 14px; width: 100px; height: 12px; text-align: =
+left; white-space: nowrap;">799626022182</td><td style=3D"line-height: =
+14px; width: 92px; height: 12px; text-align: left; white-space: =
+nowrap;">500FTX1.75IN</td><td style=3D"line-height: 14px; width: 78px; =
+height: 12px; text-align: right; white-space: nowrap;">$4.99</td><td =
+style=3D"line-height: 14px; width: 14px; height: 12px; text-align: =
+right; white-space: nowrap;">T</td></tr><tr style=3D"line-height: =
+14px;"><td colspan=3D"4" style=3D"line-height: 14px; height: 12px; =
+text-align: left; white-space: nowrap;">500FTx1.75IN NEW PNK =
+STRMR</td></tr><tr style=3D"line-height: 14px;"><td style=3D"line-height: =
+14px; width: 100px; height: 12px; text-align: left; font-weight: bold; =
+white-space: nowrap;">10 OFF 65</td><td style=3D"line-height: 14px; =
+width: 92px; height: 12px; text-align: left; white-space: =
+nowrap;"></td><td style=3D"line-height: 14px; width: 78px; height: 12px; =
+text-align: right; font-weight: bold; white-space: =
+nowrap;">$0.46</td><td style=3D"line-height: 14px; width: 14px; height: =
+12px; text-align: right; font-weight: bold; white-space: =
+nowrap;">-</td></tr><tr style=3D"line-height: 14px;"><td =
+style=3D"line-height: 14px; width: 100px; height: 12px; text-align: =
+left; white-space: nowrap;">048419968016</td><td style=3D"line-height: =
+14px; width: 92px; height: 12px; text-align: left; white-space: =
+nowrap;">3PC 16IN BRT</td><td style=3D"line-height: 14px; width: 78px; =
+height: 12px; text-align: right; white-space: nowrap;">$8.99</td><td =
+style=3D"line-height: 14px; width: 14px; height: 12px; text-align: =
+right; white-space: nowrap;">T</td></tr><tr style=3D"line-height: =
+14px;"><td colspan=3D"4" style=3D"line-height: 14px; height: 12px; =
+text-align: left; white-space: nowrap;">3PC 16IN BRT PNK DECO =
+FLUFFY</td></tr><tr style=3D"line-height: 14px;"><td style=3D"line-height:=
+ 14px; width: 100px; height: 12px; text-align: left; font-weight: bold; =
+white-space: nowrap;">10 OFF 65</td><td style=3D"line-height: 14px; =
+width: 92px; height: 12px; text-align: left; white-space: =
+nowrap;"></td><td style=3D"line-height: 14px; width: 78px; height: 12px; =
+text-align: right; font-weight: bold; white-space: =
+nowrap;">$0.82</td><td style=3D"line-height: 14px; width: 14px; height: =
+12px; text-align: right; font-weight: bold; white-space: =
+nowrap;">-</td></tr><tr style=3D"line-height: 14px;"><td =
+style=3D"line-height: 14px; width: 100px; height: 12px; text-align: =
+left; white-space: nowrap;">048419757078</td><td style=3D"line-height: =
+14px; width: 92px; height: 12px; text-align: left; white-space: =
+nowrap;">6.5X4FT BNR</td><td style=3D"line-height: 14px; width: 78px; =
+height: 12px; text-align: right; white-space: nowrap;">$7.99</td><td =
+style=3D"line-height: 14px; width: 14px; height: 12px; text-align: =
+right; white-space: nowrap;">T</td></tr><tr style=3D"line-height: =
+14px;"><td colspan=3D"4" style=3D"line-height: 14px; height: 12px; =
+text-align: left; white-space: nowrap;">6.5x4FT BNR HPY BDAY =
+GNT</td></tr><tr style=3D"line-height: 14px;"><td style=3D"line-height: =
+14px; width: 100px; height: 12px; text-align: left; font-weight: bold; =
+white-space: nowrap;">10 OFF 65</td><td style=3D"line-height: 14px; =
+width: 92px; height: 12px; text-align: left; white-space: =
+nowrap;"></td><td style=3D"line-height: 14px; width: 78px; height: 12px; =
+text-align: right; font-weight: bold; white-space: =
+nowrap;">$0.73</td><td style=3D"line-height: 14px; width: 14px; height: =
+12px; text-align: right; font-weight: bold; white-space: =
+nowrap;">-</td></tr><tr style=3D"line-height: 14px;"><td =
+style=3D"line-height: 14px; width: 100px; height: 12px; text-align: =
+left; white-space: nowrap;">013051313395</td><td style=3D"line-height: =
+14px; width: 92px; height: 12px; text-align: left; white-space: =
+nowrap;">SWEET STUFF</td><td style=3D"line-height: 14px; width: 78px; =
+height: 12px; text-align: right; white-space: nowrap;">$4.99</td><td =
+style=3D"line-height: 14px; width: 14px; height: 12px; text-align: =
+right; white-space: nowrap;">T</td></tr><tr style=3D"line-height: =
+14px;"><td colspan=3D"4" style=3D"line-height: 14px; height: 12px; =
+text-align: left; white-space: nowrap;">SWEET STUFF SWIRL =
+DECO</td></tr><tr style=3D"line-height: 14px;"><td style=3D"line-height: =
+14px; width: 100px; height: 12px; text-align: left; font-weight: bold; =
+white-space: nowrap;">10 OFF 65</td><td style=3D"line-height: 14px; =
+width: 92px; height: 12px; text-align: left; white-space: =
+nowrap;"></td><td style=3D"line-height: 14px; width: 78px; height: 12px; =
+text-align: right; font-weight: bold; white-space: =
+nowrap;">$0.46</td><td style=3D"line-height: 14px; width: 14px; height: =
+12px; text-align: right; font-weight: bold; white-space: =
+nowrap;">-</td></tr><tr style=3D"line-height: 14px;"><td =
+style=3D"line-height: 14px; width: 100px; height: 12px; text-align: =
+left; white-space: nowrap;">048419627951</td><td style=3D"line-height: =
+14px; width: 92px; height: 12px; text-align: left; white-space: =
+nowrap;">FLIP FLOP KE</td><td style=3D"line-height: 14px; width: 78px; =
+height: 12px; text-align: right; white-space: nowrap;">$3.99</td><td =
+style=3D"line-height: 14px; width: 14px; height: 12px; text-align: =
+right; white-space: nowrap;">T</td></tr><tr style=3D"line-height: =
+14px;"><td colspan=3D"4" style=3D"line-height: 14px; height: 12px; =
+text-align: left; white-space: nowrap;">FLIP FLOP KEYCHAIN</td></tr><tr =
+style=3D"line-height: 14px;"><td style=3D"line-height: 14px; width: =
+100px; height: 12px; text-align: left; font-weight: bold; white-space: =
+nowrap;">10 OFF 65</td><td style=3D"line-height: 14px; width: 92px; =
+height: 12px; text-align: left; white-space: nowrap;"></td><td =
+style=3D"line-height: 14px; width: 78px; height: 12px; text-align: =
+right; font-weight: bold; white-space: nowrap;">$0.35</td><td =
+style=3D"line-height: 14px; width: 14px; height: 12px; text-align: =
+right; font-weight: bold; white-space: nowrap;">-</td></tr><tr =
+style=3D"line-height: 14px;"><td style=3D"line-height: 14px; width: =
+100px; height: 12px; text-align: left; white-space: =
+nowrap;">048419891703</td><td style=3D"line-height: 14px; width: 92px; =
+height: 12px; text-align: left; white-space: nowrap;">GLTTR =
+EMERY</td><td style=3D"line-height: 14px; width: 78px; height: 12px; =
+text-align: right; white-space: nowrap;">$4.13</td><td =
+style=3D"line-height: 14px; width: 14px; height: 12px; text-align: =
+right; white-space: nowrap;">T</td></tr><tr style=3D"line-height: =
+14px;"><td colspan=3D"4" style=3D"line-height: 14px; height: 12px; =
+text-align: left; white-space: nowrap;">GLTTR EMERY BOARD</td></tr><tr =
+style=3D"line-height: 14px;"><td colspan=3D"2" style=3D"line-height: =
+14px; height: 12px; text-align: left; text-indent: 8px; white-space: =
+nowrap;">7 @ $0.59</td></tr><tr style=3D"line-height: 14px;"><td =
+style=3D"line-height: 14px; width: 100px; height: 12px; text-align: =
+left; font-weight: bold; white-space: nowrap;">10 OFF 65</td><td =
+style=3D"line-height: 14px; width: 92px; height: 12px; text-align: left; =
+white-space: nowrap;"></td><td style=3D"line-height: 14px; width: 78px; =
+height: 12px; text-align: right; font-weight: bold; white-space: =
+nowrap;">$0.37</td><td style=3D"line-height: 14px; width: 14px; height: =
+12px; text-align: right; font-weight: bold; white-space: =
+nowrap;">-</td></tr><tr style=3D"line-height: 14px;"><td =
+style=3D"line-height: 14px; width: 100px; height: 12px; text-align: =
+left; white-space: nowrap;">013051322755</td><td style=3D"line-height: =
+14px; width: 92px; height: 12px; text-align: left; white-space: =
+nowrap;">MINI BUBBLE</td><td style=3D"line-height: 14px; width: 78px; =
+height: 12px; text-align: right; white-space: nowrap;">$2.45</td><td =
+style=3D"line-height: 14px; width: 14px; height: 12px; text-align: =
+right; white-space: nowrap;">T</td></tr><tr style=3D"line-height: =
+14px;"><td colspan=3D"4" style=3D"line-height: 14px; height: 12px; =
+text-align: left; white-space: nowrap;">MINI BUBBLE WAND</td></tr><tr =
+style=3D"line-height: 14px;"><td colspan=3D"2" style=3D"line-height: =
+14px; height: 12px; text-align: left; text-indent: 8px; white-space: =
+nowrap;">7 @ $0.35</td></tr><tr style=3D"line-height: 14px;"><td =
+style=3D"line-height: 14px; width: 100px; height: 12px; text-align: =
+left; font-weight: bold; white-space: nowrap;">10 OFF 65</td><td =
+style=3D"line-height: 14px; width: 92px; height: 12px; text-align: left; =
+white-space: nowrap;"></td><td style=3D"line-height: 14px; width: 78px; =
+height: 12px; text-align: right; font-weight: bold; white-space: =
+nowrap;">$0.22</td><td style=3D"line-height: 14px; width: 14px; height: =
+12px; text-align: right; font-weight: bold; white-space: =
+nowrap;">-</td></tr><tr style=3D"line-height: 14px;"><td =
+style=3D"line-height: 14px; width: 100px; height: 12px; text-align: =
+left; white-space: nowrap;">009138377435</td><td style=3D"line-height: =
+14px; width: 92px; height: 12px; text-align: left; white-space: =
+nowrap;">TEENY TWISTE</td><td style=3D"line-height: 14px; width: 78px; =
+height: 12px; text-align: right; white-space: nowrap;">$2.73</td><td =
+style=3D"line-height: 14px; width: 14px; height: 12px; text-align: =
+right; white-space: nowrap;">T</td></tr><tr style=3D"line-height: =
+14px;"><td colspan=3D"4" style=3D"line-height: 14px; height: 12px; =
+text-align: left; white-space: nowrap;">TEENY TWISTER</td></tr><tr =
+style=3D"line-height: 14px;"><td colspan=3D"2" style=3D"line-height: =
+14px; height: 12px; text-align: left; text-indent: 8px; white-space: =
+nowrap;">7 @ $0.39</td></tr><tr style=3D"line-height: 14px;"><td =
+style=3D"line-height: 14px; width: 100px; height: 12px; text-align: =
+left; font-weight: bold; white-space: nowrap;">10 OFF 65</td><td =
+style=3D"line-height: 14px; width: 92px; height: 12px; text-align: left; =
+white-space: nowrap;"></td><td style=3D"line-height: 14px; width: 78px; =
+height: 12px; text-align: right; font-weight: bold; white-space: =
+nowrap;">$0.24</td><td style=3D"line-height: 14px; width: 14px; height: =
+12px; text-align: right; font-weight: bold; white-space: =
+nowrap;">-</td></tr><tr style=3D"line-height: 14px;"><td =
+style=3D"line-height: 14px; width: 100px; height: 12px; text-align: =
+left; white-space: nowrap;">809801047487</td><td style=3D"line-height: =
+14px; width: 92px; height: 12px; text-align: left; white-space: =
+nowrap;">15 FOR A DOL</td><td style=3D"line-height: 14px; width: 78px; =
+height: 12px; text-align: right; white-space: nowrap;">$11.55</td><td =
+style=3D"line-height: 14px; width: 14px; height: 12px; text-align: =
+right; white-space: nowrap;">T</td></tr><tr style=3D"line-height: =
+14px;"><td colspan=3D"4" style=3D"line-height: 14px; height: 12px; =
+text-align: left; white-space: nowrap;">15 FOR A DOLLAR</td></tr><tr =
+style=3D"line-height: 14px;"><td colspan=3D"2" style=3D"line-height: =
+14px; height: 12px; text-align: left; text-indent: 8px; white-space: =
+nowrap;">165 @ $0.07</td></tr><tr style=3D"line-height: 14px;"><td =
+style=3D"line-height: 14px; width: 100px; height: 12px; text-align: =
+left; font-weight: bold; white-space: nowrap;">15/1.00</td><td =
+style=3D"line-height: 14px; width: 92px; height: 12px; text-align: left; =
+white-space: nowrap;"></td><td style=3D"line-height: 14px; width: 78px; =
+height: 12px; text-align: right; font-weight: bold; white-space: =
+nowrap;">$0.55</td><td style=3D"line-height: 14px; width: 14px; height: =
+12px; text-align: right; font-weight: bold; white-space: =
+nowrap;">-</td></tr><tr style=3D"line-height: 14px;"><td =
+style=3D"line-height: 14px; width: 100px; height: 12px; text-align: =
+left; white-space: nowrap;">013051296551</td><td style=3D"line-height: =
+14px; width: 92px; height: 12px; text-align: left; white-space: =
+nowrap;">ZEBRA BDAY L</td><td style=3D"line-height: 14px; width: 78px; =
+height: 12px; text-align: right; white-space: nowrap;">$6.99</td><td =
+style=3D"line-height: 14px; width: 14px; height: 12px; text-align: =
+right; white-space: nowrap;">T</td></tr><tr style=3D"line-height: =
+14px;"><td colspan=3D"4" style=3D"line-height: 14px; height: 12px; =
+text-align: left; white-space: nowrap;">ZEBRA BDAY LTX</td></tr><tr =
+style=3D"line-height: 14px;"><td style=3D"line-height: 14px; width: =
+100px; height: 12px; text-align: left; font-weight: bold; white-space: =
+nowrap;">10 OFF 65</td><td style=3D"line-height: 14px; width: 92px; =
+height: 12px; text-align: left; white-space: nowrap;"></td><td =
+style=3D"line-height: 14px; width: 78px; height: 12px; text-align: =
+right; font-weight: bold; white-space: nowrap;">$0.64</td><td =
+style=3D"line-height: 14px; width: 14px; height: 12px; text-align: =
+right; font-weight: bold; white-space: nowrap;">-</td></tr><tr =
+style=3D"line-height: 14px;"><td style=3D"line-height: 14px; width: =
+100px; height: 12px; text-align: left; white-space: =
+nowrap;">809801387859</td><td style=3D"line-height: 14px; width: 92px; =
+height: 12px; text-align: left; white-space: nowrap;">COUPON</td><td =
+style=3D"line-height: 14px; width: 78px; height: 12px; text-align: =
+right; white-space: nowrap;">$0.00</td><td style=3D"line-height: 14px; =
+width: 14px; height: 12px; text-align: right; white-space: =
+nowrap;"></td></tr><tr style=3D"line-height: 14px;"><td colspan=3D"4" =
+style=3D"line-height: 14px; height: 12px; text-align: left; white-space: =
+nowrap;">CND EMAIL SIGN UP</td></tr></tbody></table><div =
+style=3D"line-height: 14px; font-family: Arial; font-size: 10px; =
+font-weight: normal; width: =
+310px;">=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D</div><table style=3D"line-height: 10px; width: 310px; =
+table-layout: fixed; empty-cells: show; font-family: Arial; font-size: =
+10px; font-weight: normal;"><tbody style=3D"line-height: 14px;"><tr =
+style=3D"line-height: 14px;"><td style=3D"line-height: 14px; width: =
+155px; height: 12px; text-align: left; white-space: =
+nowrap;">SUBTOTAL</td><td style=3D"line-height: 14px; width: 123px; =
+height: 12px; text-align: right; white-space: nowrap;">$111.88</td><td =
+style=3D"line-height: 14px; width: 4px; height: 12px; text-align: right; =
+white-space: nowrap;"></td></tr><tr style=3D"line-height: 14px;"><td =
+style=3D"line-height: 14px; width: 155px; height: 12px; text-align: =
+left; white-space: nowrap;">HST</td><td style=3D"line-height: 14px; =
+width: 123px; height: 12px; text-align: right; white-space: =
+nowrap;">$14.54</td><td style=3D"line-height: 14px; width: 4px; height: =
+12px; text-align: right; white-space: nowrap;"></td></tr><tr =
+style=3D"line-height: 14px;"><td style=3D"line-height: 14px; width: =
+155px; height: 12px; text-align: left; white-space: =
+nowrap;">TOTAL</td><td style=3D"line-height: 14px; width: 123px; height: =
+12px; text-align: right; white-space: nowrap;">$126.42</td><td =
+style=3D"line-height: 14px; width: 4px; height: 12px; text-align: right; =
+white-space: nowrap;"></td></tr><tr style=3D"line-height: 14px;"><td =
+style=3D"line-height: 14px; width: 155px; height: 12px; text-align: =
+left; font-weight: bold; white-space: nowrap;">CASH</td><td =
+style=3D"line-height: 14px; width: 123px; height: 12px; text-align: =
+right; font-weight: bold; white-space: nowrap;">$140.00</td><td =
+style=3D"line-height: 14px; width: 4px; height: 12px; text-align: right; =
+white-space: nowrap;"></td></tr><tr style=3D"line-height: 14px;"><td =
+style=3D"line-height: 14px; width: 155px; height: 12px; text-align: =
+left; white-space: nowrap;">CHANGE</td><td style=3D"line-height: 14px; =
+width: 123px; height: 12px; text-align: right; white-space: =
+nowrap;">-$13.58</td><td style=3D"line-height: 14px; width: 4px; height: =
+12px; text-align: right; white-space: nowrap;"></td></tr><tr =
+style=3D"line-height: 14px;"><td style=3D"line-height: 14px; width: =
+155px; height: 12px; font-weight: bold; text-align: left; white-space: =
+nowrap;">ITEMS =3D 211</td><td style=3D"line-height: 14px; width: 123px; =
+height: 12px; font-weight: bold; text-align: right; white-space: =
+nowrap;">YOU SAVED $10.55</td><td style=3D"line-height: 14px; width: =
+4px; height: 12px; white-space: nowrap;"></td></tr></tbody></table><div =
+style=3D"line-height: 14px; font-family: Arial; font-size: 10px; =
+font-weight: normal; width: =
+310px;">=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D</div><table style=3D"line-height: 10px; width: 310px; =
+table-layout: fixed; empty-cells: show; font-family: Arial; font-size: =
+10px; font-weight: normal;"></table><div style=3D"line-height: 14px; =
+font-family: Arial; font-size: 10px; font-weight: bold; width: 310px; =
+text-align: center;">CUSTOMER COPY</div><div style=3D"line-height: 14px; =
+font-family: Arial; font-size: 10px; font-weight: normal; width: 310px; =
+text-align: center;">HST #866821945</div><div style=3D"line-height: =
+14px; font-family: Arial; font-size: 10px; font-weight: normal; width: =
+310px; text-align: center;">STORE 2007 TRN 18 REG 1</div><div =
+style=3D"line-height: 14px; font-family: Arial; font-size: 10px; =
+font-weight: normal; width: 310px; text-align: center;">06-18-2014 =
+01:09:28 PM</div></span></td></tr></tbody></table><br =
+style=3D"line-height: 17px;"><img alt=3D"" =
+src=3D"http://www.barcodesinc.com/generator/image.php?code=3D3BF10E900100I=
+2&amp;style=3D165&amp;type=3DC128B&amp;width=3D400&amp;height=3D100&amp;xr=
+es=3D1&amp;font=3D3" style=3D"line-height: 17px;"><span =
+style=3D"line-height: 17px; font-family: 'Courier =
+New';"></span></td></tr><tr style=3D"line-height: 17px;"><td =
+align=3D"left" style=3D"line-height: 17px;"><span style=3D"line-height: =
+19px; font-family: Arial, Helvetica, sans-serif; font-size: 14px;"><b =
+style=3D"line-height: 19px;">Return Policy</b></span><br =
+style=3D"line-height: 17px;"><span style=3D"line-height: 19px; =
+font-size: 14px; margin-bottom: 5px; font-family: Arial, Helvetica, =
+sans-serif;">Returns must be made within 30 days of purchase. Receipt =
+must accompany each return. Only unopened packages may be returned. =
+Seasonal items may be returned up to 7 days prior to holiday. =
+Merchandise credits are only redeemable at issuing stores.<span =
+class=3D"Apple-converted-space">&nbsp;</span><br style=3D"line-height: =
+19px;"><br style=3D"line-height: 19px;"><a =
+href=3D"http://email.partycity.ca/unsubscribe.jsp?s=3DZ15K&amp;i=3D3753640=
+41474" target=3D"_blank" style=3D"line-height: =
+19px;">Unsubscribe</a><span =
+class=3D"Apple-converted-space">&nbsp;</span>from future messages.<br =
+style=3D"line-height: 19px;">Party City | 25 Green Pond Road | Rockaway, =
+NJ 07866 | United States</span></td></tr></tbody></table><table =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"552" =
+style=3D"line-height: 17px;"><tbody style=3D"line-height: 17px;"><tr =
+style=3D"line-height: 17px;"><td height=3D"51" width=3D"552" =
+style=3D"line-height: 17px;"><img alt=3D"THANK YOU FOR YOUR PURCHASE!" =
+height=3D"51" id=3D"b1" =
+src=3D"http://media.4at5.net/email_domains/pay/134649/images/b1.jpg" =
+width=3D"552" style=3D"line-height: 17px;"></td></tr><tr =
+style=3D"line-height: 17px;"><td height=3D"34" width=3D"552" =
+style=3D"line-height: 17px;"><img alt=3D"It Always Pays to Party with =
+Us!" height=3D"34" id=3D"b2" =
+src=3D"http://media.4at5.net/email_domains/pay/134649/images/b2.jpg" =
+width=3D"552" style=3D"line-height: 17px;"></td></tr><tr =
+style=3D"line-height: 17px;"><td align=3D"center" height=3D"90" =
+width=3D"552" style=3D"line-height: 17px;"><table border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"147" style=3D"line-height: =
+17px;"><tbody style=3D"line-height: 17px;"><tr style=3D"line-height: =
+17px;"><td height=3D"53" width=3D"39" style=3D"line-height: 17px;"><a =
+href=3D"http://link.partycity.com/u.d?NYGvEUP9wsyt0IfXHpyN=3D491" =
+style=3D"line-height: 17px;"><img alt=3D"" border=3D"0" height=3D"53" =
+id=3D"b3_01" =
+src=3D"http://media.4at5.net/email_domains/pay/134649/images/b3_01.jpg" =
+width=3D"39" style=3D"line-height: 17px;"></a></td><td height=3D"53" =
+width=3D"20" style=3D"line-height: 17px;"><a =
+href=3D"http://link.partycity.com/u.d?L4GvEUP9wsyt0IfXHpyC=3D501" =
+style=3D"line-height: 17px;"><img alt=3D"" border=3D"0" height=3D"53" =
+id=3D"b3_02" =
+src=3D"http://media.4at5.net/email_domains/pay/134649/images/b3_02.jpg" =
+width=3D"20" style=3D"line-height: 17px;"></a></td><td height=3D"53" =
+width=3D"25" style=3D"line-height: 17px;"><a =
+href=3D"http://link.partycity.com/u.d?IYGvEUP9wsyt0IfXHpyH=3D511" =
+style=3D"line-height: 17px;"><img alt=3D"" border=3D"0" height=3D"53" =
+id=3D"b3_03" =
+src=3D"http://media.4at5.net/email_domains/pay/134649/images/b3_03.jpg" =
+width=3D"25" style=3D"line-height: 17px;"></a></td><td height=3D"53" =
+width=3D"21" style=3D"line-height: 17px;"><a =
+href=3D"http://link.partycity.com/u.d?cYGvEUP9wsyt0IfXHp18C=3D521" =
+style=3D"line-height: 17px;"><img alt=3D"" border=3D"0" height=3D"53" =
+id=3D"b3_04" =
+src=3D"http://media.4at5.net/email_domains/pay/134649/images/b3_04.jpg" =
+width=3D"21" style=3D"line-height: 17px;"></a></td><td height=3D"53" =
+width=3D"42" style=3D"line-height: 17px;"><a =
+href=3D"http://link.partycity.com/u.d?IYGvEUP9wsyt0IfXHp18P=3D531" =
+style=3D"line-height: 17px;"><img alt=3D"" border=3D"0" height=3D"53" =
+id=3D"b3_05" =
+src=3D"http://media.4at5.net/email_domains/pay/134649/images/b3_05.jpg" =
+width=3D"42" style=3D"line-height: 17px;"></a></td></tr><tr =
+style=3D"line-height: 17px;"><td colspan=3D"5" height=3D"37" width=3D"147"=
+ style=3D"line-height: 17px;"><a =
+href=3D"http://link.partycity.com/u.d?I4GvEUP9wsyt0IfXHp18I=3D541" =
+style=3D"line-height: 17px;"><img alt=3D"" border=3D"0" height=3D"37" =
+id=3D"b3_06" =
+src=3D"http://media.4at5.net/email_domains/pay/134649/images/b3_06.jpg" =
+width=3D"147" style=3D"line-height: =
+17px;"></a></td></tr></tbody></table></td></tr></tbody></table></td></tr><=
+/tbody></table></td></tr></tbody></table><br style=3D"line-height: =
+17px;"><br style=3D"line-height: =
+17px;"></div></div></blockquote></div><br></body></html>=
+
+--Apple-Mail=_E341D0CA-39FC-428F-8065-C7536415B735--

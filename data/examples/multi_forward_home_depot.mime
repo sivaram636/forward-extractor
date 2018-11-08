@@ -1,0 +1,539 @@
+X-Mailgun-Spam-Rules: DKIM_SIGNED, DKIM_VALID, DKIM_VALID_AU, FREEMAIL_FROM,
+ FREEMAIL_REPLY, HTML_FONT_LOW_CONTRAST, HTML_MESSAGE, RCVD_IN_DNSWL_NONE,
+ RCVD_IN_MSPIKE_H2, SPF_PASS, T_REMOTE_IMAGE
+X-Mailgun-Dkim-Check-Result: Pass
+X-Mailgun-Spf: Pass
+X-Mailgun-Sscore: 0.9
+X-Mailgun-Sflag: No
+X-Mailgun-Incoming: Yes
+X-Envelope-From: <mikedecamillis@msn.com>
+Received: from COL004-OMC3S6.hotmail.com (col004-omc3s6.hotmail.com [65.55.34.144])
+ by mxa.mailgun.org with ESMTP id 582b9b8d.7f52f604a130-smtp-in-n01;
+ Tue, 15 Nov 2016 23:34:37 -0000 (UTC)
+Received: from NAM02-CY1-obe.outbound.protection.outlook.com ([65.55.34.135]) by COL004-OMC3S6.hotmail.com over TLS secured channel with Microsoft SMTPSVC(7.5.7601.23008);
+	 Tue, 15 Nov 2016 15:34:36 -0800
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=msn.com; s=selector1;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=zgHwCMbsx6qSjx0nMzROSyM1EePwa91dDNtx/vBa+sg=;
+ b=gf9WLObrd8IgiNIXniClzfBCmnCeRVc3OAbfn4jF00Sun+ZbpdoHBCThMs2IQH8/QxR11wGK1nDYjJbnkWR+vM5bnbmdov9s35YcevZQiUmqCZl5ROt6diQE8m7TncZjCvz/O9XtMIPIJxiNzVZPCH6qT7q1xVhHuvjH4+uCDLk+193FJI8nilzJGi0ED4GZEi3d+F/RiTzeukA6wOCZJBhUcUWusnCdk0+yE0+CpNf+kgtJHARyMCJ+oBZOe89bo1UJB1eUT2fNzYXMP8UEzkCHd9KeDKqZcDZazyCiPzEyCuoB6dUXF8r9dXNt9NTOnipaY0ZPPt2ptPrKxFS3Rw==
+Received: from CY1NAM02FT050.eop-nam02.prod.protection.outlook.com
+ (10.152.74.59) by CY1NAM02HT210.eop-nam02.prod.protection.outlook.com
+ (10.152.74.184) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.721.5; Tue, 15 Nov
+ 2016 23:34:35 +0000
+Received: from SN1PR16MB0208.namprd16.prod.outlook.com (10.152.74.57) by
+ CY1NAM02FT050.mail.protection.outlook.com (10.152.75.65) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.1.721.5 via Frontend Transport; Tue, 15 Nov 2016 23:34:35 +0000
+Received: from SN1PR16MB0208.namprd16.prod.outlook.com ([10.162.209.143]) by
+ SN1PR16MB0208.namprd16.prod.outlook.com ([10.162.209.143]) with mapi id
+ 15.01.0721.015; Tue, 15 Nov 2016 23:34:35 +0000
+From: Mike DeCamillis <mikedecamillis@msn.com>
+To: GEM Receipts <gem@scotiareceipts.com>
+Subject: Fwd: Your Electronic Receipt
+Thread-Topic: Your Electronic Receipt
+Thread-Index: AQHRdwIqGkENljp/60GTrKclHW9shaDcQ5/9
+Date: Tue, 15 Nov 2016 23:34:35 +0000
+Message-ID: <SN1PR16MB020815958AF8AB77E973D5CAD2BF0@SN1PR16MB0208.namprd16.prod.outlook.com>
+References: <21466130.1544971.1457195243833.JavaMail.tomcat@gata0411.homedepot.com>,<79FF736F-CE65-4E19-9481-84560538F003@yahoo.com>
+In-Reply-To: <79FF736F-CE65-4E19-9481-84560538F003@yahoo.com>
+Accept-Language: en-CA, en-US
+Content-Language: en-CA
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: scotiareceipts.com; dkim=none (message not signed)
+ header.d=none;scotiareceipts.com; dmarc=none action=none header.from=msn.com;
+x-incomingtopheadermarker: OriginalChecksum:;UpperCasedChecksum:;SizeAsReceived:7420;Count:39
+x-ms-exchange-messagesentrepresentingtype: 1
+x-tmn: [01YPm7glgiXyyFZ+MKRc+aCr1zSyIajN]
+x-incomingheadercount: 39
+x-eopattributedmessage: 0
+x-microsoft-exchange-diagnostics: 1;CY1NAM02HT210;5:4zO7EUEN1kSY8/8+PWUQsfWPEx6Rk5sxNNvD0EXGHKP8U9/a26rr7HAIZ/xHAEzYwoH2lU+vIQdTHcZZ2NLljhM30AohfqQUhTb1XlCMQOSAlTehOqVv3DuPDwX3Se3dOQ2eraDXPhx+/accY9z8XA==;24:M+ZpgjEN4WUNJpAGltoPUK+oRvPaa9FfIEFMcLWdDi7RHMpjaifc6j6pp/UHkiqFeIxwY2QGSPvod2AZcw1C+VRPg9TCYk0w1ct6OyIFMGU=;7:pgcTOKXYXXNEsX6w9gQMvpQk7e/Kh/2TQ4z9u4deUALtTe/N4W/BIsR2SsRqV0sGlRXcIMbxgaoFKJWyRPgj2FjXz8KnP5fJB9IGjv3G44kKZklI3LmZDu+jFAzkIazqM7MZkaiOwJPo167ww4pGThBj0+ahUf2fhIQhDykXIjEdja6Q3TQ3CAotUt0U9x+j+BWQB/AW89sHOYoXVT6ncLWbuqe9rvMYdAaACMun9vNF4x5JohRNQV9T9lxreCYX539XgkWYC0sCdZFeC8fBEIcrBQiP6zYvz0W6joLmmZoj0Riw5YKD33cqglOilbX0Gi5a8ds9uUR0bRt/ldx91U//9AS+yyhgKmAEam9QkRQ=
+x-forefront-antispam-report: EFV:NLI;SFV:NSPM;SFS:(10019020)(98900003);DIR:OUT;SFP:1102;SCL:1;SRVR:CY1NAM02HT210;H:SN1PR16MB0208.namprd16.prod.outlook.com;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: 4c4d9e96-10fd-4e06-4ddc-08d40daff55d
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(1601124038)(1603103113)(1603101340)(1601125047);SRVR:CY1NAM02HT210;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(432015012)(82015046);SRVR:CY1NAM02HT210;BCL:0;PCL:0;RULEID:;SRVR:CY1NAM02HT210;
+x-forefront-prvs: 012792EC17
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_SN1PR16MB020815958AF8AB77E973D5CAD2BF0SN1PR16MB0208namp_"
+MIME-Version: 1.0
+X-OriginatorOrg: outlook.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 15 Nov 2016 23:34:35.2162
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: CY1NAM02HT210
+Return-Path: mikedecamillis@msn.com
+X-OriginalArrivalTime: 15 Nov 2016 23:34:36.0347 (UTC) FILETIME=[D38540B0:01D23F98]
+
+--_000_SN1PR16MB020815958AF8AB77E973D5CAD2BF0SN1PR16MB0208namp_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+
+
+Michael DeCamillis
+Sr. Manager - Bell Wholesale
+
+Begin forwarded message:
+
+From: Enzo Giovenco <enzogiovenco@yahoo.com<mailto:enzogiovenco@yahoo.com>>
+Date: March 5, 2016 at 12:12:16 PM EST
+To: Mike Decamillis <mikedecamillis@msn.com<mailto:mikedecamillis@msn.com>>
+Subject: Fwd: Your Electronic Receipt
+
+
+
+Sent from my iPhone
+
+Begin forwarded message:
+
+From: <HomeDepotReceipt@homedepot.com<mailto:HomeDepotReceipt@homedepot.com=
+>>
+Date: March 5, 2016 at 11:27:24 AM EST
+To: <ENZOGIOVENCO@YAHOO.COM<mailto:ENZOGIOVENCO@yahoo.com>>
+Subject: Your Electronic Receipt
+
+Please keep this email for your records.
+Please add HomeDepotReceipt@homedepot.com<mailto:HomeDepotReceipt@homedepot=
+.com> to your address book.
+[The Home Depot]<http://www.homedepot.ca/?eid=3Demail-receipt|email||home-p=
+age|EN||AW|||||>
+[Your e-Receipt]
+
+-
+
+Thank you for your recent transaction at The Home Depot Canada. We have pro=
+vided a digital copy of your receipt below for your convenience. We look fo=
+rward to seeing you again soon.
+
+[https://hdcontent.homedepot.com/eReceipt/Images/A10F9F74B02AEB4A9FCB403DB8=
+7D8B12.jpg]
+1983 Kipling Ave Etobicoke, Ontario
+JASON SELLITTO STORE MANAGER 4167461357
+
+  7114  00001  25898    05/03/16  11:26 AM
+  CASHIER SUSAN - SXP5365
+
+  885406005183 RIVMOS-12X12 <A>     10.99
+
+                   SUBTOTAL         10.99
+                   GST/HST           1.43
+                   TOTAL           $12.42
+  XXXXXXXXXXXX8106 DEBIT            12.42
+  AUTH CODE 412278
+  Chip Read                Verified By PIN
+  AID A0000002771010              INTERAC
+  TVR 8000008000
+  IAD 06020A03642000
+  TSI 7800
+  ARC 00
+
+
+
+[https://hdapps.homedepot.com/ECommServices/BarcodeServlet?height=3D25&key=
+=3Dee3934433a35ee348583236c2eeadbc1&data=3D0305601258971142]
+7114 01 25898 05/03/2016 0560
+
+13%   HST R135772911
+
+RETURN POLICY DEFINITIONS
+      POLICY ID   DAYS   POLICY EXPIRES ON
+   A      1       90        03/06/2016
+THE HOME DEPOT RESERVES THE RIGHT TO
+LIMIT / DENY RETURNS. PLEASE SEE THE
+RETURN POLICY SIGN IN STORES FOR
+DETAILS.
+
+KEEP YOUR RECEIPT FOR FASTER RETURNS
+SHOP ONLINE AT WWW.HOMEDEPOT.CA<http://www.homedepot.ca>
+More saving. More Doing.
+***************************************
+ENTER FOR A CHANCE
+TO WIN A $3,000
+HOME DEPOT GIFT
+CARD!
+
+Your Opinion Counts!  We would like to
+hear about your shopping experience.
+Enter to win a $3,000 Home Depot Gift
+Card by completing a brief survey about
+your store visit at:
+
+www.homedepot.com/opinion<http://www.homedepotopinion.com?username=3DHTH%20=
+59199%2052086&password=3D16155%2052085&flag=3DERCPT>
+
+You will need the following to enter
+on-line:
+
+User ID:
+HTH 59199 52086
+
+Password:
+16155 52085
+
+Entries must be entered by 04/04/2016.
+Entrants must be 18 or older to enter.
+See complete rules on website. No
+purchase necessary.
+
+(Le sondage est ?galement offert en
+fran?ais sur le Web.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+To contact us, please call 1-800-668-2266.
+
+
+(c)2015 Homer TLC, Inc. All rights reserved. Privacy & Security Statement<h=
+ttp://www.homedepot.ca/content/customer-support/privacy-and-security?eid=3D=
+email-receipt|email||privacy|EN||AW|||||>
+
+
+________________________________
+
+The information in this Internet Email is confidential and may be legally p=
+rivileged. It is intended solely for the addressee. Access to this Email by=
+ anyone else is unauthorized. If you are not the intended recipient, any di=
+sclosure, copying, distribution or any action taken or omitted to be taken =
+in reliance on it, is prohibited and may be unlawful. When addressed to our=
+ clients any opinions or advice contained in this Email are subject to the =
+terms and conditions expressed in any applicable governing The Home Depot t=
+erms of business or client engagement letter. The Home Depot disclaims all =
+responsibility and liability for the accuracy and content of this attachmen=
+t and for any damages or losses arising from any inaccuracies, errors, viru=
+ses, e.g., worms, trojan horses, etc., or other items of a destructive natu=
+re, which may be contained in this attachment and shall not be liable for d=
+irect, indirect, consequential or special damages in connection with this e=
+-mail message or its attachment.
+
+--_000_SN1PR16MB020815958AF8AB77E973D5CAD2BF0SN1PR16MB0208namp_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+</head>
+<body dir=3D"auto">
+<div><br>
+<br>
+Michael DeCamillis
+<div>Sr. Manager - Bell Wholesale</div>
+</div>
+<div><br>
+Begin forwarded message:<br>
+<br>
+</div>
+<blockquote type=3D"cite">
+<div><b>From:</b> Enzo Giovenco &lt;<a href=3D"mailto:enzogiovenco@yahoo.co=
+m">enzogiovenco@yahoo.com</a>&gt;<br>
+<b>Date:</b> March 5, 2016 at 12:12:16 PM EST<br>
+<b>To:</b> Mike Decamillis &lt;<a href=3D"mailto:mikedecamillis@msn.com">mi=
+kedecamillis@msn.com</a>&gt;<br>
+<b>Subject:</b> <b>Fwd: Your Electronic Receipt</b><br>
+<br>
+</div>
+</blockquote>
+<blockquote type=3D"cite">
+<div>
+<div><br>
+<br>
+Sent from my iPhone</div>
+<div><br>
+Begin forwarded message:<br>
+<br>
+</div>
+<blockquote type=3D"cite">
+<div><b>From:</b> &lt;<a href=3D"mailto:HomeDepotReceipt@homedepot.com">Hom=
+eDepotReceipt@homedepot.com</a>&gt;<br>
+<b>Date:</b> March 5, 2016 at 11:27:24 AM EST<br>
+<b>To:</b> &lt;<a href=3D"mailto:ENZOGIOVENCO@yahoo.com">ENZOGIOVENCO@YAHOO=
+.COM</a>&gt;<br>
+<b>Subject:</b> <b>Your Electronic Receipt</b><br>
+<br>
+</div>
+</blockquote>
+<div><span></span></div>
+<blockquote type=3D"cite">
+<div><!-- 	PR_E_Receipt_non-PRO_Template_en_CA.html =09
+			Last Updated Date: 11/24/2015=20
+			Last Updated By: mcp1790
+	-->
+<title>The Home Depot</title>
+<span class=3D"style1"></span>
+<div style=3D"padding: 2px 10px 10px 10px;"><!--Notice Mast-->
+<table width=3D"608" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=
+=3D"center">
+<tbody>
+<tr>
+<td style=3D"padding-bottom:10px; padding-bottom: 4px; font-family: Arial, =
+Helvetica, sans-serif; font-size: 10px; color: #333333;">
+<strong>Please keep this email for your records.</strong></td>
+</tr>
+<tr>
+<td style=3D"padding-bottom: 10px;  font-family: Arial, Helvetica, sans-ser=
+if; font-size: 10px; line-height:12px; color: #333333;">
+Please add <a href=3D"mailto:HomeDepotReceipt@homedepot.com">HomeDepotRecei=
+pt@homedepot.com</a> to your address book.</td>
+</tr>
+</tbody>
+</table>
+<!--Wrapper-->
+<table width=3D"608" border=3D"0" align=3D"center" cellpadding=3D"0" cellsp=
+acing=3D"0" bgcolor=3D"#FFFFFF">
+<tbody>
+<tr>
+<td align=3D"center"><!--Logo Row-->
+<table width=3D"608" border=3D"0" align=3D"center" cellpadding=3D"0" cellsp=
+acing=3D"0">
+<tbody>
+<tr>
+<td><a alias=3D"Header Logo -HMP" href=3D"http://www.homedepot.ca/?eid=3Dem=
+ail-receipt|email||home-page|EN||AW|||||"><img src=3D"https://hdcontent.hom=
+edepot.com/eReceipt/Images/logo_en_ca.jpg" alt=3D"The Home Depot" width=3D"=
+236" height=3D"60" border=3D"0" style=3D"display:block;"></a></td>
+</tr>
+</tbody>
+</table>
+<!--Nav Row-->
+<table width=3D"608" border=3D"0" align=3D"center" cellpadding=3D"0" cellsp=
+acing=3D"0" height=3D"33">
+<tbody>
+<tr>
+<td width=3D"608" align=3D"center"><img src=3D"https://hdcontent.homedepot.=
+com/eReceipt/Images/header_ereceipt_en_ca.jpg" width=3D"608" height=3D"63" =
+border=3D"0" alt=3D"Your e-Receipt"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--Content Area-->
+<table width=3D"600" border=3D"1" align=3D"center" cellpadding=3D"-1" cells=
+pacing=3D"0" bgcolor=3D"#FFFFFF">
+<tbody>
+<tr>
+<td align=3D"center" bgcolor=3D"#ffffff"><!--Spacer-->
+<table width=3D"600" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+<tbody>
+<tr>
+<td>
+<div style=3D"color:#FFFFFF; font-size:10px; line-height:10px;">-</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--Receipt and Pods-->
+<table width=3D"600" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+<tbody>
+<tr>
+<td width=3D"380">
+<table>
+<tbody>
+<tr>
+<td align=3D"left"><span style=3D"font:Arial, Helvetica, sans-serif; font-f=
+amily:Arial, Helvetica, sans-serif; color:#333333; font-size:12px; line-hei=
+ght:13px;">Thank you for your recent transaction at The Home Depot Canada. =
+We have provided a digital copy of your
+ receipt below for your convenience. We look forward to seeing you again so=
+on.</span></td>
+</tr>
+<tr>
+<!--FEED FOR RECEIPT GOES HERE-->
+<td align=3D"center">
+<table style=3D"table-layout:fixed;width:380px" border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td>
+<pre style=3D"width:380px"><div style=3D"text-align:center"><img src=3D"htt=
+ps://hdcontent.homedepot.com/eReceipt/Images/A10F9F74B02AEB4A9FCB403DB87D8B=
+12.jpg"></div><div style=3D"text-align:center"><span style=3D"font-size:10.=
+0pt;color:black">1983 Kipling Ave Etobicoke, Ontario</span></div><div style=
+=3D"text-align:center"><span style=3D"font-size:10.0pt;color:black">JASON S=
+ELLITTO STORE MANAGER 4167461357</span></div><div style=3D"text-align:cente=
+r">&nbsp;</div><div style=3D"text-align:left"><span style=3D"font-size:10.0=
+pt;color:black">  7114  00001  25898    05/03/16  11:26 AM</span></div><div=
+ style=3D"text-align:left"><span style=3D"font-size:10.0pt;color:black">  C=
+ASHIER SUSAN - SXP5365</span></div><div style=3D"text-align:center">&nbsp;<=
+/div><div style=3D"text-align:left"><span style=3D"font-size:10.0pt;color:b=
+lack">  885406005183 RIVMOS-12X12 &lt;A&gt;     10.99 </span></div><div sty=
+le=3D"text-align:center">&nbsp;</div><div style=3D"text-align:left"><span s=
+tyle=3D"font-size:10.0pt;color:black">                   SUBTOTAL         1=
+0.99</span></div><div style=3D"text-align:left"><span style=3D"font-size:10=
+.0pt;color:black">                   GST/HST           1.43</span></div><di=
+v style=3D"text-align:left"><span style=3D"font-size:10.0pt;color:black">  =
+                 TOTAL           $12.42</span></div><div style=3D"text-alig=
+n:left"><span style=3D"font-size:10.0pt;color:black">  XXXXXXXXXXXX8106 DEB=
+IT            12.42</span></div><div style=3D"text-align:left"><span style=
+=3D"font-size:10.0pt;color:black">  AUTH CODE 412278          </span></div>=
+<div style=3D"text-align:left"><span style=3D"font-size:10.0pt;color:black"=
+>  Chip Read                Verified By PIN</span></div><div style=3D"text-=
+align:left"><span style=3D"font-size:10.0pt;color:black">  AID A00000027710=
+10              INTERAC</span></div><div style=3D"text-align:left"><span st=
+yle=3D"font-size:10.0pt;color:black">  TVR 8000008000</span></div><div styl=
+e=3D"text-align:left"><span style=3D"font-size:10.0pt;color:black">  IAD 06=
+020A03642000</span></div><div style=3D"text-align:left"><span style=3D"font=
+-size:10.0pt;color:black">  TSI 7800</span></div><div style=3D"text-align:l=
+eft"><span style=3D"font-size:10.0pt;color:black">  ARC 00</span></div><div=
+ style=3D"text-align:center">&nbsp;</div><div style=3D"text-align:center">&=
+nbsp;</div><div style=3D"text-align:center">&nbsp;</div><div style=3D"text-=
+align:center"><img src=3D"https://hdapps.homedepot.com/ECommServices/Barcod=
+eServlet?height=3D25&amp;key=3Dee3934433a35ee348583236c2eeadbc1&amp;data=3D=
+0305601258971142"></div><div style=3D"text-align:center"><span style=3D"fon=
+t-size:10.0pt;color:black">7114 01 25898 05/03/2016 0560</span></div><div s=
+tyle=3D"text-align:center">&nbsp;</div><div style=3D"text-align:center"><sp=
+an style=3D"font-size:10.0pt;color:black">13%   HST R135772911</span></div>=
+<div style=3D"text-align:center">&nbsp;</div><div style=3D"text-align:cente=
+r"><span style=3D"font-size:10.0pt;color:black">RETURN POLICY DEFINITIONS</=
+span></div><div style=3D"text-align:left"><span style=3D"font-size:10.0pt;c=
+olor:black">      POLICY ID   DAYS   POLICY EXPIRES ON</span></div><div sty=
+le=3D"text-align:left"><span style=3D"font-size:10.0pt;color:black">   A   =
+   1       90        03/06/2016 </span></div><div style=3D"text-align:cente=
+r"><span style=3D"font-size:10.0pt;color:black">THE HOME DEPOT RESERVES THE=
+ RIGHT TO</span></div><div style=3D"text-align:center"><span style=3D"font-=
+size:10.0pt;color:black">LIMIT / DENY RETURNS. PLEASE SEE THE</span></div><=
+div style=3D"text-align:center"><span style=3D"font-size:10.0pt;color:black=
+">RETURN POLICY SIGN IN STORES FOR</span></div><div style=3D"text-align:cen=
+ter"><span style=3D"font-size:10.0pt;color:black">DETAILS.</span></div><div=
+ style=3D"text-align:center">&nbsp;</div><div style=3D"text-align:center"><=
+span style=3D"font-size:10.0pt;color:black">KEEP YOUR RECEIPT FOR FASTER RE=
+TURNS</span></div><div style=3D"text-align:center"><span style=3D"font-size=
+:10.0pt;color:black">SHOP ONLINE AT <a href=3D"http://www.homedepot.ca">WWW=
+.HOMEDEPOT.CA</a></span></div><div style=3D"text-align:center"><span style=
+=3D"font-size:10.0pt;color:black">More saving. More Doing.</span></div><div=
+ style=3D"text-align:center"><span style=3D"font-size:10.0pt;color:black">*=
+**************************************</span></div><div style=3D"text-align=
+:center"><span style=3D"font-size:14.0pt;font-weight:bold;color:black">ENTE=
+R FOR A CHANCE</span></div><div style=3D"text-align:center"><span style=3D"=
+font-size:14.0pt;font-weight:bold;color:black">TO WIN A $3,000</span></div>=
+<div style=3D"text-align:center"><span style=3D"font-size:14.0pt;font-weigh=
+t:bold;color:black">HOME DEPOT GIFT</span></div><div style=3D"text-align:ce=
+nter"><span style=3D"font-size:14.0pt;font-weight:bold;color:black">CARD!</=
+span></div><div style=3D"text-align:center">&nbsp;</div><div style=3D"text-=
+align:center"><span style=3D"font-size:10.0pt;color:black">Your Opinion Cou=
+nts!  We would like to</span></div><div style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;color:black">hear about your shopping experience.<=
+/span></div><div style=3D"text-align:center"><span style=3D"font-size:10.0p=
+t;color:black">Enter to win a $3,000 Home Depot Gift</span></div><div style=
+=3D"text-align:center"><span style=3D"font-size:10.0pt;color:black">Card by=
+ completing a brief survey about</span></div><div style=3D"text-align:cente=
+r"><span style=3D"font-size:10.0pt;color:black">your store visit at:</span>=
+</div><div style=3D"text-align:center">&nbsp;</div><div style=3D"text-align=
+:center"><span style=3D"font-size:10.0pt;color:black"><a href=3D"http://www=
+.homedepotopinion.com?username=3DHTH%2059199%2052086&amp;password=3D16155%2=
+052085&amp;flag=3DERCPT">www.homedepot.com/opinion</a></span></div><div sty=
+le=3D"text-align:center">&nbsp;</div><div style=3D"text-align:center"><span=
+ style=3D"font-size:10.0pt;color:black">You will need the following to ente=
+r</span></div><div style=3D"text-align:center"><span style=3D"font-size:10.=
+0pt;color:black">on-line:</span></div><div style=3D"text-align:center">&nbs=
+p;</div><div style=3D"text-align:center"><span style=3D"font-size:14.0pt;fo=
+nt-weight:bold;color:black">User ID:</span></div><div style=3D"text-align:c=
+enter"><span style=3D"font-size:14.0pt;font-weight:bold;color:black">HTH 59=
+199 52086</span></div><div style=3D"text-align:center">&nbsp;</div><div sty=
+le=3D"text-align:center"><span style=3D"font-size:14.0pt;font-weight:bold;c=
+olor:black">Password:</span></div><div style=3D"text-align:center"><span st=
+yle=3D"font-size:14.0pt;font-weight:bold;color:black">16155 52085</span></d=
+iv><div style=3D"text-align:center">&nbsp;</div><div style=3D"text-align:ce=
+nter"><span style=3D"font-size:10.0pt;color:black">Entries must be entered =
+by 04/04/2016.</span></div><div style=3D"text-align:center"><span style=3D"=
+font-size:10.0pt;color:black">Entrants must be 18 or older to enter.</span>=
+</div><div style=3D"text-align:center"><span style=3D"font-size:10.0pt;colo=
+r:black">See complete rules on website. No</span></div><div style=3D"text-a=
+lign:center"><span style=3D"font-size:10.0pt;color:black">purchase necessar=
+y.</span></div><div style=3D"text-align:center">&nbsp;</div><div style=3D"t=
+ext-align:center"><span style=3D"font-size:10.0pt;color:black">(Le sondage =
+est &eacute;galement offert en</span></div><div style=3D"text-align:center"=
+><span style=3D"font-size:10.0pt;color:black">fran&ccedil;ais sur le Web.)<=
+/span></div><div style=3D"text-align:center">&nbsp;</div><div style=3D"text=
+-align:center">&nbsp;</div><div style=3D"text-align:center">&nbsp;</div><di=
+v style=3D"text-align:center">&nbsp;</div><div style=3D"text-align:center">=
+&nbsp;</div><div style=3D"text-align:center">&nbsp;</div><div style=3D"text=
+-align:center">&nbsp;</div><div style=3D"text-align:center">&nbsp;</div><di=
+v style=3D"text-align:center">&nbsp;</div><div style=3D"text-align:center">=
+&nbsp;</div><div style=3D"text-align:center">&nbsp;</div><div style=3D"text=
+-align:center">&nbsp;</div></pre>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<!--FEED FOR RECEIPT ENDS HERE-->
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--Close Wrapper--><!--Legal Terms-->
+<table width=3D"600" border=3D"0" cellpadding=3D"10" cellspacing=3D"0" alig=
+n=3D"center">
+<tbody>
+<tr>
+<td align=3D"left" style=3D"font-family: Arial, Helvetica, sans-serif; font=
+-size: 10pt; color: #333333;">
+<p style=3D"padding:0; margin:0;">To contact us, please call 1-800-668-2266=
+.</p>
+<br>
+<p style=3D"padding:0; margin:0;">&copy;2015 Homer TLC, Inc. All rights res=
+erved. <a href=3D"http://www.homedepot.ca/content/customer-support/privacy-=
+and-security?eid=3Demail-receipt|email||privacy|EN||AW|||||" alias=3D"priva=
+cy -PVS" style=3D"color: #333333;">
+Privacy &amp; Security Statement</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<br>
+<hr>
+<font face=3D"Arial" color=3D"Gray" size=3D"1"><br>
+The information in this Internet Email is confidential and may be legally p=
+rivileged. It is intended solely for the addressee. Access to this Email by=
+ anyone else is unauthorized. If you are not the intended recipient, any di=
+sclosure, copying, distribution
+ or any action taken or omitted to be taken in reliance on it, is prohibite=
+d and may be unlawful. When addressed to our clients any opinions or advice=
+ contained in this Email are subject to the terms and conditions expressed =
+in any applicable governing The
+ Home Depot terms of business or client engagement letter. The Home Depot d=
+isclaims all responsibility and liability for the accuracy and content of t=
+his attachment and for any damages or losses arising from any inaccuracies,=
+ errors, viruses, e.g., worms, trojan
+ horses, etc., or other items of a destructive nature, which may be contain=
+ed in this attachment and shall not be liable for direct, indirect, consequ=
+ential or special damages in connection with this e-mail message or its att=
+achment.<br>
+</font></div>
+</blockquote>
+</div>
+</blockquote>
+</body>
+</html>
+
+--_000_SN1PR16MB020815958AF8AB77E973D5CAD2BF0SN1PR16MB0208namp_--

@@ -1,0 +1,1044 @@
+Delivered-To: johnny@getsensibill.com
+Received: by 10.64.138.232 with SMTP id qt8csp139154ieb;
+        Thu, 10 Jul 2014 15:19:59 -0700 (PDT)
+X-Received: by 10.112.155.103 with SMTP id vv7mr418487lbb.62.1405030798662;
+        Thu, 10 Jul 2014 15:19:58 -0700 (PDT)
+Return-Path: <brad@getsensibill.com>
+Received: from mail-lb0-f181.google.com (mail-lb0-f181.google.com [209.85.217.181])
+        by mx.google.com with ESMTPS id u4si429534lau.132.2014.07.10.15.19.57
+        for <johnny@getsensibill.com>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Thu, 10 Jul 2014 15:19:58 -0700 (PDT)
+Received-SPF: softfail (google.com: domain of transitioning brad@getsensibill.com does not designate 209.85.217.181 as permitted sender) client-ip=209.85.217.181;
+Authentication-Results: mx.google.com;
+       spf=softfail (google.com: domain of transitioning brad@getsensibill.com does not designate 209.85.217.181 as permitted sender) smtp.mail=brad@getsensibill.com
+Received: by mail-lb0-f181.google.com with SMTP id p9so206092lbv.12
+        for <johnny@getsensibill.com>; Thu, 10 Jul 2014 15:19:57 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:from:to:cc:content-type;
+        bh=8r9o3hB8DdypbIVmVlPwDedkq6c6cRLxgLCR7R1FtYQ=;
+        b=lzXSowYAJItI+Lxf7PSWq0bdzCbDrcbIV4tLIq2j6OnweAeIjnhLcaLXmKP+gIGK1K
+         e322bRarYzcmqtgiHP0u4rONdBnchBqRE2inLEc0JaiHRGArnvfTocZYvZlWIgedw2nc
+         oaGJPfjOMWrzLVMYAD6MLz0QV5svCllmGO128EHUvGX5x1RR5MbtZsxpmExv0noptKBR
+         Ahp9ewQXdBRqPnc0ioaw+mIcJdMh9pENU6EkOBqDNTZzl+l34jzHKafhZSSw3noOYA9E
+         f7kfzxXK/99O2hWw7DTfz+6UVVZAEnYWh52c4V/tIkgkRPOaRtmwIQscMAvqZ4G3ahXm
+         6ReQ==
+X-Gm-Message-State: ALoCoQnngmBbMJ0ymOE1SxJXwBaL3Dd6r5KvY8IxpjSTjlvkL5ARqP5encV+GYw130W5p3E3xvIT
+MIME-Version: 1.0
+X-Received: by 10.152.180.168 with SMTP id dp8mr36996001lac.11.1405030797586;
+ Thu, 10 Jul 2014 15:19:57 -0700 (PDT)
+Received: by 10.112.132.74 with HTTP; Thu, 10 Jul 2014 15:19:57 -0700 (PDT)
+In-Reply-To: <CANy1N7Mt8jvyYL2cx1G=HV+ygcR+PGcopiT67UdD3mYnB_CctA@mail.gmail.com>
+References: <1645240848.190541402940762941.JavaMail.mqbroker_02@cad2xpap007>
+	<CANy1N7Mt8jvyYL2cx1G=HV+ygcR+PGcopiT67UdD3mYnB_CctA@mail.gmail.com>
+Date: Thu, 10 Jul 2014 18:19:57 -0400
+Message-ID: <CAEhDVdyQnBTzvG0wMSbusR46GKe2HpfJ5VRH_DXuH64kiujBCQ@mail.gmail.com>
+Subject: Fwd: Your Future Shop eReceipt
+From: Bradley Arsenault <brad@getsensibill.com>
+To: jpa@billpass.ca
+Cc: Johnny <johnny@getsensibill.com>
+Content-Type: multipart/alternative; boundary=001a1134565e96cd1404fdde39b8
+
+--001a1134565e96cd1404fdde39b8
+Content-Type: text/plain; charset=UTF-8
+
+______________
+
+BRADLEY ARSENAULT / SOFTWARE DEVELOPER
+E. brad@getsensibill.com / C. 647.261.0462
+ 10 Dundas St. E., 6th Floor / Toronto, ON, M5B 2G9
+This email may contain privileged and confidential material and its
+transmission is not a waiver of that privilege. It is intended for the use
+of the individual or entity to which it is addressed. If the reader is not
+the intended recipient or the employee or agent responsible for the
+delivery of the message to the intended recipient, you are hereby notified
+that any dissemination, distribution or copying of the communication is
+strictly prohibited. if you have received this communication in error,
+please notify us immediately.
+
+
+---------- Forwarded message ----------
+From: Bradley Arsenault <genixpro@gmail.com>
+Date: Mon, Jun 16, 2014 at 5:51 PM
+Subject: Fwd: Your Future Shop eReceipt
+To: Bradley Arsenault <brad@getsensibill.com>
+
+
+---------- Forwarded message ----------
+From: "Future Shop" <non-respondable-email@futureshop.com>
+Date: Jun 16, 2014 1:46 PM
+Subject: Your Future Shop eReceipt
+To: <genixpro@gmail.com>
+Cc:
+
+       *Your Future Shop eReceipt*        [image: Future Shop]
+<http://www.futureshop.ca/en-CA/home.aspx?CMP=EMC-eReceipt-ALL-20130626-FSheaderlogo-en>
+ [image:
+Weekly flyer]
+<https://www-ssl.futureshop.ca/en-CA/secure/weeklyad.aspx?CMP=EMC-eReceipt-ALL-20130626-FSheaderflyer-en>
+ [image:
+Find stores]
+<https://www-ssl.futureshop.ca/en-CA/stores/store-locator.aspx?CMP=EMC-eReceipt-ALL-20130626-FSheaderfindstore-en>
+    Dear Future Shop customer,
+
+You've requested an email copy of the receipt from your recent purchase.
+Please save this email for your records, as it will help make returns,
+exchanges, and referencing service/protection plan(s) easier.        Future
+Shop   Visit us at futureshop.ca
+<http://www.futureshop.ca?CMP=EMC-eReceipt-ALL-20130626-FScontenthome-en>
+                         Thank you for shopping at
+*       Future Shop Downtown Toronto*
+              exciting stuff
+         325 Yonge Street, Toronto                     416-971-5377
+               *             Keep your receipt*
+Val #: 0820-2399-4673-6834
+0067 006 7345 06/16/14     13:43    FA8Y
+                SALES
+10168041  RF-MCDT2-T               19.95
+  ROCKETFISH RFMCDT2-T
+  Associate # FA8Y
+                             ----------
+                     SUBTOTAL      19.95
+                       HST ON       2.59
+                             ==========
+                        TOTAL      22.54
+Transaction Record SALE
+xxxxxxxxxxxx2024 C DEBIT           22.54
+Approved 085589
+TERM: 0067 006 D
+Chequing
+SEQ NO: 006001001010
+ACI/ISO 001/00
+6/16/2014 13:42:55
+AID: a0000002771010
+APN: Interac
+TVR 8000008000
+TSI 002a
+NO SIGNATURE REQUIRED
+GST Reg.# R135664738                           Shop your way - Order online
+and get FREE shipping* or in-store pick up. Visit       futureshop.ca for
+details.         *Some conditions apply.    YOUR CUSTOMER SERVICE
+4-PART-KEY IS:           0067 006 7345 061614           TELL US HOW WE'RE
+DOING!    TAKE OUR SURVEY IN THE NEXT 30 DAYS      AND ENTER FOR A CHANCE
+TO WIN A         $500 FUTURE SHOP GIFT CARD.       Go to:
+www.futureshopcares.ca       & enter the following codes:
+           Group A:   106067            Group B:   6345            Group C:
+  0761498YFA00     See customer service desk or go to
+www.futureshopcares.ca for full         contest rules and details      *
+Total Store Stock Items: 1*          <<<<< CUSTOMER COPY >>>>>
+*Information*
+<http://www.futureshop.ca/en-CA/help.aspx?CMP=EMC-eReceipt-ALL-20131112-FSsidebarcustomer-en>
+   *Customer
+Support*
+<http://www.futureshop.ca/en-CA/help.aspx?CMP=EMC-eReceipt-ALL-20131112-FSsidebarcustomer-en>
+  Click
+here.
+<http://www.futureshop.ca/en-CA/help.aspx?CMP=EMC-eReceipt-ALL-20131112-FSsidebarcustomer-en>
+<http://www.futureshop.ca/en-CA/help/returns-and-exchange/returns.aspx?CMP=EMC-eReceipt-ALL-20131112-FSsidebarreturn-en>
+   *Easy
+Returns*
+<http://www.futureshop.ca/en-CA/help/returns-and-exchange/returns.aspx?CMP=EMC-eReceipt-ALL-20131112-FSsidebarreturn-en>
+  Learn
+more.
+<http://www.futureshop.ca/en-CA/help/returns-and-exchange/returns.aspx?CMP=EMC-eReceipt-ALL-20131112-FSsidebarreturn-en>
+<http://www.futureshop.ca/en-CA/reserve-pickup.aspx?CMP=EMC-eReceipt-ALL-20131112-FSsidebarreserve-en>
+   *Reserve
+and Pick Up*
+<http://www.futureshop.ca/en-CA/reserve-pickup.aspx?CMP=EMC-eReceipt-ALL-20131112-FSsidebarreserve-en>
+  See
+how it works.
+<http://www.futureshop.ca/en-CA/reserve-pickup.aspx?CMP=EMC-eReceipt-ALL-20131112-FSsidebarreserve-en>
+<http://www.futureshop.ca/en-ca/help/id/hc80.aspx?CMP=EMC-eReceipt-ALL-20131112-FSsidebarpricebeat-en>
+   *Price
+Beat Promise*
+<http://www.futureshop.ca/en-ca/help/id/hc80.aspx?CMP=EMC-eReceipt-ALL-20131112-FSsidebarpricebeat-en>
+  Learn
+more.
+<http://www.futureshop.ca/en-ca/help/id/hc80.aspx?CMP=EMC-eReceipt-ALL-20131112-FSsidebarpricebeat-en>
+                  OUR
+RETURN POLICY: If for any reason you are not completely satisfied with your
+purchases, Future Shop will gladly give you a full refund or exchange
+within 30 days of purchase for most items*. Future Shop does not charge a
+restocking fee. You will require:     1. The original receipt (invoice)
+from your purchase.  2. The original method of payment. Payment card
+purchases will be refunded to the original payment card. Store credit will
+be given for returns with gift receipts.  3. Original packaging and all
+items originally included by the manufacturer or Future Shop (including all
+manuals, accessories, gifts with purchase, bonus and included items).  4. Your
+name, address, phone number and signature. Valid government-issued photo ID
+may be requested to confirm this information.     *Some conditions and
+exclusions apply. Certain items have a 14-day or 15-day return policy. Some
+items may not be returned if opened or assembled, or may not be eligible
+for return or exchange (such as food). A list of these items and full
+details on our return and exchange policy can be found on futureshop.ca or
+speak to a Product Expert in-store for details. Terms and conditions are
+subject to change without notice.   The information in this e-mail message
+including any attachments is intended only for the named recipients above
+and may contain confidential or privileged information. If you have
+received this message in error, or are not the intended email recipient(s),
+please immediately notify the sender by emailing service@futureshop.com and
+delete all copies of it from your computer.   This email was sent from an
+outgoing-only address that cannot accept incoming emails. If you haven't
+found the information you are looking for and still have questions please
+visit our information centre
+<http://www.futureshop.ca/helpcustomerservice/helpcustomerservicemain.aspx>
+to access general information, frequently asked questions, contact us
+information, and more.   At Future Shop we know how important it is to
+protect your personal information. A copy of our privacy notice can be
+found at www.futureshop.ca   *FUTURE SHOP LIQUIDATION CENTRE DISCLAIMER*   All
+sales at FUTURE SHOP LIQUIDATION CENTRE are final. However, defective
+products may be returned or exchanged to the Liquidation location within 7
+days of purchase (14 days for major appliances). Products sold by other
+Future Shop store locations or www.futureshop.ca cannot be returned or
+exchanged at FUTURE SHOP LIQUIDATION CENTRE, and products from FUTURE SHOP
+LIQUIDATION CENTRE cannot be returned or exchanged at other Future Shop
+stores or www.futureshop.ca. To ensure the best experience, we may, at our
+discretion and expense, require a service technician to service the unit or
+confirm defects prior to a return or exchange being performed. This service
+may be performed in your home or workplace for home delivered items.
+Returns or exchanges must be completed at a FUTURE SHOP LIQUIDATION CENTRE
+location.
+
+--001a1134565e96cd1404fdde39b8
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><br clear=3D"all"><div><div dir=3D"ltr"><span style=3D"col=
+or:rgb(10,10,10);font-family:Gotham-Light;font-size:11px">______________</s=
+pan><br><br><div style=3D"color:rgb(82,82,82);font-size:11px"><div style=3D=
+"font-family:&#39;Gotham Book&#39;,Times">
+<div style=3D"font-family:Helvetica;font-size:12px"><span style=3D"color:rg=
+b(10,10,10);font-size:11px"><font face=3D"Gotham">BRADLEY ARSENAULT </font>=
+</span><font face=3D"Gotham-Light"><span style=3D"font-size:11px">/ SOFTWAR=
+E DEVELOPER<br>
+</span></font></div><div style=3D"font-family:Helvetica;margin-top:5px"><fo=
+nt face=3D"Gotham-Light"><span style=3D"font-size:10.5px;color:rgb(40,190,1=
+93)">E. </span><a href=3D"mailto:brad@getsensibill.com" target=3D"_blank">b=
+rad@getsensibill.com</a>=C2=A0/=C2=A0<span style=3D"font-size:10.5px;color:=
+rgb(40,190,193)">C. </span><a value=3D"+14168928310">647.261.0462</a></font=
+></div>
+<div style=3D"font-family:Helvetica;margin-top:15px"><font face=3D"Gotham-L=
+ight"><span style=3D"width:100px;vertical-align:middle;margin-bottom:3px;pa=
+dding-right:5px"><img src=3D"https://www.filepicker.io/api/file/uzPXhpSpeRs=
+g8fZD07tg/convert?w=3D150&amp;h=3D55&amp;fit=3Dclip"></span>=C2=A010 Dundas=
+ St. E., 6th Floor / Toronto, ON, M5B 2G9</font></div>
+<div style=3D"font-family:Helvetica;margin-top:15px"><span style=3D"color:r=
+gb(0,0,0);font-size:8px"><font face=3D"Gotham-Light">This email may contain=
+=C2=A0</font></span><font style=3D"font-size:12px;color:rgb(0,0,0)" face=3D=
+"Gotham-Light"><span style=3D"font-size:9px">privileged
+ and confidential material and its transmission is not a waiver of that=20
+privilege. It is intended for the use of the individual or entity to=20
+which it is addressed. If the reader is not the intended recipient or=20
+the employee or agent responsible for the delivery of the message to the
+ intended recipient, you are hereby notified that any dissemination,=20
+distribution or copying of the communication is strictly prohibited. if=20
+you have received this communication in error, please notify us=20
+immediately.</span></font></div></div></div></div></div>
+<br><br><div class=3D"gmail_quote">---------- Forwarded message ----------<=
+br>From: <b class=3D"gmail_sendername">Bradley Arsenault</b> <span dir=3D"l=
+tr">&lt;<a href=3D"mailto:genixpro@gmail.com">genixpro@gmail.com</a>&gt;</s=
+pan><br>
+Date: Mon, Jun 16, 2014 at 5:51 PM<br>Subject: Fwd: Your Future Shop eRecei=
+pt<br>To: Bradley Arsenault &lt;<a href=3D"mailto:brad@getsensibill.com">br=
+ad@getsensibill.com</a>&gt;<br><br><br><div class=3D"gmail_quote">---------=
+- Forwarded message ----------<br>
+From: &quot;Future Shop&quot; &lt;<a href=3D"mailto:non-respondable-email@f=
+utureshop.com" target=3D"_blank">non-respondable-email@futureshop.com</a>&g=
+t;<br>Date: Jun 16, 2014 1:46 PM<br>
+Subject: Your Future Shop eReceipt<br>To:  &lt;<a href=3D"mailto:genixpro@g=
+mail.com" target=3D"_blank">genixpro@gmail.com</a>&gt;<br>Cc: <br><br type=
+=3D"attribution"><u></u>
+
+
+
+
+
+
+
+<div>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"560">
+	<tbody><tr>
+    	<td>
+            <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"560">
+                <tbody><tr>
+                	<td width=3D"10" height=3D"10"></td>
+                	<td height=3D"8"></td>
+                </tr>
+                <tr>
+                	<td width=3D"10"></td>
+                    <td>
+                    <font color=3D"#000000" size=3D"3" face=3D"Arial"><b>Yo=
+ur Future Shop eReceipt</b></font>
+                    </td>
+                </tr>
+                <tr>
+                	<td width=3D"10" height=3D"10"></td>
+                	<td height=3D"8"></td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>
+    <tr>
+    	<td>
+        	<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"5=
+60">
+            	<tbody><tr>
+                	<td width=3D"352">
+                    	<a href=3D"http://www.futureshop.ca/en-CA/home.aspx?CM=
+P=3DEMC-eReceipt-ALL-20130626-FSheaderlogo-en" target=3D"_blank">
+                    		<img style=3D"display:block" src=3D"http://www.future=
+shop.ca/ereceipt/header.gif" alt=3D"Future Shop" border=3D"0" width=3D"352"=
+ height=3D"67">
+                    	</a>
+                    </td>
+                	<td width=3D"112">
+                    	<a href=3D"https://www-ssl.futureshop.ca/en-CA/secure/=
+weeklyad.aspx?CMP=3DEMC-eReceipt-ALL-20130626-FSheaderflyer-en" target=3D"_=
+blank">
+                    		<img style=3D"display:block" src=3D"http://www.future=
+shop.ca/ereceipt/header-weekly-flyer.gif" alt=3D"Weekly flyer" border=3D"0"=
+ width=3D"112" height=3D"67">
+                    	</a>
+                    </td>
+                	<td width=3D"96">
+                    	<a href=3D"https://www-ssl.futureshop.ca/en-CA/stores/=
+store-locator.aspx?CMP=3DEMC-eReceipt-ALL-20130626-FSheaderfindstore-en" ta=
+rget=3D"_blank">
+                    		<img style=3D"display:block" src=3D"http://www.future=
+shop.ca/ereceipt/header-find-stores.gif" alt=3D"Find stores" border=3D"0" w=
+idth=3D"96" height=3D"67">
+                    	</a>
+                    </td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>
+    <tr>
+    	<td>
+        	<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%">
+            	<tbody><tr>
+                	<td width=3D"10" height=3D"24"></td>
+                    <td height=3D"24"></td>
+                	<td width=3D"10" height=3D"24"></td>
+                </tr>
+                <tr>
+                	<td style=3D"height:24px;width:10px">=C2=A0</td>
+                    <td>
+                        <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%">
+                            <tbody><tr>
+                                <td>
+                                <font color=3D"#000000" size=3D"3" face=3D"=
+Arial">
+                                Dear Future Shop customer,<br><br>
+                                You&#39;ve requested an email copy of the r=
+eceipt from your recent purchase. Please save this email for your records, =
+as it will help make returns, exchanges, and referencing service/protection=
+ plan(s) easier.=20
+                                </font></td>
+                            </tr>
+                            <tr>
+                                <td>=C2=A0</td>
+                            </tr>
+                            <tr>
+                                <td>
+                               =20
+                                    <table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"100%">
+                                        <tbody><tr>
+                                        	<td>
+                                            	<table border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"100%">
+                                                	<tbody><tr>
+                                                        <td><font color=3D"=
+#000000" size=3D"4" face=3D"Arial">Future Shop </font></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <font color=3D"=
+#000000" face=3D"Arial">Visit us at <a href=3D"http://www.futureshop.ca?CMP=
+=3DEMC-eReceipt-ALL-20130626-FScontenthome-en" style=3D"text-decoration:non=
+e" target=3D"_blank"><font color=3D"#a50016">futureshop.ca</font></a></font=
+>
+                                                        </td>
+                                                    </tr>
+                                                </tbody></table>
+                                            </td>
+                                        	<td style=3D"width:92px">
+                                           =20
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
+                                   =20
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                    <td style=3D"height:24px;width:10px">=C2=A0</td>
+                </tr>
+            	<tr>
+                	<td style=3D"height:24px;width:10px">=C2=A0</td>
+                    <td style=3D"height:24px">=C2=A0</td>
+                	<td style=3D"height:24px;width:10px">=C2=A0</td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>
+    <tr>
+    	<td>
+        =09
+            <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%">
+            	<tbody><tr>
+                	<td style=3D"width:10px"></td>
+                	<td valign=3D"top" width=3D"280">
+                        <table border=3D"1" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%">
+                            <tbody><tr>
+                                <td border=3D"0">
+                           =20
+                                    <font size=3D"1" face=3D"Courier New">
+                                        <table border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0" width=3D"100%"><tbody><tr><td><font color=3D"#000000" =
+size=3D"1" face=3D"Courier New">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0Thank=C2=A0you=C2=A0for=C2=A0shopping=C2=A0at=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0</font></td>
+</tr><tr>
+<td><font color=3D"#000000" size=3D"1" face=3D"Courier New"><b>=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0Future=C2=A0Shop=C2=A0Downtown=C2=A0Toronto</=
+b>=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0</font></td></tr><tr><td><font color=3D"#00=
+0000" size=3D"1" face=3D"Courier New">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0exciting=C2=A0stuff=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0</font></=
+td>
+
+</tr><tr><td><font color=3D"#000000" face=3D"Courier New">=C2=A0</font></td=
+></tr><tr><td><font color=3D"#000000" size=3D"1" face=3D"Courier New">=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0325=C2=A0Yonge=C2=A0Stre=
+et,=C2=A0Toronto=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0</font></td></tr><tr><t=
+d><font color=3D"#000000" size=3D"1" face=3D"Courier New">=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+<a href=3D"tel:416-971-5377" value=3D"+14169715377" target=3D"_blank">416-9=
+71-5377</a>=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0</font></td>
+
+</tr><tr><td><font color=3D"#000000" face=3D"Courier New">=C2=A0</font></td=
+></tr><tr><td><font color=3D"#000000" size=3D"1" face=3D"Courier New"><b>=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0Keep=C2=A0your=C2=A0receipt</b>=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0</font></td></tr><tr><td><font color=3D"#000000" face=
+=3D"Courier New">=C2=A0</font></td>
+
+</tr><tr><td><font color=3D"#000000" face=3D"Courier New">=C2=A0</font></td=
+></tr><tr><td><font color=3D"#000000" size=3D"1" face=3D"Courier New">Val=
+=C2=A0#:=C2=A00820-2399-4673-6834=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0</font></td></tr><tr><td><font co=
+lor=3D"#000000" face=3D"Courier New">=C2=A0</font></td>
+
+</tr><tr><td><font color=3D"#000000" size=3D"1" face=3D"Courier New">0067=
+=C2=A0006=C2=A07345=C2=A006/16/14=C2=A0=C2=A0=C2=A0=C2=A0=C2=A013:43=C2=A0=
+=C2=A0=C2=A0=C2=A0FA8Y</font></td></tr><tr><td><font color=3D"#000000" face=
+=3D"Courier New">=C2=A0</font></td></tr><tr><td><font color=3D"#000000" siz=
+e=3D"1" face=3D"Courier New">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0SALES=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0</font></td>
+
+</tr><tr><td><font color=3D"#000000" face=3D"Courier New">=C2=A0</font></td=
+></tr><tr><td><font color=3D"#000000" size=3D"1" face=3D"Courier New">10168=
+041=C2=A0=C2=A0RF-MCDT2-T=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A019.95</font></td></tr><tr><td><fo=
+nt color=3D"#000000" size=3D"1" face=3D"Courier New">=C2=A0=C2=A0ROCKETFISH=
+=C2=A0RFMCDT2-T=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0</font></td>
+
+</tr><tr><td><font color=3D"#000000" size=3D"1" face=3D"Courier New">=C2=A0=
+=C2=A0Associate=C2=A0#=C2=A0FA8Y=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0</font></td></tr><tr><td><font color=3D"#000000" face=3D"Cou=
+rier New">=C2=A0</font></td></tr><tr><td><font color=3D"#000000" size=3D"1"=
+ face=3D"Courier New">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0----------=C2=A0</font></td=
+>
+
+</tr><tr><td><font color=3D"#000000" size=3D"1" face=3D"Courier New">=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0SUBTOTAL=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A019.95</font></td></tr><tr><td><font color=3D"#000000" size=
+=3D"1" face=3D"Courier New">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0HST=C2=A0ON=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A02.59=
+</font></td>
+
+</tr><tr><td><font color=3D"#000000" size=3D"1" face=3D"Courier New">=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=C2=A0</font></td></tr><tr>=
+<td><font color=3D"#000000" size=3D"1" face=3D"Courier New">=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0TOTAL=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A022.54</font></td>
+
+</tr><tr><td><font color=3D"#000000" face=3D"Courier New">=C2=A0</font></td=
+></tr><tr><td><font color=3D"#000000" size=3D"1" face=3D"Courier New">Trans=
+action=C2=A0Record=C2=A0SALE=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0</font></td></tr><=
+tr><td><font color=3D"#000000" size=3D"1" face=3D"Courier New">xxxxxxxxxxxx=
+2024=C2=A0C=C2=A0DEBIT=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A022.54</font></td>
+
+</tr><tr><td><font color=3D"#000000" size=3D"1" face=3D"Courier New">Approv=
+ed=C2=A0085589=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0</font></td></tr><tr><td><font color=3D"#000000" size=3D"1" =
+face=3D"Courier New">TERM:=C2=A00067=C2=A0006=C2=A0D=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0</font></td>
+
+</tr><tr><td><font color=3D"#000000" size=3D"1" face=3D"Courier New">Chequi=
+ng=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0</font></td></tr><tr><td><font=
+ color=3D"#000000" size=3D"1" face=3D"Courier New">SEQ=C2=A0NO:=C2=A0006001=
+001010=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0</font></td>
+
+</tr><tr><td><font color=3D"#000000" size=3D"1" face=3D"Courier New">ACI/IS=
+O=C2=A0001/00=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0</font></td></tr><tr><td><font color=3D"#000000" size=
+=3D"1" face=3D"Courier New">6/16/2014=C2=A013:42:55=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0</font></td>
+
+</tr><tr><td><font color=3D"#000000" size=3D"1" face=3D"Courier New">AID:=
+=C2=A0a0000002771010=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0</f=
+ont></td></tr><tr><td><font color=3D"#000000" size=3D"1" face=3D"Courier Ne=
+w">APN:=C2=A0Interac=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0</font></td>
+
+</tr><tr><td><font color=3D"#000000" size=3D"1" face=3D"Courier New">TVR=C2=
+=A08000008000=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0</font></td></tr><tr><td><font color=3D"#000000" size=
+=3D"1" face=3D"Courier New">TSI=C2=A0002a=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0</font></td>
+
+</tr><tr><td><font color=3D"#000000" size=3D"1" face=3D"Courier New">NO=C2=
+=A0SIGNATURE=C2=A0REQUIRED=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0</font></=
+td></tr><tr><td><font color=3D"#000000" face=3D"Courier New">=C2=A0</font><=
+/td></tr><tr><td><font color=3D"#000000" face=3D"Courier New">=C2=A0</font>=
+</td>
+
+</tr><tr><td><font color=3D"#000000" size=3D"1" face=3D"Courier New">GST=C2=
+=A0Reg.#=C2=A0R135664738=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0</font=
+></td></tr><tr><td><font color=3D"#000000" face=3D"Courier New">=C2=A0</fon=
+t></td></tr><tr><td><font color=3D"#000000" face=3D"Courier New">=C2=A0</fo=
+nt></td>
+
+</tr><tr><td><font color=3D"#000000" face=3D"Courier New">=C2=A0</font></td=
+></tr><tr><td><font color=3D"#000000" face=3D"Courier New">=C2=A0</font></t=
+d></tr><tr><td><font color=3D"#000000" size=3D"1" face=3D"Courier New"> =C2=
+=A0Shop your way - Order online and get</font></td>
+
+</tr><tr><td><font color=3D"#000000" size=3D"1" face=3D"Courier New"> FREE =
+shipping* or in-store pick up. Visit</font></td></tr><tr><td><font color=3D=
+"#000000" size=3D"1" face=3D"Courier New"> =C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0<a href=3D"http://futureshop.ca" target=3D"_blank">futureshop.ca</a> =
+for details.</font></td>
+
+</tr><tr><td><font color=3D"#000000" size=3D"1" face=3D"Courier New"> =C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0*Some conditions apply.</font>=
+</td></tr><tr><td><font color=3D"#000000" face=3D"Courier New">=C2=A0</font=
+></td></tr><tr><td><font color=3D"#000000" size=3D"1" face=3D"Courier New">=
+ =C2=A0=C2=A0YOUR CUSTOMER SERVICE 4-PART-KEY IS:</font></td>
+
+</tr><tr><td><font color=3D"#000000" size=3D"1" face=3D"Courier New"> =C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A00067 006 7345 0616=
+14</font></td></tr><tr><td><font color=3D"#000000" face=3D"Courier New">=C2=
+=A0</font></td></tr><tr><td><font color=3D"#000000" face=3D"Courier New">=
+=C2=A0</font></td>
+
+</tr><tr><td><font color=3D"#000000" size=3D"1" face=3D"Courier New"> =C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0TELL US HOW WE&#39;RE DOING!</=
+font></td></tr><tr><td><font color=3D"#000000" size=3D"1" face=3D"Courier N=
+ew"> =C2=A0=C2=A0=C2=A0TAKE OUR SURVEY IN THE NEXT 30 DAYS</font></td>
+
+</tr><tr><td><font color=3D"#000000" size=3D"1" face=3D"Courier New"> =C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0AND ENTER FOR A CHANCE TO WIN A</font></td></tr>=
+<tr><td><font color=3D"#000000" size=3D"1" face=3D"Courier New"> =C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0$500 FUTURE SHOP GIFT CARD.</font></=
+td>
+
+</tr><tr><td><font color=3D"#000000" size=3D"1" face=3D"Courier New"> =C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0Go to: <a href=3D"http://www.futureshopcar=
+es.ca" target=3D"_blank">www.futureshopcares.ca</a></font></td></tr><tr><td=
+><font color=3D"#000000" size=3D"1" face=3D"Courier New"> =C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0&amp; enter the following codes:</font></td>
+
+</tr><tr><td><font color=3D"#000000" face=3D"Courier New">=C2=A0</font></td=
+></tr><tr><td><font color=3D"#000000" size=3D"1" face=3D"Courier New"> =C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0Group A: =C2=
+=A0=C2=A0106067</font></td></tr><tr><td><font color=3D"#000000" size=3D"1" =
+face=3D"Courier New"> =C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0Group B: =C2=A0=C2=A06345</font></td>
+
+</tr><tr><td><font color=3D"#000000" size=3D"1" face=3D"Courier New"> =C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0Group C: =C2=
+=A0=C2=A00761498YFA00</font></td></tr><tr><td><font color=3D"#000000" face=
+=3D"Courier New">=C2=A0</font></td></tr><tr><td><font color=3D"#000000" siz=
+e=3D"1" face=3D"Courier New"> =C2=A0=C2=A0=C2=A0See customer service desk o=
+r go to</font></td>
+
+</tr><tr><td><font color=3D"#000000" size=3D"1" face=3D"Courier New"> =C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0<a href=3D"http://www.futureshopcares.ca" target=
+=3D"_blank">www.futureshopcares.ca</a> for full</font></td></tr><tr><td><fo=
+nt color=3D"#000000" size=3D"1" face=3D"Courier New"> =C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0contest rules and details</font></td>
+
+</tr><tr><td><font color=3D"#000000" face=3D"Courier New">=C2=A0</font></td=
+></tr><tr><td><font color=3D"#000000" face=3D"Courier New">=C2=A0</font></t=
+d></tr><tr><td><font color=3D"#000000" face=3D"Courier New">=C2=A0</font></=
+td></tr><tr><td><font color=3D"#000000" face=3D"Courier New">=C2=A0</font><=
+/td>
+
+</tr><tr><td><font color=3D"#000000" size=3D"1" face=3D"Courier New"><b> To=
+tal Store Stock Items: 1</b></font></td></tr><tr><td><font color=3D"#000000=
+" face=3D"Courier New">=C2=A0</font></td></tr><tr><td><font color=3D"#00000=
+0" size=3D"1" face=3D"Courier New"> =C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0&lt;&lt;&lt;&lt;&lt; CUSTOMER COPY &gt;&gt;&gt;&gt;&gt;</font></td=
+>
+
+</tr><tr><td><font color=3D"#000000" face=3D"Courier New">=C2=A0</font></td=
+></tr><tr><td><font color=3D"#000000" face=3D"Courier New">=C2=A0</font></t=
+d></tr><tr><td><font color=3D"#000000" face=3D"Courier New">=C2=A0</font></=
+td></tr><tr><td><font color=3D"#000000" face=3D"Courier New">=C2=A0</font><=
+/td>
+
+</tr></tbody></table>
+                                    </font>
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                	<td style=3D"width:9px"></td>
+                	<td valign=3D"top" width=3D"280">
+                    	<table style=3D"vertical-align:top" border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0" width=3D"100%">
+                        	<tbody><tr>
+                        		<td width=3D"22"></td>
+                        		<td width=3D"241">
+                        			<table style=3D"vertical-align:top" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0">
+                        				<tbody><tr>
+                        					<td height=3D"4"><img src=3D"http://www.future=
+shop.ca/ereceipt/line.gif" style=3D"display:block" border=3D"0"></td>
+                        				</tr>
+                        				<tr>
+                        					<td height=3D"40"></td>
+                        				</tr>
+                        				<tr>
+                        					<td>
+                        						<table style=3D"vertical-align:top" border=3D=
+"0" cellpadding=3D"0" cellspacing=3D"0">
+                        							<tbody><tr>
+                        								<td width=3D"23"></td>
+                        								<td width=3D"218"><font color=3D"#000000" s=
+ize=3D"4" face=3D"Arial"><b>Information</b></font></td>
+                        							</tr>
+                        							<tr>
+                        								<td height=3D"24"></td>
+                        							</tr>
+                        						</tbody></table>
+                        					</td>
+                        				</tr>
+                        					<tr><td>
+                        						<table style=3D"vertical-align:top" border=3D=
+"0" cellpadding=3D"0" cellspacing=3D"0">
+												   <tbody><tr>
+													   <td width=3D"14"></td>
+													   <td width=3D"36"><a href=3D"http://www.futureshop.ca/en-CA/=
+help.aspx?CMP=3DEMC-eReceipt-ALL-20131112-FSsidebarcustomer-en" style=3D"te=
+xt-decoration:none" target=3D"_blank"><img src=3D"http://www.futureshop.ca/=
+ereceipt/icon_customer.gif" style=3D"display:block" border=3D"0"></a></td>
+
+
+													   <td width=3D"17"></td>
+													   <td width=3D"174">
+														   <table style=3D"vertical-align:top" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0">
+															   <tbody><tr>
+																   <td height=3D"9"></td>
+															   </tr>
+															   <tr>
+																   <td><a href=3D"http://www.futureshop.ca/en-CA/help.aspx?=
+CMP=3DEMC-eReceipt-ALL-20131112-FSsidebarcustomer-en" style=3D"text-decorat=
+ion:none" target=3D"_blank"><font color=3D"#000000" face=3D"Arial"><b>Custo=
+mer Support</b></font></a></td>
+
+
+															   </tr>
+															   <tr>
+																   <td height=3D"9"></td>
+															   </tr>
+															   <tr>
+																   <td><a href=3D"http://www.futureshop.ca/en-CA/help.aspx?=
+CMP=3DEMC-eReceipt-ALL-20131112-FSsidebarcustomer-en" style=3D"text-decorat=
+ion:none" target=3D"_blank"><font color=3D"#a50016" size=3D"1" face=3D"Aria=
+l">Click here.</font></a></td>
+
+
+															   </tr>
+														   </tbody></table>
+													   </td>
+												   </tr>
+												</tbody></table>
+                        					</td>
+                        				</tr><tr>
+                        					<td height=3D"24"></td>
+                        				</tr>
+                        				<tr>
+                        					<td>
+                        						<table style=3D"vertical-align:top" border=3D=
+"0" cellpadding=3D"0" cellspacing=3D"0">
+												   <tbody><tr>
+													   <td width=3D"14"></td>
+													   <td width=3D"36"><a href=3D"http://www.futureshop.ca/en-CA/=
+help/returns-and-exchange/returns.aspx?CMP=3DEMC-eReceipt-ALL-20131112-FSsi=
+debarreturn-en" style=3D"text-decoration:none" target=3D"_blank"><img src=
+=3D"http://www.futureshop.ca/ereceipt/icon_easy.gif" style=3D"display:block=
+" border=3D"0"></a></td>
+
+
+													   <td width=3D"17"></td>
+													   <td width=3D"174">
+														   <table style=3D"vertical-align:top" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0">
+															   <tbody><tr>
+																   <td height=3D"15"></td>
+															   </tr>
+															   <tr>
+																   <td><a href=3D"http://www.futureshop.ca/en-CA/help/retur=
+ns-and-exchange/returns.aspx?CMP=3DEMC-eReceipt-ALL-20131112-FSsidebarretur=
+n-en" style=3D"text-decoration:none" target=3D"_blank"><font color=3D"#0000=
+00" face=3D"Arial"><b>Easy Returns</b></font></a></td>
+
+
+															   </tr>
+															   <tr>
+																   <td height=3D"9"></td>
+															   </tr>
+															   <tr>
+																   <td><a href=3D"http://www.futureshop.ca/en-CA/help/retur=
+ns-and-exchange/returns.aspx?CMP=3DEMC-eReceipt-ALL-20131112-FSsidebarretur=
+n-en" style=3D"text-decoration:none" target=3D"_blank"><font color=3D"#a500=
+16" size=3D"1" face=3D"Arial">Learn more.</font></a></td>
+
+
+															   </tr>
+														   </tbody></table>
+													   </td>
+												   </tr>
+												</tbody></table>
+                        					</td>
+                        				</tr>
+                        				<tr>
+                        					<td height=3D"24"></td>
+                        				</tr>
+                        				<tr>
+                        					<td>
+                        						<table style=3D"vertical-align:top" border=3D=
+"0" cellpadding=3D"0" cellspacing=3D"0">
+												   <tbody><tr>
+													   <td width=3D"14"></td>
+													   <td width=3D"36"><a href=3D"http://www.futureshop.ca/en-CA/=
+reserve-pickup.aspx?CMP=3DEMC-eReceipt-ALL-20131112-FSsidebarreserve-en" st=
+yle=3D"text-decoration:none" target=3D"_blank"><img src=3D"http://www.futur=
+eshop.ca/ereceipt/icon_reserve.gif" style=3D"display:block" border=3D"0"></=
+a></td>
+
+
+													   <td width=3D"17"></td>
+													   <td width=3D"174">
+														   <table style=3D"vertical-align:top" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0">
+															   <tbody><tr>
+																   <td height=3D"2"></td>
+															   </tr>
+															   <tr>
+																   <td><a href=3D"http://www.futureshop.ca/en-CA/reserve-pi=
+ckup.aspx?CMP=3DEMC-eReceipt-ALL-20131112-FSsidebarreserve-en" style=3D"tex=
+t-decoration:none" target=3D"_blank"><font color=3D"#000000" face=3D"Arial"=
+><b>Reserve and Pick Up</b></font></a></td>
+
+
+															   </tr>
+															   <tr>
+																   <td height=3D"9"></td>
+															   </tr>
+															   <tr>
+																   <td><a href=3D"http://www.futureshop.ca/en-CA/reserve-pi=
+ckup.aspx?CMP=3DEMC-eReceipt-ALL-20131112-FSsidebarreserve-en" style=3D"tex=
+t-decoration:none" target=3D"_blank"><font color=3D"#a50016" size=3D"1" fac=
+e=3D"Arial">See how it works.</font></a></td>
+
+
+															   </tr>
+														   </tbody></table>
+													   </td>
+												   </tr>
+												</tbody></table>
+                        					</td>
+                        				</tr>
+                        				<tr>
+                        					<td height=3D"24"></td>
+                        				</tr>
+                        				<tr>
+                        					<td>
+                        						<table style=3D"vertical-align:top" border=3D=
+"0" cellpadding=3D"0" cellspacing=3D"0">
+												   <tbody><tr>
+													   <td width=3D"14"></td>
+													   <td width=3D"36"><a href=3D"http://www.futureshop.ca/en-ca/=
+help/id/hc80.aspx?CMP=3DEMC-eReceipt-ALL-20131112-FSsidebarpricebeat-en" st=
+yle=3D"text-decoration:none" target=3D"_blank"><img src=3D"http://www.futur=
+eshop.ca/ereceipt/icon_price.gif" style=3D"display:block" border=3D"0"></a>=
+</td>
+
+
+													   <td width=3D"17"></td>
+													   <td width=3D"174">
+														   <table style=3D"vertical-align:top" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0">
+															   <tbody><tr>
+																   <td height=3D"21"></td>
+															   </tr>
+															   <tr>
+																   <td><a href=3D"http://www.futureshop.ca/en-ca/help/id/hc=
+80.aspx?CMP=3DEMC-eReceipt-ALL-20131112-FSsidebarpricebeat-en" style=3D"tex=
+t-decoration:none" target=3D"_blank"><font color=3D"#000000" face=3D"Arial"=
+><b>Price Beat Promise</b></font></a></td>
+
+
+															   </tr>
+															   <tr>
+																   <td height=3D"9"></td>
+															   </tr>
+															   <tr>
+																   <td><a href=3D"http://www.futureshop.ca/en-ca/help/id/hc=
+80.aspx?CMP=3DEMC-eReceipt-ALL-20131112-FSsidebarpricebeat-en" style=3D"tex=
+t-decoration:none" target=3D"_blank"><font color=3D"#a50016" size=3D"1" fac=
+e=3D"Arial">Learn more.</font></a></td>
+
+
+															   </tr>
+														   </tbody></table>
+													   </td>
+												   </tr>
+												</tbody></table>
+                        					</td>
+                        				</tr>
+                        				<tr>
+                        					<td height=3D"40"></td>
+                        				</tr>
+                        				<tr>
+                        					<td height=3D"4"><img src=3D"http://www.future=
+shop.ca/ereceipt/line.gif" style=3D"display:block" border=3D"0"></td>
+                        				</tr>
+                        			</tbody></table>     	=09
+                        		</td>
+                        		<td width=3D"17"></td>
+                        	</tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+            </tbody></table>
+           =20
+        </td>
+    </tr>
+    <tr>
+    	<td height=3D"17"></td>
+    </tr>
+    <tr>
+    	<td>
+    		<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+    			<tbody><tr>
+    				<td bgcolor=3D"#ebebeb" width=3D"15"></td>
+    				<td bgcolor=3D"#ebebeb" width=3D"530">
+    					<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+    						<tbody><tr>
+    							<td height=3D"17"></td>
+    						</tr>
+    						<tr>
+    							<td><font color=3D"#666666" size=3D"1" face=3D"Arial">OUR RETURN=
+ POLICY: If for any reason you are not completely satisfied with your purch=
+ases, Future Shop will gladly give you a full refund or exchange within 30 =
+days of purchase for most items*. Future Shop does not charge a restocking =
+fee. You will require:</font></td>
+
+
+    						</tr>
+    						<tr>
+    							<td height=3D"5"></td>
+    						</tr>
+    						<tr>
+    							<td>
+    								<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+    									<tbody><tr>
+    										<td valign=3D"top" width=3D"20"><font color=3D"#666666" size=
+=3D"1" face=3D"Arial">1.</font></td>
+    										<td valign=3D"top" width=3D"510"><font color=3D"#666666" size=
+=3D"1" face=3D"Arial">The original receipt (invoice) from your purchase.</f=
+ont></td>
+    									</tr>
+    									<tr>
+    										<td valign=3D"top" width=3D"20"><font color=3D"#666666" size=
+=3D"1" face=3D"Arial">2.</font></td>
+    										<td valign=3D"top" width=3D"510"><font color=3D"#666666" size=
+=3D"1" face=3D"Arial">The original method of payment. Payment card purchase=
+s will be refunded to the original payment card. Store credit will be given=
+ for returns with gift receipts.</font></td>
+
+
+    									</tr>
+    									<tr>
+    										<td valign=3D"top" width=3D"20"><font color=3D"#666666" size=
+=3D"1" face=3D"Arial">3.</font></td>
+    										<td valign=3D"top" width=3D"510"><font color=3D"#666666" size=
+=3D"1" face=3D"Arial">Original packaging and all items originally included =
+by the manufacturer or Future Shop (including all manuals, accessories, gif=
+ts with purchase, bonus and included items).</font></td>
+
+
+    									</tr>
+    									<tr>
+    										<td valign=3D"top" width=3D"20"><font color=3D"#666666" size=
+=3D"1" face=3D"Arial">4.</font></td>
+    										<td valign=3D"top" width=3D"510"><font color=3D"#666666" size=
+=3D"1" face=3D"Arial">Your name, address, phone number and signature. Valid=
+ government-issued photo ID may be requested to confirm this information.</=
+font></td>
+
+
+    									</tr>
+    								</tbody></table>
+    							</td>
+    						</tr>
+    						<tr>
+    							<td height=3D"10"></td>
+    						</tr>
+    						<tr>
+    							<td><font color=3D"#666666" size=3D"1" face=3D"Arial">*Some cond=
+itions and exclusions apply. Certain items have a 14-day or 15-day return p=
+olicy. Some items may not be returned if opened or assembled, or may not be=
+ eligible for return or exchange (such as food). A list of these items and =
+full details on our return and exchange policy can be found on <a href=3D"h=
+ttp://futureshop.ca" target=3D"_blank">futureshop.ca</a> or speak to a Prod=
+uct Expert in-store for details. Terms and conditions are subject to change=
+ without notice.</font></td>
+
+
+    						</tr>
+    						<tr>
+    							<td height=3D"10"></td>
+    						</tr>
+    						<tr>
+    							<td><font color=3D"#666666" size=3D"1" face=3D"Arial">The inform=
+ation in this e-mail message including any attachments is intended only for=
+ the named recipients above and may contain confidential or privileged info=
+rmation. If you have received this message in error, or are not the intende=
+d email recipient(s), please immediately notify the sender by emailing <a h=
+ref=3D"mailto:service@futureshop.com" style=3D"text-decoration:none" target=
+=3D"_blank"><font color=3D"#a50016">service@futureshop.com</font></a> and d=
+elete all copies of it from your computer.</font></td>
+
+
+    						</tr>
+    						<tr>
+    							<td height=3D"10"></td>
+    						</tr>
+    						<tr>
+    							<td><font color=3D"#666666" size=3D"1" face=3D"Arial">This email=
+ was sent from an outgoing-only address that cannot accept incoming emails.=
+ If you haven&#39;t found the information you are looking for and still hav=
+e questions please visit our <a href=3D"http://www.futureshop.ca/helpcustom=
+erservice/helpcustomerservicemain.aspx" style=3D"text-decoration:none" targ=
+et=3D"_blank"><font color=3D"#a50016">information centre</font></a> to acce=
+ss general information, frequently asked questions, contact us information,=
+ and more.</font></td>
+
+
+    						</tr>
+    						<tr>
+    							<td height=3D"10"></td>
+    						</tr>
+    						<tr>
+    							<td><font color=3D"#666666" size=3D"1" face=3D"Arial">At Future =
+Shop we know how important it is to protect your personal information. A co=
+py of our privacy notice can be found at <a href=3D"http://www.futureshop.c=
+a" style=3D"text-decoration:none" target=3D"_blank"><font color=3D"#a50016"=
+>www.futureshop.ca</font></a></font></td>
+
+
+    						</tr>
+    						<tr>
+    							<td height=3D"10"></td>
+    						</tr>
+    						<tr>
+    							<td><font color=3D"#666666" size=3D"1" face=3D"Arial"><b>FUTURE =
+SHOP LIQUIDATION CENTRE DISCLAIMER</b></font></td>
+    						</tr>
+    						<tr>
+    							<td height=3D"5"></td>
+    						</tr>
+    						<tr>
+    							<td><font color=3D"#666666" size=3D"1" face=3D"Arial">All sales =
+at FUTURE SHOP LIQUIDATION CENTRE are final. However, defective products ma=
+y be returned or exchanged to the Liquidation location within 7 days of pur=
+chase (14 days for major appliances). Products sold by other Future Shop st=
+ore locations or <a href=3D"http://www.futureshop.ca" style=3D"text-decorat=
+ion:none" target=3D"_blank"><font color=3D"#a50016">www.futureshop.ca</font=
+></a> cannot be returned or exchanged at FUTURE SHOP LIQUIDATION CENTRE, an=
+d products from FUTURE SHOP LIQUIDATION CENTRE cannot be returned or exchan=
+ged at other Future Shop stores or <a href=3D"http://www.futureshop.ca" sty=
+le=3D"text-decoration:none" target=3D"_blank"><font color=3D"#a50016">www.f=
+utureshop.ca</font></a>. To ensure the best experience, we may, at our disc=
+retion and expense, require a service technician to service the unit or con=
+firm defects prior to a return or exchange being performed. This service ma=
+y be performed in your home or workplace for home delivered items. Returns =
+or exchanges must be completed at a FUTURE SHOP LIQUIDATION CENTRE location=
+.</font></td>
+
+
+    						</tr>
+    						<tr>
+    							<td height=3D"17"></td>
+    						</tr>
+    					</tbody></table>
+    				</td>
+    				<td bgcolor=3D"#ebebeb" width=3D"15"></td>
+    			</tr>
+    		</tbody></table>
+    	</td>
+    </tr>
+    <tr>
+    	<td height=3D"20"></td>
+    </tr>
+</tbody></table>
+</div>
+
+</div>
+</div><br></div>
+
+--001a1134565e96cd1404fdde39b8--

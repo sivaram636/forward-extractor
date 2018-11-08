@@ -1,0 +1,641 @@
+Authentication-Results: apiserver;
+Received: from mail-ig0-f170.google.com ([10.183.253.48])
+	by apiserver (Haraka/2.5.0) with ESMTP id B077E6E2-0EDE-4E2D-BC77-2798E7010AFB.1
+	envelope-from <corey@getsensibill.com>;
+	Fri, 11 Jul 2014 21:24:14 +0000
+Received: by mail-ig0-f170.google.com with SMTP id h3so958764igd.5
+        for <jpa@billpass.ca>; Fri, 11 Jul 2014 14:24:29 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:from:content-type:subject:date:references:to
+         :message-id:mime-version;
+        bh=2yuqLFmZgujV9pU3+ATFmTyOXbVfhl8Tk8kxUYlNqi0=;
+        b=bwqWi/OeFeaGTkKVseiT6+uDLBVWkPDGoXfg8gk914m2RAa7AMCD7RlTYi0IKVk0VA
+         2l3Hb6ND6kXNMCU9lfevB901vYBLCtyZO9O7cwXE5MvCe5F5KkSOEjVzcKmBZ65AzUdL
+         FSGahSjNNYBxkno+AJD6IsDQsxOcjB5INKrXgYe1v2FC+LFUi/mYs6F3SrcgoX+7q38l
+         B2UZd5Zf+jPDx5nSwNP8SxBFA58GAESXPRhKhAu1gtqVXntYt4KgftHNIv2e5D3CwKKE
+         eZf/hMF7NS6x0R2W97t/dm7lgx2oTJQ5mYdVTy9k7A4Nr7NNqlLuTZQb3JhY74ZYghbJ
+         2DIA==
+X-Gm-Message-State: ALoCoQlIY/p/8uA3LyybM6ALm8qqHdXh1dVViT0mSQer+p75ZvHKOHWTiPnpK9AIEw/B+xbP0ek0
+X-Received: by 10.43.53.73 with SMTP id vp9mr7115495icb.61.1405113869389;
+        Fri, 11 Jul 2014 14:24:29 -0700 (PDT)
+Received: from [10.16.145.163] ([141.117.116.109])
+        by mx.google.com with ESMTPSA id 8sm9314718igr.16.2014.07.11.14.24.28
+        for <jpa@billpass.ca>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Fri, 11 Jul 2014 14:24:28 -0700 (PDT)
+From: Corey Gross <corey@getsensibill.com>
+Content-Type: multipart/alternative; boundary="Apple-Mail=_9F44C54C-6B92-4786-932E-3A358F24FB87"
+Subject: Fwd: Your receipt for order #20004253484 from Crate and Barrel.
+Date: Fri, 11 Jul 2014 17:24:27 -0400
+References: <fb889eb96d21.539b4253@ryerson.ca>
+To: jpa@billpass.ca
+Message-Id: <CE9B5BD9-87DD-4B0F-995D-947FD45F43D7@getsensibill.com>
+Mime-Version: 1.0 (Mac OS X Mail 7.3 \(1878.2\))
+X-Mailer: Apple Mail (2.1878.2)
+
+
+--Apple-Mail=_9F44C54C-6B92-4786-932E-3A358F24FB87
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain;
+	charset=us-ascii
+
+
+______________
+
+COREY GROSS / CHIEF EXECUTIVE OFFICER
+E. corey@getsensibill.com / C. 416.892.8310
+ 10 Dundas St. E., 6th Floor / Toronto, ON, M5B 2G9
+This email may contain privileged and confidential material and its =
+transmission is not a waiver of that privilege. It is intended for the =
+use of the individual or entity to which it is addressed. If the reader =
+is not the intended recipient or the employee or agent responsible for =
+the delivery of the message to the intended recipient, you are hereby =
+notified that any dissemination, distribution or copying of the =
+communication is strictly prohibited. if you have received this =
+communication in error, please notify us immediately.
+
+Begin forwarded message:
+
+> From: Shahad Mahdi <shahad.mahdi@ryerson.ca>
+> Subject: Fwd: Your receipt for order #20004253484 from Crate and =
+Barrel.
+> Date: June 13, 2014 at 6:26:27 PM EDT
+> To: Corey Gross <corey@getsensibill.com>
+>=20
+>=20
+> From: Crate and Barrel <crateandbarrel@news.crateandbarrel.com>
+> Subject: Your receipt for order #20004253484 from Crate and Barrel.
+> Date: June 13, 2014 at 11:45:18 AM EDT
+> To: shahad.mahdi@ryerson.ca
+> Reply-To: Crate and Barrel =
+<support-b67xq8ybg7ta5xauws8w2qc2qaapb3@news.crateandbarrel.com>
+>=20
+>=20
+> Your receipt for order #20004253484 from Crate and Barrel.	=09
+> 	YORKDALE=20
+> 3401 Dufferin Street=20
+> Toronto, ON M6A 2T9
+> (416) 657-4100=09
+>=20
+> ORDER #: 20004253484=20
+> SALE DATE: 6/13/2014
+> ASSOCIATE: LOREDANA S
+>=20
+> =09
+> RETURN=09
+>=20
+> =09
+> SKU	Description	Qty	Retail
+> Amount	Extended
+> Amount	=09
+> =09
+> 262196	Tealight Candles Green Set of 12 R		1	=
+-2.97	-2.97		=09
+> Transaction Totals:
+> MERCHANDISE:		-2.97=09
+> ON HST 13.000%:		-0.39=09
+> TOTAL:		-3.36=09
+> XXXXXXXXXXXX6290 VISA:		-3.36=09
+>=20
+> GST/HST No. 83346 5529
+> =09
+> Visit us online at crateandbarrel.ca
+>=20
+> =09
+>=20
+> Yorkdale
+> Toronto, ON=20
+>  @CBYorkdale=20
+> 416.657.4100	Square One
+> Mississauga, ON
+>  @CBSquareOne=20
+> 905.949.1545	Southcentre Mall
+> Calgary, AB
+>  @CBSouthcentre
+> 403.278.7020	Southgate Centre
+> Edmonton, AB
+>  @CBSouthgate=20
+> 780.436.1454	Le Carrefour Laval
+> Quebec, ON
+>  @CBLaval=20
+> 450.781.5800
+>=20
+>=20
+> Return Policy
+>=20
+>=20
+> If you wish to receive Crate and Barrel email messages about new =
+products, sales, exclusive offers and more, click here to subscribe.
+>=20
+> Privacy policy
+> Click to view our privacy policy.
+>=20
+> Crate and Barrel, 6060 Burnside Court, Unit 2, Mississauga, ON L5T 2T5
+>=20
+>=20
+> =20
+>=20
+
+
+--Apple-Mail=_9F44C54C-6B92-4786-932E-3A358F24FB87
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html;
+	charset=us-ascii
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html =
+charset=3Dus-ascii"></head><body style=3D"word-wrap: break-word; =
+-webkit-nbsp-mode: space; -webkit-line-break: =
+after-white-space;"><br><div>
+<span style=3D"color: rgb(10, 10, 10); font-family: Gotham-Light; =
+font-size: 11px;">______________</span><br><div style=3D"color: rgb(82, =
+82, 82); font-size: 11px;"><div style=3D"font-family: 'Gotham Book', =
+Times;"><div><span style=3D"font-weight: bold; color: rgb(10, 10, =
+10);"><br></span></div><div style=3D"font-family: Helvetica; font-size: =
+12px;"><span style=3D"color: rgb(10, 10, 10); font-size: 11px;"><font =
+face=3D"Gotham">COREY GROSS</font></span><font face=3D"Gotham-Light"><span=
+ style=3D"font-size: 11px;">&nbsp;/&nbsp;CHIEF EXECUTIVE =
+OFFICER</span></font></div><div style=3D"font-family: Helvetica; =
+margin-top: 5px;"><font face=3D"Gotham-Light"><span style=3D"font-size: =
+10.5px; color: rgb(40, 190, 193);">E.&nbsp;</span><a =
+href=3D"mailto:corey@getsensibill.com" target=3D"_blank" =
+style=3D"text-decoration: none; color: =
+inherit;">corey@getsensibill.com</a>&nbsp;/&nbsp;<span style=3D"font-size:=
+ 10.5px; color: rgb(40, 190, =
+193);">C.&nbsp;</span>416.892.8310</font></div><div style=3D"font-family: =
+Helvetica; margin-top: 15px;"><font face=3D"Gotham-Light"><span =
+style=3D"width: 100px; vertical-align: middle; margin-bottom: 3px; =
+padding-right: 5px;"><img =
+src=3D"http://sensibill.jit.su/images/sensibill-logo-teal.png" =
+style=3D"width: 100px; vertical-align: middle; margin-bottom: 3px; =
+padding-right: 5px;"></span>&nbsp;10 Dundas St. E., 6th Floor / Toronto, =
+ON, M5B 2G9</font></div><div style=3D"font-family: Helvetica; =
+margin-top: 15px;"><span style=3D"color: rgb(0, 0, 0); font-size: =
+8px;"><font face=3D"Gotham-Light">This email may =
+contain&nbsp;</font></span><font face=3D"Gotham-Light" style=3D"font-size:=
+ 12px; color: rgb(0, 0, 0);"><span style=3D"font-size: 9px;">privileged =
+and confidential material and its transmission is not a waiver of that =
+privilege. It is intended for the use of the individual or entity to =
+which it is addressed. If the reader is not the intended recipient or =
+the employee or agent responsible for the delivery of the message to the =
+intended recipient, you are hereby notified that any dissemination, =
+distribution or copying of the communication is strictly prohibited. if =
+you have received this communication in error, please notify us =
+immediately.</span></font></div></div></div>
+</div>
+<div style=3D""><br><div>Begin forwarded message:</div><br =
+class=3D"Apple-interchange-newline"><blockquote type=3D"cite"><div =
+style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; =
+margin-left: 0px;"><span style=3D"font-family:'Helvetica'; color:rgba(0, =
+0, 0, 1.0);"><b>From: </b></span><span =
+style=3D"font-family:'Helvetica';">Shahad Mahdi &lt;<a =
+href=3D"mailto:shahad.mahdi@ryerson.ca">shahad.mahdi@ryerson.ca</a>&gt;<br=
+></span></div><div style=3D"margin-top: 0px; margin-right: 0px; =
+margin-bottom: 0px; margin-left: 0px;"><span =
+style=3D"font-family:'Helvetica'; color:rgba(0, 0, 0, 1.0);"><b>Subject: =
+</b></span><span style=3D"font-family:'Helvetica';"><b>Fwd: Your receipt =
+for order #20004253484 from Crate and Barrel.</b><br></span></div><div =
+style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; =
+margin-left: 0px;"><span style=3D"font-family:'Helvetica'; color:rgba(0, =
+0, 0, 1.0);"><b>Date: </b></span><span =
+style=3D"font-family:'Helvetica';">June 13, 2014 at 6:26:27 PM =
+EDT<br></span></div><div style=3D"margin-top: 0px; margin-right: 0px; =
+margin-bottom: 0px; margin-left: 0px;"><span =
+style=3D"font-family:'Helvetica'; color:rgba(0, 0, 0, 1.0);"><b>To: =
+</b></span><span style=3D"font-family:'Helvetica';">Corey Gross &lt;<a =
+href=3D"mailto:corey@getsensibill.com">corey@getsensibill.com</a>&gt;<br><=
+/span></div><br><div><div style=3D"font-family: Helvetica; font-size: =
+12px; font-style: normal; font-variant: normal; font-weight: normal; =
+letter-spacing: normal; line-height: normal; orphans: auto; text-align: =
+start; text-indent: 0px; text-transform: none; white-space: normal; =
+widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; margin: =
+0px;"><span style=3D"font-family: Helvetica; color: rgb(127, 127, =
+127);"><b><br class=3D"Apple-interchange-newline">From:<span =
+class=3D"Apple-converted-space">&nbsp;</span></b></span><span =
+style=3D"font-family: Helvetica;">Crate and Barrel &lt;<a =
+href=3D"mailto:crateandbarrel@news.crateandbarrel.com">crateandbarrel@news=
+..crateandbarrel.com</a>&gt;<br></span></div><div style=3D"font-family: =
+Helvetica; font-size: 12px; font-style: normal; font-variant: normal; =
+font-weight: normal; letter-spacing: normal; line-height: normal; =
+orphans: auto; text-align: start; text-indent: 0px; text-transform: =
+none; white-space: normal; widows: auto; word-spacing: 0px; =
+-webkit-text-stroke-width: 0px; margin: 0px;"><span style=3D"font-family: =
+Helvetica; color: rgb(127, 127, 127);"><b>Subject:<span =
+class=3D"Apple-converted-space">&nbsp;</span></b></span><span =
+style=3D"font-family: Helvetica;"><b>Your receipt for order #20004253484 =
+from Crate and Barrel.</b><br></span></div><div style=3D"font-family: =
+Helvetica; font-size: 12px; font-style: normal; font-variant: normal; =
+font-weight: normal; letter-spacing: normal; line-height: normal; =
+orphans: auto; text-align: start; text-indent: 0px; text-transform: =
+none; white-space: normal; widows: auto; word-spacing: 0px; =
+-webkit-text-stroke-width: 0px; margin: 0px;"><span style=3D"font-family: =
+Helvetica; color: rgb(127, 127, 127);"><b>Date:<span =
+class=3D"Apple-converted-space">&nbsp;</span></b></span><span =
+style=3D"font-family: Helvetica;">June 13, 2014 at 11:45:18 AM =
+EDT<br></span></div><div style=3D"font-family: Helvetica; font-size: =
+12px; font-style: normal; font-variant: normal; font-weight: normal; =
+letter-spacing: normal; line-height: normal; orphans: auto; text-align: =
+start; text-indent: 0px; text-transform: none; white-space: normal; =
+widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; margin: =
+0px;"><span style=3D"font-family: Helvetica; color: rgb(127, 127, =
+127);"><b>To:<span =
+class=3D"Apple-converted-space">&nbsp;</span></b></span><span =
+style=3D"font-family: Helvetica;"><a =
+href=3D"mailto:shahad.mahdi@ryerson.ca">shahad.mahdi@ryerson.ca</a><br></s=
+pan></div><div style=3D"font-family: Helvetica; font-size: 12px; =
+font-style: normal; font-variant: normal; font-weight: normal; =
+letter-spacing: normal; line-height: normal; orphans: auto; text-align: =
+start; text-indent: 0px; text-transform: none; white-space: normal; =
+widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; margin: =
+0px;"><span style=3D"font-family: Helvetica; color: rgb(127, 127, =
+127);"><b>Reply-To:<span =
+class=3D"Apple-converted-space">&nbsp;</span></b></span><span =
+style=3D"font-family: Helvetica;">Crate and Barrel &lt;<a =
+href=3D"mailto:support-b67xq8ybg7ta5xauws8w2qc2qaapb3@news.crateandbarrel.=
+com">support-b67xq8ybg7ta5xauws8w2qc2qaapb3@news.crateandbarrel.com</a>&gt=
+;<br></span></div><br style=3D"font-family: Helvetica; font-size: 12px; =
+font-style: normal; font-variant: normal; font-weight: normal; =
+letter-spacing: normal; line-height: normal; orphans: auto; text-align: =
+start; text-indent: 0px; text-transform: none; white-space: normal; =
+widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px;"><br =
+style=3D"font-family: Helvetica; font-size: 12px; font-style: normal; =
+font-variant: normal; font-weight: normal; letter-spacing: normal; =
+line-height: normal; orphans: auto; text-align: start; text-indent: 0px; =
+text-transform: none; white-space: normal; widows: auto; word-spacing: =
+0px; -webkit-text-stroke-width: 0px;"><table cellpadding=3D"0" =
+cellspacing=3D"0" border=3D"0" width=3D"100%" style=3D"font-family: =
+Helvetica; letter-spacing: normal; orphans: auto; text-indent: 0px; =
+text-transform: none; widows: auto; word-spacing: 0px; =
+-webkit-text-stroke-width: 0px; background-color: rgb(230, 231, 233); =
+background-position: initial initial; background-repeat: initial =
+initial;"><tbody><tr><td valign=3D"top" align=3D"center" id=3D"top" =
+style=3D"background-color: rgb(230, 231, 233); background-position: =
+initial initial; background-repeat: initial initial;"><table =
+class=3D"masthead" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+align=3D"center" style=3D"background-color: rgb(255, 255, 255); =
+text-align: left; font-size: 10px; line-height: 16px; font-family: =
+Helvetica, Arial, sans-serif;"><tbody><tr><td colspan=3D"4" =
+height=3D"10"></td></tr><tr><td width=3D"20"></td><td class=3D"nav" =
+width=3D"470" align=3D"left"><a class=3D"yshortcuts" =
+href=3D"http://news.crateandbarrel.com/a/hBTiqVAB7SyxyB8hc26NtY57U.B7Syxy-=
+J/crateca" target=3D"_blank" style=3D"text-decoration: none;">Your =
+receipt for order #20004253484 from Crate and Barrel.</a></td><td =
+class=3D"nav" width=3D"200" align=3D"right"></td><td =
+width=3D"20"></td></tr><tr><td colspan=3D"4" =
+height=3D"20"></td></tr></tbody></table><table border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" align=3D"center" =
+style=3D"background-color: rgb(255, 255, 255); font-size: 13px; =
+line-height: 17px; font-family: Helvetica, Arial, sans-serif; =
+text-align: left;"><tbody><tr><td width=3D"20"></td><td width=3D"410" =
+align=3D"left"><a =
+href=3D"http://news.crateandbarrel.com/a/hBTiqVAB7SyxyB8hc26NtY57U.B7Syxy-=
+J/crateca" target=3D"_blank" title=3D"Crate&amp;Barrel"><img =
+src=3D"http://f.chtah.com/i/4/471572645/cb-ebm-email-receipt-logo.jpg" =
+width=3D"262" height=3D"37" border=3D"0" alt=3D"Crate&amp;Barrel" =
+style=3D"display: block;"></a></td><td valign=3D"bottom" width=3D"260" =
+style=3D"font-family: Helvetica, Arial, sans-serif; font-size: 12px; =
+line-height: 14px; text-align: right;">YORKDALE<span =
+class=3D"Apple-converted-space">&nbsp;</span><br>3401 Dufferin =
+Street<span class=3D"Apple-converted-space">&nbsp;</span><br>Toronto, ON =
+M6A 2T9<br>(416) 657-4100</td><td width=3D"20"></td></tr><tr><td =
+colspan=3D"4" height=3D"20"></td></tr></tbody></table><table border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" align=3D"center" =
+style=3D"background-color: rgb(255, 255, 255); font-size: 13px; =
+line-height: 17px; font-family: Helvetica, Arial, sans-serif; =
+text-align: left;"><tbody><tr><td colspan=3D"4"><img =
+src=3D"http://f.chtah.com/i/4/471572645/cb-ebm-email-receipt-01.jpg" =
+width=3D"710" height=3D"102" border=3D"0" alt=3D"Your Crate and Barrel =
+Receipt" style=3D"display: block;"></td></tr><tr><td><table border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" align=3D"center" =
+style=3D"background-color: rgb(255, 255, 255); font-size: 17px; =
+line-height: 17px; font-family: Helvetica, Arial, sans-serif; =
+text-align: left;"><tbody><tr><td width=3D"35"></td><td valign=3D"top" =
+width=3D"307" height=3D"162" style=3D"font-family: Helvetica, Arial, =
+sans-serif; font-size: 19px; line-height: 17px;"><b>ORDER #: =
+20004253484<span =
+class=3D"Apple-converted-space">&nbsp;</span></b><br><span =
+style=3D"font-size: 13px;">SALE DATE: 6/13/2014<br>ASSOCIATE: LOREDANA =
+S<br><br></span></td></tr></tbody></table></td><td><a =
+href=3D"http://news.crateandbarrel.com/a/hBTiqVAB7SyxyB8hc26NtY57U.B7Syxy-=
+J/banner1" target=3D"_blank" title=3D"Outdoor is In"><img =
+src=3D"http://f.chtah.com/i/25/2068524146/03262014_cb-ebm_CA_email-receipt=
+_01.jpg" width=3D"348" height=3D"162" border=3D"0" alt=3D"Outdoor is In" =
+style=3D"display: block;"></a></td><td width=3D"20"></td></tr><tr><td =
+colspan=3D"4" height=3D"20"></td></tr></tbody></table><table border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" align=3D"center" =
+style=3D"background-color: rgb(255, 255, 255); font-size: 13px; =
+line-height: 17px; font-family: Helvetica, Arial, sans-serif; =
+text-align: left;"><tbody><tr><td><table width=3D"530" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" align=3D"center" =
+style=3D"background-color: rgb(255, 255, 255); text-align: left; =
+background-position: initial initial; background-repeat: initial =
+initial;"><tbody><tr><td width=3D"20"></td><td colspan=3D"4" height=3D"10"=
+ style=3D"background-color: rgb(196, 222, 243); background-position: =
+initial initial; background-repeat: initial initial;"></td><td =
+width=3D"20"></td></tr><tr><td width=3D"20"></td><td width=3D"15" =
+style=3D"background-color: rgb(196, 222, 243); background-position: =
+initial initial; background-repeat: initial initial;"></td><td =
+colspan=3D"3" width=3D"475" style=3D"background-color: rgb(196, 222, =
+243); font-weight: bold; font-size: 16px; line-height: 16px; =
+font-family: Helvetica, Arial, San-serif;">RETURN</td><td =
+width=3D"20"></td></tr><tr><td width=3D"20"></td><td colspan=3D"4" =
+height=3D"10" style=3D"background-color: rgb(196, 222, 243); =
+background-position: initial initial; background-repeat: initial =
+initial;"></td><td width=3D"20"></td></tr><tr><td colspan=3D"6" =
+height=3D"20"></td></tr><tr><td colspan=3D"2" width=3D"35"></td><td =
+width=3D"248" style=3D"font-family: Helvetica, Arial, sans-serif; =
+font-size: 12px; color: rgb(51, 51, 51); line-height: 15px;"></td><td =
+width=3D"20"></td><td width=3D"207" valign=3D"top" style=3D"font-family: =
+Helvetica, Arial, sans-serif; font-size: 12px; color: rgb(51, 51, 51); =
+line-height: 15px;"><br></td><td width=3D"20"></td></tr><tr><td =
+colspan=3D"6" height=3D"20"></td></tr></tbody></table><table width=3D"530"=
+ border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"center" =
+style=3D"background-color: rgb(255, 255, 255); text-align: left; =
+background-position: initial initial; background-repeat: initial =
+initial;"><tbody><tr><td width=3D"20"></td><td colspan=3D"9"><img =
+src=3D"http://f.chtah.com/i/4/471572645/cb-ebm-email-receipt-dotted.jpg" =
+width=3D"490" height=3D"1" border=3D"0" alt=3D"" style=3D"display: =
+block;"></td><td width=3D"20"></td></tr><tr><td width=3D"20"></td><td =
+colspan=3D"9" valign=3D"top" width=3D"490" style=3D"background-color: =
+rgb(231, 231, 231); font-size: 12px; line-height: 16px; font-family: =
+Helvetica, Arial, San-serif; color: rgb(153, 153, 153); =
+background-position: initial initial; background-repeat: initial =
+initial;"></td><td width=3D"20"></td></tr><tr><td width=3D"20"></td><td =
+colspan=3D"9" width=3D"490" height=3D"10" style=3D"background-color: =
+rgb(231, 231, 231); background-position: initial initial; =
+background-repeat: initial initial;"></td><td =
+width=3D"20"></td></tr><tr><td width=3D"20"></td><td width=3D"5" =
+style=3D"background-color: rgb(231, 231, 231); background-position: =
+initial initial; background-repeat: initial initial;"></td><td =
+width=3D"51" style=3D"background-color: rgb(231, 231, 231); font-weight: =
+bold; font-size: 12px; line-height: 12px; font-family: Helvetica, Arial, =
+San-serif;">SKU</td><td colspan=3D"2" width=3D"223" =
+style=3D"background-color: rgb(231, 231, 231); font-weight: bold; =
+font-size: 12px; line-height: 12px; font-family: Helvetica, Arial, =
+San-serif;">Description</td><td width=3D"32" style=3D"background-color: =
+rgb(231, 231, 231); font-weight: bold; font-size: 12px; line-height: =
+12px; font-family: Helvetica, Arial, San-serif;">Qty</td><td width=3D"72" =
+style=3D"background-color: rgb(231, 231, 231); text-align: right; =
+font-weight: bold; font-size: 12px; line-height: 13px; font-family: =
+Helvetica, Arial, San-serif;">Retail<br>Amount</td><td width=3D"79" =
+style=3D"background-color: rgb(231, 231, 231); text-align: right; =
+font-weight: bold; font-size: 12px; line-height: 13px; font-family: =
+Helvetica, Arial, San-serif;">Extended<br>Amount</td><td colspan=3D"2" =
+width=3D"28" style=3D"background-color: rgb(231, 231, 231); =
+background-position: initial initial; background-repeat: initial =
+initial;"></td><td width=3D"20"></td></tr><tr><td width=3D"20"></td><td =
+colspan=3D"9" height=3D"10" style=3D"background-color: rgb(231, 231, =
+231); background-position: initial initial; background-repeat: initial =
+initial;"></td><td width=3D"20"></td></tr><tr><td width=3D"20"></td><td =
+colspan=3D"9"><img =
+src=3D"http://f.chtah.com/i/4/471572645/cb-ebm-email-receipt-dotted.jpg" =
+width=3D"490" height=3D"1" border=3D"0" alt=3D"" style=3D"display: =
+block;"></td><td width=3D"20"></td></tr><tr><td width=3D"20"></td><td =
+colspan=3D"9" height=3D"10"></td><td width=3D"20"></td></tr><tr><td =
+width=3D"20"></td><td width=3D"5"></td><td width=3D"51" =
+style=3D"font-size: 11px; line-height: 12px; font-family: Helvetica, =
+Arial, San-serif;">262196</td><td width=3D"218" style=3D"font-size: =
+11px; line-height: 12px; font-family: Helvetica, Arial, =
+San-serif;">Tealight Candles Green Set of 12 R</td><td =
+width=3D"5"></td><td width=3D"32" style=3D"font-size: 11px; line-height: =
+12px; font-family: Helvetica, Arial, San-serif;">1</td><td width=3D"72" =
+align=3D"right" style=3D"font-size: 11px; line-height: 12px; =
+font-family: Helvetica, Arial, San-serif;">-2.97</td><td width=3D"79" =
+align=3D"right" style=3D"font-size: 11px; line-height: 12px; =
+font-family: Helvetica, Arial, San-serif;">-2.97</td><td width=3D"23" =
+align=3D"right" style=3D"font-size: 11px; line-height: 12px; =
+font-family: Helvetica, Arial, San-serif;"></td><td width=3D"5"></td><td =
+width=3D"20"></td></tr><tr></tr><tr><td colspan=3D"11" =
+height=3D"10"></td></tr><tr><td width=3D"20"></td><td colspan=3D"9" =
+height=3D"1" style=3D"background-color: rgb(0, 0, 0); =
+background-position: initial initial; background-repeat: initial =
+initial;"></td><td width=3D"20"></td></tr><tr><td colspan=3D"11" =
+height=3D"20"></td></tr></tbody></table><table width=3D"530" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" align=3D"center" =
+style=3D"background-color: rgb(255, 255, 255); text-align: left; =
+background-position: initial initial; background-repeat: initial =
+initial;"><tbody><tr><td colspan=3D"4" =
+height=3D"20"></td></tr></tbody></table><table width=3D"530" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" align=3D"center" =
+style=3D"background-color: rgb(255, 255, 255); text-align: left; =
+background-position: initial initial; background-repeat: initial =
+initial;"><tbody><tr><td width=3D"35"></td><td width=3D"121" =
+valign=3D"top" style=3D"font-family: Helvetica, Arial, sans-serif; =
+font-size: 12px; line-height: 16px;"><b>Transaction =
+Totals:</b></td></tr><tr><td colspan=3D"2" width=3D"156" valign=3D"top" =
+style=3D"font-family: Helvetica, Arial, sans-serif; font-size: 12px; =
+line-height: 13px;"></td><td width=3D"227" align=3D"right" valign=3D"top" =
+style=3D"font-family: Helvetica, Arial, sans-serif; font-size: 11px; =
+line-height: 13px;">MERCHANDISE:</td><td width=3D"20"></td><td =
+width=3D"107" align=3D"right" valign=3D"top" style=3D"font-family: =
+Helvetica, Arial, sans-serif; font-size: 11px; line-height: =
+13px;">-2.97</td><td width=3D"20"></td></tr><tr><td colspan=3D"2" =
+width=3D"156" valign=3D"top" style=3D"font-family: Helvetica, Arial, =
+sans-serif; font-size: 12px; line-height: 13px;"></td><td width=3D"227" =
+align=3D"right" valign=3D"top" style=3D"font-family: Helvetica, Arial, =
+sans-serif; font-size: 11px; line-height: 13px;">ON HST 13.000%:</td><td =
+width=3D"20"></td><td width=3D"107" align=3D"right" valign=3D"top" =
+style=3D"font-family: Helvetica, Arial, sans-serif; font-size: 11px; =
+line-height: 13px;">-0.39</td><td width=3D"20"></td></tr><tr><td =
+colspan=3D"2" width=3D"156" valign=3D"top" style=3D"font-family: =
+Helvetica, Arial, sans-serif; font-size: 12px; line-height: =
+13px;"></td><td width=3D"227" align=3D"right" valign=3D"top" =
+style=3D"font-family: Helvetica, Arial, sans-serif; font-size: 11px; =
+line-height: 13px;">TOTAL:</td><td width=3D"20"></td><td width=3D"107" =
+align=3D"right" valign=3D"top" style=3D"font-family: Helvetica, Arial, =
+sans-serif; font-size: 11px; line-height: 13px;">-3.36</td><td =
+width=3D"20"></td></tr><tr><td colspan=3D"2" width=3D"156" valign=3D"top" =
+style=3D"font-family: Helvetica, Arial, sans-serif; font-size: 12px; =
+line-height: 13px;"></td><td width=3D"227" align=3D"right" valign=3D"top" =
+style=3D"font-family: Helvetica, Arial, sans-serif; font-size: 11px; =
+line-height: 13px;"></td><td width=3D"20"></td><td width=3D"107" =
+align=3D"right" valign=3D"top" style=3D"font-family: Helvetica, Arial, =
+sans-serif; font-size: 11px; line-height: 13px;"></td><td =
+width=3D"20"></td></tr><tr><td colspan=3D"2" width=3D"156" valign=3D"top" =
+style=3D"font-family: Helvetica, Arial, sans-serif; font-size: 12px; =
+line-height: 13px;"></td><td width=3D"227" align=3D"right" valign=3D"top" =
+style=3D"font-family: Helvetica, Arial, sans-serif; font-size: 11px; =
+line-height: 13px;">XXXXXXXXXXXX6290 VISA:</td><td width=3D"20"></td><td =
+width=3D"107" align=3D"right" valign=3D"top" style=3D"font-family: =
+Helvetica, Arial, sans-serif; font-size: 11px; line-height: =
+13px;">-3.36</td><td width=3D"20"></td></tr><tr><td colspan=3D"6" =
+height=3D"20"></td></tr><tr><td width=3D"20"></td><td colspan=3D"4" =
+height=3D"1" style=3D"background-color: rgb(0, 0, 0); =
+background-position: initial initial; background-repeat: initial =
+initial;"></td><td width=3D"20"></td></tr><tr><td colspan=3D"6" =
+height=3D"20"></td></tr><tr><td colspan=3D"6" width=3D"530" =
+align=3D"center" valign=3D"top" style=3D"font-family: Helvetica, Arial, =
+sans-serif; font-size: 13px; line-height: =
+14px;"><b></b></td></tr></tbody></table><br><table><tbody><tr><td =
+colspan=3D"6" width=3D"530" align=3D"center" valign=3D"top" =
+style=3D"font-family: Helvetica, Arial, sans-serif; font-size: 13px; =
+line-height: 14px;">GST/HST No. 83346 =
+5529<br></td></tr></tbody></table><table width=3D"530" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" align=3D"center" =
+style=3D"background-color: rgb(255, 255, 255); text-align: left; =
+background-position: initial initial; background-repeat: initial =
+initial;"><tbody><tr><td width=3D"100"></td><td><img =
+src=3D"http://crateandbarrel.com/handlers/barcode.ashx?n=3DaIFjt64qFQ%2byC=
+r2IpX7S%2b2YL0x1t%2bx9lcVIxaA3G93s%3d" width=3D"330" height=3D"75" =
+border=3D"0" alt=3D"" style=3D"display: block;"></td><td =
+width=3D"100"></td></tr><tr><td colspan=3D"3" =
+height=3D"20"></td></tr><tr><td colspan=3D"3" width=3D"530" =
+align=3D"center" valign=3D"top" style=3D"font-family: Helvetica, Arial, =
+sans-serif; font-size: 11px; line-height: =
+13px;"></td></tr><tr></tr><tr><td colspan=3D"3" width=3D"530" =
+align=3D"center" valign=3D"top" style=3D"font-family: Helvetica, Arial, =
+sans-serif; font-size: 11px; line-height: 13px;">Visit us online at<span =
+class=3D"Apple-converted-space">&nbsp;</span><a =
+href=3D"http://news.crateandbarrel.com/a/hBTiqVAB7SyxyB8hc26NtY57U.B7Syxy-=
+J/crateca" target=3D"_blank" =
+style=3D"">crateandbarrel.ca</a><br><br></td></tr><tr><td colspan=3D"3" =
+height=3D"20"></td></tr></tbody></table></td><td valign=3D"top"><table =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"center" =
+style=3D"background-color: rgb(255, 255, 255); font-size: 13px; =
+line-height: 17px; font-family: Helvetica, Arial, sans-serif; =
+text-align: left;"><tbody><tr><td><a =
+href=3D"http://news.crateandbarrel.com/a/hBTiqVAB7SyxyB8hc26NtY57U.B7Syxy-=
+J/banner2" target=3D"_blank" title=3D"Up to 20% off Outdoor =
+Furniture"><img =
+src=3D"http://f.chtah.com/i/25/2068524146/20140430_cb-ebm_CA_email-receipt=
+_02.jpg" width=3D"160" height=3D"600" border=3D"0" alt=3D"Celebrate =
+Easter" style=3D"display: block;"></a></td><td =
+width=3D"20"></td></tr></tbody></table></td></tr></tbody></table><table =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"center" =
+style=3D"background-color: rgb(255, 255, 255); color: rgb(102, 102, =
+102); font-size: 13px; line-height: 17px; font-family: Helvetica, Arial, =
+sans-serif; text-align: left; background-position: initial initial; =
+background-repeat: initial initial;"><tbody><tr><td colspan=3D"4" =
+height=3D"2" style=3D"background-color: rgb(231, 231, 231); =
+background-position: initial initial; background-repeat: initial =
+initial;"></td></tr><tr><td colspan=3D"4"><a =
+href=3D"http://news.crateandbarrel.com/a/hBTiqVAB7SyxyB8hc26NtY57U.B7Syxy-=
+J/banner3" target=3D"_blank" title=3D"Spring Mix"><img =
+src=3D"http://f.chtah.com/i/25/2068524146/20140225_cb-ebm_CA_email-receipt=
+_03.jpg" width=3D"710" height=3D"266" border=3D"0" alt=3D"Spring Mix" =
+style=3D"display: block;"></a></td></tr><tr><td colspan=3D"4" height=3D"2"=
+ style=3D"background-color: rgb(231, 231, 231); background-position: =
+initial initial; background-repeat: initial =
+initial;"></td></tr></tbody></table><table cellpadding=3D"0" =
+cellspacing=3D"0" bgcolor=3D"#ffffff" style=3D"color: rgb(153, 153, =
+153); font-size: 11px; line-height: 14px; font-family: Helvetica, Arial, =
+sans-serif; text-align: left; border-bottom-width: 2px; =
+border-bottom-style: solid; border-bottom-color: rgb(230, 231, =
+233);"><tbody><tr><td colspan=3D"6" width=3D"710"></td></tr><tr><td =
+width=3D"20"></td><td style=3D"padding-top: 20px; padding-bottom: =
+20px;"><a =
+href=3D"http://news.crateandbarrel.com/a/hBTiqVAB7SyxyB8hc26NtY57U.B7Syxy-=
+J/styork" target=3D"_blank" style=3D"text-decoration: none; color: =
+rgb(15, 126, 205);"><b>Yorkdale<br>Toronto, ON<span =
+class=3D"Apple-converted-space">&nbsp;</span></b></a><br><a =
+href=3D"http://news.crateandbarrel.com/a/hBTiqVAB7SyxyB8hc26NtY57U.B7Syxy-=
+J/twyork" target=3D"_blank" style=3D"text-decoration: none; color: =
+rgb(153, 153, 153);"><img =
+src=3D"http://f.chtah.com/i/25/2068524146/102111-cb-ca-seatingsale-twitter=
+-icon.jpg" alt=3D"Follow us on Twitter" width=3D"20px" height=3D"13px" =
+border=3D"0"><span =
+class=3D"Apple-converted-space">&nbsp;</span>@CBYorkdale<span =
+class=3D"Apple-converted-space">&nbsp;</span></a><br><a =
+style=3D"text-decoration: none; color: rgb(153, 153, =
+153);"><b>416.657.4100</b></a></td><td style=3D"padding-top: 20px; =
+padding-bottom: 20px;"><a =
+href=3D"http://news.crateandbarrel.com/a/hBTiqVAB7SyxyB8hc26NtY57U.B7Syxy-=
+J/stsquare" target=3D"_blank" style=3D"text-decoration: none; color: =
+rgb(15, 126, 205);"><b>Square One<br>Mississauga, ON</b></a><br><a =
+href=3D"http://news.crateandbarrel.com/a/hBTiqVAB7SyxyB8hc26NtY57U.B7Syxy-=
+J/twsquare" target=3D"_blank" style=3D"text-decoration: none; color: =
+rgb(153, 153, 153);"><img =
+src=3D"http://f.chtah.com/i/25/2068524146/102111-cb-ca-seatingsale-twitter=
+-icon.jpg" alt=3D"Follow us on Twitter" width=3D"20px" height=3D"13px" =
+border=3D"0"><span =
+class=3D"Apple-converted-space">&nbsp;</span>@CBSquareOne<span =
+class=3D"Apple-converted-space">&nbsp;</span></a><br><a =
+style=3D"text-decoration: none; color: rgb(153, 153, =
+153);"><b>905.949.1545</b></a></td><td style=3D"padding-top: 20px; =
+padding-bottom: 20px;"><a =
+href=3D"http://news.crateandbarrel.com/a/hBTiqVAB7SyxyB8hc26NtY57U.B7Syxy-=
+J/stcentre" target=3D"_blank" style=3D"text-decoration: none; color: =
+rgb(15, 126, 205);"><b>Southcentre Mall<br>Calgary, AB</b></a><br><a =
+href=3D"http://news.crateandbarrel.com/a/hBTiqVAB7SyxyB8hc26NtY57U.B7Syxy-=
+J/twcentre" target=3D"_blank" style=3D"text-decoration: none; color: =
+rgb(153, 153, 153);"><img =
+src=3D"http://f.chtah.com/i/25/2068524146/102111-cb-ca-seatingsale-twitter=
+-icon.jpg" alt=3D"Follow us on Twitter" width=3D"20px" height=3D"13px" =
+border=3D"0"><span =
+class=3D"Apple-converted-space">&nbsp;</span>@CBSouthcentre</a><br><a =
+style=3D"text-decoration: none; color: rgb(153, 153, =
+153);"><b>403.278.7020</b></a></td><td style=3D"padding-top: 20px; =
+padding-bottom: 20px;"><a =
+href=3D"http://news.crateandbarrel.com/a/hBTiqVAB7SyxyB8hc26NtY57U.B7Syxy-=
+J/stgate" target=3D"_blank" style=3D"text-decoration: none; color: =
+rgb(15, 126, 205);"><b>Southgate Centre<br>Edmonton, AB</b></a><br><a =
+href=3D"http://news.crateandbarrel.com/a/hBTiqVAB7SyxyB8hc26NtY57U.B7Syxy-=
+J/twgate" target=3D"_blank" style=3D"text-decoration: none; color: =
+rgb(153, 153, 153);"><img =
+src=3D"http://f.chtah.com/i/25/2068524146/102111-cb-ca-seatingsale-twitter=
+-icon.jpg" alt=3D"Follow us on Twitter" width=3D"20px" height=3D"13px" =
+border=3D"0"><span =
+class=3D"Apple-converted-space">&nbsp;</span>@CBSouthgate<span =
+class=3D"Apple-converted-space">&nbsp;</span></a><br><a =
+style=3D"text-decoration: none; color: rgb(153, 153, =
+153);"><b>780.436.1454</b></a></td><td style=3D"padding-top: 20px; =
+padding-bottom: 20px;"><a =
+href=3D"http://news.crateandbarrel.com/a/hBTiqVAB7SyxyB8hc26NtY57U.B7Syxy-=
+J/stlaval" target=3D"_blank" style=3D"text-decoration: none; color: =
+rgb(15, 126, 205);"><b>Le Carrefour Laval<br>Quebec, ON</b></a><br><a =
+href=3D"http://news.crateandbarrel.com/a/hBTiqVAB7SyxyB8hc26NtY57U.B7Syxy-=
+J/twlaval#!/cblaval" target=3D"_blank" style=3D"text-decoration: none; =
+color: rgb(153, 153, 153);"><img =
+src=3D"http://f.chtah.com/i/25/2068524146/102111-cb-ca-seatingsale-twitter=
+-icon.jpg" alt=3D"Follow us on Twitter" width=3D"20px" height=3D"13px" =
+border=3D"0"><span =
+class=3D"Apple-converted-space">&nbsp;</span>@CBLaval<span =
+class=3D"Apple-converted-space">&nbsp;</span></a><br><a =
+style=3D"text-decoration: none; color: rgb(153, 153, =
+153);"><b>450.781.5800</b></a><b></b></td></tr></tbody></table><table =
+width=3D"710" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"padding-top: 20px; color: rgb(102, 102, 102); font-size: 10px; =
+line-height: 12px; font-family: Helvetica, Arial, Sans-seriif; =
+text-align: left;"><tbody><tr><td valign=3D"top"><b></b><br><br><b><a =
+href=3D"http://news.crateandbarrel.com/a/hBTiqVAB7SyxyB8hc26NtY57U.B7Syxy-=
+J/returns" target=3D"_blank" style=3D"color: rgb(51, 51, 51);">Return =
+Policy</a></b><br><br><br>If you wish to receive Crate and Barrel email =
+messages about new products, sales, exclusive offers and more, click =
+here to<span class=3D"Apple-converted-space">&nbsp;</span><a =
+href=3D"http://news.crateandbarrel.com/a/hBTiqVAB7SyxyB8hc26NtY57U.B7Syxy-=
+J/optin" target=3D"_blank" style=3D"color: rgb(51, 51, =
+51);">subscribe</a>.<br><br><b>Privacy policy</b><br>Click to view =
+our<span class=3D"Apple-converted-space">&nbsp;</span><a =
+href=3D"http://news.crateandbarrel.com/a/hBTiqVAB7SyxyB8hc26NtY57U.B7Syxy-=
+J/privacy" target=3D"_blank" style=3D"color: rgb(51, 51, 51);">privacy =
+policy</a>.<br><br>Crate and Barrel, 6060 Burnside Court, Unit 2, =
+Mississauga, ON L5T 2T5<br><br></td></tr><tr><td><img =
+src=3D"http://sc.news.crateandbarrel.com/spacer.gif?event=3D29~~28~cratean=
+dbarrel~1003~shahad.mahdi@ryerson.ca~" border=3D"0" height=3D"1" =
+width=3D"1"></td></tr></tbody></table></td></tr></tbody></table><img =
+src=3D"http://news.crateandbarrel.com/a/hBTiqVAB7SyxyB8hc26NtY57U.B7Syxy-J=
+/column.gif" style=3D"font-family: Helvetica; font-size: 12px; =
+font-style: normal; font-variant: normal; font-weight: normal; =
+letter-spacing: normal; line-height: normal; orphans: auto; text-align: =
+start; text-indent: 0px; text-transform: none; white-space: normal; =
+widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px;"><span =
+style=3D"font-family: Helvetica; font-size: 12px; font-style: normal; =
+font-variant: normal; font-weight: normal; letter-spacing: normal; =
+line-height: normal; orphans: auto; text-align: start; text-indent: 0px; =
+text-transform: none; white-space: normal; widows: auto; word-spacing: =
+0px; -webkit-text-stroke-width: 0px; background-color: rgb(230, 231, =
+233); float: none; display: inline !important;"><span =
+class=3D"Apple-converted-space">&nbsp;</span></span><br =
+style=3D"font-family: Helvetica; font-size: 12px; font-style: normal; =
+font-variant: normal; font-weight: normal; letter-spacing: normal; =
+line-height: normal; orphans: auto; text-align: start; text-indent: 0px; =
+text-transform: none; white-space: normal; widows: auto; word-spacing: =
+0px; -webkit-text-stroke-width: 0px;"><br style=3D"font-family: =
+Helvetica; font-size: 12px; font-style: normal; font-variant: normal; =
+font-weight: normal; letter-spacing: normal; line-height: normal; =
+orphans: auto; text-align: start; text-indent: 0px; text-transform: =
+none; white-space: normal; widows: auto; word-spacing: 0px; =
+-webkit-text-stroke-width: =
+0px;"></div></blockquote></div><br></body></html>=
+
+--Apple-Mail=_9F44C54C-6B92-4786-932E-3A358F24FB87--

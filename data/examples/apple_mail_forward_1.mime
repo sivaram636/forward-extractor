@@ -1,0 +1,99 @@
+Delivered-To: brad@getsensibill.com
+Received: by 10.112.132.74 with SMTP id os10csp458042lbb;
+        Mon, 7 Jul 2014 07:00:23 -0700 (PDT)
+X-Received: by 10.42.40.144 with SMTP id l16mr32648815ice.17.1404741622836;
+        Mon, 07 Jul 2014 07:00:22 -0700 (PDT)
+Return-Path: <corey@getsensibill.com>
+Received: from mail-ig0-f171.google.com (mail-ig0-f171.google.com [209.85.213.171])
+        by mx.google.com with ESMTPS id hg5si8049247igb.16.2014.07.07.07.00.22
+        for <brad@getsensibill.com>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Mon, 07 Jul 2014 07:00:22 -0700 (PDT)
+Received-SPF: softfail (google.com: domain of transitioning corey@getsensibill.com does not designate 209.85.213.171 as permitted sender) client-ip=209.85.213.171;
+Authentication-Results: mx.google.com;
+       spf=softfail (google.com: domain of transitioning corey@getsensibill.com does not designate 209.85.213.171 as permitted sender) smtp.mail=corey@getsensibill.com
+Received: by mail-ig0-f171.google.com with SMTP id h18so10789345igc.10
+        for <brad@getsensibill.com>; Mon, 07 Jul 2014 07:00:22 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:from:content-type:subject:date:references:to
+         :message-id:mime-version;
+        bh=qllYk4N2kAN+CSu8HAErMddt04TnpZTnicfLDbdk4Ew=;
+        b=AQuA83hKknIoIFFniyehZJk8WYGX/Q4Iq/2mSxTzKxviQW/SF9A7zmwaaCFe8grEr0
+         pCcaC1swITutNokOsiM+E7zjVFQ2Y9Ia6gBFcc1ZckgnJZhHztnf9IDO48Dd6oWvtCoa
+         LA2FNLZ934at1kAHJeheHhUNnd7WNuL4kzL7vcj3vZMlwHCcJaeCndxxO5H3GFwQ/8oi
+         4g0ylsz8NUGuL/iXA3sYud+qMpK3nu/imD1tiEG5gquA92Wtq4oU+djacgM8+JWsIW86
+         XdPIomsc5bg/XFYThf/X6isK/9hiEs9MxdWluIhLGcR0AZ84ZJ+URIEMUCCZeZumU3zk
+         dHsQ==
+X-Gm-Message-State: ALoCoQkLukg5RoRCcMeqea4OWS/DI8VSvMCRLpJjT/5UYX/jeHRB0tYX4vAp9ZEN8tlo1hwNwvZb
+X-Received: by 10.42.64.197 with SMTP id h5mr2605897ici.90.1404741622010;
+        Mon, 07 Jul 2014 07:00:22 -0700 (PDT)
+Return-Path: <corey@getsensibill.com>
+Received: from [192.168.0.12] (CPE602ad06cab4f-CM602ad06cab4c.cpe.net.cable.rogers.com. [99.231.133.134])
+        by mx.google.com with ESMTPSA id n17sm90354428igk.19.2014.07.07.07.00.21
+        for <brad@getsensibill.com>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Mon, 07 Jul 2014 07:00:21 -0700 (PDT)
+From: Corey Gross <corey@getsensibill.com>
+Content-Type: multipart/alternative; boundary="Apple-Mail=_69CEFD93-3080-4CCE-942B-6D2D57FA81CB"
+Subject: Fwd: forward this back to me
+Date: Mon, 7 Jul 2014 10:00:21 -0400
+References: <CAEhDVdyorPe5Ds027BtA73tJ1dCk6QMAaPVuZYS1HWZjEONutw@mail.gmail.com>
+To: Bradley Arsenault <brad@getsensibill.com>
+Message-Id: <FDF6164A-F4D4-4443-B638-75B823B71E87@getsensibill.com>
+Mime-Version: 1.0 (Mac OS X Mail 7.3 \(1878.2\))
+X-Mailer: Apple Mail (2.1878.2)
+
+
+--Apple-Mail=_69CEFD93-3080-4CCE-942B-6D2D57FA81CB
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain;
+	charset=us-ascii
+
+Begin forwarded message:
+
+> From: Bradley Arsenault <brad@getsensibill.com>
+> Subject: forward this back to me
+> Date: July 7, 2014 at 9:59:42 AM EDT
+> To: Corey Gross <corey@getsensibill.com>
+>=20
+> Hey Corey,
+>=20
+> I'm testing unforwarding.
+
+
+--Apple-Mail=_69CEFD93-3080-4CCE-942B-6D2D57FA81CB
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html;
+	charset=us-ascii
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html =
+charset=3Dus-ascii"></head><body style=3D"word-wrap: break-word; =
+-webkit-nbsp-mode: space; -webkit-line-break: =
+after-white-space;"><br><div>
+</div>
+<div style=3D""><br><div>Begin forwarded message:</div><br =
+class=3D"Apple-interchange-newline"><blockquote type=3D"cite"><div =
+style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; =
+margin-left: 0px;"><span style=3D"font-family:'Helvetica'; color:rgba(0, =
+0, 0, 1.0);"><b>From: </b></span><span =
+style=3D"font-family:'Helvetica';">Bradley Arsenault &lt;<a =
+href=3D"mailto:brad@getsensibill.com">brad@getsensibill.com</a>&gt;<br></s=
+pan></div><div style=3D"margin-top: 0px; margin-right: 0px; =
+margin-bottom: 0px; margin-left: 0px;"><span =
+style=3D"font-family:'Helvetica'; color:rgba(0, 0, 0, 1.0);"><b>Subject: =
+</b></span><span style=3D"font-family:'Helvetica';"><b>forward this back =
+to me</b><br></span></div><div style=3D"margin-top: 0px; margin-right: =
+0px; margin-bottom: 0px; margin-left: 0px;"><span =
+style=3D"font-family:'Helvetica'; color:rgba(0, 0, 0, 1.0);"><b>Date: =
+</b></span><span style=3D"font-family:'Helvetica';">July 7, 2014 at =
+9:59:42 AM EDT<br></span></div><div style=3D"margin-top: 0px; =
+margin-right: 0px; margin-bottom: 0px; margin-left: 0px;"><span =
+style=3D"font-family:'Helvetica'; color:rgba(0, 0, 0, 1.0);"><b>To: =
+</b></span><span style=3D"font-family:'Helvetica';">Corey Gross &lt;<a =
+href=3D"mailto:corey@getsensibill.com">corey@getsensibill.com</a>&gt;<br><=
+/span></div><br><div><div dir=3D"ltr"><div>Hey Corey,<br><br></div>I'm =
+testing unforwarding.</div>
+</div></blockquote></div><br></body></html>=
+
+--Apple-Mail=_69CEFD93-3080-4CCE-942B-6D2D57FA81CB--

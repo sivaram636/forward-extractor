@@ -1,0 +1,705 @@
+Authentication-Results: apiserver; 
+Received: from mail-ie0-f176.google.com ([10.183.253.48])
+	by apiserver (Haraka/2.5.0) with ESMTP id FC6A7CF8-65CD-49E3-9AA4-6A781D664E23.1
+	envelope-from <johnny@getsensibill.com>;
+	Fri, 11 Jul 2014 21:28:39 +0000
+Received: by mail-ie0-f176.google.com with SMTP id tr6so1402328ieb.21
+        for <jp@billpass.ca>; Fri, 11 Jul 2014 14:28:49 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:from:to:content-type;
+        bh=KociARHNK2Tqz4r27OxUCeRZiDmFADC+8nntR2eEWGo=;
+        b=HrTJN50NMTlE44+CAhbQNDWsceHQMAHPdap3ZOZ8gRLACAyRcCAga5fxYjPvOuIeml
+         COoYWg4mCWxZByRMpQIkvKO72EOy03u57dpWeYtXyivoSGy5XhBFJKOOLqmGfVZ2sArG
+         7Rk3evJprBi7k4JYnYclUSexaI9HraP3/aa3zoEuJxnNyh3bWDKdsZSNmgWn3jY3TKc+
+         wQsLX+eRuMMaGOtYhOsUUPb8HgGTigLAutDQTAQmoXCLXmZnn37VnCNy4j1cSM0Nr2Pa
+         mBeYB9mAa8zwe/FhLZE1hwXBEk7DJ/OMce2SVnT4m46d/UgSdADRy83/xjB9EFGQH+QJ
+         iaEg==
+X-Gm-Message-State: ALoCoQnv/Xl8Z8BszG4rCYDRTg1XFopkFzjiJ2lgnZzQ7qG/JYDXPsEuYRTyKmGSxBvthtms3o4t
+MIME-Version: 1.0
+X-Received: by 10.50.4.103 with SMTP id j7mr7878723igj.30.1405114129295; Fri,
+ 11 Jul 2014 14:28:49 -0700 (PDT)
+Received: by 10.64.138.232 with HTTP; Fri, 11 Jul 2014 14:28:48 -0700 (PDT)
+In-Reply-To: <CADO8s6L7Q1SsR5caBJTpSc=MroFtheWmzvLDbEC6Tvq8efBp=Q@mail.gmail.com>
+References: <1386085222.52668.YahooMailNeo@web125502.mail.ne1.yahoo.com>
+	<CADO8s6L7Q1SsR5caBJTpSc=MroFtheWmzvLDbEC6Tvq8efBp=Q@mail.gmail.com>
+Date: Fri, 11 Jul 2014 17:28:48 -0400
+Message-ID: <CAMzEB+324SQN62N=cen2D=4ivhU9N_ZiTTPh=tv93UWtc6DONQ@mail.gmail.com>
+Subject: Fwd: Fw: Babesta Online: Your order #369 has been processed
+From: Johnny Patterson <johnny@getsensibill.com>
+To: jp@billpass.ca
+Content-Type: multipart/related; boundary=001a11c31a128bf03304fdf1a04b
+
+--001a11c31a128bf03304fdf1a04b
+Content-Type: multipart/alternative; boundary=001a11c31a128bf02f04fdf1a04a
+
+--001a11c31a128bf02f04fdf1a04a
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Regards,
+
+Johnny
+
+
+JOHNNY PATTERSON / SENIOR TECHNICAL LEAD
+E. johnny@getsensibill.com / C. 416.436.9104
+ 10 Dundas St. E., 6th Floor / Toronto, ON, M5B 2G9
+
+_______________________________________________________________________
+
+This email may be privileged and/or confidential, and the sender does not
+waive any related rights and obligations. Any distribution, use or copying
+of this email or the information it contains by other than an intended
+recipient is unauthorized. If you received this email in error, please
+advise the sender (by return email or otherwise) immediately. You have
+consented to receive the attached electronically at the above-noted email
+address; please retain a copy of this confirmation for future reference.
+
+Ce courriel est confidentiel et prot=C3=A9g=C3=A9. L'exp=C3=A9diteur ne ren=
+once pas aux
+droits et obligations qui s'y rapportent. Toute diffusion, utilisation ou
+copie de ce courriel ou des renseignements qu'il contient par une personne
+autre que le (les) destinataire(s) d=C3=A9sign=C3=A9(s) est interdite. Si v=
+ous
+recevez ce courriel par erreur, veuillez en aviser l'exp=C3=A9diteur
+imm=C3=A9diatement, par retour de courriel ou par un autre moyen. Vous avez
+accept=C3=A9 de recevoir le(s) document(s) ci-joint(s) par voie =C3=A9lectr=
+onique =C3=A0
+l'adresse courriel indiqu=C3=A9e ci-dessus; veuillez conserver une copie de
+cette confirmation pour les fins de reference future.
+
+
+---------- Forwarded message ----------
+From: Jamie Alexander <jamie@moonrider.com>
+Date: Thu, Jul 10, 2014 at 6:44 PM
+Subject: Fwd: Fw: Babesta Online: Your order #369 has been processed
+To: Johnny Patterson <johnny@getsensibill.com>
+
+
+this email failed as it is from Yahoo.
+
+
+
+
+
+
+Jamie Alexander
+Founder & CTO | Moonrider <http://www.moonrider.com/>
+M: 416-201-2407
+
+
+
+
+---------- Forwarded message ----------
+From: Angela Alexander <angela.alexander@rogers.com>
+Date: Tue, Dec 3, 2013 at 10:40 AM
+Subject: Fw: Babesta Online: Your order #369 has been processed
+To: Jamie Alexander <jamie@moonrider.com>
+
+
+
+
+  On Saturday, January 1, 2011 4:18:11 PM, "online@babesta.com" <
+online@babesta.com> wrote:
+
+You have received this notification from Babesta Online
+<http://www.babesta.com/> because you are a registered user or you or some
+other registered user requested some information for you from our store.
+Dear Angela Alexander,
+Thank you for your order. Please come back soon!
+*Invoice:*
+
+      *Invoice*
+
+*Date:* 01-01-2011 21:18:05
+*Order id:* #369
+*Order status:* Processed
+*Payment method:*
+Credit Card
+*Delivery method:*
+USPS First-Class Mail  *Babesta Online*
+56 Warren Street, New York
+10007, New York
+United States
+CALL US: (877) 266-0420
+International: (212) 863-9919
+Fax: (212) 504-8107
+Email: online@babesta.com
+   ------------------------------
+ *Title:*  *First name:* Angela  *Last name:* Alexander  *Company:*
+*Phone:* 9022797743  *Fax:*  *Email:* angela.alexander@rogers.com    *Billi=
+ng
+address*   *Shipping address*      *First name:* Angela  *Last name:*
+Alexander  *Address:* 9 Highmount Ave
+ *City:* Warren  *State:* New Jersey  *Country:* United States  *Zip/Postal
+code:* 07059     *First name:* Ed  *Last name:* Au  *Address:* 9 Highmount
+Ave
+ *City:* Warren  *State:* New Jersey  *Country:* United States  *Zip/Postal
+code:* 07059
+Products ordered
+ SKU Product Tax Item price Quantity Total  4154 Rasta Headphone Snaptee
+*Options:*  Size: 6-12 months     $26.00   1 $26.00  6409 Baby Brothers
+Rock Snaptee/Tee  *Options:*  Size: 6-12 months (snaptee)  Color: Dark Gray
+$20.00   1 $20.00   *Subtotal:* $46.00  *Shipping cost:* $5.41   *Total:*
+*$51.41*
+Customer notes
+
+   Thank you for your purchase!
+------------------------------
+Thank you for using our shopping system
+Babesta Online
+Phone: (877) 266-0420
+Fax: (212) 504-8107
+URL: Babesta.com <http://www.babesta.com/>
+
+--001a11c31a128bf02f04fdf1a04a
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><br clear=3D"all"><div><div dir=3D"ltr"><div><div><div dir=
+=3D"ltr"><div dir=3D"ltr"><div style=3D"color:rgb(82,82,82);font-size:11px"=
+><div style=3D"font-family:Times"><div style=3D"font-family:arial;color:rgb=
+(34,34,34);font-size:small">
+Regards,</div></div><div style=3D"font-family:arial;color:rgb(34,34,34);fon=
+t-size:small"><br></div><div style=3D"font-family:arial;color:rgb(34,34,34)=
+;font-size:small">Johnny</div><div style=3D"font-family:Times"><span style=
+=3D"color:rgb(10,10,10);font-weight:bold"><br>
+</span></div><div style=3D"font-family:Times"><span style=3D"color:rgb(10,1=
+0,10);font-weight:bold"><br></span></div><div><font face=3D"tahoma, sans-se=
+rif"><span style=3D"color:rgb(10,10,10)">JOHNNY PATTERSON</span>=C2=A0/=C2=
+=A0SENIOR TECHNICAL LEAD</font></div>
+<div style=3D"margin-top:5px"><font face=3D"tahoma, sans-serif"><span style=
+=3D"color:rgb(40,190,193);font-size:10px">E.=C2=A0</span><a href=3D"mailto:=
+johnny@getsensibill.com" style=3D"color:rgb(17,85,204)" target=3D"_blank">j=
+ohnny@getsensibill.com</a>=C2=A0/=C2=A0<span style=3D"color:rgb(40,190,193)=
+;font-size:10px">C.=C2=A0</span><a value=3D"+14162012407" style=3D"color:rg=
+b(17,85,204)">416.436.9104</a></font></div>
+<div style=3D"margin-top:15px"><font face=3D"tahoma, sans-serif"><img src=
+=3D"https://www.filepicker.io/api/file/uzPXhpSpeRsg8fZD07tg/convert?w=3D150=
+&amp;h=3D55&amp;fit=3Dclip" style=3D"width:100px;vertical-align:middle">=C2=
+=A010 Dundas St. E., 6th Floor / Toronto, ON, M5B 2G9</font></div>
+</div></div></div></div></div><p><font style=3D"font-size:9px">____________=
+___________________________________________________________</font></p><p><f=
+ont style=3D"font-size:9px">This email may be privileged and/or confidentia=
+l, and the sender does not waive any related rights and obligations. Any di=
+stribution, use or copying of this email or the information it contains by =
+other than an intended recipient is unauthorized. If you received this emai=
+l in error, please advise the sender (by return email or otherwise) immedia=
+tely. You have consented to receive the attached electronically at the abov=
+e-noted email address; please retain a copy of this confirmation for future=
+ reference.</font></p>
+<p><font style=3D"font-size:9px">Ce courriel est confidentiel et prot=C3=A9=
+g=C3=A9. L&#39;exp=C3=A9diteur ne renonce pas aux droits et obligations qui=
+ s&#39;y rapportent. Toute diffusion, utilisation ou copie de ce courriel o=
+u des renseignements qu&#39;il contient par une personne autre que le (les)=
+ destinataire(s) d=C3=A9sign=C3=A9(s) est interdite. Si vous recevez ce cou=
+rriel par erreur, veuillez en aviser l&#39;exp=C3=A9diteur imm=C3=A9diateme=
+nt, par retour de courriel ou par un autre moyen. Vous avez accept=C3=A9 de=
+ recevoir le(s) document(s) ci-joint(s) par voie =C3=A9lectronique =C3=A0 l=
+&#39;adresse courriel indiqu=C3=A9e ci-dessus; veuillez conserver une copie=
+ de cette confirmation pour les fins de reference future.</font></p>
+</div></div>
+<br><br><div class=3D"gmail_quote">---------- Forwarded message ----------<=
+br>From: <b class=3D"gmail_sendername">Jamie Alexander</b> <span dir=3D"ltr=
+">&lt;<a href=3D"mailto:jamie@moonrider.com">jamie@moonrider.com</a>&gt;</s=
+pan><br>
+Date: Thu, Jul 10, 2014 at 6:44 PM<br>Subject: Fwd: Fw: Babesta Online: You=
+r order #369 has been processed<br>To: Johnny Patterson &lt;<a href=3D"mail=
+to:johnny@getsensibill.com">johnny@getsensibill.com</a>&gt;<br><br><br><div=
+ dir=3D"ltr">
+this email failed as it is from Yahoo.<div><br clear=3D"all"><div><div styl=
+e=3D"float:left;text-align:center">
+	<p style=3D"text-align:left"><br>
+		</p><p style=3D"text-align:left"><span style=3D"font-family:arial,sans-se=
+rif;font-size:small"><br></span></p><p style=3D"text-align:left"><span styl=
+e=3D"font-family:arial,sans-serif;font-size:small"><br></span></p><p style=
+=3D"text-align:left">
+
+<span style=3D"font-family:arial,sans-serif;font-size:small"><br></span></p=
+><p style=3D"text-align:left"><span style=3D"font-family:arial,sans-serif;f=
+ont-size:small"><br></span></p></div><font face=3D"tahoma, sans-serif" styl=
+e=3D"font-size:13px"><span style=3D"font-family:arial"><span style=3D"font-=
+family:arial,sans-serif;border-collapse:collapse">Jamie Alexander<br>
+
+Founder &amp; CTO |=C2=A0<a href=3D"http://www.moonrider.com/" target=3D"_b=
+lank">Moonrider</a></span></span></font><br><span style=3D"font-family:aria=
+l,sans-serif">M: <a href=3D"tel:416-201-2407" value=3D"+14162012407" target=
+=3D"_blank">416-201-2407</a></span><div>
+<span style=3D"font-family:arial,sans-serif"><br>
+</span></div><div><span style=3D"font-family:arial,sans-serif"><br></span><=
+/div></div>
+<br><br><div class=3D"gmail_quote">---------- Forwarded message ----------<=
+br>From: <b class=3D"gmail_sendername">Angela Alexander</b> <span dir=3D"lt=
+r">&lt;<a href=3D"mailto:angela.alexander@rogers.com" target=3D"_blank">ang=
+ela.alexander@rogers.com</a>&gt;</span><br>
+
+Date: Tue, Dec 3, 2013 at 10:40 AM<br>Subject: Fw: Babesta Online: Your ord=
+er #369 has been processed<br>To: Jamie Alexander &lt;<a href=3D"mailto:jam=
+ie@moonrider.com" target=3D"_blank">jamie@moonrider.com</a>&gt;<br><br><br>
+<div><div style=3D"color:#000;background-color:#fff;font-family:HelveticaNe=
+ue,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif;font-size:8pt">
+<div><span></span></div><div style=3D"display:block"> <br> <br> <div style=
+=3D"font-family:HelveticaNeue,Helvetica Neue,Helvetica,Arial,Lucida Grande,=
+sans-serif;font-size:8pt"> <div style=3D"font-family:HelveticaNeue,Helvetic=
+a Neue,Helvetica,Arial,Lucida Grande,sans-serif;font-size:12pt">
+
+ <div dir=3D"ltr"> <font face=3D"Arial"> On Saturday, January 1, 2011 4:18:=
+11 PM, &quot;<a href=3D"mailto:online@babesta.com" target=3D"_blank">online=
+@babesta.com</a>&quot; &lt;<a href=3D"mailto:online@babesta.com" target=3D"=
+_blank">online@babesta.com</a>&gt; wrote:<br>
+
+ </font> </div>  <div><div>
+
+
+
+
+<div>
+<br><font>
+You have received this notification from <a rel=3D"nofollow" href=3D"http:/=
+/www.babesta.com/" target=3D"_blank">Babesta Online</a> because you are a r=
+egistered user or you or some other registered user requested some informat=
+ion for you from our store.
+</font>
+<br>Dear  Angela Alexander,
+<br>Thank you for your order.
+Please come back soon!
+<br><b>Invoice:</b>
+<br> =20
+  <br>
+<table style=3D"width:600px;background-color:#ffffff" cellpadding=3D"0" cel=
+lspacing=3D"0">
+  <tbody><tr>
+    <td>
+      <table style=3D"width:100%;border:none" cellpadding=3D"0" cellspacing=
+=3D"0">
+        <tbody><tr>
+          <td style=3D"vertical-align:top;padding-top:30px">
+            <img src=3D"cid:1.1325249326@web125502.mail.ne1.yahoo.com" alt=
+=3D"">
+          </td>
+          <td style=3D"width:100%;padding-left:30px">
+            <table cellpadding=3D"2" cellspacing=3D"0" width=3D"100%">
+              <tbody><tr>
+                <td valign=3D"top">
+                  <b>Invoice</b>
+                  <br>
+                  <br>
+                  <b>Date:</b> 01-01-2011 21:18:05<br>
+                  <b>Order id:</b> #369<br>
+                  <b>Order status:</b>=20
+Processed
+<br>
+                  <b>Payment method:</b><br>
+                  Credit Card<br>
+                  <b>Delivery method:</b><br>
+                  USPS First-Class Mail
+                </td>
+                <td align=3D"right" valign=3D"bottom">
+                  <b>Babesta Online</b><br>
+                  56 Warren Street, New York<br>
+                  10007, New York<br>
+                  United States<br>
+                                      CALL US: <a href=3D"tel:%28877%29%202=
+66-0420" value=3D"+18772660420" target=3D"_blank">(877) 266-0420</a><br>
+                                                        International: <a h=
+ref=3D"tel:%28212%29%20863-9919" value=3D"+12128639919" target=3D"_blank">(=
+212) 863-9919</a><br>
+                                                        Fax: <a href=3D"tel=
+:%28212%29%20504-8107" value=3D"+12125048107" target=3D"_blank">(212) 504-8=
+107</a><br>
+                                                        Email: <a href=3D"m=
+ailto:online@babesta.com" target=3D"_blank">online@babesta.com</a><br>
+                                                    </td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+      </tbody></table>
+      <hr style=3D"border:0px none;border-bottom:2px solid #58595b;margin:2=
+px 0px 17px 0px;padding:0px;min-height:0px">
+      <table style=3D"width:45%;border:0px none;margin-bottom:15px" cellpad=
+ding=3D"0" cellspacing=3D"0">
+                  <tbody><tr>
+            <td><b>Title:</b></td>
+            <td></td>
+          </tr>
+       =20
+                  <tr>
+            <td nowrap><b>First name:</b></td>
+            <td>Angela</td>
+          </tr>
+       =20
+                  <tr>
+            <td><b>Last name:</b></td>
+            <td>Alexander</td>
+          </tr>
+       =20
+                  <tr>
+            <td><b>Company:</b></td>
+            <td></td>
+          </tr>
+       =20
+       =20
+                  <tr>
+            <td><b>Phone:</b></td>
+            <td><a href=3D"tel:9022797743" value=3D"+19022797743" target=3D=
+"_blank">9022797743</a></td>
+          </tr>
+       =20
+                  <tr>
+            <td><b>Fax:</b></td>
+            <td></td>
+          </tr>
+       =20
+                  <tr>
+            <td><b>Email:</b></td>
+            <td><a href=3D"mailto:angela.alexander@rogers.com" target=3D"_b=
+lank">angela.alexander@rogers.com</a></td>
+          </tr>
+       =20
+       =20
+                <tr><td colspan=3D"2">=C2=A0</td></tr>
+      </tbody></table>
+    	<table style=3D"width:100%;border:0px none;margin-bottom:30px" cellpad=
+ding=3D"0" cellspacing=3D"0">
+      	<tbody><tr>
+      		<td style=3D"width:45%;height:25px"><b>Billing address</b></td>
+          <td width=3D"10%">=C2=A0</td>
+          <td style=3D"width:45%;height:25px"><b>Shipping address</b></td>
+      	</tr>
+      	<tr>
+      		<td height=3D"4"><img src=3D"cid:2.1325249326@web125502.mail.ne1.ya=
+hoo.com" style=3D"min-height:2px;width:100%;background:#58595b none" alt=3D=
+""></td>
+          <td><img src=3D"cid:2.1325249326@web125502.mail.ne1.yahoo.com" al=
+t=3D"" height=3D"2" width=3D"1"></td>
+          <td height=3D"4"><img src=3D"cid:2.1325249326@web125502.mail.ne1.=
+yahoo.com" style=3D"min-height:2px;width:100%;background:#58595b none" alt=
+=3D""></td>
+        </tr>
+        <tr>
+          <td>
+            <table style=3D"width:100%;border:none" cellpadding=3D"0" cells=
+pacing=3D"0">
+             =20
+                              <tbody><tr>
+                  <td><b>First name:</b> </td>
+                  <td>Angela</td>
+                </tr>
+             =20
+                              <tr>
+                  <td><b>Last name:</b> </td>
+                  <td>Alexander</td>
+                </tr>
+             =20
+                              <tr>
+                  <td><b>Address:</b> </td>
+                  <td>9 Highmount Ave <br></td>
+                </tr>
+             =20
+                              <tr>
+                  <td><b>City:</b> </td>
+                  <td>Warren</td>
+                </tr>
+             =20
+             =20
+                              <tr>
+                  <td><b>State:</b> </td>
+                  <td>New Jersey</td>
+                </tr>
+             =20
+                              <tr>
+                  <td><b>Country:</b> </td>
+                  <td>United States</td>
+                </tr>
+             =20
+                              <tr>
+                  <td><b>Zip/Postal code:</b> </td>
+                  <td>07059</td>
+                </tr>
+             =20
+             =20
+            </tbody></table>
+          </td>
+           <td>=C2=A0</td>
+           <td>
+            <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%">
+             =20
+                              <tbody><tr>
+                  <td><b>First name:</b> </td>
+                  <td>Ed</td>
+                </tr>
+             =20
+                              <tr>
+                  <td><b>Last name:</b> </td>
+                  <td>Au</td>
+                </tr>
+             =20
+                              <tr>
+                  <td><b>Address:</b> </td>
+                  <td>9 Highmount Ave<br></td>
+                </tr>
+             =20
+                              <tr>
+                  <td><b>City:</b> </td>
+                  <td>Warren</td>
+                </tr>
+             =20
+             =20
+                              <tr>
+                  <td><b>State:</b> </td>
+                  <td>New Jersey</td>
+                </tr>
+             =20
+                              <tr>
+                  <td><b>Country:</b> </td>
+                  <td>United States</td>
+                </tr>
+             =20
+                              <tr>
+                  <td><b>Zip/Postal code:</b> </td>
+                  <td>07059</td>
+                </tr>
+             =20
+             =20
+            </tbody></table>
+          </td>
+        </tr>
+               =20
+       =20
+       =20
+       =20
+      </tbody></table>
+      <div style=3D"font-size:14px;font-weight:bold;text-align:center">Prod=
+ucts ordered</div>
+<table border=3D"1" cellpadding=3D"3" cellspacing=3D"0" width=3D"100%">
+  <tbody><tr>
+    <th bgcolor=3D"#cccccc" width=3D"60">SKU</th>
+    <th bgcolor=3D"#cccccc">Product</th>
+          <th bgcolor=3D"#cccccc" nowrap width=3D"100">
+                  Tax
+              </th>
+        <th align=3D"center" bgcolor=3D"#cccccc" nowrap width=3D"100">Item =
+price</th>
+    <th bgcolor=3D"#cccccc" width=3D"60">Quantity</th>
+    <th bgcolor=3D"#cccccc" width=3D"60">Total</th>
+  </tr>
+ =20
+    <tr>
+      <td align=3D"center">4154</td>
+      <td>
+        <span style=3D"font-size:11px">Rasta Headphone Snaptee</span>
+                                                    <table cellpadding=3D"0=
+" cellspacing=3D"0">
+            <tbody><tr>
+              <td valign=3D"top"><b>Options:</b></td>=20
+              <td>
+               =20
+<table cellspacing=3D"0">
+  <tbody><tr>
+    <td>Size:</td>
+    <td>6-12 months</td>
+  </tr>
+</tbody></table>
+              </td>
+            </tr>
+          </tbody></table>
+                      </td>
+              <td align=3D"center">
+                  </td>
+            <td align=3D"right" nowrap><span>$26.00</span>=C2=A0=C2=A0</td>
+      <td align=3D"center">1</td>
+      <td style=3D"padding-right:5px" align=3D"right" nowrap>
+       =20
+        <span>$26.00</span>      </td>
+    </tr>
+ =20
+    <tr>
+      <td align=3D"center">6409</td>
+      <td>
+        <span style=3D"font-size:11px">Baby Brothers Rock Snaptee/Tee</span=
+>
+                                                    <table cellpadding=3D"0=
+" cellspacing=3D"0">
+            <tbody><tr>
+              <td valign=3D"top"><b>Options:</b></td>=20
+              <td>
+               =20
+<table cellspacing=3D"0">
+  <tbody><tr>
+    <td>Size:</td>
+    <td>6-12 months (snaptee)</td>
+  </tr>
+  <tr>
+    <td>Color:</td>
+    <td>Dark Gray</td>
+  </tr>
+</tbody></table>
+              </td>
+            </tr>
+          </tbody></table>
+                      </td>
+              <td align=3D"center">
+                  </td>
+            <td align=3D"right" nowrap><span>$20.00</span>=C2=A0=C2=A0</td>
+      <td align=3D"center">1</td>
+      <td style=3D"padding-right:5px" align=3D"right" nowrap>
+       =20
+        <span>$20.00</span>      </td>
+    </tr>
+ =20
+ =20
+</tbody></table>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+  <tbody><tr>
+    <td style=3D"padding-right:3px;height:20px;width:100%;text-align:right"=
+><b>Subtotal:</b></td>
+    <td style=3D"white-space:nowrap;padding-right:5px;height:20px;text-alig=
+n:right"><span>$46.00</span></td>
+  </tr>
+ =20
+ =20
+ =20
+      <tr>
+      <td style=3D"padding-right:3px;height:20px;width:100%;text-align:righ=
+t"><b>Shipping cost:</b></td>
+      <td style=3D"white-space:nowrap;padding-right:5px;height:20px;text-al=
+ign:right"><span>$5.41</span></td>
+    </tr>
+ =20
+ =20
+ =20
+ =20
+ =20
+ =20
+  <tr>
+    <td colspan=3D"2" height=3D"4"><img src=3D"cid:2.1325249326@web125502.m=
+ail.ne1.yahoo.com" style=3D"min-height:2px;width:100%;background:#58595b no=
+ne" alt=3D""></td>
+  </tr>
+  <tr>
+    <td style=3D"padding-right:3px;height:25px;background:#cccccc none;widt=
+h:100%;text-align:right"><b>Total:</b></td>
+    <td style=3D"white-space:nowrap;padding-right:5px;height:25px;backgroun=
+d:#cccccc none;text-align:right"><b><span>$51.41</span></b></td>
+  </tr>
+ =20
+   =20
+ =20
+</tbody></table>
+    </td>
+  </tr>
+ =20
+ =20
+ =20
+    <tr>
+      <td colspan=3D"3" style=3D"padding-top:30px">
+        <div style=3D"font-size:14px;font-weight:bold;text-align:center">Cu=
+stomer notes</div>
+        <div style=3D"border:1px solid #cecfce;padding:5px"><br>
+</div>
+      </td>
+    </tr>
+ =20
+  <tr>
+    <td style=3D"text-align:center;padding-top:30px;font-size:12px">
+      Thank you for your purchase!
+    </td>
+  </tr>
+</tbody></table>
+<hr noshade size=3D"1">
+Thank you for using
+our shopping system
+<div><font>
+Babesta Online<br>Phone: <a href=3D"tel:%28877%29%20266-0420" value=3D"+187=
+72660420" target=3D"_blank">(877) 266-0420</a><br>Fax:   <a href=3D"tel:%28=
+212%29%20504-8107" value=3D"+12125048107" target=3D"_blank">(212) 504-8107<=
+/a><br>
+
+URL: <a rel=3D"nofollow" href=3D"http://www.babesta.com/" target=3D"_blank"=
+>Babesta.com</a>
+</font></div></div>
+
+</div><br><br></div>  </div> </div>  </div> </div></div></div><br></div></d=
+iv>
+</div><br></div>
+
+--001a11c31a128bf02f04fdf1a04a--
+--001a11c31a128bf03304fdf1a04b
+Content-Type: image/gif; name="spacer.gif"
+Content-Disposition: inline; filename="spacer.gif"
+Content-Transfer-Encoding: base64
+Content-ID: <2.1325249326@web125502.mail.ne1.yahoo.com>
+X-Attachment-Id: 30e970f4a770abb3_0.1.2
+
+R0lGODlhAQABAPAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==
+--001a11c31a128bf03304fdf1a04b
+Content-Type: image/gif; name="companyname_small.gif"
+Content-Disposition: inline; filename="companyname_small.gif"
+Content-Transfer-Encoding: base64
+Content-ID: <1.1325249326@web125502.mail.ne1.yahoo.com>
+X-Attachment-Id: 30e970f4a770abb3_0.1.1
+
+R0lGODdhnwAzAP8AAP7+/pWVletkG/FjG5mZluhlI0tLSktLRFJKRpucmvJjIvv79FZFOEtDO+p0
+LfT7+0VFQ0RCO+aDSud1N0tMUUVJQ9ljJNtiHEpFQ0hQSkRBNORsMfP09OddGUtKPFNRRuqTVvzI
+lKR6Y0VKSsmkiPF3LOaIVsPDwndZReSMYsWcguR5RGRMRGpSO0tDNdzb20pFSVQ9NbS2tGdJNtqG
+VuyDOtiWdbWFaOaWZ9ibWdp2OIZoVVY7LPT0+Pn2+Zd3W0o9PcplHYZcRYh3ZEhRUfejaMukeYxy
+W3djVFVUU+mkaPr19ff16rmagtWLY+iWcz1BPGlhSnZjS9lqNUM9O/WMWmJhXEVKO8qHZf7Smevs
+6pJmSdCki5KTjPP59LmYeOHj5T09OsiIXOJTDdqVZ/aZZpl3Y7h8aEI9M4ZlRtddJdCegmZVRvyX
+WFpXWJmVk3ZONfapdciZdvuRTrt6Te25dtyCSdVzK9ijd/a0eaVuV0s9NURGSPB5RIhdOsdwPUlP
+M7uBVdd9UPeKSaZyTPvFhvSogvZfI8eqkOWygKiHdp+BdEs8Kn17eva3k/7wzsrLzu35+NTT1M3K
+xKKlo6OjnqKpqeReIcCNcM2TaWRlY5ZsWXJLL6l5WqeFaT9CL6uQcHBmYM/TzLO0rz1FQlNRP8G+
+v73Evr5SCeLf4O32+mZaWf7q0cnR0XVVOuHh3Kipq9d7SLmRa1taVMxlJHl0deqndEtCLXt7dWtq
+af/Qo6qqpmNoY7h8VWhmZkw3FtFME8lPBc9fH81YJb1bIkU0MTw9NUsvHt5cGqeopqqno5+rrf7i
+x8XDvPW2i4mJi4+Tj56ko+zCkerp5+Xo5+Tm6PDu8+Xv6tvX1NDOzd3d1+Df3NzX3FdbVVlVU1Zb
+WW9yaVpjXvV7Os1rN0Y/QJB2T6NrR4KBfnF5fYZ5gIuChYKFgruOcF1qanF5c3p3eYB/dwAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACwAAAAAnwAzAAAI/wABCBxI
+sCCABUsIamtWiUCAZwHeKJv0guACgxgzatzIsaPHjyBDfrwoUFWraI18JTHAEgJLA0k04aoEiYPA
+HgB8iNzJs6fPnx0f4AQAZlk7A2GowBjBEsOBl3wgRECDwBesagJtAt3KtatXgQ+8AEjVxVuEKx4Q
+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
+--001a11c31a128bf03304fdf1a04b--

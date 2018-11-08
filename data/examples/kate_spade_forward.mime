@@ -1,0 +1,2041 @@
+X-Mailgun-Incoming: Yes
+X-Envelope-From: <james@getsensibill.com>
+Received: from mail-lf0-f45.google.com (mail-lf0-f45.google.com [209.85.215.45])
+ by mxa.mailgun.org with ESMTP id 57f66472.7f4b0c5f78b0-in03;
+ Thu, 06 Oct 2016 14:49:22 -0000 (UTC)
+Received: by mail-lf0-f45.google.com with SMTP id b81so18838868lfe.1
+        for <james@testing.sensibill.io>; Thu, 06 Oct 2016 07:49:21 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=getsensibill-com.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to;
+        bh=e3XBetjlE+hxpWcLXsnNiW31q6map9Wff88WnXI5GIA=;
+        b=u5ATjjPCahREJca4n7s6+eqc4gD6bSF8eU0AkvCu5LsrDwj4nruCNi3ytv0B2nzkPu
+         67D45Lcmh+vqyLnsQ5P1u/WAZLc6Z42gLtXvuv2360Qj7MPf+YXfgTh0BJ7qhXUBY4KK
+         CD49rdZn24kWDmtkYb9RIUNwanmt72XwbdQACUBRlv8jLGXt2ozPz+LjOkA0x7w+xdL4
+         93Ngaw1zXI6nUeN8OjlMh4bEF3yFsgmwBxTe3qc3GICZ/V/1eFcZJ3/S90K/UzhD7COJ
+         cKJbLzOwA+D1DskxMOEzkDyZ85QD8ap4ulKsY/VqtdesQlwDVYXaCUW3J0uCwCLthJgG
+         9HJA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to;
+        bh=e3XBetjlE+hxpWcLXsnNiW31q6map9Wff88WnXI5GIA=;
+        b=hprLCQBICIQTIc/HFnAf6VuSzJINblkQ0+TPO5JnoYw/+WpjtgjIsGqj1UZ+CXaanN
+         218s2AwWF1iWgeM0/lI+xmGXxGPACgF9Psu86YR3cu7VU/GnlV0i0WWwOtywE60bX4H6
+         mUw+U/kUto8GFz7bab7kyayqI9devmtzGop40gBDkUNlhwsj3S5US+ud2Xc02E/t5NBv
+         ABuVYFcxI477n+N3ifhjaXdCTtuQNzDwobPhcn99hztMs5rv2xJebuh7cND33ROnR4JI
+         5KBpAmF4l1PW/BaxX9BSeJDpYp5l3Ke0G1AIM3MPmhBhWg7IkCbC3BpQn74JhNmDYxjp
+         hjPw==
+X-Gm-Message-State: AA6/9RnDZc+sHYjMh5RO/QjI1RLQedbTUYU7YuUkTud6E00m8rUlUX2NNvwG908L/b4DP9QCzP6aGkx5jm/5mA==
+X-Received: by 10.46.69.215 with SMTP id s206mr1896197lja.44.1475765359752;
+ Thu, 06 Oct 2016 07:49:19 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.25.159.131 with HTTP; Thu, 6 Oct 2016 07:49:18 -0700 (PDT)
+In-Reply-To: <d8376f53-c1e6-486a-9224-f39ad60a4108@xtinmta468.xt.local>
+References: <d8376f53-c1e6-486a-9224-f39ad60a4108@xtinmta468.xt.local>
+From: James Hogg <james@getsensibill.com>
+Date: Thu, 6 Oct 2016 10:49:18 -0400
+Message-ID: <CAEonkTyUPTeWBRJuFdz+GAOatQTEXgOXVFETM+O1cypMui8qLA@mail.gmail.com>
+Subject: Fwd: thank you for your order - kate spade new york - order # 05170882
+To: james@testing.sensibill.io
+Content-Type: multipart/alternative; boundary=001a114b16280a499f053e3366b1
+
+--001a114b16280a499f053e3366b1
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+---------- Forwarded message ----------
+From: katespade.com orders <orders@em.katespade.com>
+Date: Wed, Feb 10, 2016 at 10:16 AM
+Subject: thank you for your order - kate spade new york - order # 05170882
+To: james@getsensibill.com
+
+
+thank you for shopping at katespade.com. view your order status
+<http://click.em.katespade.com/?qs=3Dc7c7dad1d4fcf2ba8aee876c1e61ce7bbb96d9=
+b55a7845176bbbe5e64e0f66b98ef70ea6ddbdd08e>.
+please call us anytime at 866-999-5283.
+view this email in a web browser
+<http://click.em.katespade.com/?qs=3D60c7684d86e5cefc603f96e71e360faafffb0d=
+769cd9eac7b698dc3153b2dbaa0234700a4ddea76d>.
+
+[image: Katespade]
+<http://click.em.katespade.com/?qs=3D30e669f4a97b72f1463d3d55cf9ff9c2c87fcd=
+35d6e4daf8b51d791252cb1620e342682ede8fedfe>
+
+we've received your order and will start working on it now.
+once your package is on its way, we'll send you an email with shipping
+details.
+Order Placed On: 02/10/2016
+Order Number: 05170882
+Order Summary
+Shipping Address
+James Hogg
+36 Blue Jays way
+apartment 729
+Toronto, ON M5V 3T3
+Canada
+6472786404
+Billing Address
+James Hogg
+15310 Keele Street
+King City, ON l7b1a3
+Canada
+6472786404
+Payment Method
+James Hogg
+Visa
+************5308
+Amount: $56.60
+Track your Katespade.com order through my account
+<http://surprise.katespade.com/on/demandware.store/Sites-KateSale-Site/en_U=
+S/Account-Show>.
+
+Item Description Status Quantity Price Subtotal
+[image: 142]
+metropolitan pearls studs
+Size: ONE SIZE
+color: cream
+Style #: O0RU0973
+this item is final sale =E2=80=93 no returns or exchanges are accepted
+[image: Kate Spade NEW YORK]
+<http://www.katespade.com/on/demandware.store/Sites-Shop-Site/en_US/Home-Sh=
+ow>
+In Stock 1 $19.00
+$19.00
+[image: 711]
+lucky elephant studs
+Size: ONE SIZE
+color: gold
+Style #: O0RU1153
+this item is final sale =E2=80=93 no returns or exchanges are accepted
+[image: Kate Spade NEW YORK]
+<http://www.katespade.com/on/demandware.store/Sites-Shop-Site/en_US/Home-Sh=
+ow>
+In Stock 1 $19.00
+$19.00
+
+Questions? We're around 24 hours, 7 days a week.
+Just give us a call at 866-999-5283 or send us an email at
+customer_care@Katespade.com
+<customer_care@Katespade.com?Subject=3DKatespade%20Help>.
+Subtotal: $38.00
+Shipping: $10.00
+Tax and Duties/VAT: $8.60
+
+Total $56.60
+<http://click.em.katespade.com/?qs=3Da892f32ad67e2c2bcd19f2717178f5aa70d6c0=
+17ff6c623bf01791b398f3b9837f3202856c17d0a9>
+
+view our privacy policy
+<http://click.em.katespade.com/?qs=3Da7b852c2c314f9c23d5bd243e438f1577c9241=
+18cfd3ade7c26aa9b8bbdd2ccd4ba36a2e8bd94ed0>
+and terms and conditions
+<http://click.em.katespade.com/?qs=3Dece0bbd51f76ad9e91d902ce47eb4bdc209c05=
+210641aae7e119eed2def9be97b2e6e9efc88e7c24>
+here.
+to find answers to your questions or contact us, visit
+our customer care
+<http://click.em.katespade.com/?qs=3Dbec5db9a3f60d0677897afe453eb8cf692498f=
+be84e2e2ba837b1746a47f72e5ef358eabb8ac00ea>
+section or write us at:
+Kate Spade New York
+attn: web customer service
+2 Park Avenue
+New York, New York 10016
+USA
+please visit us again soon at www.katespade.com
+<http://click.em.katespade.com/?qs=3D85653a7e806548fecd46c1cbc92e3370754168=
+dae22d8805ffedb24354aa7687563b5e38288b7169>.
+
+--001a114b16280a499f053e3366b1
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><br><div class=3D"gmail_quote">---------- Forwarded messag=
+e ----------<br>From: <b class=3D"gmail_sendername"><a href=3D"http://kates=
+pade.com">katespade.com</a> orders</b> <span dir=3D"ltr">&lt;<a href=3D"mai=
+lto:orders@em.katespade.com">orders@em.katespade.com</a>&gt;</span><br>Date=
+: Wed, Feb 10, 2016 at 10:16 AM<br>Subject: thank you for your order - kate=
+ spade new york - order # 05170882<br>To: <a href=3D"mailto:james@getsensib=
+ill.com">james@getsensibill.com</a><br><br><br><div bgcolor=3D"#FFFFFF" sty=
+le=3D"background-color:#ffffff;margin:0;padding:0">
+<center>
+<table width=3D"686" border=3D"0" align=3D"center" cellpadding=3D"0" cellsp=
+acing=3D"0">
+  <tbody><tr>
+    <td><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"10=
+0%" bgcolor=3D""><tbody><tr><td><table width=3D"100%" bgcolor=3D"" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td style=3D"font-fam=
+ily:Arial;font-size:13px"><table width=3D"100%" bgcolor=3D"#FFFFFF" cellpad=
+ding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"border-collapse:collapse=
+;background-color:rgb(255,255,255)">
+<tbody><tr>
+<td align=3D"center">
+<table style=3D"width:640px;border:0px;font-size:11px;font-family:Arial,Hel=
+vetica,sans-serif">
+<tbody><tr>
+<td style=3D"padding:10px 0px;color:rgb(0,0,0);font-family:Arial,Helvetica,=
+sans-serif;font-size:8px;letter-spacing:1px;line-height:12px;text-align:cen=
+ter">
+<p>
+thank you for shopping at <a href=3D"http://katespade.com" target=3D"_blank=
+">katespade.com</a>. <a href=3D"http://click.em.katespade.com/?qs=3Dc7c7dad=
+1d4fcf2ba8aee876c1e61ce7bbb96d9b55a7845176bbbe5e64e0f66b98ef70ea6ddbdd08e" =
+style=3D"color:rgb(88,163,54);text-decoration:underline" target=3D"_blank">=
+view your order status</a>. please call us anytime at <a href=3D"tel:866-99=
+9-5283" value=3D"+18669995283" target=3D"_blank">866-999-5283</a>.<br>
+view this email in a <a href=3D"http://click.em.katespade.com/?qs=3D60c7684=
+d86e5cefc603f96e71e360faafffb0d769cd9eac7b698dc3153b2dbaa0234700a4ddea76d" =
+style=3D"color:rgb(88,163,54);text-decoration:underline" target=3D"_blank">=
+web browser</a>.
+</p>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table></td></tr></tbody></table></td></tr></tbody></table></td>
+  </tr>
+  <tr>
+    <td><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"10=
+0%" bgcolor=3D""><tbody><tr><td><table width=3D"100%" bgcolor=3D"" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td style=3D"font-fam=
+ily:Arial;font-size:13px"><table width=3D"100%" bgcolor=3D"#FFFFFF" cellpad=
+ding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"background-color:rgb(255=
+,255,255)">
+	<tbody>
+		<tr>
+			<td align=3D"center" valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"backgro=
+und-color:rgb(255,255,255)">
+			<table width=3D"624" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" st=
+yle=3D"border-collapse:collapse;width:624px;font-size:11px;font-family:Aria=
+l,Helvetica,sans-serif">
+				<tbody>
+					<tr>
+						<td width=3D"1" height=3D"5" style=3D"width:1px;height:5px;font-size:=
+0pt;line-height:0pt;margin:0px;padding:0px">
+						<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d14/m/=
+1/empty.gif" width=3D"1" height=3D"5" style=3D"width:1px;min-height:5px" al=
+t=3D"">
+						</td>
+					</tr>
+					<tr>
+						<td align=3D"center" style=3D"text-align:center">
+						<a href=3D"http://click.em.katespade.com/?qs=3D30e669f4a97b72f1463d3d=
+55cf9ff9c2c87fcd35d6e4daf8b51d791252cb1620e342682ede8fedfe" title=3D"Kate S=
+pade NY" style=3D"display:block;border:none" target=3D"_blank">
+						<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d14/m/=
+1/katespade-logo-condensed.png" width=3D"123" height=3D"60" border=3D"0" st=
+yle=3D"width:123px;min-height:60px;border:none" alt=3D"Katespade">
+						</a>
+						</td>
+					</tr>
+					<tr>
+						<td width=3D"1" height=3D"10" style=3D"width:1px;height:10px;font-siz=
+e:0pt;line-height:0pt;margin:0px;padding:0px">
+						<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d14/m/=
+1/empty.gif" width=3D"1" height=3D"10" style=3D"width:1px;min-height:10px" =
+alt=3D"">
+						</td>
+					</tr>
+					<tr>
+						<td width=3D"1" height=3D"5" style=3D"width:1px;height:5px;font-size:=
+0pt;line-height:0pt;margin:0px;padding:0px">
+						<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d14/m/=
+1/empty.gif" width=3D"1" height=3D"5" style=3D"width:1px;min-height:5px" al=
+t=3D"">
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table></td></tr></tbody></table></td></tr></tbody></table></td>
+  </tr>
+  <tr>
+    <td><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"10=
+0%" bgcolor=3D""><tbody><tr><td><table width=3D"100%" bgcolor=3D"" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td style=3D"font-fam=
+ily:Arial;font-size:13px"><table width=3D"100%" border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0" bgcolor=3D"#ffffff">
+	<tbody>
+		<tr>
+			<td width=3D"1" height=3D"5" style=3D"width:1px;height:5px">
+			<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d14/m/1/e=
+mpty.gif" width=3D"1" height=3D"5" style=3D"width:1px;min-height:5px" alt=
+=3D"">
+			</td>
+		</tr>
+		<tr>
+			<td align=3D"center" valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"backgro=
+und-color:rgb(255,255,255);text-align:center">
+			<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" s=
+tyle=3D"border-collapse:collapse;width:100%;font-size:11px;font-family:Aria=
+l,Helvetica,sans-serif">
+				<tbody>
+					<tr>
+						<td style=3D"font-size:0pt;line-height:0pt">
+						<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d14/m/=
+1/katespade-order-confirmation-header-large.png" width=3D"686" height=3D"17=
+5" style=3D"width:686px;min-height:175px" alt=3D"">
+						</td>
+					</tr>
+					<tr>
+						<td width=3D"610" bgcolor=3D"#ed0080" style=3D"width:610px;background=
+-color:rgb(237,0,128);border-collapse:collapse">
+						<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+" bgcolor=3D"#ed0080" style=3D"background-color:rgb(237,0,128);border-colla=
+pse:collapse">
+							<tbody>
+								<tr>
+									<td width=3D"60" height=3D"1" style=3D"width:60px;height:1px;font-=
+size:0pt;line-height:0pt">
+									<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d14=
+/m/1/empty.gif" width=3D"60" height=3D"1" style=3D"width:60px;min-height:1p=
+x" alt=3D"">
+									</td>
+									<td valign=3D"top" style=3D"color:rgb(255,255,255);text-align:cent=
+er">
+									<div style=3D"font-family:&#39;Times New Roman&#39;,serif;font-siz=
+e:14px;line-height:18px;letter-spacing:1px">
+									we&#39;ve received your order and will start working on it now.<br=
+>
+									once your package is on its way, we&#39;ll send you an email with =
+shipping details.
+									</div>
+									<div width=3D"1" height=3D"25" style=3D"width:1px;min-height:25px;=
+font-size:0pt;line-height:0pt">
+									<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d14=
+/m/1/empty.gif" width=3D"1" height=3D"25" style=3D"width:1px;min-height:25p=
+x" alt=3D"">
+									</div>
+									<div style=3D"text-transform:uppercase;font-family:Arial,Helvetica=
+,sans-serif;font-size:10px;font-weight:bold;line-height:14px;letter-spacing=
+:1px">
+									Order Placed On: 02/10/2016<br>
+									Order Number: 05170882
+									</div>
+									</td>
+									<td width=3D"60" height=3D"1" style=3D"width:60px;height:1px;font-=
+size:0pt;line-height:0pt">
+									<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d14=
+/m/1/empty.gif" width=3D"60" height=3D"1" style=3D"width:60px;min-height:1p=
+x" alt=3D"">
+									</td>
+								</tr>
+								<tr>
+									<td width=3D"1" height=3D"20" style=3D"width:1px;height:20px;font-=
+size:0pt;line-height:0pt">
+									<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d14=
+/m/1/empty.gif" width=3D"1" height=3D"20" style=3D"width:1px;min-height:20p=
+x" alt=3D"">
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td width=3D"686" height=3D"20" style=3D"width:686px;height:20px;font=
+-size:0pt;line-height:0pt">
+						<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d14/m/=
+1/katespade-order-confirmation-header-large-bottom.png" width=3D"686" heigh=
+t=3D"20" style=3D"width:686px;min-height:20px" alt=3D"">
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+		<tr>
+			<td width=3D"1" height=3D"5" style=3D"width:1px;height:5px">
+			<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d14/m/1/e=
+mpty.gif" width=3D"1" height=3D"5" style=3D"width:1px;min-height:5px" alt=
+=3D"">
+			</td>
+		</tr>
+	</tbody>
+</table></td></tr></tbody></table></td></tr></tbody></table></td>
+  </tr>
+  <tr>
+    <td></td>
+  </tr>
+  <tr>
+    <td><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"10=
+0%" bgcolor=3D""><tbody><tr><td><table width=3D"100%" bgcolor=3D"" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td style=3D"font-fam=
+ily:Arial;font-size:13px">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=09
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=09
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=09
+=09
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=09
+
+
+
+
+
+
+
+
+
+
+
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" bgco=
+lor=3D"#ffffff">
+	<tbody><tr>
+		<td align=3D"center" valign=3D"top">
+			<table width=3D"686" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" bg=
+color=3D"#ffffff">
+				<tbody><tr>
+					<td>
+						<div style=3D"font-size:0pt;line-height:0pt;min-height:15px">
+							<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d14/m=
+/1/empty.gif" width=3D"1" height=3D"15" style=3D"min-height:15px" alt=3D"">
+						</div>
+
+						<div style=3D"color:#000000;font-family:Arial;font-size:10px;line-hei=
+ght:14px;text-align:center;font-weight:bold;text-transform:uppercase;letter=
+-spacing:1px">
+						=09
+								Order Summary
+						=09
+						</div>
+					=09
+						<div style=3D"font-size:0pt;line-height:0pt;min-height:15px">
+							<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d14/m=
+/1/empty.gif" width=3D"1" height=3D"15" style=3D"min-height:15px" alt=3D"">
+						</div>
+
+						<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+">
+							<tbody><tr>
+							=09
+								<td valign=3D"top" bgcolor=3D"#f2f1ed" width=3D"218" style=3D"color=
+:#444444;font-family:Arial;font-size:11px;line-height:16px;text-align:cente=
+r">
+									<div style=3D"font-size:0pt;line-height:0pt;min-height:25px">
+										<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d1=
+4/m/1/empty.gif" width=3D"1" height=3D"25" style=3D"min-height:25px" alt=3D=
+"">
+									</div>
+
+									<div style=3D"color:#000000;font-family:Arial;font-size:9px;line-h=
+eight:13px;text-align:center;font-weight:bold;text-transform:uppercase;lett=
+er-spacing:1px">
+										Shipping Address
+									</div>
+								=09
+									<div style=3D"font-size:0pt;line-height:0pt;min-height:15px">
+										<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d1=
+4/m/1/empty.gif" width=3D"1" height=3D"15" style=3D"min-height:15px" alt=3D=
+"">
+									</div>
+								=09
+								=09
+								=09
+									=09
+										=09
+									=09
+									=09
+									=09
+
+
+
+
+
+<div>
+	James
+	Hogg
+</div>
+
+
+<div>
+	36 Blue Jays way
+=09
+		<br>apartment 729
+=09
+
+=09
+		<br>Toronto,
+=09
+
+=09
+		ON
+=09
+=09
+=09
+		M5V 3T3<br>
+=09
+=09
+=09
+		Canada
+=09
+=09
+=09
+		<br> <a href=3D"tel:6472786404" value=3D"+16472786404" target=3D"_blank">=
+6472786404</a>
+=09
+</div>
+								=09
+								=09
+									<div style=3D"font-size:0pt;line-height:0pt;min-height:20px">
+										<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d1=
+4/m/1/empty.gif" width=3D"1" height=3D"20" style=3D"min-height:20px" alt=3D=
+"">
+									</div>
+								</td>
+							=09
+							=09
+								<td style=3D"font-size:0pt;line-height:0pt;text-align:left" width=
+=3D"16">
+									<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d14=
+/m/1/empty.gif" width=3D"16" height=3D"1" style=3D"min-height:1px;width:16p=
+x" alt=3D"">
+								</td>
+							=09
+							=09
+								<td valign=3D"top" bgcolor=3D"#f2f1ed" width=3D"218" style=3D"color=
+:#444444;font-family:Arial;font-size:11px;line-height:16px;text-align:cente=
+r">
+									<div style=3D"font-size:0pt;line-height:0pt;min-height:25px">
+										<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d1=
+4/m/1/empty.gif" width=3D"1" height=3D"25" style=3D"min-height:25px" alt=3D=
+"">
+									</div>
+
+									<div style=3D"color:#000000;font-family:Arial;font-size:9px;line-h=
+eight:13px;text-align:center;font-weight:bold;text-transform:uppercase;lett=
+er-spacing:1px">
+										Billing Address
+									</div>
+								=09
+									<div style=3D"font-size:0pt;line-height:0pt;min-height:15px">
+										<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d1=
+4/m/1/empty.gif" width=3D"1" height=3D"15" style=3D"min-height:15px" alt=3D=
+"">
+									</div>
+
+								=09
+
+
+
+
+
+<div>
+	James
+	Hogg
+</div>
+
+
+<div>
+	15310 Keele Street
+=09
+
+=09
+		<br>King City,
+=09
+
+=09
+		ON
+=09
+=09
+=09
+		l7b1a3<br>
+=09
+=09
+=09
+		Canada
+=09
+=09
+=09
+		<br> <a href=3D"tel:6472786404" value=3D"+16472786404" target=3D"_blank">=
+6472786404</a>
+=09
+</div>
+								=09
+									<div style=3D"font-size:0pt;line-height:0pt;min-height:20px">
+										<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d1=
+4/m/1/empty.gif" width=3D"1" height=3D"20" style=3D"min-height:20px" alt=3D=
+"">
+									</div>
+								</td>
+							=09
+								<td style=3D"font-size:0pt;line-height:0pt;text-align:left" width=
+=3D"16">
+									<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d14=
+/m/1/empty.gif" width=3D"16" height=3D"1" style=3D"min-height:1px;width:16p=
+x" alt=3D"">
+								</td>
+							=09
+							=09
+							=09
+								=09
+									=09
+
+<td valign=3D"top" bgcolor=3D"#f2f1ed" width=3D"218" style=3D"color:#444444=
+;font-family:Arial;font-size:11px;line-height:16px;text-align:center">
+	<div style=3D"font-size:0pt;line-height:0pt;min-height:25px">
+		<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d14/m/1/em=
+pty.gif" width=3D"1" height=3D"25" style=3D"min-height:25px" alt=3D"">
+	</div>
+
+	<div style=3D"color:#000000;font-family:Arial;font-size:9px;line-height:13=
+px;text-align:center;font-weight:bold;text-transform:uppercase">
+	=09
+			Payment Method
+	=09
+	</div>
+	=09
+	<div style=3D"font-size:0pt;line-height:0pt;min-height:15px">
+		<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d14/m/1/em=
+pty.gif" width=3D"1" height=3D"15" style=3D"min-height:15px" alt=3D"">
+	</div>
+=09
+=09
+=09
+		<div>
+		=09
+			=09
+
+
+<span>James Hogg</span><br>
+Visa<br>
+************5308<br>
+
+
+		=09
+			Amount:
+		=09
+				$56.60
+		=09
+		=09
+		</div>
+	=09
+		<div style=3D"font-size:0pt;line-height:0pt;min-height:15px">
+			<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d14/m/1/e=
+mpty.gif" width=3D"1" height=3D"15" style=3D"min-height:15px" alt=3D"">
+		</div>
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+
+=09
+=09
+=09
+=09
+	<div style=3D"font-size:0pt;line-height:0pt;min-height:20px">
+		<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d14/m/1/em=
+pty.gif" width=3D"1" height=3D"20" style=3D"min-height:20px" alt=3D"">
+	</div>
+</td>
+								=09
+							=09
+							=09
+						</tr>
+						</tbody></table>
+					=09
+					=09
+					=09
+							<div style=3D"font-size:0pt;line-height:0pt;min-height:20px">
+								<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d14/=
+m/1/empty.gif" width=3D"1" height=3D"20" style=3D"min-height:20px" alt=3D""=
+>
+							</div>
+						=09
+							<div style=3D"color:#444444;font-family:Arial;font-size:10px;line-he=
+ight:14px;text-align:center;letter-spacing:1px">
+								Track your Katespade.com order through=20
+							=09
+							=09
+								<a href=3D"http://surprise.katespade.com/on/demandware.store/Sites-=
+KateSale-Site/en_US/Account-Show" title=3D"Kate Spade" target=3D"_blank">
+									my account</a>.
+							</div>
+					=09
+					=09
+						<div style=3D"font-size:0pt;line-height:0pt;min-height:25px">
+							<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d14/m=
+/1/empty.gif" width=3D"1" height=3D"25" style=3D"min-height:25px" alt=3D"">
+						</div>
+					</td>
+				</tr>
+			=09
+			=09
+			=09
+			=09
+			=09
+			=09
+			=09
+			=09
+			=09
+				=09
+				=09
+					=09
+					=09
+						=09
+						=09
+						=09
+						=09
+						=09
+							<tr>
+								<td>
+									<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+										<tbody><tr>
+											<td width=3D"10" style=3D"width:10px;line-height:13px;text-align=
+:left;border-bottom:1px solid #0f0f0f;padding-bottom:5px">
+												<div style=3D"width:10px;min-height:1px;font-size:0pt;line-heig=
+ht:0pt">
+													<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c=
+7d14/m/1/empty.gif" width=3D"10" height=3D"1" style=3D"width:10px;line-heig=
+ht:13px" alt=3D"">
+												</div>
+											</td>
+											<td width=3D"145" style=3D"width:145px;color:#000000;font-size:9=
+px;font-family:Arial;line-height:13px;text-align:left;font-weight:bold;text=
+-transform:uppercase;border-bottom:1px solid #0f0f0f;padding-bottom:5px;let=
+ter-spacing:1px">
+												Item
+											</td>
+											<td width=3D"164" style=3D"width:164px;color:#000000;font-size:9=
+px;font-family:Arial;line-height:13px;text-align:left;font-weight:bold;text=
+-transform:uppercase;border-bottom:1px solid #0f0f0f;padding-bottom:5px;let=
+ter-spacing:1px">
+												Description
+											</td>
+											<td width=3D"108" style=3D"width:108px;color:#000000;font-size:9=
+px;font-family:Arial;line-height:13px;text-align:center;font-weight:bold;te=
+xt-transform:uppercase;border-bottom:1px solid #0f0f0f;padding-bottom:5px;l=
+etter-spacing:1px">
+											=09
+													Status
+											=09
+											</td>
+											<td width=3D"86" style=3D"width:86px;color:#000000;font-size:9px=
+;font-family:Arial;line-height:13px;text-align:center;font-weight:bold;text=
+-transform:uppercase;border-bottom:1px solid #0f0f0f;padding-bottom:5px;let=
+ter-spacing:1px">
+												Quantity
+											</td>
+											<td width=3D"87" style=3D"width:87px;color:#000000;font-size:9px=
+;font-family:Arial;line-height:13px;text-align:center;font-weight:bold;text=
+-transform:uppercase;border-bottom:1px solid #0f0f0f;padding-bottom:5px;let=
+ter-spacing:1px">
+												Price
+											</td>
+											<td width=3D"72" style=3D"width:72;color:#000000;font-size:9px;f=
+ont-family:Arial;line-height:13px;text-align:right;font-weight:bold;text-tr=
+ansform:uppercase;border-bottom:1px solid #0f0f0f;padding-bottom:5px;letter=
+-spacing:1px">
+												Subtotal
+											</td>
+											<td width=3D"10" style=3D"width:10px;line-height:13px;text-align=
+:left;border-bottom:1px solid #0f0f0f;padding-bottom:5px">
+												<div style=3D"width:10px;min-height:1px;font-size:0pt;line-heig=
+ht:0pt">
+													<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c=
+7d14/m/1/empty.gif" width=3D"10" height=3D"1" style=3D"width:10px;line-heig=
+ht:13px" alt=3D"">
+												</div>
+											</td>
+										</tr>
+									</tbody></table>
+								</td>
+							</tr>
+						=09
+						=09
+							<tr>
+								<td>
+								=09
+									=09
+										=09
+										=09
+										=09
+										=09
+										=09
+										=09
+										=09
+										=09
+										=09
+										=09
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+	<tbody><tr>
+	=09
+		<td valign=3D"top" width=3D"155" style=3D"width:155px;font-size:0;line-he=
+ight:0;text-align:left;padding-top:20px;padding-bottom:20px">
+	=09
+		=09
+			=09
+
+
+
+
+
+
+
+
+
+=09
+
+
+
+
+
+
+ =20
+
+
+
+
+
+
+
+
+=09
+=09
+		=09
+=09
+  =09
+  =09
+ =09
+=09
+
+
+
+
+
+=09
+
+<img src=3D"http://s7d4.scene7.com/is/image/KateSpade/O0RU0973_142?$emailLi=
+neItem$" alt=3D"142" title=3D"metropolitan pearls studs, cream" width=3D"14=
+5" style=3D"width:145px">
+		=09
+		</td>
+	=09
+	=09
+		<td valign=3D"top" width=3D"175" style=3D"width:175px;color:#444444;font-=
+size:10px;font-family:Arial;line-height:14px;text-align:left;text-transform=
+:uppercase;padding-top:20px;padding-bottom:20px;padding-left:1px">
+		=09
+		=09
+				<div style=3D"color:#000000;font-family:Arial;font-size:10px;line-heigh=
+t:14px;text-align:left;font-weight:bold;text-transform:uppercase">
+					metropolitan pearls studs
+				</div>
+			=09
+					<div style=3D"font-size:0pt;line-height:0pt;min-height:15px">
+						<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d14/m/=
+1/empty.gif" width=3D"1" height=3D"15" style=3D"min-height:15px" alt=3D"">
+					</div>
+				=09
+				=09
+				=09
+					=09
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=09
+		=09
+=09
+=09
+=09
+	=09
+		=09
+			<div style=3D"text-transform:uppercase">
+			=09
+					<span>Size:</span>
+			=09
+				<span>
+				=09
+						ONE SIZE
+				=09
+				</span>
+			</div>
+	=09
+		=09
+			<div style=3D"text-transform:uppercase">
+			=09
+					<span>color:</span>
+			=09
+				<span>
+				=09
+						cream
+				=09
+				</span>
+			</div>
+	=09
+	=09
+=09
+=09
+=09
+=09
+=09
+
+				=09
+			=09
+				<div style=3D"text-transform:uppercase">
+					=09
+							<span>Style #: </span>
+							<span>O0RU0973</span>
+					=09
+				</div>
+
+			=09
+				<div style=3D"font-size:0pt;line-height:0pt;min-height:15px">
+					<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d14/m/1=
+/empty.gif" width=3D"1" height=3D"15" style=3D"min-height:15px" alt=3D"">
+				</div>
+			=09
+			=09
+			=09
+				=09
+				=09
+				=09
+				=09
+				=09
+				=09
+						<div style=3D"color:#ff0000;font-family:Arial;font-size:10px;line-hei=
+ght:14px;text-align:left;font-weight:normal;text-transform:uppercase">
+							this item is final sale =E2=80=93 no returns or exchanges are accept=
+ed
+						</div>
+					=09
+						<div style=3D"font-size:0pt;line-height:0pt;min-height:15px">
+							<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d14/m=
+/1/empty.gif" width=3D"1" height=3D"15" style=3D"min-height:15px" alt=3D"">
+						</div>
+				=09
+			=09
+			=09
+				=09
+					<div style=3D"font-size:0pt;line-height:0pt;min-height:15px">
+								<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d14/=
+m/1/empty.gif" width=3D"1" height=3D"15" style=3D"min-height:15px" alt=3D""=
+>
+					</div>
+				=09
+				=09
+					<div style=3D"font-size:0pt;line-height:0pt;min-height:15px">
+						<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d14/m/=
+1/empty.gif" width=3D"1" height=3D"15" style=3D"min-height:15px" alt=3D"">
+					</div>
+			=09
+			=09
+				=09
+					=09
+					=09
+					=09
+					=09
+				=09
+				=09
+					<div style=3D"font-size:0pt;line-height:0pt;text-align:left">
+						<a href=3D"http://www.katespade.com/on/demandware.store/Sites-Shop-Si=
+te/en_US/Home-Show" title=3D"Kate Spade NEW YORK" target=3D"_blank">
+							<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d14/m=
+/1/transactional-mini-ks.jpg" alt=3D"Kate Spade NEW YORK" border=3D"0">
+						</a>
+					</div>
+				=09
+					<div style=3D"font-size:0pt;line-height:0pt;min-height:15px">
+						<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d14/m/=
+1/empty.gif" width=3D"1" height=3D"15" style=3D"min-height:15px" alt=3D"">
+					</div>
+			=09
+			=09
+			=09
+			=09
+		=09
+		</td>
+	=09
+	=09
+	=09
+			<td valign=3D"top" width=3D"108" style=3D"width:108px;color:#444444;font=
+-size:10px;font-family:Arial;line-height:14px;text-align:center;padding-top=
+:20px;padding-bottom:20px;padding-left:2px">
+		 =20
+		=09
+			=09
+			=09
+			=09
+			=09
+			=09
+			=09
+			=09
+			=09
+		=09
+			=09
+				=09
+					=09
+							In Stock
+					=09
+				=09
+				=09
+				=09
+				=09
+				=09
+				=09
+				=09
+			=09
+		=09
+		</td>
+	=09
+	=09
+		<td valign=3D"top" width=3D"86" style=3D"width:86px;color:#444444;font-si=
+ze:10px;font-family:Arial;line-height:14px;text-align:center;text-transform=
+:uppercase;padding-top:20px;padding-bottom:20px">
+		=09
+				1
+		=09
+		</td>
+	=09
+	=09
+		<td valign=3D"top" width=3D"87" style=3D"width:87px;color:#444444;font-si=
+ze:10px;font-family:Arial;line-height:14px;text-align:center;text-transform=
+:uppercase;padding-top:20px;padding-bottom:20px;padding-left:2px">
+		=09
+			=09
+					$19.00
+			=09
+		=09
+		</td>
+	=09
+	=09
+		<td valign=3D"top" style=3D"color:#444444;font-size:10px;font-family:Aria=
+l;line-height:14px;text-align:center;text-transform:uppercase;padding-top:2=
+0px;padding-bottom:20px">
+		=09
+				=20
+				<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+					<tbody><tr>
+						<td style=3D"font-family:Arial;color:#444444;font-size:10px;line-heig=
+ht:14px;text-transform:uppercase;width:87px;text-align:center">$19.00</td>
+					</tr>
+				=09
+				=09
+				</tbody></table>
+		=09
+		</td>
+	=09
+		<td width=3D"10" style=3D"width:10px;line-height:13px;text-align:left;pad=
+ding-bottom:5px">
+			<div style=3D"width:10px;min-height:1px;font-size:0pt;line-height:0pt">
+				<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d14/m/1/=
+empty.gif" width=3D"10" height=3D"1" style=3D"width:10px;line-height:13px" =
+alt=3D"">
+			</div>
+		</td>
+	</tr>
+=09
+</tbody></table>
+
+
+
+	<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+		<tbody><tr>
+					=09
+			<td width=3D"100%">
+				<div height=3D"1" bgcolor=3D"#E7E7E7" style=3D"font-size:1pt;line-heigh=
+t:1pt;min-height:1px;background-color:#e7e7e7">
+					<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d14/m/1=
+/empty.gif" height=3D"1" style=3D"min-height:1px" alt=3D"">
+				</div>
+			</td>
+		</tr>
+	</tbody></table>
+
+
+										=09
+										=09
+										=09
+										=09
+									=09
+								=09
+									=09
+										=09
+										=09
+										=09
+										=09
+										=09
+										=09
+										=09
+										=09
+											=09
+												=09
+											=09
+										=09
+										=09
+										=09
+										=09
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+	<tbody><tr>
+	=09
+		<td valign=3D"top" width=3D"155" style=3D"width:155px;font-size:0;line-he=
+ight:0;text-align:left;padding-top:20px;padding-bottom:20px">
+	=09
+		=09
+			=09
+
+
+
+
+
+
+
+
+
+=09
+
+
+
+
+
+
+ =20
+
+
+
+
+
+
+
+
+=09
+=09
+		=09
+=09
+  =09
+  =09
+ =09
+=09
+
+
+
+
+
+=09
+
+<img src=3D"http://s7d4.scene7.com/is/image/KateSpade/O0RU1153_711?$emailLi=
+neItem$" alt=3D"711" title=3D"lucky elephant studs, gold" width=3D"145" sty=
+le=3D"width:145px">
+		=09
+		</td>
+	=09
+	=09
+		<td valign=3D"top" width=3D"175" style=3D"width:175px;color:#444444;font-=
+size:10px;font-family:Arial;line-height:14px;text-align:left;text-transform=
+:uppercase;padding-top:20px;padding-bottom:20px;padding-left:1px">
+		=09
+		=09
+				<div style=3D"color:#000000;font-family:Arial;font-size:10px;line-heigh=
+t:14px;text-align:left;font-weight:bold;text-transform:uppercase">
+					lucky elephant studs
+				</div>
+			=09
+					<div style=3D"font-size:0pt;line-height:0pt;min-height:15px">
+						<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d14/m/=
+1/empty.gif" width=3D"1" height=3D"15" style=3D"min-height:15px" alt=3D"">
+					</div>
+				=09
+				=09
+				=09
+					=09
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=09
+		=09
+=09
+=09
+=09
+	=09
+		=09
+			<div style=3D"text-transform:uppercase">
+			=09
+					<span>Size:</span>
+			=09
+				<span>
+				=09
+						ONE SIZE
+				=09
+				</span>
+			</div>
+	=09
+		=09
+			<div style=3D"text-transform:uppercase">
+			=09
+					<span>color:</span>
+			=09
+				<span>
+				=09
+						gold
+				=09
+				</span>
+			</div>
+	=09
+	=09
+=09
+=09
+=09
+=09
+=09
+
+				=09
+			=09
+				<div style=3D"text-transform:uppercase">
+					=09
+							<span>Style #: </span>
+							<span>O0RU1153</span>
+					=09
+				</div>
+
+			=09
+				<div style=3D"font-size:0pt;line-height:0pt;min-height:15px">
+					<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d14/m/1=
+/empty.gif" width=3D"1" height=3D"15" style=3D"min-height:15px" alt=3D"">
+				</div>
+			=09
+			=09
+			=09
+				=09
+				=09
+				=09
+				=09
+				=09
+				=09
+						<div style=3D"color:#ff0000;font-family:Arial;font-size:10px;line-hei=
+ght:14px;text-align:left;font-weight:normal;text-transform:uppercase">
+							this item is final sale =E2=80=93 no returns or exchanges are accept=
+ed
+						</div>
+					=09
+						<div style=3D"font-size:0pt;line-height:0pt;min-height:15px">
+							<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d14/m=
+/1/empty.gif" width=3D"1" height=3D"15" style=3D"min-height:15px" alt=3D"">
+						</div>
+				=09
+			=09
+			=09
+				=09
+					<div style=3D"font-size:0pt;line-height:0pt;min-height:15px">
+								<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d14/=
+m/1/empty.gif" width=3D"1" height=3D"15" style=3D"min-height:15px" alt=3D""=
+>
+					</div>
+				=09
+				=09
+					<div style=3D"font-size:0pt;line-height:0pt;min-height:15px">
+						<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d14/m/=
+1/empty.gif" width=3D"1" height=3D"15" style=3D"min-height:15px" alt=3D"">
+					</div>
+			=09
+			=09
+				=09
+					=09
+					=09
+					=09
+					=09
+				=09
+				=09
+					<div style=3D"font-size:0pt;line-height:0pt;text-align:left">
+						<a href=3D"http://www.katespade.com/on/demandware.store/Sites-Shop-Si=
+te/en_US/Home-Show" title=3D"Kate Spade NEW YORK" target=3D"_blank">
+							<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d14/m=
+/1/transactional-mini-ks.jpg" alt=3D"Kate Spade NEW YORK" border=3D"0">
+						</a>
+					</div>
+				=09
+					<div style=3D"font-size:0pt;line-height:0pt;min-height:15px">
+						<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d14/m/=
+1/empty.gif" width=3D"1" height=3D"15" style=3D"min-height:15px" alt=3D"">
+					</div>
+			=09
+			=09
+			=09
+			=09
+		=09
+		</td>
+	=09
+	=09
+	=09
+			<td valign=3D"top" width=3D"108" style=3D"width:108px;color:#444444;font=
+-size:10px;font-family:Arial;line-height:14px;text-align:center;padding-top=
+:20px;padding-bottom:20px;padding-left:2px">
+		 =20
+		=09
+			=09
+			=09
+			=09
+			=09
+			=09
+			=09
+			=09
+			=09
+		=09
+			=09
+				=09
+					=09
+							In Stock
+					=09
+				=09
+				=09
+				=09
+				=09
+				=09
+				=09
+				=09
+			=09
+		=09
+		</td>
+	=09
+	=09
+		<td valign=3D"top" width=3D"86" style=3D"width:86px;color:#444444;font-si=
+ze:10px;font-family:Arial;line-height:14px;text-align:center;text-transform=
+:uppercase;padding-top:20px;padding-bottom:20px">
+		=09
+				1
+		=09
+		</td>
+	=09
+	=09
+		<td valign=3D"top" width=3D"87" style=3D"width:87px;color:#444444;font-si=
+ze:10px;font-family:Arial;line-height:14px;text-align:center;text-transform=
+:uppercase;padding-top:20px;padding-bottom:20px;padding-left:2px">
+		=09
+			=09
+					$19.00
+			=09
+		=09
+		</td>
+	=09
+	=09
+		<td valign=3D"top" style=3D"color:#444444;font-size:10px;font-family:Aria=
+l;line-height:14px;text-align:center;text-transform:uppercase;padding-top:2=
+0px;padding-bottom:20px">
+		=09
+				=20
+				<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+					<tbody><tr>
+						<td style=3D"font-family:Arial;color:#444444;font-size:10px;line-heig=
+ht:14px;text-transform:uppercase;width:87px;text-align:center">$19.00</td>
+					</tr>
+				=09
+				=09
+				</tbody></table>
+		=09
+		</td>
+	=09
+		<td width=3D"10" style=3D"width:10px;line-height:13px;text-align:left;pad=
+ding-bottom:5px">
+			<div style=3D"width:10px;min-height:1px;font-size:0pt;line-height:0pt">
+				<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d14/m/1/=
+empty.gif" width=3D"10" height=3D"1" style=3D"width:10px;line-height:13px" =
+alt=3D"">
+			</div>
+		</td>
+	</tr>
+=09
+</tbody></table>
+
+
+
+	<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+		<tbody><tr>
+					=09
+			<td width=3D"100%">
+				<div height=3D"1" bgcolor=3D"#E7E7E7" style=3D"font-size:1pt;line-heigh=
+t:1pt;min-height:1px;background-color:#e7e7e7">
+					<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d14/m/1=
+/empty.gif" height=3D"1" style=3D"min-height:1px" alt=3D"">
+				</div>
+			</td>
+		</tr>
+	</tbody></table>
+
+
+										=09
+										=09
+										=09
+										=09
+									=09
+								=09
+								</td>
+							</tr>
+					=09
+				=09
+			=09
+			=09
+			=09
+			=09
+					<tr>
+						<td>
+							<div style=3D"font-size:0pt;line-height:0pt;min-height:15px">
+								<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d14/=
+m/1/empty.gif" width=3D"1" height=3D"15" style=3D"min-height:15px" alt=3D""=
+>
+							</div>
+				=09
+						=09
+						=09
+						=09
+						=09
+							<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0">
+								<tbody><tr>
+								=09
+									<td width=3D"300" valign=3D"middle">
+										<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" bgcolor=3D"#fffcc8">
+											<tbody><tr>
+												<td>
+													<div style=3D"font-size:0pt;line-height:0pt;min-height:12px">
+														<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077=
+c7d14/m/1/empty.gif" width=3D"1" height=3D"12" style=3D"min-height:12px" al=
+t=3D"">
+													</div>
+												=09
+													<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0">
+														<tbody><tr>
+															<td style=3D"font-size:0pt;line-height:0pt;text-align:left" =
+width=3D"20">
+																<img src=3D"http://image.em.katespade.com/lib/fe6b157070660=
+77c7d14/m/1/empty.gif" width=3D"20" height=3D"1" style=3D"width:20px;min-he=
+ight:1px" alt=3D"">
+															</td>
+															<td style=3D"color:#444444;font-size:11px;font-family:Arial;=
+line-height:14px;text-align:left;letter-spacing:0px">
+															=09
+															=09
+
+
+
+
+
+
+
+=09
+	=09
+		<div>
+			<p>Questions? We&#39;re around 24 hours, 7 days a week. <br> Just give u=
+s a call at <a href=3D"tel:866-999-5283" value=3D"+18669995283" target=3D"_=
+blank">866-999-5283</a> or send us an email at <a href=3D"mailto:customer_c=
+are@Katespade.com?Subject=3DKatespade%20Help" style=3D"color:#010101;text-d=
+ecoration:underline" target=3D"_blank"><span style=3D"color:#010101;text-de=
+coration:underline">customer_care@Katespade.com</span></a>.</p>
+		</div>=20
+=09
+
+
+
+
+															</td>
+															<td style=3D"font-size:0pt;line-height:0pt;text-align:left" =
+width=3D"20">
+																<img src=3D"http://image.em.katespade.com/lib/fe6b157070660=
+77c7d14/m/1/empty.gif" width=3D"20" height=3D"1" style=3D"width:20px;min-he=
+ight:1px" alt=3D"">
+															</td>
+														</tr>
+													</tbody></table>
+													=09
+													<div style=3D"font-size:0pt;line-height:0pt;min-height:10px">
+														<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077=
+c7d14/m/1/empty.gif" width=3D"1" height=3D"10" style=3D"min-height:10px" al=
+t=3D"">
+													</div>
+												=09
+												</td>
+											</tr>
+										</tbody></table>
+									</td>
+								=09
+								=09
+									<td valign=3D"top" style=3D"color:#000000;font-size:10px;font-fami=
+ly:Arial;line-height:22px;text-align:right;text-transform:uppercase">
+									=09
+										=09
+
+
+
+
+
+
+
+
+
+
+
+
+
+=09
+	=09
+=09
+
+
+
+
+=09
+
+		<table align=3D"right">
+			<tbody>
+			=09
+			=09
+				=09
+			=09
+				=09
+			=09
+				=09
+			=09
+		=09
+			=09
+				<tr>
+					<td style=3D"padding-right:20px;text-align:right;font-size:10px;line-h=
+eight:17px;text-transform:uppercase;color:#000000;font-family:Arial;font-si=
+ze:10px;line-height:17px;text-align:right;letter-spacing:1px">Subtotal:</td=
+>
+					<td style=3D"text-align:right;font-size:10px;line-height:17px;text-tra=
+nsform:uppercase;color:#000000;font-family:Arial;font-size:10px;line-height=
+:17px;text-align:right;letter-spacing:1px">$38.00</td>
+				</tr>
+			=09
+			=09
+			=09
+		=09
+			=09
+			=09
+					<tr>
+						<td style=3D"padding-right:20px;text-align:right;font-size:10px;line-=
+height:17px;text-transform:uppercase;color:#000000;font-family:Arial;font-s=
+ize:10px;line-height:17px;text-align:right;letter-spacing:1px">
+							Shipping:
+						=09
+						=09
+						=09
+						</td>
+						<td style=3D"text-align:right;font-size:10px;line-height:17px;text-tr=
+ansform:uppercase;color:#000000;font-family:Arial;font-size:10px;line-heigh=
+t:17px;text-align:right;letter-spacing:1px">
+						=09
+								$10.00
+						=09
+						</td>
+					</tr>
+			=09
+			=09
+			=09
+			=09
+			=09
+	=09
+			=09
+			=09
+			=09
+
+			=09
+				<tr>
+					<td style=3D"padding-right:20px;text-align:right;font-size:10px;line-h=
+eight:17px;text-transform:uppercase;color:#000000;font-family:Arial;font-si=
+ze:10px;line-height:17px;text-align:right;letter-spacing:1px">
+						Tax and Duties/VAT:
+					</td>
+					<td style=3D"text-align:right;font-size:10px;line-height:17px;text-tra=
+nsform:uppercase;color:#000000;font-family:Arial;font-size:10px;line-height=
+:17px;text-align:right;letter-spacing:1px">
+					=09
+							$8.60
+					=09
+					</td>
+				</tr>
+			</tbody>
+		</table>
+=09
+=09
+=09
+=09
+=09
+
+
+
+									=09
+									</td>
+								=09
+									<td style=3D"font-size:0pt;line-height:0pt;text-align:left" width=
+=3D"7">
+										<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d1=
+4/m/1/empty.gif" width=3D"7" height=3D"1" style=3D"width:7px;min-height:1px=
+" alt=3D"">
+									</td>
+								</tr>
+							</tbody></table>
+						=09
+						=09
+							<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0">
+								<tbody><tr>
+									<td align=3D"right">
+										<div style=3D"font-size:0pt;line-height:0pt;min-height:12px">
+											<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d=
+14/m/1/empty.gif" width=3D"1" height=3D"12" style=3D"min-height:12px" alt=
+=3D"">
+										</div>
+									=09
+										<div style=3D"font-size:0pt;line-height:0pt;min-height:1px;backgr=
+ound:#000000">
+											<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d=
+14/m/1/empty.gif" width=3D"1" height=3D"1" style=3D"min-height:1px" alt=3D"=
+">
+										</div>
+									=09
+										<div style=3D"font-size:0pt;line-height:0pt;min-height:20px">
+											<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d=
+14/m/1/empty.gif" width=3D"1" height=3D"20" style=3D"min-height:20px" alt=
+=3D"">
+										</div>
+									=09
+									=09
+										=09
+
+
+
+
+
+
+
+
+
+
+
+
+
+=09
+	=09
+=09
+
+
+
+
+=09
+=09
+=09
+=09
+		<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+			<tbody><tr>
+				<td style=3D"color:#000000;font-size:12px;font-family:Arial;line-height=
+:16px;text-align:right;text-transform:uppercase;font-weight:bold;letter-spa=
+cing:1px">
+					Total
+				</td>
+				<td style=3D"font-size:0pt;line-height:0pt;text-align:left" width=3D"20=
+">
+					<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d14/m/1=
+/empty.gif" width=3D"20" height=3D"1" style=3D"min-height:20px;width:1px" a=
+lt=3D"">
+				</td>
+				<td style=3D"color:#000000;font-size:12px;font-family:Arial;line-height=
+:16px;text-align:right;text-transform:uppercase;font-weight:bold;letter-spa=
+cing:1px">
+				=09
+					=09
+				=09
+					$56.60
+				</td>
+				<td style=3D"font-size:0pt;line-height:0pt;text-align:left" width=3D"10=
+">
+					<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d14/m/1=
+/empty.gif" width=3D"10" height=3D"1" style=3D"width:10px;min-height:1px" a=
+lt=3D"">
+				</td>
+			</tr>
+		</tbody></table>
+=09
+=09
+
+
+
+									=09
+									=09
+										<div style=3D"font-size:0pt;line-height:0pt;min-height:20px">
+											<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d=
+14/m/1/empty.gif" width=3D"1" height=3D"20" style=3D"min-height:20px" alt=
+=3D"">
+										</div>
+									=09
+										<div style=3D"font-size:0pt;line-height:0pt;min-height:1px;backgr=
+ound:#000000">
+											<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d=
+14/m/1/empty.gif" width=3D"1" height=3D"1" style=3D"min-height:1px" alt=3D"=
+">
+										</div>
+									</td>
+								</tr>
+							</tbody></table>
+						</td>
+					</tr>
+			=09
+		=09
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table></td></tr></tbody></table></td></tr></tbody></table></td>
+  </tr>
+  <tr>
+    <td></td>
+  </tr>
+  <tr>
+    <td><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"10=
+0%" bgcolor=3D""><tbody><tr><td><table width=3D"100%" bgcolor=3D"" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td style=3D"font-fam=
+ily:Arial;font-size:13px"><table width=3D"100%" bgcolor=3D"#FFFFFF" cellpad=
+ding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"background-color:#ffffff=
+">
+	<tbody>
+		<tr>
+			<td width=3D"1" height=3D"30" style=3D"width:1px;height:30px;font-size:0=
+pt;line-height:0pt;margin:0px;padding:0px">
+			<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d14/m/1/e=
+mpty.gif" width=3D"1" height=3D"30" style=3D"width:1px;min-height:30px" alt=
+=3D"">
+			</td>
+		</tr>
+		<tr>
+			<td align=3D"center" width=3D"686" height=3D"145" style=3D"width:686px;h=
+eight:145px;font-size:0pt;line-height:0pt;margin:0px;padding:0px">
+			<a href=3D"http://click.em.katespade.com/?qs=3Da892f32ad67e2c2bcd19f2717=
+178f5aa70d6c017ff6c623bf01791b398f3b9837f3202856c17d0a9" target=3D"_blank">
+			<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d14/m/4/o=
+rderconfirm_banner.png" width=3D"686" height=3D"145" border=3D"0" style=3D"=
+width:686px;min-height:145px;border:none" alt=3D"">
+			</a>
+			</td>
+		</tr>
+		<tr>
+			<td width=3D"1" height=3D"10" style=3D"width:1px;height:10px;font-size:0=
+pt;line-height:0pt;margin:0px;padding:0px">
+			<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d14/m/1/e=
+mpty.gif" width=3D"1" height=3D"10" style=3D"width:1px;min-height:10px" alt=
+=3D"">
+			</td>
+		</tr>
+	</tbody>
+</table></td></tr></tbody></table></td></tr></tbody></table></td>
+  </tr>
+  <tr>
+    <td><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"10=
+0%" bgcolor=3D""><tbody><tr><td><table width=3D"100%" bgcolor=3D"" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td style=3D"font-fam=
+ily:Arial;font-size:13px"><table width=3D"100%" bgcolor=3D"#FFFFFF" cellpad=
+ding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"background-color:rgb(255=
+,255,255)">
+	<tbody>
+		<tr>
+			<td align=3D"center" valign=3D"top" bgcolor=3D"#FFFFFF" style=3D"backgro=
+und-color:rgb(255,255,255)">
+			<div style=3D"font-size:0pt;line-height:0pt;min-height:10px">
+			<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d14/m/1/e=
+mpty.gif" width=3D"1" height=3D"10" style=3D"min-height:10px" alt=3D"">
+			</div>
+			<div style=3D"color:rgb(28,21,21);font-family:Arial;font-size:9px;line-h=
+eight:13px;text-align:center">
+			view our <a href=3D"http://click.em.katespade.com/?qs=3Da7b852c2c314f9c2=
+3d5bd243e438f1577c924118cfd3ade7c26aa9b8bbdd2ccd4ba36a2e8bd94ed0" style=3D"=
+color:rgb(28,21,21);text-decoration:underline" target=3D"_blank"><span styl=
+e=3D"color:rgb(28,21,21);text-decoration:underline">privacy policy</span></=
+a> and <a href=3D"http://click.em.katespade.com/?qs=3Dece0bbd51f76ad9e91d90=
+2ce47eb4bdc209c05210641aae7e119eed2def9be97b2e6e9efc88e7c24" style=3D"color=
+:rgb(28,21,21);text-decoration:underline" target=3D"_blank"><span style=3D"=
+color:rgb(28,21,21);text-decoration:underline">terms and conditions</span><=
+/a> here.
+			<div style=3D"font-size:0pt;line-height:0pt;min-height:15px">
+			<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d14/m/1/e=
+mpty.gif" width=3D"1" height=3D"15" style=3D"min-height:15px" alt=3D"">
+			</div>
+			to find answers to your questions or contact us, visit <br>
+			our <a href=3D"http://click.em.katespade.com/?qs=3Dbec5db9a3f60d0677897a=
+fe453eb8cf692498fbe84e2e2ba837b1746a47f72e5ef358eabb8ac00ea" style=3D"color=
+:rgb(28,21,21);text-decoration:underline" target=3D"_blank"><span style=3D"=
+color:rgb(28,21,21);text-decoration:underline">customer care</span></a> sec=
+tion or write us at: <br>
+			Kate Spade New York<br>
+			attn: web customer service<br>
+			2 Park Avenue<br>
+			New York, New York 10016<br>
+			USA
+			<div style=3D"font-size:0pt;line-height:0pt;min-height:15px">
+			<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d14/m/1/e=
+mpty.gif" width=3D"1" height=3D"15" style=3D"min-height:15px" alt=3D"">
+			</div>
+			please visit us again soon at <a href=3D"http://click.em.katespade.com/?=
+qs=3D85653a7e806548fecd46c1cbc92e3370754168dae22d8805ffedb24354aa7687563b5e=
+38288b7169" style=3D"color:rgb(28,21,21);text-decoration:underline" target=
+=3D"_blank"><span style=3D"color:rgb(28,21,21);text-decoration:underline">w=
+ww.katespade.com</span></a>.
+			</div>
+			<div style=3D"font-size:0pt;line-height:0pt;min-height:20px">
+			<img src=3D"http://image.em.katespade.com/lib/fe6b15707066077c7d14/m/1/e=
+mpty.gif" width=3D"1" height=3D"20" style=3D"min-height:20px" alt=3D"">
+			</div>
+			</td>
+		</tr>
+	</tbody>
+</table></td></tr></tbody></table></td></tr></tbody></table></td>
+  </tr>
+  <tr>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+  </tr>
+</tbody></table>
+</center>
+<img src=3D"http://click.em.katespade.com/open.aspx?ffcb10-fe541c7476600675=
+7d12-fdc21571756403747d14787260-fe6b15707066077c7d14-fe9d15727065057b77-fdf=
+1157270620c7f70117673-fefa1177746602&amp;d=3D10053" width=3D"1" height=3D"1=
+">
+</div>
+</div><br></div>
+
+--001a114b16280a499f053e3366b1--
